@@ -2,13 +2,14 @@
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
         "1520895136": [
             "app.pho8.com",
-            "d1.windows8downloads.com"
-        ],
-        "to_test": [
+            "d1.windows8downloads.com",
+            "hackhero.tk",
             "img.xratedbucks.com",
             "mormonchurchgenealogy.com",
             "nikolamireasa.com",
-            "reg-cleaners.com",
+            "reg-cleaners.com"
+        ],
+        "to_test": [
             "www.animal-drawings.com",
             "www.animal36.com",
             "www.animaltoplist.com",
