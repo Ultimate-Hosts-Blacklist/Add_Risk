@@ -1,9 +1,10 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1520762998": [
-            "afa15.com.ne.kr",
-            "affiliate.gwmtracker.com",
-            "d1.windows8downloads.com",
+        "1520895136": [
+            "app.pho8.com",
+            "d1.windows8downloads.com"
+        ],
+        "to_test": [
             "img.xratedbucks.com",
             "mormonchurchgenealogy.com",
             "nikolamireasa.com",
@@ -23,8 +24,8 @@
             "www.vacationcellular.net",
             "www.zoodrawings.com",
             "www.zoosexart.com",
-            "www.zootoplist.com"
-        ],
-        "to_test": []
+            "www.zootoplist.com",
+            "affiliate.gwmtracker.com"
+        ]
     }
 }
