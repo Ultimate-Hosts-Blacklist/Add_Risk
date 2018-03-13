@@ -1,8 +1,10 @@
-# About [Add_Risk]
+# About Add_Risk
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/Add_Risk.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/Add_Risk)
 
-[Description]
+```
+Risk content sites based on http://www.hostsfile.org/hosts.html content.
+```
 
 --------------------------------------------------------------------------------
 
