@@ -1,7 +1,9 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1521107179": [
-            "d1.windows8downloads.com",
+        "1521366156": [
+            "d1.windows8downloads.com"
+        ],
+        "to_test": [
             "hackhero.tk",
             "img.xratedbucks.com",
             "m-barati.de",
@@ -15,9 +17,7 @@
             "www.scanspyware.net",
             "www.securetracking2.com",
             "www.securetrk1.com",
-            "www.vacationcellular.net"
-        ],
-        "to_test": [
+            "www.vacationcellular.net",
             "affiliate.gwmtracker.com"
         ]
     }
