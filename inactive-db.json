@@ -1,15 +1,15 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
         "1521366156": [
-            "d1.windows8downloads.com"
-        ],
-        "to_test": [
+            "d1.windows8downloads.com",
             "hackhero.tk",
             "img.xratedbucks.com",
             "m-barati.de",
             "mormonchurchgenealogy.com",
             "nikolamireasa.com",
-            "reg-cleaners.com",
+            "reg-cleaners.com"
+        ],
+        "to_test": [
             "www.butterfly-media.co.uk",
             "www.goolegames.com",
             "www.gwmtracker.com",
