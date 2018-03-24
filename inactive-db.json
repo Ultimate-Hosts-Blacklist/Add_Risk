@@ -1,9 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1521799557": [
+        "1521887055": [
             "brans.pl",
             "d1.windows8downloads.com",
-            "affiliate.gwmtracker.com",
             "desirevandoorne.nl",
             "hackhero.tk"
         ],
@@ -22,7 +21,8 @@
             "www.securetracking2.com",
             "www.securetrk1.com",
             "www.triplequadturbo.com",
-            "www.vacationcellular.net"
+            "www.vacationcellular.net",
+            "affiliate.gwmtracker.com"
         ]
     }
 }
