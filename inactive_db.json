@@ -1,13 +1,15 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1522282236": [
-            "affiliate.gwmtracker.com",
+        "1522420862": [
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
             "brans.pl",
             "c.pioneeringad.com",
+            "counter.top.dating.lt",
             "d1.windows8downloads.com",
-            "desirevandoorne.nl",
+            "desirevandoorne.nl"
+        ],
+        "to_test": [
             "hackhero.tk",
             "img.xratedbucks.com",
             "j.pioneeringad.com",
@@ -33,8 +35,8 @@
             "www.vacationcellular.net",
             "new.chokertraffic.com",
             "www.1001movies.com",
-            "www.plumsoftware.co.uk"
-        ],
-        "to_test": []
+            "www.plumsoftware.co.uk",
+            "affiliate.gwmtracker.com"
+        ]
     }
 }
