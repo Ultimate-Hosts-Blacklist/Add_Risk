@@ -1,13 +1,18 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1522420862": [
+        "1522689781": [
+            "affiliate.gwmtracker.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
             "brans.pl",
             "c.pioneeringad.com",
-            "counter.top.dating.lt",
+            "clicksimpact.cashtrk.com",
             "d1.windows8downloads.com",
+            "datattro.xyz",
             "desirevandoorne.nl",
+            "flashplayer_macro.kit.net"
+        ],
+        "to_test": [
             "hackhero.tk",
             "img.xratedbucks.com",
             "j.pioneeringad.com",
@@ -31,10 +36,8 @@
             "www.securetracking2.com",
             "www.securetrk1.com",
             "www.triplequadturbo.com",
-            "www.vacationcellular.net"
-        ],
-        "to_test": [
-            "affiliate.gwmtracker.com"
+            "www.vacationcellular.net",
+            "7979-69504_159.c.adprotect.net"
         ]
     }
 }
