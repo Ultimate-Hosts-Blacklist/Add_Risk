@@ -1,9 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1523440369": [
-            "6.mamaswishes.com",
-            "7979-69504_159.c.adprotect.net",
+        "1523745499": [
             "affiliate.gwmtracker.com",
+            "app.pho8.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
             "brans.pl",
@@ -12,7 +11,9 @@
             "d1.windows8downloads.com",
             "datattro.xyz",
             "desirevandoorne.nl",
-            "flashplayer_macro.kit.net",
+            "flashplayer_macro.kit.net"
+        ],
+        "to_test": [
             "hackhero.tk",
             "img.xratedbucks.com",
             "j.pioneeringad.com",
@@ -51,10 +52,8 @@
             "www.vacationcellular.net",
             "www.wallpapers91.com",
             "www.zoophil.com",
-            "xpath.syncrvprodist.com"
-        ],
-        "to_test": [
-            "6.bbnface.com"
+            "xpath.syncrvprodist.com",
+            "7979-69504_159.c.adprotect.net"
         ]
     }
 }
