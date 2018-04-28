@@ -1,18 +1,19 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1524563874": [
+        "1524909549": [
             "affiliate.gwmtracker.com",
             "app.pho8.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
-            "brans.pl",
             "c.pioneeringad.com",
             "clicksimpact.cashtrk.com",
             "d1.windows8downloads.com",
             "datattro.xyz",
             "desirevandoorne.nl",
             "fixio-pc-cleaner.com",
-            "flashplayer_macro.kit.net",
+            "flashplayer_macro.kit.net"
+        ],
+        "to_test": [
             "hackhero.tk",
             "img.xratedbucks.com",
             "j.pioneeringad.com",
@@ -47,9 +48,7 @@
             "www.tangabilder.to",
             "www.vacationcellular.net",
             "www.wallpapers91.com",
-            "xpath.syncrvprodist.com"
-        ],
-        "to_test": [
+            "xpath.syncrvprodist.com",
             "7979-69504_159.c.adprotect.net"
         ]
     }
