@@ -1,17 +1,25 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1524909549": [
+        "1525255304": [
             "affiliate.gwmtracker.com",
             "app.pho8.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
             "c.pioneeringad.com",
             "clicksimpact.cashtrk.com",
+            "compactiongames.gameaholic.com",
             "d1.windows8downloads.com",
             "datattro.xyz",
             "desirevandoorne.nl",
+            "dl.ezthemes.com",
+            "dl1.ezthemes.com",
+            "ezthemes.ezthemes.com",
             "fixio-pc-cleaner.com",
             "flashplayer_macro.kit.net",
+            "funskins.ezthemes.com",
+            "galtthemes.ezthemes.com"
+        ],
+        "to_test": [
             "hackhero.tk",
             "img.xratedbucks.com",
             "j.pioneeringad.com",
@@ -48,9 +56,7 @@
             "www.triplequadturbo.com",
             "www.vacationcellular.net",
             "www.wallpapers91.com",
-            "xpath.syncrvprodist.com"
-        ],
-        "to_test": [
+            "xpath.syncrvprodist.com",
             "7979-69504_159.c.adprotect.net"
         ]
     }
