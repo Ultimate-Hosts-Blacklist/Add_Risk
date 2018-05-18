@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1526465389": [
+        "1526630321": [
             "affiliate.gwmtracker.com",
             "altafista.com",
             "app.pho8.com",
@@ -13,7 +13,9 @@
             "dl.ezthemes.com",
             "dl1.ezthemes.com",
             "electra-jjh.com.br",
-            "ezthemes.ezthemes.com",
+            "ezthemes.ezthemes.com"
+        ],
+        "to_test": [
             "fixio-pc-cleaner.com",
             "flashplayer_macro.kit.net",
             "funskins.ezthemes.com",
@@ -63,9 +65,7 @@
             "www.xicaxique.com.br",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
-            "ycv.clearshieldredirect.com"
-        ],
-        "to_test": [
+            "ycv.clearshieldredirect.com",
             "7979-69504_159.c.adprotect.net"
         ]
     }
