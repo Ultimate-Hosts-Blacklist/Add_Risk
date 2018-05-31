@@ -1,36 +1,14 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1527588864": [
-            "affiliate.gwmtracker.com",
-            "altafista.com",
-            "banner.vegasred.com",
-            "bar.mytotalsearch.com",
-            "classicallyabsurdphotography.com",
-            "clicksimpact.cashtrk.com",
-            "d1.windows8downloads.com",
-            "datattro.xyz",
-            "desirevandoorne.nl",
-            "dl.ezthemes.com",
-            "dl1.ezthemes.com",
-            "electra-jjh.com.br",
-            "ezthemes.ezthemes.com",
-            "fixio-pc-cleaner.com",
-            "flashplayer_macro.kit.net",
-            "funskins.ezthemes.com",
-            "galtthemes.ezthemes.com",
-            "img.xratedbucks.com",
-            "mormonchurchgenealogy.com",
-            "nikolamireasa.com",
-            "reg-cleaners.com"
-        ],
-        "to_test": [
-            "registryregistrycleaner.triedtool.com",
+        "1527761647": [
             "registryregistrytool.triedtool.com",
             "server.toolbar.rediff.com",
             "serviceyourpaypal.com",
             "tangabilder.to",
             "themexp.ezthemes.com",
-            "topdesktop.ezthemes.com",
+            "topdesktop.ezthemes.com"
+        ],
+        "to_test": [
             "vacationcellular.net",
             "wallpapers91.com",
             "wateristian.com",
@@ -71,7 +49,29 @@
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "ycv.clearshieldredirect.com",
-            "7979-69504_159.c.adprotect.net"
+            "7979-69504_159.c.adprotect.net",
+            "affiliate.gwmtracker.com",
+            "altafista.com",
+            "banner.vegasred.com",
+            "bar.mytotalsearch.com",
+            "classicallyabsurdphotography.com",
+            "clicksimpact.cashtrk.com",
+            "d1.windows8downloads.com",
+            "datattro.xyz",
+            "desirevandoorne.nl",
+            "dl.ezthemes.com",
+            "dl1.ezthemes.com",
+            "electra-jjh.com.br",
+            "ezthemes.ezthemes.com",
+            "fixio-pc-cleaner.com",
+            "flashplayer_macro.kit.net",
+            "funskins.ezthemes.com",
+            "galtthemes.ezthemes.com",
+            "img.xratedbucks.com",
+            "mormonchurchgenealogy.com",
+            "nikolamireasa.com",
+            "reg-cleaners.com",
+            "registryregistrycleaner.triedtool.com"
         ]
     }
 }
