@@ -1,6 +1,31 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1527761647": [
+        "1528107439": [
+            "affiliate.gwmtracker.com",
+            "altafista.com",
+            "banner.vegasred.com",
+            "bar.mytotalsearch.com",
+            "cdn1.clkcln.com",
+            "classicallyabsurdphotography.com",
+            "clicksimpact.cashtrk.com",
+            "d1.windows8downloads.com",
+            "datattro.xyz",
+            "desirevandoorne.nl",
+            "dl.ezthemes.com",
+            "dl1.ezthemes.com",
+            "electra-jjh.com.br",
+            "ezthemes.ezthemes.com",
+            "fixio-pc-cleaner.com",
+            "flashplayer_macro.kit.net",
+            "funskins.ezthemes.com",
+            "galtthemes.ezthemes.com"
+        ],
+        "to_test": [
+            "img.xratedbucks.com",
+            "mormonchurchgenealogy.com",
+            "nikolamireasa.com",
+            "reg-cleaners.com",
+            "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
             "server.toolbar.rediff.com",
             "serviceyourpaypal.com",
@@ -50,32 +75,8 @@
             "www.xicaxique.com.br",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
-            "ycv.clearshieldredirect.com"
-        ],
-        "to_test": [
-            "7979-69504_159.c.adprotect.net",
-            "affiliate.gwmtracker.com",
-            "altafista.com",
-            "banner.vegasred.com",
-            "bar.mytotalsearch.com",
-            "classicallyabsurdphotography.com",
-            "clicksimpact.cashtrk.com",
-            "d1.windows8downloads.com",
-            "datattro.xyz",
-            "desirevandoorne.nl",
-            "dl.ezthemes.com",
-            "dl1.ezthemes.com",
-            "electra-jjh.com.br",
-            "ezthemes.ezthemes.com",
-            "fixio-pc-cleaner.com",
-            "flashplayer_macro.kit.net",
-            "funskins.ezthemes.com",
-            "galtthemes.ezthemes.com",
-            "img.xratedbucks.com",
-            "mormonchurchgenealogy.com",
-            "nikolamireasa.com",
-            "reg-cleaners.com",
-            "registryregistrycleaner.triedtool.com"
+            "ycv.clearshieldredirect.com",
+            "7979-69504_159.c.adprotect.net"
         ]
     }
 }
