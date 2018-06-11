@@ -1,17 +1,26 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1528453190": [
+        "1528712356": [
+            "2.googlenews.xorg.pl",
+            "3.googlenews.xorg.pl",
+            "4.googlenews.xorg.pl",
+            "5.googlenews.xorg.pl",
+            "7979-69504_159.c.adprotect.net",
             "altafista.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
+            "burnvirusnow33.xorg.pl",
             "cdn1.clkcln.com",
             "classicallyabsurdphotography.com",
+            "cleanupit22p.xorg.pl",
             "clicksimpact.cashtrk.com",
             "d1.windows8downloads.com",
             "datattro.xyz",
             "desirevandoorne.nl",
             "dl.ezthemes.com",
-            "dl1.ezthemes.com",
+            "dl1.ezthemes.com"
+        ],
+        "to_test": [
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "fixio-pc-cleaner.com",
@@ -75,10 +84,8 @@
             "www.wallpapers91.com",
             "www.xicaxique.com.br",
             "xicaxique.com.br",
-            "xpath.syncrvprodist.com"
-        ],
-        "to_test": [
-            "7979-69504_159.c.adprotect.net"
+            "xpath.syncrvprodist.com",
+            "1.googlenews.xorg.pl"
         ]
     }
 }
