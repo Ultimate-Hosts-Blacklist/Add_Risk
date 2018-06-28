@@ -1,28 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1530095286": [
-            "alexanderinteriorsanddesign.com",
-            "altafista.com",
-            "banner.vegasred.com",
-            "bar.mytotalsearch.com",
-            "bigstoreoffers.co.uk",
-            "cc.webpower.com",
-            "cdn1.clkcln.com",
-            "classicallyabsurdphotography.com",
-            "clicksimpact.cashtrk.com",
-            "d1.windows8downloads.com",
-            "datattro.xyz",
-            "desirevandoorne.nl",
-            "dl.ezthemes.com",
-            "dl1.ezthemes.com",
-            "electra-jjh.com.br",
-            "ezthemes.ezthemes.com",
-            "fixio-pc-cleaner.com",
-            "flashplayer_macro.kit.net"
-        ],
-        "to_test": [
-            "funskins.ezthemes.com",
-            "galtthemes.ezthemes.com",
+        "1530181772": [
             "img.xratedbucks.com",
             "mormonchurchgenealogy.com",
             "n.targetbtracker.com",
@@ -30,7 +8,9 @@
             "npktrk1.com",
             "nwhomecare.co.uk",
             "orders.webpower.com",
-            "reg-cleaners.com",
+            "reg-cleaners.com"
+        ],
+        "to_test": [
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
             "server.toolbar.rediff.com",
@@ -84,7 +64,27 @@
             "www.xicaxique.com.br",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
-            "7979-69504_159.c.adprotect.net"
+            "7979-69504_159.c.adprotect.net",
+            "alexanderinteriorsanddesign.com",
+            "altafista.com",
+            "banner.vegasred.com",
+            "bar.mytotalsearch.com",
+            "bigstoreoffers.co.uk",
+            "cc.webpower.com",
+            "cdn1.clkcln.com",
+            "classicallyabsurdphotography.com",
+            "clicksimpact.cashtrk.com",
+            "d1.windows8downloads.com",
+            "datattro.xyz",
+            "desirevandoorne.nl",
+            "dl.ezthemes.com",
+            "dl1.ezthemes.com",
+            "electra-jjh.com.br",
+            "ezthemes.ezthemes.com",
+            "fixio-pc-cleaner.com",
+            "flashplayer_macro.kit.net",
+            "funskins.ezthemes.com",
+            "galtthemes.ezthemes.com"
         ]
     }
 }
