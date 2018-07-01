@@ -1,6 +1,28 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1530181772": [
+        "1530441192": [
+            "alexanderinteriorsanddesign.com",
+            "altafista.com",
+            "banner.vegasred.com",
+            "bar.mytotalsearch.com",
+            "bigstoreoffers.co.uk",
+            "cc.webpower.com",
+            "cdn1.clkcln.com",
+            "classicallyabsurdphotography.com",
+            "clicksimpact.cashtrk.com",
+            "d1.windows8downloads.com",
+            "datattro.xyz",
+            "desirevandoorne.nl",
+            "dl.ezthemes.com",
+            "dl1.ezthemes.com",
+            "electra-jjh.com.br",
+            "ezthemes.ezthemes.com",
+            "fixio-pc-cleaner.com",
+            "flashplayer_macro.kit.net",
+            "funskins.ezthemes.com",
+            "galtthemes.ezthemes.com"
+        ],
+        "to_test": [
             "img.xratedbucks.com",
             "mormonchurchgenealogy.com",
             "n.targetbtracker.com",
@@ -61,30 +83,8 @@
             "www.wmediaplayernow.com",
             "www.xicaxique.com.br",
             "xicaxique.com.br",
-            "xpath.syncrvprodist.com"
-        ],
-        "to_test": [
-            "7979-69504_159.c.adprotect.net",
-            "alexanderinteriorsanddesign.com",
-            "altafista.com",
-            "banner.vegasred.com",
-            "bar.mytotalsearch.com",
-            "bigstoreoffers.co.uk",
-            "cc.webpower.com",
-            "cdn1.clkcln.com",
-            "classicallyabsurdphotography.com",
-            "clicksimpact.cashtrk.com",
-            "d1.windows8downloads.com",
-            "datattro.xyz",
-            "desirevandoorne.nl",
-            "dl.ezthemes.com",
-            "dl1.ezthemes.com",
-            "electra-jjh.com.br",
-            "ezthemes.ezthemes.com",
-            "fixio-pc-cleaner.com",
-            "flashplayer_macro.kit.net",
-            "funskins.ezthemes.com",
-            "galtthemes.ezthemes.com"
+            "xpath.syncrvprodist.com",
+            "7979-69504_159.c.adprotect.net"
         ]
     }
 }
