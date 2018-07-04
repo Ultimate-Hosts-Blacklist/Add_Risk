@@ -1,11 +1,12 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1530441192": [
+        "1530700337": [
             "alexanderinteriorsanddesign.com",
             "altafista.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
             "bigstoreoffers.co.uk",
+            "call.stopitanddropit.com",
             "cc.webpower.com",
             "cdn1.clkcln.com",
             "classicallyabsurdphotography.com",
@@ -20,7 +21,9 @@
             "fixio-pc-cleaner.com",
             "flashplayer_macro.kit.net",
             "funskins.ezthemes.com",
-            "galtthemes.ezthemes.com",
+            "galtthemes.ezthemes.com"
+        ],
+        "to_test": [
             "img.xratedbucks.com",
             "mormonchurchgenealogy.com",
             "n.targetbtracker.com",
@@ -81,9 +84,7 @@
             "www.wmediaplayernow.com",
             "www.xicaxique.com.br",
             "xicaxique.com.br",
-            "xpath.syncrvprodist.com"
-        ],
-        "to_test": [
+            "xpath.syncrvprodist.com",
             "7979-69504_159.c.adprotect.net"
         ]
     }
