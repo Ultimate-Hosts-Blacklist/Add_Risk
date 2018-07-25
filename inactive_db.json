@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1531996745": [
-            "alexanderinteriorsanddesign.com",
+        "1532520522": [
             "altafista.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
@@ -18,8 +17,12 @@
             "dl1.ezthemes.com",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
-            "fixio-pc-cleaner.com",
-            "flashplayer_macro.kit.net",
+            "fixio-pc-cleaner.com"
+        ],
+        "to_test": [
+            "funskins.ezthemes.com",
+            "registryregistrycleaner.triedtool.com",
+            "registryregistrytool.triedtool.com",
             "galtthemes.ezthemes.com",
             "img.xratedbucks.com",
             "insidecentralfl.com",
@@ -90,13 +93,8 @@
             "www.wpxn.com",
             "www.xicaxique.com.br",
             "xicaxique.com.br",
-            "xpath.syncrvprodist.com"
-        ],
-        "to_test": [
-            "funskins.ezthemes.com",
-            "registryregistrycleaner.triedtool.com",
-            "registryregistrytool.triedtool.com",
-            "7979-69504_159.c.adprotect.net"
+            "xpath.syncrvprodist.com",
+            "alexanderinteriorsanddesign.com"
         ]
     }
 }
