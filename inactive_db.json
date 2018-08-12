@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1533725295": [
+        "1534070995": [
             "altafista.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
@@ -19,7 +19,10 @@
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
-            "fixio-pc-cleaner.com",
+            "fixio-pc-cleaner.com"
+        ],
+        "to_test": [
+            "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
             "handlerhackz.tk",
             "img.thebugs.ws",
@@ -101,10 +104,7 @@
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co",
-            "yk.handlerhackz.tk"
-        ],
-        "to_test": [
-            "funskins.ezthemes.com",
+            "yk.handlerhackz.tk",
             "alexanderinteriorsanddesign.com"
         ]
     }
