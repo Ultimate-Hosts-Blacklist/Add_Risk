@@ -1,6 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1534935321": [
+        "1535280989": [
+            "aintdoinshit.com",
             "alexanderinteriorsanddesign.com",
             "altafista.com",
             "banner.vegasred.com",
@@ -20,10 +21,14 @@
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
             "fixio-pc-cleaner.com",
-            "funskins.ezthemes.com",
+            "funskins.ezthemes.com"
+        ],
+        "to_test": [
             "galtthemes.ezthemes.com",
+            "hackhero.tk",
             "img.xratedbucks.com",
             "insidecentralfl.com",
+            "m-barati.de",
             "mamameidia.com",
             "mormonchurchgenealogy.com",
             "n.targetbtracker.com",
@@ -31,6 +36,7 @@
             "npktrk1.com",
             "orders.webpower.com",
             "rainbowcolours.me.uk",
+            "reg-cleaners.com",
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
             "rq.adtrackdirect.com",
@@ -57,6 +63,7 @@
             "www.automoneygenerator.com",
             "www.bigstoreoffers.co.uk",
             "www.bugsurf.com",
+            "www.butterfly-media.co.uk",
             "www.catz4.com",
             "www.classicallyabsurdphotography.com",
             "www.cudacorp.com",
@@ -71,9 +78,11 @@
             "www.fixio-pc-cleaner.com",
             "www.flashdem.fr",
             "www.getmeaticket.co.uk",
+            "www.goolegames.com",
             "www.grendizer.biz",
             "www.guardappsfarm.com",
             "www.guardcyclequick.com",
+            "www.gwmtracker.com",
             "www.herbalsmokeshops.com",
             "www.hnskorea.co.kr",
             "www.holdhelptime.com",
@@ -83,6 +92,7 @@
             "www.keygen.us",
             "www.mamameidia.com",
             "www.mamamidia.com",
+            "www.mmapquest.com",
             "www.newcracks.net",
             "www.nkgamers.com",
             "www.notrecommended.co.uk",
@@ -90,6 +100,9 @@
             "www.nryb.com",
             "www.playersaid.com",
             "www.regdefense.com",
+            "www.scanspyware.net",
+            "www.securetracking2.com",
+            "www.securetrk1.com",
             "www.stimul-m.com.ua",
             "www.strangeduckfilms.com",
             "www.tangabilder.to",
@@ -107,11 +120,6 @@
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "reg-cleaners.com",
-            "www.mmapquest.com",
-            "aintdoinshit.com"
         ]
     }
 }
