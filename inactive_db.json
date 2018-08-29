@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1535280989": [
+        "1535540371": [
             "aintdoinshit.com",
             "alexanderinteriorsanddesign.com",
             "altafista.com",
@@ -19,9 +19,12 @@
             "dl1.ezthemes.com",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
-            "f8350e7c1.se",
+            "f8350e7c1.se"
+        ],
+        "to_test": [
             "fixio-pc-cleaner.com",
             "funskins.ezthemes.com",
+            "galtthemes.ezthemes.com",
             "grendizer.biz",
             "img.xratedbucks.com",
             "insidecentralfl.com",
@@ -35,6 +38,7 @@
             "reg-cleaners.com",
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
+            "rq.adtrackdirect.com",
             "sandbox.tk",
             "server.toolbar.rediff.com",
             "serviceyourpaypal.com",
@@ -47,6 +51,7 @@
             "vacationcellular.net",
             "wallpapers91.com",
             "wateristian.com",
+            "wmediaplayernow.com",
             "www.adobe-flashplayer.com",
             "www.advancedsoftwaresupport.com",
             "www.aintdoinshit.com",
@@ -92,6 +97,8 @@
             "www.nkgamers.com",
             "www.nowgifttown.com",
             "www.nryb.com",
+            "www.playersaid.com",
+            "www.regdefense.com",
             "www.registrysweeper.com",
             "www.stimul-m.com.ua",
             "www.strangeduckfilms.com",
@@ -111,13 +118,6 @@
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "galtthemes.ezthemes.com",
-            "rq.adtrackdirect.com",
-            "wmediaplayernow.com",
-            "www.playersaid.com",
-            "www.regdefense.com"
         ]
     }
 }
