@@ -1,6 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1535540371": [
+        "1535713095": [
+            "xicaxique.com.br",
+            "xpath.syncrvprodist.com",
+            "xpop.co"
+        ],
+        "to_test": [
             "aintdoinshit.com",
             "alexanderinteriorsanddesign.com",
             "altafista.com",
@@ -20,6 +25,7 @@
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
+            "fixio-pc-cleaner.com",
             "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
             "grendizer.biz",
@@ -88,6 +94,8 @@
             "www.intera-x.com",
             "www.joetoons.com",
             "www.keygen.us",
+            "www.mamameidia.com",
+            "www.mamamidia.com",
             "www.newcracks.net",
             "www.nkgamers.com",
             "www.nowgifttown.com",
@@ -110,15 +118,7 @@
             "www.wwwdiynet.com",
             "www.xicaxique.com.br",
             "www.xpop.co",
-            "www.zoogdisany.com",
-            "xicaxique.com.br",
-            "xpath.syncrvprodist.com",
-            "xpop.co"
-        ],
-        "to_test": [
-            "fixio-pc-cleaner.com",
-            "www.mamameidia.com",
-            "www.mamamidia.com"
+            "www.zoogdisany.com"
         ]
     }
 }
