@@ -1,11 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1535713095": [
-            "xicaxique.com.br",
-            "xpath.syncrvprodist.com",
-            "xpop.co"
-        ],
-        "to_test": [
+        "1535886174": [
             "aintdoinshit.com",
             "alexanderinteriorsanddesign.com",
             "altafista.com",
@@ -27,7 +22,9 @@
             "f8350e7c1.se",
             "fixio-pc-cleaner.com",
             "funskins.ezthemes.com",
-            "galtthemes.ezthemes.com",
+            "galtthemes.ezthemes.com"
+        ],
+        "to_test": [
             "grendizer.biz",
             "img.xratedbucks.com",
             "insidecentralfl.com",
@@ -118,7 +115,10 @@
             "www.wwwdiynet.com",
             "www.xicaxique.com.br",
             "www.xpop.co",
-            "www.zoogdisany.com"
+            "www.zoogdisany.com",
+            "xicaxique.com.br",
+            "xpath.syncrvprodist.com",
+            "xpop.co"
         ]
     }
 }
