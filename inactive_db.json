@@ -94,12 +94,7 @@
             "www.newcracks.net",
             "www.nkgamers.com",
             "www.nowgifttown.com",
-            "www.nryb.com"
-        ],
-        "to_test": [
-            "funskins.ezthemes.com",
-            "rq.adtrackdirect.com",
-            "wateristian.com",
+            "www.nryb.com",
             "www.playersaid.com",
             "www.registry-cleaners-compared.com",
             "www.registrysweeper.com",
@@ -113,6 +108,7 @@
             "www.upproar.com",
             "www.vacationcellular.net",
             "www.wallpapers91.com",
+            "www.warioland.com",
             "www.whengirlsgowild.com",
             "www.wmediaplayernow.com",
             "www.wpxn.com",
@@ -123,6 +119,11 @@
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
+        ],
+        "to_test": [
+            "funskins.ezthemes.com",
+            "rq.adtrackdirect.com",
+            "wateristian.com"
         ]
     }
 }
