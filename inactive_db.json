@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1535886174": [
+        "1536231765": [
             "aintdoinshit.com",
             "alexanderinteriorsanddesign.com",
             "altafista.com",
@@ -20,7 +20,9 @@
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
-            "fixio-pc-cleaner.com",
+            "fixio-pc-cleaner.com"
+        ],
+        "to_test": [
             "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
             "grendizer.biz",
@@ -59,6 +61,7 @@
             "www.anglewinks.com",
             "www.antalya.ru",
             "www.anticarredodolomiti.com",
+            "www.atofilms.com",
             "www.bigstoreoffers.co.uk",
             "www.bormis.com",
             "www.buffalogoesout.com",
@@ -119,9 +122,6 @@
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "www.atofilms.com"
         ]
     }
 }
