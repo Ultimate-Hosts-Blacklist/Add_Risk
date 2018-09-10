@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1536231765": [
+        "1536577448": [
             "aintdoinshit.com",
             "alexanderinteriorsanddesign.com",
             "altafista.com",
@@ -20,7 +20,10 @@
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
-            "fixio-pc-cleaner.com",
+            "fixio-pc-cleaner.com"
+        ],
+        "to_test": [
+            "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
             "gredinatib.org",
             "grendizer.biz",
@@ -37,6 +40,7 @@
             "reg-cleaners.com",
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
+            "rq.adtrackdirect.com",
             "sandbox.tk",
             "server.toolbar.rediff.com",
             "serviceyourpaypal.com",
@@ -49,6 +53,7 @@
             "track.viralvidi.com",
             "vacationcellular.net",
             "wallpapers91.com",
+            "wateristian.com",
             "wmediaplayernow.com",
             "www.adobe-flashplayer.com",
             "www.aintdoinshit.com",
@@ -119,11 +124,6 @@
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "funskins.ezthemes.com",
-            "rq.adtrackdirect.com",
-            "wateristian.com"
         ]
     }
 }
