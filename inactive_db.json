@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1536577448": [
+        "1536836747": [
             "aintdoinshit.com",
             "alexanderinteriorsanddesign.com",
             "altafista.com",
@@ -12,15 +12,20 @@
             "cdn1.clkcln.com",
             "classicallyabsurdphotography.com",
             "clicksimpact.cashtrk.com",
+            "counter.top.dating.lt",
             "d1.windows8downloads.com",
             "datattro.xyz",
             "desirevandoorne.nl",
-            "dl.ezthemes.com",
             "dl1.ezthemes.com",
+            "dl.ezthemes.com",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
-            "fixio-pc-cleaner.com",
+            "fixio-pc-cleaner.com"
+        ],
+        "to_test": [
+            "funskins.ezthemes.com",
+            "galtthemes.ezthemes.com",
             "gredinatib.org",
             "grendizer.biz",
             "img.xratedbucks.com",
@@ -33,6 +38,7 @@
             "npktrk1.com",
             "orders.webpower.com",
             "rainbowcolours.me.uk",
+            "reg-cleaners.com",
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
             "rq.adtrackdirect.com",
@@ -46,6 +52,7 @@
             "top10registrycleaners.com",
             "topdesktop.ezthemes.com",
             "track.viralvidi.com",
+            "vacationcellular.net",
             "wallpapers91.com",
             "wateristian.com",
             "wmediaplayernow.com",
@@ -92,6 +99,8 @@
             "www.mamamidia.com",
             "www.newcracks.net",
             "www.nkgamers.com",
+            "www.nowgifttown.com",
+            "www.nryb.com",
             "www.playersaid.com",
             "www.registry-cleaners-compared.com",
             "www.registrysweeper.com",
@@ -116,14 +125,6 @@
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "funskins.ezthemes.com",
-            "galtthemes.ezthemes.com",
-            "reg-cleaners.com",
-            "vacationcellular.net",
-            "www.nowgifttown.com",
-            "www.nryb.com"
         ]
     }
 }
