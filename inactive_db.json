@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1536836747": [
+        "1537043303": [
             "aintdoinshit.com",
             "alexanderinteriorsanddesign.com",
             "altafista.com",
@@ -12,7 +12,6 @@
             "cdn1.clkcln.com",
             "classicallyabsurdphotography.com",
             "clicksimpact.cashtrk.com",
-            "counter.top.dating.lt",
             "d1.windows8downloads.com",
             "datattro.xyz",
             "desirevandoorne.nl",
@@ -21,7 +20,11 @@
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
+            "federatedstores.com"
+        ],
+        "to_test": [
             "fixio-pc-cleaner.com",
+            "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
             "gredinatib.org",
             "grendizer.biz",
@@ -30,14 +33,15 @@
             "land.pckeeper.software",
             "mamameidia.com",
             "mormonchurchgenealogy.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
-            "n.targetbtracker.com",
             "orders.webpower.com",
             "rainbowcolours.me.uk",
             "reg-cleaners.com",
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
+            "rq.adtrackdirect.com",
             "sandbox.tk",
             "server.toolbar.rediff.com",
             "serviceyourpaypal.com",
@@ -45,13 +49,14 @@
             "strangeduckfilms.com",
             "tangabilder.to",
             "themexp.ezthemes.com",
-            "top10registrycleaners.com",
             "top.dating.lt",
+            "top10registrycleaners.com",
             "topdesktop.ezthemes.com",
             "track.viralvidi.com",
             "ualumphuoldi.angelcities.com",
             "uoaofgqu.angelcities.com",
             "uojamcse.angelcities.com",
+            "vacationcellular.net",
             "wallpapers91.com",
             "wateristian.com",
             "wmediaplayernow.com",
@@ -100,6 +105,10 @@
             "www.keygen.us",
             "www.mamameidia.com",
             "www.mamamidia.com",
+            "www.newcracks.net",
+            "www.nkgamers.com",
+            "www.nowgifttown.com",
+            "www.nryb.com",
             "www.playersaid.com",
             "www.registry-cleaners-compared.com",
             "www.registrysweeper.com",
@@ -129,15 +138,6 @@
             "yitkomfj.angelcities.com",
             "ylgingq.angelcities.com",
             "yvdeuwn.angelcities.com"
-        ],
-        "to_test": [
-            "funskins.ezthemes.com",
-            "rq.adtrackdirect.com",
-            "vacationcellular.net",
-            "www.newcracks.net",
-            "www.nkgamers.com",
-            "www.nowgifttown.com",
-            "www.nryb.com"
         ]
     }
 }
