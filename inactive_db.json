@@ -117,16 +117,7 @@
             "www.registry-cleaners-compared.com",
             "www.registrysweeper.com",
             "www.stimul-m.com.ua",
-            "www.strangeduckfilms.com"
-        ],
-        "to_test": [
-            "d1.windows8downloads.com",
-            "mormonchurchgenealogy.com",
-            "www.cudacorp.com",
-            "www.dateck.com",
-            "www.desirevandoorne.nl",
-            "www.tangabilder.to",
-            "www.themexp.org",
+            "www.strangeduckfilms.com",
             "www.top10registrycleaners.com",
             "www.triplequadturbo.com",
             "www.trx625.com",
@@ -142,10 +133,19 @@
             "www.xicaxique.com.br",
             "www.xpop.co",
             "www.zoogdisany.com",
-            "x.onaudience.com",
             "xicaxique.com.br",
+            "x.onaudience.com",
             "xpath.syncrvprodist.com",
             "xpop.co"
+        ],
+        "to_test": [
+            "d1.windows8downloads.com",
+            "mormonchurchgenealogy.com",
+            "www.cudacorp.com",
+            "www.dateck.com",
+            "www.desirevandoorne.nl",
+            "www.tangabilder.to",
+            "www.themexp.org"
         ]
     }
 }
