@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1537355508": [
+        "1537614642": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -12,19 +12,20 @@
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
             "bigstoreoffers.co.uk",
-            "buffalogoesout.com",
             "burnvirusnow33.xorg.pl",
             "call.stopitanddropit.com",
             "cc.webpower.com",
             "cdn1.clkcln.com",
             "classicallyabsurdphotography.com",
             "cleanupit22p.xorg.pl",
-            "clicksimpact.cashtrk.com",
+            "clicksimpact.cashtrk.com"
+        ],
+        "to_test": [
             "d1.windows8downloads.com",
             "datattro.xyz",
             "desirevandoorne.nl",
-            "dl1.ezthemes.com",
             "dl.ezthemes.com",
+            "dl1.ezthemes.com",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
@@ -42,9 +43,9 @@
             "land.pckeeper.software",
             "mamameidia.com",
             "mormonchurchgenealogy.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
-            "n.targetbtracker.com",
             "orders.webpower.com",
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
@@ -59,6 +60,7 @@
             "serviceyourpaypal.com",
             "stimul-m.com.ua",
             "strangeduckfilms.com",
+            "tangabilder.to",
             "testtralala.xorg.pl",
             "themexp.ezthemes.com",
             "top10registrycleaners.com",
@@ -117,6 +119,7 @@
             "www.nowgifttown.com",
             "www.nryb.com",
             "www.playersaid.com",
+            "www.registry-cleaners-compared.com",
             "www.registrysweeper.com",
             "www.stimul-m.com.ua",
             "www.strangeduckfilms.com",
@@ -137,14 +140,10 @@
             "www.xicaxique.com.br",
             "www.xpop.co",
             "www.zoogdisany.com",
-            "xicaxique.com.br",
             "x.onaudience.com",
+            "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "tangabilder.to",
-            "www.registry-cleaners-compared.com"
         ]
     }
 }
