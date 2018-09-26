@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1537614642": [
+        "1537960329": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -9,20 +9,26 @@
             "aintdoinshit.com",
             "alexanderinteriorsanddesign.com",
             "altafista.com",
+            "analytics.safelinking.net",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
+            "b.gowin7.com",
             "bigstoreoffers.co.uk",
+            "b.secuurity.net",
             "burnvirusnow33.xorg.pl",
             "call.stopitanddropit.com",
             "cc.webpower.com",
             "cdn1.clkcln.com",
             "classicallyabsurdphotography.com",
             "cleanupit22p.xorg.pl",
-            "clicksimpact.cashtrk.com",
+            "clicksimpact.cashtrk.com"
+        ],
+        "to_test": [
+            "d1.windows8downloads.com",
             "datattro.xyz",
             "desirevandoorne.nl",
-            "dl1.ezthemes.com",
             "dl.ezthemes.com",
+            "dl1.ezthemes.com",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
@@ -39,9 +45,10 @@
             "insidecentralfl.com",
             "land.pckeeper.software",
             "mamameidia.com",
+            "mormonchurchgenealogy.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
-            "n.targetbtracker.com",
             "orders.webpower.com",
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
@@ -87,6 +94,9 @@
             "www.chsplantsales.co.uk",
             "www.classicallyabsurdphotography.com",
             "www.columbianhouse.com",
+            "www.cudacorp.com",
+            "www.dateck.com",
+            "www.desirevandoorne.nl",
             "www.electra-jjh.com.br",
             "www.equallyyolked.com",
             "www.ezthemes.com",
@@ -118,6 +128,8 @@
             "www.registrysweeper.com",
             "www.stimul-m.com.ua",
             "www.strangeduckfilms.com",
+            "www.tangabilder.to",
+            "www.themexp.org",
             "www.top10registrycleaners.com",
             "www.triplequadturbo.com",
             "www.trx625.com",
@@ -133,19 +145,10 @@
             "www.xicaxique.com.br",
             "www.xpop.co",
             "www.zoogdisany.com",
-            "xicaxique.com.br",
             "x.onaudience.com",
+            "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "d1.windows8downloads.com",
-            "mormonchurchgenealogy.com",
-            "www.cudacorp.com",
-            "www.dateck.com",
-            "www.desirevandoorne.nl",
-            "www.tangabilder.to",
-            "www.themexp.org"
         ]
     }
 }
