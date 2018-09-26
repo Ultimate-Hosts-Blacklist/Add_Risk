@@ -121,15 +121,8 @@
             "www.nowgifttown.com",
             "www.nryb.com",
             "www.playersaid.com",
-            "www.registry-cleaners-compared.com"
-        ],
-        "to_test": [
-            "mamameidia.com",
-            "www.bormis.com",
-            "www.buffalogoesout.com",
-            "www.bugsurf.com",
-            "www.calllwave.com",
-            "www.registrysweeper.com",
+            "www.registry-cleaners-compared.com",
+            "www.secuurity.net",
             "www.stimul-m.com.ua",
             "www.strangeduckfilms.com",
             "www.tangabilder.to",
@@ -144,15 +137,26 @@
             "www.whengirlsgowild.com",
             "www.wmediaplayernow.com",
             "www.wpxn.com",
+            "www.wwwbluemoutain.com",
+            "www.wwwbowcreek.com",
             "www.wwwdiscounthotel.com",
             "www.wwwdiynet.com",
+            "www.wwwgamepro.com",
             "www.xicaxique.com.br",
             "www.xpop.co",
             "www.zoogdisany.com",
-            "x.onaudience.com",
             "xicaxique.com.br",
+            "x.onaudience.com",
             "xpath.syncrvprodist.com",
             "xpop.co"
+        ],
+        "to_test": [
+            "mamameidia.com",
+            "www.bormis.com",
+            "www.buffalogoesout.com",
+            "www.bugsurf.com",
+            "www.calllwave.com",
+            "www.registrysweeper.com"
         ]
     }
 }
