@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1537960329": [
+        "1538516513": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -9,24 +9,28 @@
             "aintdoinshit.com",
             "alexanderinteriorsanddesign.com",
             "altafista.com",
-            "analytics.safelinking.net",
+            "anglewinks.com",
+            "banners.images.streamray.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
             "b.gowin7.com",
             "bigstoreoffers.co.uk",
             "b.secuurity.net",
             "burnvirusnow33.xorg.pl",
+            "calllwave.com",
             "call.stopitanddropit.com",
             "cc.webpower.com",
             "cdn1.clkcln.com",
             "classicallyabsurdphotography.com",
             "cleanupit22p.xorg.pl",
             "clicksimpact.cashtrk.com",
-            "d1.windows8downloads.com",
+            "d1.windows8downloads.com"
+        ],
+        "to_test": [
             "datattro.xyz",
             "desirevandoorne.nl",
-            "dl1.ezthemes.com",
             "dl.ezthemes.com",
+            "dl1.ezthemes.com",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
@@ -42,10 +46,11 @@
             "img.xratedbucks.com",
             "insidecentralfl.com",
             "land.pckeeper.software",
+            "mamameidia.com",
             "mormonchurchgenealogy.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
-            "n.targetbtracker.com",
             "orders.webpower.com",
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
@@ -86,6 +91,10 @@
             "www.automoneygenerator.com",
             "www.bestserials.com",
             "www.bigstoreoffers.co.uk",
+            "www.bormis.com",
+            "www.buffalogoesout.com",
+            "www.bugsurf.com",
+            "www.calllwave.com",
             "www.catz4.com",
             "www.chsplantsales.co.uk",
             "www.classicallyabsurdphotography.com",
@@ -122,6 +131,7 @@
             "www.nryb.com",
             "www.playersaid.com",
             "www.registry-cleaners-compared.com",
+            "www.registrysweeper.com",
             "www.secuurity.net",
             "www.stimul-m.com.ua",
             "www.strangeduckfilms.com",
@@ -145,18 +155,10 @@
             "www.xicaxique.com.br",
             "www.xpop.co",
             "www.zoogdisany.com",
-            "xicaxique.com.br",
             "x.onaudience.com",
+            "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "mamameidia.com",
-            "www.bormis.com",
-            "www.buffalogoesout.com",
-            "www.bugsurf.com",
-            "www.calllwave.com",
-            "www.registrysweeper.com"
         ]
     }
 }
