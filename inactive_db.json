@@ -1,15 +1,15 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1538516513": [
+        "1538738539": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
             "4.googlenews.xorg.pl",
             "5.googlenews.xorg.pl",
             "aintdoinshit.com",
+            "aircrack-ng.softonic.fr",
             "alexanderinteriorsanddesign.com",
             "altafista.com",
-            "anglewinks.com",
             "banners.images.streamray.com",
             "banner.vegasred.com",
             "bar.mytotalsearch.com",
@@ -25,8 +25,12 @@
             "cleanupit22p.xorg.pl",
             "clicksimpact.cashtrk.com",
             "d1.windows8downloads.com",
-            "dl1.ezthemes.com",
+            "datattro.xyz"
+        ],
+        "to_test": [
+            "desirevandoorne.nl",
             "dl.ezthemes.com",
+            "dl1.ezthemes.com",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
@@ -44,9 +48,9 @@
             "land.pckeeper.software",
             "mamameidia.com",
             "mormonchurchgenealogy.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
-            "n.targetbtracker.com",
             "orders.webpower.com",
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
@@ -63,6 +67,7 @@
             "serviceyourpaypal.com",
             "stimul-m.com.ua",
             "strangeduckfilms.com",
+            "tangabilder.to",
             "testtralala.xorg.pl",
             "themexp.ezthemes.com",
             "top10registrycleaners.com",
@@ -92,6 +97,9 @@
             "www.chsplantsales.co.uk",
             "www.classicallyabsurdphotography.com",
             "www.columbianhouse.com",
+            "www.cudacorp.com",
+            "www.dateck.com",
+            "www.desirevandoorne.nl",
             "www.ebertandroeper.com",
             "www.electra-jjh.com.br",
             "www.equallyyolked.com",
@@ -128,6 +136,8 @@
             "www.stimul-m.com.ua",
             "www.strangeduckfilms.com",
             "www.tangabilder.to",
+            "www.themexp.org",
+            "www.top10registrycleaners.com",
             "www.triplequadturbo.com",
             "www.trx625.com",
             "www.upproar.com",
@@ -149,20 +159,10 @@
             "www.xpop.co",
             "www.zoogdisany.com",
             "www.zoophil.com",
-            "xicaxique.com.br",
             "x.onaudience.com",
+            "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "datattro.xyz",
-            "desirevandoorne.nl",
-            "tangabilder.to",
-            "www.cudacorp.com",
-            "www.dateck.com",
-            "www.desirevandoorne.nl",
-            "www.themexp.org",
-            "www.top10registrycleaners.com"
         ]
     }
 }
