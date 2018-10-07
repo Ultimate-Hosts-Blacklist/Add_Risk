@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1538738539": [
+        "1538910133": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -26,6 +26,11 @@
             "clicksimpact.cashtrk.com",
             "d1.windows8downloads.com",
             "datattro.xyz",
+            "desirevandoorne.nl"
+        ],
+        "to_test": [
+            "dl.ezthemes.com",
+            "dl1.ezthemes.com",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
@@ -45,6 +50,7 @@
             "land.pckeeper.software",
             "mamameidia.com",
             "mormonchurchgenealogy.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
             "orders.webpower.com",
@@ -69,6 +75,7 @@
             "strangeduckfilms.com",
             "tangabilder.to",
             "testtralala.xorg.pl",
+            "themexp.ezthemes.com",
             "top10registrycleaners.com",
             "topdesktop.ezthemes.com",
             "track.viralvidi.com",
@@ -99,6 +106,10 @@
             "www.dateck.com",
             "www.desirevandoorne.nl",
             "www.ebertandroeper.com",
+            "www.electra-jjh.com.br",
+            "www.equallyyolked.com",
+            "www.ezthemes.com",
+            "www.f8350e7c1.se",
             "www.federatedstores.com",
             "www.findit-quick.com",
             "www.fixio-pc-cleaner.com",
@@ -132,6 +143,9 @@
             "www.themexp.org",
             "www.top10registrycleaners.com",
             "www.triplequadturbo.com",
+            "www.trx625.com",
+            "www.upproar.com",
+            "www.vacationcellular.net",
             "www.wallpapers91.com",
             "www.warioland.com",
             "www.whengirlsgowild.com",
@@ -147,24 +161,10 @@
             "www.xicaxique.com.br",
             "www.xpop.co",
             "www.zoogdisany.com",
-            "xicaxique.com.br",
             "x.onaudience.com",
+            "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "desirevandoorne.nl",
-            "dl.ezthemes.com",
-            "dl1.ezthemes.com",
-            "n.targetbtracker.com",
-            "themexp.ezthemes.com",
-            "www.electra-jjh.com.br",
-            "www.equallyyolked.com",
-            "www.ezthemes.com",
-            "www.f8350e7c1.se",
-            "www.trx625.com",
-            "www.upproar.com",
-            "www.vacationcellular.net"
         ]
     }
 }
