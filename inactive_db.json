@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1538910133": [
+        "1539429898": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -26,7 +26,11 @@
             "clicksimpact.cashtrk.com",
             "d1.windows8downloads.com",
             "datattro.xyz",
-            "desirevandoorne.nl",
+            "desirevandoorne.nl"
+        ],
+        "to_test": [
+            "dl.ezthemes.com",
+            "dl1.ezthemes.com",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
@@ -46,6 +50,7 @@
             "land.pckeeper.software",
             "mamameidia.com",
             "mormonchurchgenealogy.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
             "orders.webpower.com",
@@ -71,6 +76,8 @@
             "tangabilder.to",
             "testtralala.xorg.pl",
             "themexp.ezthemes.com",
+            "top10registrycleaners.com",
+            "topdesktop.ezthemes.com",
             "track.viralvidi.com",
             "trueguardscaner33-p.xorg.pl",
             "universal-downloader.softonic.fr",
@@ -102,6 +109,8 @@
             "www.f8350e7c1.se",
             "www.federatedstores.com",
             "www.findit-quick.com",
+            "www.fixio-pc-cleaner.com",
+            "www.flashdem.fr",
             "www.gamesharkcentral.com",
             "www.getmeaticket.co.uk",
             "www.gnuetella.com",
@@ -146,22 +155,13 @@
             "www.wwwdiscounthotel.com",
             "www.wwwgamepro.com",
             "www.wwwtwa.com",
-            "xicaxique.com.br",
-            "x.onaudience.com",
-            "xpath.syncrvprodist.com",
-            "xpop.co"
-        ],
-        "to_test": [
-            "dl.ezthemes.com",
-            "dl1.ezthemes.com",
-            "n.targetbtracker.com",
-            "top10registrycleaners.com",
-            "topdesktop.ezthemes.com",
-            "www.fixio-pc-cleaner.com",
-            "www.flashdem.fr",
             "www.xicaxique.com.br",
             "www.xpop.co",
-            "www.zoogdisany.com"
+            "www.zoogdisany.com",
+            "x.onaudience.com",
+            "xicaxique.com.br",
+            "xpath.syncrvprodist.com",
+            "xpop.co"
         ]
     }
 }
