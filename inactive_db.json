@@ -1,11 +1,12 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1539429898": [
+        "1539775865": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
             "4.googlenews.xorg.pl",
             "5.googlenews.xorg.pl",
+            "6.mamaswishes.com",
             "aintdoinshit.com",
             "aircrack-ng.softonic.fr",
             "alexanderinteriorsanddesign.com",
@@ -23,10 +24,14 @@
             "cdn1.clkcln.com",
             "classicallyabsurdphotography.com",
             "cleanupit22p.xorg.pl",
-            "clicksimpact.cashtrk.com",
+            "clicksimpact.cashtrk.com"
+        ],
+        "to_test": [
             "d1.windows8downloads.com",
             "datattro.xyz",
             "desirevandoorne.nl",
+            "dl.ezthemes.com",
+            "dl1.ezthemes.com",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
@@ -46,6 +51,7 @@
             "land.pckeeper.software",
             "mamameidia.com",
             "mormonchurchgenealogy.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
             "orders.webpower.com",
@@ -70,6 +76,8 @@
             "tangabilder.to",
             "testtralala.xorg.pl",
             "themexp.ezthemes.com",
+            "top10registrycleaners.com",
+            "topdesktop.ezthemes.com",
             "track.viralvidi.com",
             "trueguardscaner33-p.xorg.pl",
             "universal-downloader.softonic.fr",
@@ -105,6 +113,8 @@
             "www.findit-quick.com",
             "www.fixio-pc-cleaner.com",
             "www.flashdem.fr",
+            "www.gamesharkcentral.com",
+            "www.getmeaticket.co.uk",
             "www.gowin7.com",
             "www.grendizer.biz",
             "www.guardappsfarm.com",
@@ -148,20 +158,11 @@
             "www.wwwtwa.com",
             "www.xicaxique.com.br",
             "www.xpop.co",
+            "www.zoogdisany.com",
             "x.onaudience.com",
+            "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "dl.ezthemes.com",
-            "dl1.ezthemes.com",
-            "n.targetbtracker.com",
-            "top10registrycleaners.com",
-            "topdesktop.ezthemes.com",
-            "www.gamesharkcentral.com",
-            "www.getmeaticket.co.uk",
-            "www.zoogdisany.com",
-            "xicaxique.com.br"
         ]
     }
 }
