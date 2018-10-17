@@ -139,15 +139,7 @@
             "www.spamnuker.com",
             "www.stimul-m.com.ua",
             "www.strangeduckfilms.com",
-            "www.tangabilder.to"
-        ],
-        "to_test": [
-            "mamameidia.com",
-            "www.dateck.com",
-            "www.desirevandoorne.nl",
-            "www.themexp.org",
-            "www.top10registrycleaners.com",
-            "www.triplequadturbo.com",
+            "www.tangabilder.to",
             "www.trx625.com",
             "www.upproar.com",
             "www.vacationcellular.net",
@@ -164,11 +156,19 @@
             "www.wwwtwa.com",
             "www.xicaxique.com.br",
             "www.xpop.co",
-            "www.zoogdisany.com",
-            "x.onaudience.com",
+            "www.zoophil.com",
             "xicaxique.com.br",
+            "x.onaudience.com",
             "xpath.syncrvprodist.com",
             "xpop.co"
+        ],
+        "to_test": [
+            "mamameidia.com",
+            "www.dateck.com",
+            "www.desirevandoorne.nl",
+            "www.themexp.org",
+            "www.top10registrycleaners.com",
+            "www.triplequadturbo.com"
         ]
     }
 }
