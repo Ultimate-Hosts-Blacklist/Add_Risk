@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1540381094": [
+        "1540747478": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -29,7 +29,9 @@
             "datattro.xyz",
             "desirevandoorne.nl",
             "dl1.ezthemes.com",
-            "dl.ezthemes.com",
+            "dl.ezthemes.com"
+        ],
+        "to_test": [
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
@@ -53,12 +55,13 @@
             "land.pckeeper.software",
             "mamameidia.com",
             "mormonchurchgenealogy.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
-            "n.targetbtracker.com",
+            "orders.webpower.com",
+            "p.securedownload01.com",
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
-            "p.securedownload01.com",
             "pub.ftv-publicite.fr",
             "quad-registry-cleaner.softonic.fr",
             "rainbowcolours.me.uk",
@@ -82,6 +85,7 @@
             "top10registrycleaners.com",
             "topdesktop.ezthemes.com",
             "track.viralvidi.com",
+            "trueguardscaner33-p.xorg.pl",
             "twairlines.com",
             "universal-downloader.softonic.fr",
             "vacationcellular.net",
@@ -112,7 +116,6 @@
             "www.contniental.com",
             "www.cudacorp.com",
             "www.desirevandoorne.nl",
-            "wwwdiscounthotel.com",
             "www.ebertandroeper.com",
             "www.electra-jjh.com.br",
             "www.expressaffiliatesite.com",
@@ -125,6 +128,12 @@
             "www.gamesharkcentral.com",
             "www.generationgirls.com",
             "www.getmeaticket.co.uk",
+            "www.gowin7.com",
+            "www.grendizer.biz",
+            "www.guardappsfarm.com",
+            "www.guardcyclequick.com",
+            "www.herbalsmokeshops.com",
+            "www.holdhelptime.com",
             "www.insidecentralfl.com",
             "www.intera-x.com",
             "www.joecartonn.com",
@@ -173,20 +182,11 @@
             "www.zoogdinsney.com",
             "www.zoogdisiny.com",
             "www.zooggames.com",
-            "xicaxique.com.br",
+            "wwwdiscounthotel.com",
             "x.onaudience.com",
+            "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "orders.webpower.com",
-            "trueguardscaner33-p.xorg.pl",
-            "www.gowin7.com",
-            "www.grendizer.biz",
-            "www.guardappsfarm.com",
-            "www.guardcyclequick.com",
-            "www.herbalsmokeshops.com",
-            "www.holdhelptime.com"
         ]
     }
 }
