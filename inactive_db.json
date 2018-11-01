@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1540747478": [
+        "1541071814": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -30,11 +30,14 @@
             "desirevandoorne.nl",
             "dl1.ezthemes.com",
             "dl.ezthemes.com",
+            "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
             "federatedstores.com",
             "files4.securedownload01.com",
-            "files5.securedownload01.com",
+            "files5.securedownload01.com"
+        ],
+        "to_test": [
             "fixio-pc-cleaner.com",
             "flashdem.fr",
             "funskins.ezthemes.com",
@@ -53,12 +56,15 @@
             "land.pckeeper.software",
             "mamameidia.com",
             "mormonchurchgenealogy.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
-            "n.targetbtracker.com",
             "orders.webpower.com",
+            "p.securedownload01.com",
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
+            "pub.ftv-publicite.fr",
+            "quad-registry-cleaner.softonic.fr",
             "rainbowcolours.me.uk",
             "rar-password-cracker.softonic.fr",
             "reg-cleaners.com",
@@ -81,6 +87,8 @@
             "topdesktop.ezthemes.com",
             "track.viralvidi.com",
             "trueguardscaner33-p.xorg.pl",
+            "twairlines.com",
+            "universal-downloader.softonic.fr",
             "vacationcellular.net",
             "verifiedbyverisigned.com",
             "wallpapers91.com",
@@ -109,7 +117,6 @@
             "www.contniental.com",
             "www.cudacorp.com",
             "www.desirevandoorne.nl",
-            "wwwdiscounthotel.com",
             "www.dogpial.com",
             "www.ebertandroeper.com",
             "www.electra-jjh.com.br",
@@ -147,6 +154,11 @@
             "www.prorodeosportmed.com",
             "www.registry-cleaners-compared.com",
             "www.secuurity.net",
+            "www.spamnuker.com",
+            "www.stimul-m.com.ua",
+            "www.strangeduckfilms.com",
+            "www.tangabilder.to",
+            "www.themexp.org",
             "www.theroamingjew.com",
             "www.thesearchster.com",
             "www.thesurfshield.com",
@@ -175,25 +187,13 @@
             "www.zoogdinsney.com",
             "www.zoogdisiny.com",
             "www.zooggames.com",
+            "wwwdiscounthotel.com",
+            "x.onaudience.com",
             "xicaxique.com.br",
             "xml.adfclick1.com",
             "xml.adventurefeeds.com",
-            "x.onaudience.com",
             "xpath.syncrvprodist.com",
             "xpop.co"
-        ],
-        "to_test": [
-            "electra-jjh.com.br",
-            "p.securedownload01.com",
-            "pub.ftv-publicite.fr",
-            "quad-registry-cleaner.softonic.fr",
-            "twairlines.com",
-            "universal-downloader.softonic.fr",
-            "www.spamnuker.com",
-            "www.stimul-m.com.ua",
-            "www.strangeduckfilms.com",
-            "www.tangabilder.to",
-            "www.themexp.org"
         ]
     }
 }
