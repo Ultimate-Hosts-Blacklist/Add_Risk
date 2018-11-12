@@ -1661,8 +1661,8 @@
             "state": "future"
         },
         "goolges.com": {
-            "epoch": "1541721600",
-            "expiration_date": "09-nov-2018",
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
             "state": "future"
         },
         "gopeds.com": {
@@ -1676,9 +1676,9 @@
             "state": "future"
         },
         "gowin7.com": {
-            "epoch": "1534982400",
-            "expiration_date": "23-aug-2018",
-            "state": "past"
+            "epoch": "1573257600",
+            "expiration_date": "09-nov-2019",
+            "state": "future"
         },
         "grabfile.co": {
             "epoch": "1569715200",
@@ -1901,8 +1901,8 @@
             "state": "future"
         },
         "infra.by": {
-            "epoch": "1541980800",
-            "expiration_date": "12-nov-2018",
+            "epoch": "1573516800",
+            "expiration_date": "12-nov-2019",
             "state": "future"
         },
         "innatek.com": {
