@@ -3466,9 +3466,9 @@
             "state": "future"
         },
         "spamnuker.com": {
-            "epoch": "1535500800",
-            "expiration_date": "29-aug-2018",
-            "state": "past"
+            "epoch": "1573948800",
+            "expiration_date": "17-nov-2019",
+            "state": "future"
         },
         "specilized.com": {
             "epoch": "1607126400",
@@ -3898,7 +3898,7 @@
         "tuckows.com": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "turkeyrank.com": {
             "epoch": "1546560000",
@@ -4123,7 +4123,7 @@
         "wordseach.com": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "wpxn.com": {
             "epoch": "1570406400",
