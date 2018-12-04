@@ -1946,8 +1946,8 @@
             "state": "future"
         },
         "isettatech.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "islamipedia.org": {
@@ -2611,9 +2611,9 @@
             "state": "future"
         },
         "nmapquest.com": {
-            "epoch": "1540684800",
-            "expiration_date": "28-oct-2018",
-            "state": "past"
+            "epoch": "1575072000",
+            "expiration_date": "30-nov-2019",
+            "state": "future"
         },
         "nryb.com": {
             "epoch": "1569024000",
@@ -2671,8 +2671,8 @@
             "state": "future"
         },
         "onlinedownloads.org": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
             "state": "future"
         },
         "onwardclick.com": {
@@ -2813,7 +2813,7 @@
         "pcsecurityshield.com": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "pdf-platinum.info": {
             "epoch": "1551052800",
@@ -3031,8 +3031,8 @@
             "state": "future"
         },
         "registry-cleaners-compared.com": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "registry-error-cleaner.com": {
