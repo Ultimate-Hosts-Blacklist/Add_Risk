@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1544270234": [
+        "1544529356": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -9,7 +9,6 @@
             "6.bbnface.com",
             "ackjeeves.com",
             "adamsmarkhotels.com",
-            "afa15.com.ne.kr",
             "aintdoinshit.com",
             "aircrack-ng.softonic.fr",
             "alexanderinteriorsanddesign.com",
@@ -42,7 +41,12 @@
             "federatedstores.com",
             "feedx.bidsystem.com",
             "files4.securedownload01.com",
-            "files5.securedownload01.com",
+            "files5.securedownload01.com"
+        ],
+        "to_test": [
+            "fixio-pc-cleaner.com",
+            "flashdem.fr",
+            "funskins.ezthemes.com",
             "galtthemes.ezthemes.com",
             "gamerevoluton.com",
             "gamesharkcentral.com",
@@ -61,16 +65,16 @@
             "mamameidia.com",
             "mormonchurchgenealogy.com",
             "mp3playerprovider.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
-            "n.targetbtracker.com",
             "orders.webpower.com",
+            "p.securedownload01.com",
             "patrickhickey.eu",
             "pda.mv.bidsystem.com",
             "perfectionautorepairs.com",
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
-            "p.securedownload01.com",
             "pub.ftv-publicite.fr",
             "quad-registry-cleaner.softonic.fr",
             "rainbowcolours.me.uk",
@@ -97,8 +101,8 @@
             "tmgr.ccmbg.com",
             "top10registrycleaners.com",
             "topdesktop.ezthemes.com",
-            "tracking-stats-tr.usa.cc",
             "track.viralvidi.com",
+            "tracking-stats-tr.usa.cc",
             "trueguardscaner33-p.xorg.pl",
             "tube.exclusiotv.be",
             "twairlines.com",
@@ -111,7 +115,6 @@
             "winlock.usa.cc",
             "wmediaplayernow.com",
             "www.101malls.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
             "www.ackjeeves.com",
             "www.adamsmarkhotels.com",
             "www.aintdoinshit.com",
@@ -122,7 +125,6 @@
             "www.bigstoreoffers.co.uk",
             "www.bluemounten.com",
             "www.bonzybuddy.com",
-            "wwwbowcreek.com",
             "www.buyskype.ru",
             "www.calllwave.com",
             "www.catgallery.com",
@@ -131,6 +133,7 @@
             "www.cudacorp.com",
             "www.desirevandoorne.nl",
             "www.disable-uac.com",
+            "www.electra-jjh.com.br",
             "www.ezthemes.com",
             "www.f8350e7c1.se",
             "www.federatedstores.com",
@@ -181,18 +184,14 @@
             "www.zoogdinsney.com",
             "www.zoogdisiny.com",
             "www.zooggames.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co",
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "fixio-pc-cleaner.com",
-            "flashdem.fr",
-            "funskins.ezthemes.com",
-            "www.electra-jjh.com.br"
         ]
     }
 }
