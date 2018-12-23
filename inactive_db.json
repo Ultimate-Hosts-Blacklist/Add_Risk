@@ -128,16 +128,7 @@
             "www.cudacorp.com",
             "www.desifever.com",
             "www.desirevandoorne.nl",
-            "www.disable-uac.com"
-        ],
-        "to_test": [
-            "files4.securedownload01.com",
-            "files5.securedownload01.com",
-            "fixio-pc-cleaner.com",
-            "flashdem.fr",
-            "www.electra-jjh.com.br",
-            "www.ezthemes.com",
-            "www.f8350e7c1.se",
+            "www.disable-uac.com",
             "www.federatedstores.com",
             "www.findit-quick.com",
             "www.fixio-pc-cleaner.com",
@@ -145,6 +136,7 @@
             "www.gamesharkcentral.com",
             "www.get-avast.com",
             "www.getmeaticket.co.uk",
+            "www.goolges.com",
             "www.grendizer.biz",
             "www.guardappsfarm.com",
             "www.guardcyclequick.com",
@@ -192,6 +184,15 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
+        ],
+        "to_test": [
+            "files4.securedownload01.com",
+            "files5.securedownload01.com",
+            "fixio-pc-cleaner.com",
+            "flashdem.fr",
+            "www.electra-jjh.com.br",
+            "www.ezthemes.com",
+            "www.f8350e7c1.se"
         ]
     }
 }
