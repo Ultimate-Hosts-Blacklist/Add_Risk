@@ -188,12 +188,12 @@
             "serviceyourpaypal.com",
             "smc.silvercash.com",
             "www.classicallyabsurdphotography.com",
-            "www.continentialairline.com"
-        ],
-        "to_test": [
+            "www.continentialairline.com",
+            "www.silvercash.com",
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ]
+        ],
+        "to_test": []
     }
 }
