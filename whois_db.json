@@ -1616,8 +1616,8 @@
             "state": "future"
         },
         "globalcharge.com": {
-            "epoch": "1545696000",
-            "expiration_date": "25-dec-2018",
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
             "state": "future"
         },
         "gnuetella.com": {
@@ -2433,7 +2433,7 @@
         "mm26.com": {
             "epoch": "1545868800",
             "expiration_date": "27-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "mmapquest.com": {
             "epoch": "1566259200",
