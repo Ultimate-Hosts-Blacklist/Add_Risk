@@ -189,12 +189,11 @@
             "www.continentialairline.com",
             "www.cudacorp.com",
             "www.desifever.com",
-            "www.desirevandoorne.nl"
-        ],
-        "to_test": [
+            "www.desirevandoorne.nl",
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ]
+        ],
+        "to_test": []
     }
 }
