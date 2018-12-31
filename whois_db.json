@@ -1868,7 +1868,7 @@
         "icracks.net": {
             "epoch": "1546214400",
             "expiration_date": "31-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "ieginc.com": {
             "epoch": "1555977600",
@@ -2431,9 +2431,9 @@
             "state": "future"
         },
         "mm26.com": {
-            "epoch": "1545868800",
-            "expiration_date": "27-dec-2018",
-            "state": "past"
+            "epoch": "1577404800",
+            "expiration_date": "27-dec-2019",
+            "state": "future"
         },
         "mmapquest.com": {
             "epoch": "1566259200",
@@ -2681,8 +2681,8 @@
             "state": "future"
         },
         "onwey.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "oofun.com": {
@@ -2886,8 +2886,8 @@
             "state": "future"
         },
         "playsataion.com": {
-            "epoch": "1546128000",
-            "expiration_date": "30-dec-2018",
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
             "state": "future"
         },
         "playstatation.com": {
