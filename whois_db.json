@@ -3506,8 +3506,8 @@
             "state": "future"
         },
         "spywareit.com": {
-            "epoch": "1546473600",
-            "expiration_date": "03-jan-2019",
+            "epoch": "1578009600",
+            "expiration_date": "03-jan-2020",
             "state": "future"
         },
         "spywarenuker.com": {
@@ -3678,7 +3678,7 @@
         "theweatherspace.com": {
             "epoch": "1546560000",
             "expiration_date": "04-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "thoroclean.com": {
             "epoch": "1571529600",
@@ -3901,8 +3901,8 @@
             "state": "future"
         },
         "turkeyrank.com": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "twskype.com": {
