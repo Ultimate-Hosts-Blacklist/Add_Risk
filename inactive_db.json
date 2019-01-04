@@ -193,12 +193,11 @@
             "serviceyourpaypal.com",
             "www.desifever.com",
             "www.desirevandoorne.nl",
-            "www.disable-uac.com"
-        ],
-        "to_test": [
+            "www.disable-uac.com",
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ]
+        ],
+        "to_test": []
     }
 }

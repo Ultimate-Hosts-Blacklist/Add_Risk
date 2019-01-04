@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "down": 9,
+        "down": 0,
         "invalid": 0,
-        "tested": 2241,
-        "up": 2232
+        "tested": 0,
+        "up": 0
     }
 }
