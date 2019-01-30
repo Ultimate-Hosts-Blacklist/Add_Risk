@@ -451,9 +451,9 @@
             "state": "future"
         },
         "bdsmcompany.com": {
-            "epoch": "1548547200",
-            "expiration_date": "27-jan-2019",
-            "state": "past"
+            "epoch": "1580083200",
+            "expiration_date": "27-jan-2020",
+            "state": "future"
         },
         "bdsmtours.com": {
             "epoch": "1573430400",
@@ -976,8 +976,8 @@
             "state": "future"
         },
         "consumeralternatives.org": {
-            "epoch": "1548720000",
-            "expiration_date": "29-jan-2019",
+            "epoch": "1580256000",
+            "expiration_date": "29-jan-2020",
             "state": "future"
         },
         "contentcleaner.com": {
