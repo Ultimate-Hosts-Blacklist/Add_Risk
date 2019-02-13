@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1549801205": [
+        "1550060480": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -34,13 +34,15 @@
             "datattro.xyz",
             "desirevandoorne.nl",
             "dl1.ezthemes.com",
-            "dl.ezthemes.com",
+            "dl.ezthemes.com"
+        ],
+        "to_test": [
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
+            "f.gj555.net",
             "f8350e7c1.se",
             "federatedstores.com",
             "feedx.bidsystem.com",
-            "f.gj555.net",
             "files4.securedownload01.com",
             "files5.securedownload01.com",
             "fixio-pc-cleaner.com",
@@ -68,15 +70,17 @@
             "ming-dun.com.tw",
             "mormonchurchgenealogy.com",
             "mp3playerprovider.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
-            "n.targetbtracker.com",
             "online.sh.cn",
+            "orders.webpower.com",
+            "p.securedownload01.com",
+            "patrickhickey.eu",
             "pda.mv.bidsystem.com",
             "perfectionautorepairs.com",
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
-            "p.securedownload01.com",
             "pub.ftv-publicite.fr",
             "quad-registry-cleaner.softonic.fr",
             "rahulthehacker.tk",
@@ -103,9 +107,10 @@
             "themexp.ezthemes.com",
             "top10registrycleaners.com",
             "topdesktop.ezthemes.com",
-            "tracking-stats-tr.usa.cc",
             "track.viralvidi.com",
+            "tracking-stats-tr.usa.cc",
             "trueguardscaner33-p.xorg.pl",
+            "tube.exclusiotv.be",
             "twairlines.com",
             "unblocksit.es",
             "universal-downloader.softonic.fr",
@@ -117,7 +122,6 @@
             "winlock.usa.cc",
             "wmediaplayernow.com",
             "www.105vibe.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
             "www.ackjeeves.com",
             "www.adamsmarkhotels.com",
             "www.aintdoinshit.com",
@@ -130,7 +134,6 @@
             "www.beyondwhois.com",
             "www.bigstoreoffers.co.uk",
             "www.bluemounten.com",
-            "wwwbowcreek.com",
             "www.buyskype.ru",
             "www.calllwave.com",
             "www.catgallery.com",
@@ -175,6 +178,9 @@
             "www.playsataion.com",
             "www.poesiadelsud.it",
             "www.pokemonporno.com",
+            "www.progettocrea.org",
+            "www.quad-cleaner.com",
+            "www.registry-cleaners-compared.com",
             "www.scanspyware.net",
             "www.secuurity.net",
             "www.stimul-m.com.ua",
@@ -203,6 +209,8 @@
             "www.zoogdinsney.com",
             "www.zoogdisiny.com",
             "www.zooggames.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co",
@@ -210,14 +218,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "orders.webpower.com",
-            "patrickhickey.eu",
-            "tube.exclusiotv.be",
-            "www.progettocrea.org",
-            "www.quad-cleaner.com",
-            "www.registry-cleaners-compared.com"
         ]
     }
 }
