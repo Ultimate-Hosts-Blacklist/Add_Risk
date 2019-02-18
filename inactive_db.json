@@ -72,13 +72,10 @@
             "n.targetbtracker.com",
             "orders.webpower.com",
             "patrickhickey.eu",
-            "pda.mv.bidsystem.com"
-        ],
-        "to_test": [
-            "p.securedownload01.com",
-            "perfectionautorepairs.com",
+            "pda.mv.bidsystem.com",
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
+            "p.securedownload01.com",
             "pub.ftv-publicite.fr",
             "quad-registry-cleaner.softonic.fr",
             "rahulthehacker.tk",
@@ -105,9 +102,12 @@
             "themexp.ezthemes.com",
             "top10registrycleaners.com",
             "topdesktop.ezthemes.com",
-            "track.viralvidi.com",
             "tracking-stats-tr.usa.cc",
-            "trueguardscaner33-p.xorg.pl",
+            "track.viralvidi.com",
+            "trueguardscaner33-p.xorg.pl"
+        ],
+        "to_test": [
+            "perfectionautorepairs.com",
             "tube.exclusiotv.be",
             "twairlines.com",
             "unblocksit.es",
