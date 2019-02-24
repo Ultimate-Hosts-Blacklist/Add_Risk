@@ -2696,13 +2696,13 @@
             "state": "future"
         },
         "opensoftwareupdate.com": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
             "state": "future"
         },
         "opensoftwareupdater.com": {
-            "epoch": "1550707200",
-            "expiration_date": "21-feb-2019",
+            "epoch": "1582243200",
+            "expiration_date": "21-feb-2020",
             "state": "future"
         },
         "optimization-methods.com": {
@@ -2756,9 +2756,9 @@
             "state": "future"
         },
         "payn.me": {
-            "epoch": "1550448000",
-            "expiration_date": "18-feb-2019",
-            "state": "past"
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
+            "state": "future"
         },
         "paypal-exchange.com": {
             "epoch": "1575849600",
@@ -2776,8 +2776,8 @@
             "state": "future"
         },
         "pc-detox.com": {
-            "epoch": "1550534400",
-            "expiration_date": "19-feb-2019",
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
             "state": "future"
         },
         "pccleaner.com": {
@@ -3066,8 +3066,8 @@
             "state": "future"
         },
         "registrycleanertop.com": {
-            "epoch": "1550966400",
-            "expiration_date": "24-feb-2019",
+            "epoch": "1582502400",
+            "expiration_date": "24-feb-2020",
             "state": "future"
         },
         "registrydefender.com": {
@@ -3141,8 +3141,8 @@
             "state": "future"
         },
         "root--servers.org": {
-            "epoch": "1550620800",
-            "expiration_date": "20-feb-2019",
+            "epoch": "1613779200",
+            "expiration_date": "20-feb-2021",
             "state": "future"
         },
         "rowanmclean.com": {
@@ -3341,8 +3341,8 @@
             "state": "future"
         },
         "sellmeyourtraffic.com": {
-            "epoch": "1550534400",
-            "expiration_date": "19-feb-2019",
+            "epoch": "1582070400",
+            "expiration_date": "19-feb-2020",
             "state": "future"
         },
         "sendfwd.com": {
