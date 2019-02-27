@@ -3195,6 +3195,11 @@
             "expiration_date": "10-nov-2019",
             "state": "future"
         },
+        "redhotchilli.co.uk": {
+            "epoch": "1564617600",
+            "expiration_date": "01-aug-2019",
+            "state": "future"
+        },
         "redirectme.net": {
             "epoch": "1628553600",
             "expiration_date": "10-aug-2021",
@@ -3285,9 +3290,19 @@
             "expiration_date": "15-nov-2019",
             "state": "future"
         },
+        "researchnow.co.uk": {
+            "epoch": "1552089600",
+            "expiration_date": "09-mar-2019",
+            "state": "future"
+        },
         "restore-pc.com": {
             "epoch": "1555891200",
             "expiration_date": "22-apr-2019",
+            "state": "future"
+        },
+        "rewardsnow.co.uk": {
+            "epoch": "1556323200",
+            "expiration_date": "27-apr-2019",
             "state": "future"
         },
         "rewardszoneusa.com": {
@@ -3500,6 +3515,11 @@
             "expiration_date": "04-nov-2019",
             "state": "future"
         },
+        "securemypc.co.uk": {
+            "epoch": "1610755200",
+            "expiration_date": "16-jan-2021",
+            "state": "future"
+        },
         "securetracking2.com": {
             "epoch": "1564963200",
             "expiration_date": "05-aug-2019",
@@ -3526,8 +3546,8 @@
             "state": "future"
         },
         "selfsurveys.com": {
-            "epoch": "1551225600",
-            "expiration_date": "27-feb-2019",
+            "epoch": "1582761600",
+            "expiration_date": "27-feb-2020",
             "state": "future"
         },
         "sellmeyourtraffic.com": {
@@ -3785,6 +3805,11 @@
             "expiration_date": "30-dec-2020",
             "state": "future"
         },
+        "ta.com.tw": {
+            "epoch": "1568937600",
+            "expiration_date": "20-sep-2019",
+            "state": "future"
+        },
         "taffr.com": {
             "epoch": "1565568000",
             "expiration_date": "12-aug-2019",
@@ -3903,6 +3928,11 @@
         "toonfamilies.net": {
             "epoch": "1569974400",
             "expiration_date": "02-oct-2019",
+            "state": "future"
+        },
+        "top50.co.uk": {
+            "epoch": "1600041600",
+            "expiration_date": "14-sep-2020",
             "state": "future"
         },
         "topqualitylink.com": {
@@ -4108,6 +4138,11 @@
         "tzw.com": {
             "epoch": "1571270400",
             "expiration_date": "17-oct-2019",
+            "state": "future"
+        },
+        "unblockfacebook.co.uk": {
+            "epoch": "1581984000",
+            "expiration_date": "18-feb-2020",
             "state": "future"
         },
         "unlimiclick.com": {
