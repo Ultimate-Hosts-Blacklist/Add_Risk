@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1551098067": [
+        "1551271197": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -34,7 +34,9 @@
             "datattro.xyz",
             "desirevandoorne.nl",
             "dl1.ezthemes.com",
-            "dl.ezthemes.com",
+            "dl.ezthemes.com"
+        ],
+        "to_test": [
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
@@ -59,8 +61,8 @@
             "img.xratedbucks.com",
             "in.riskymail4free.com",
             "insidecentralfl.com",
-            "joecartonn.com",
             "j.theadsnet.com",
+            "joecartonn.com",
             "kc.mv.bidsystem.com",
             "keygen-password-generator.softonic.fr",
             "land.pckeeper.software",
@@ -68,13 +70,17 @@
             "mamameidia.com",
             "mormonchurchgenealogy.com",
             "mp3playerprovider.com",
+            "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
-            "n.targetbtracker.com",
             "orders.webpower.com",
+            "p.securedownload01.com",
             "patrickhickey.eu",
             "pda.mv.bidsystem.com",
             "perfectionautorepairs.com",
+            "portalangels-1.pop3.ru",
+            "portalangels.pop3.ru",
+            "pub.ftv-publicite.fr",
             "quad-registry-cleaner.softonic.fr",
             "rahulthehacker.tk",
             "rainbowcolours.me.uk",
@@ -100,9 +106,12 @@
             "themexp.ezthemes.com",
             "top10registrycleaners.com",
             "topdesktop.ezthemes.com",
-            "tracking-stats-tr.usa.cc",
             "track.viralvidi.com",
+            "tracking-stats-tr.usa.cc",
             "trueguardscaner33-p.xorg.pl",
+            "twairlines.com",
+            "unblocksit.es",
+            "universal-downloader.softonic.fr",
             "vacationcellular.net",
             "verifiedbyverisigned.com",
             "wallpapers91.com",
@@ -111,7 +120,6 @@
             "winlock.usa.cc",
             "wmediaplayernow.com",
             "www.105vibe.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
             "www.ackjeeves.com",
             "www.adamsmarkhotels.com",
             "www.aintdoinshit.com",
@@ -123,7 +131,6 @@
             "www.beyondwhois.com",
             "www.bigstoreoffers.co.uk",
             "www.bluemounten.com",
-            "wwwbowcreek.com",
             "www.buyskype.ru",
             "www.calllwave.com",
             "www.catgallery.com",
@@ -170,6 +177,8 @@
             "www.progettocrea.org",
             "www.quad-cleaner.com",
             "www.registry-cleaners-compared.com",
+            "www.riskymail4free.com",
+            "www.secuurity.net",
             "www.stimul-m.com.ua",
             "www.strangeduckfilms.com",
             "www.tangabilder.to",
@@ -196,6 +205,8 @@
             "www.zoogdiseny.com",
             "www.zoogdisiny.com",
             "www.zooggames.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co",
@@ -205,17 +216,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "p.securedownload01.com",
-            "portalangels-1.pop3.ru",
-            "portalangels.pop3.ru",
-            "pub.ftv-publicite.fr",
-            "twairlines.com",
-            "unblocksit.es",
-            "universal-downloader.softonic.fr",
-            "www.riskymail4free.com",
-            "www.secuurity.net"
         ]
     }
 }
