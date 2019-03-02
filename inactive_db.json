@@ -206,9 +206,7 @@
             "www.alexanderinteriorsanddesign.com",
             "www.altafista.com",
             "www.antalya.ru",
-            "www.anticarredodolomiti.com"
-        ],
-        "to_test": [
+            "www.anticarredodolomiti.com",
             "www.unblocksit.es",
             "www.vacationcellular.net",
             "www.wallpapers91.com",
@@ -216,6 +214,7 @@
             "www.winscholarship.com",
             "www.wmediaplayernow.com",
             "www.wmserver.net"
-        ]
+        ],
+        "to_test": []
     }
 }
