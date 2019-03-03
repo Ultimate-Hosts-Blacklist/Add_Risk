@@ -4910,9 +4910,19 @@
             "expiration_date": "16-jan-2020",
             "state": "future"
         },
+        "xclicks.net": {
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
+            "state": "future"
+        },
         "xed.pl": {
             "epoch": "1580428800",
             "expiration_date": "31-jan-2020",
+            "state": "future"
+        },
+        "xsedu.zj.cn": {
+            "epoch": "1638748800",
+            "expiration_date": "06-dec-2021",
             "state": "future"
         },
         "xtrafic.ro": {
@@ -4933,6 +4943,11 @@
         "ymxpb.com": {
             "epoch": "1569456000",
             "expiration_date": "26-sep-2019",
+            "state": "future"
+        },
+        "yourdedicatedhost.com": {
+            "epoch": "1568073600",
+            "expiration_date": "10-sep-2019",
             "state": "future"
         },
         "youtuhe.com": {
