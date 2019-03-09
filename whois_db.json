@@ -3531,8 +3531,8 @@
             "state": "future"
         },
         "researchnow.co.uk": {
-            "epoch": "1552089600",
-            "expiration_date": "09-mar-2019",
+            "epoch": "1583712000",
+            "expiration_date": "09-mar-2020",
             "state": "future"
         },
         "restore-pc.com": {
@@ -4656,8 +4656,8 @@
             "state": "future"
         },
         "widestep.com": {
-            "epoch": "1552089600",
-            "expiration_date": "09-mar-2019",
+            "epoch": "1583712000",
+            "expiration_date": "09-mar-2020",
             "state": "future"
         },
         "win-spy.com": {
@@ -4673,7 +4673,7 @@
         "winaproduct.com": {
             "epoch": "1552089600",
             "expiration_date": "09-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "wincleaner.com": {
             "epoch": "1577491200",
