@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1552084340": [
+        "1552221947": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -65,7 +65,11 @@
             "joecartonn.com",
             "kc.mv.bidsystem.com",
             "keygen-password-generator.softonic.fr",
-            "land.pckeeper.software",
+            "land.pckeeper.software"
+        ],
+        "to_test": [
+            "mamameidia.com",
+            "maybankard.com.my",
             "mormonchurchgenealogy.com",
             "mp3playerprovider.com",
             "n.targetbtracker.com",
@@ -127,6 +131,13 @@
             "www.adamsmarkhotels.com",
             "www.aff12.com",
             "www.affntwklnk.com",
+            "www.aintdoinshit.com",
+            "www.alexanderinteriorsanddesign.com",
+            "www.altafista.com",
+            "www.anonymousproxy.tk",
+            "www.antalya.ru",
+            "www.anticarredodolomiti.com",
+            "www.arecio.work",
             "www.ayada.zapto.org",
             "www.ayehcleaners.com",
             "www.babos.scrapping.cc",
@@ -280,6 +291,7 @@
             "www.zoogdiseny.com",
             "www.zoogdisiny.com",
             "www.zoogdisny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
             "wwwbowcreek.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
@@ -290,18 +302,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "mamameidia.com",
-            "maybankard.com.my",
-            "www.aintdoinshit.com",
-            "www.alexanderinteriorsanddesign.com",
-            "www.altafista.com",
-            "www.anonymousproxy.tk",
-            "www.antalya.ru",
-            "www.anticarredodolomiti.com",
-            "www.arecio.work",
-            "www3.y-83m4wjpzlx6.usa.cc"
         ]
     }
 }
