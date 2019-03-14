@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1552395105": [
+        "1552567217": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -37,7 +37,6 @@
             "dipli.unipa.it",
             "dl.ezthemes.com",
             "dl1.ezthemes.com",
-            "download.cdn.sharelive.net",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
@@ -66,6 +65,9 @@
             "joecartonn.com",
             "kc.mv.bidsystem.com",
             "keygen-password-generator.softonic.fr",
+            "land.pckeeper.software"
+        ],
+        "to_test": [
             "mamameidia.com",
             "maybankard.com.my",
             "mormonchurchgenealogy.com",
@@ -127,6 +129,12 @@
             "www.ackjeeves.com",
             "www.actrck.com",
             "www.adamsmarkhotels.com",
+            "www.aff12.com",
+            "www.affntwklnk.com",
+            "www.aintdoinshit.com",
+            "www.alexanderinteriorsanddesign.com",
+            "www.alibabaslots.com",
+            "www.altafista.com",
             "www.anonymousproxy.tk",
             "www.antalya.ru",
             "www.anticarredodolomiti.com",
@@ -287,26 +295,17 @@
             "www.zoogdiseny.com",
             "www.zoogdisiny.com",
             "www.zoogdisny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
             "wwwbowcreek.com",
+            "xicaxique.com.br",
+            "xpath.syncrvprodist.com",
+            "xpop.co",
+            "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com",
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "land.pckeeper.software",
-            "www.aff12.com",
-            "www.affntwklnk.com",
-            "www.aintdoinshit.com",
-            "www.alexanderinteriorsanddesign.com",
-            "www.alibabaslots.com",
-            "www.altafista.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "xicaxique.com.br",
-            "xpath.syncrvprodist.com",
-            "xpop.co",
-            "yk.handlerhackz.tk"
         ]
     }
 }
