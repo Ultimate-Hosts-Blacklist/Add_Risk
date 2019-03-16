@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1552567217": [
+        "1552739719": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -54,7 +54,6 @@
             "glb.activeprospect.com",
             "google-hacks.softonic.fr",
             "googlenews.xorg.pl",
-            "gredinatib.org",
             "grendizer.biz",
             "handlerhackz.tk",
             "hira.hopto.org",
@@ -65,7 +64,9 @@
             "joecartonn.com",
             "kc.mv.bidsystem.com",
             "keygen-password-generator.softonic.fr",
-            "land.pckeeper.software",
+            "land.pckeeper.software"
+        ],
+        "to_test": [
             "mamameidia.com",
             "maybankard.com.my",
             "mormonchurchgenealogy.com",
@@ -126,6 +127,13 @@
             "www.94uyvwwh.com",
             "www.ackjeeves.com",
             "www.actrck.com",
+            "www.adamsmarkhotels.com",
+            "www.aff12.com",
+            "www.affntwklnk.com",
+            "www.aintdoinshit.com",
+            "www.alexanderinteriorsanddesign.com",
+            "www.alibabaslots.com",
+            "www.altafista.com",
             "www.anonymousproxy.tk",
             "www.antalya.ru",
             "www.anticarredodolomiti.com",
@@ -286,26 +294,17 @@
             "www.zoogdiseny.com",
             "www.zoogdisiny.com",
             "www.zoogdisny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
             "wwwbowcreek.com",
+            "xicaxique.com.br",
+            "xpath.syncrvprodist.com",
+            "xpop.co",
             "yk.handlerhackz.tk",
             "za2.zeroredirect8.com",
             "zd1.zeroredirect6.com",
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "www.adamsmarkhotels.com",
-            "www.aff12.com",
-            "www.affntwklnk.com",
-            "www.aintdoinshit.com",
-            "www.alexanderinteriorsanddesign.com",
-            "www.alibabaslots.com",
-            "www.altafista.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "xicaxique.com.br",
-            "xpath.syncrvprodist.com",
-            "xpop.co"
         ]
     }
 }
