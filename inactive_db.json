@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1552739719": [
+        "1552912881": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -64,7 +64,11 @@
             "joecartonn.com",
             "kc.mv.bidsystem.com",
             "keygen-password-generator.softonic.fr",
-            "land.pckeeper.software",
+            "land.pckeeper.software"
+        ],
+        "to_test": [
+            "mamameidia.com",
+            "maybankard.com.my",
             "mormonchurchgenealogy.com",
             "mp3playerprovider.com",
             "n.targetbtracker.com",
@@ -143,6 +147,9 @@
             "www.bluemountain1.com",
             "www.bluemountain2.com",
             "www.bluemounten.com",
+            "www.buyskype.ru",
+            "www.calllwave.com",
+            "www.catgallery.com",
             "www.classicallyabsurdphotography.com",
             "www.cleanallvirus.com",
             "www.clearshieldredirect.com",
@@ -288,6 +295,8 @@
             "www.zoogdiseny.com",
             "www.zoogdisiny.com",
             "www.zoogdisny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co",
@@ -297,15 +306,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "mamameidia.com",
-            "maybankard.com.my",
-            "www.buyskype.ru",
-            "www.calllwave.com",
-            "www.catgallery.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "wwwbowcreek.com"
         ]
     }
 }
