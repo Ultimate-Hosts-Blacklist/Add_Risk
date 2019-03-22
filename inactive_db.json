@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1553085990": [
+        "1553258282": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -21,6 +21,7 @@
             "bar.mytotalsearch.com",
             "bigstoreoffers.co.uk",
             "bluemounten.com",
+            "bn.profiwin.de",
             "burnvirusnow33.xorg.pl",
             "buyskype.ru",
             "call.stopitanddropit.com",
@@ -71,6 +72,11 @@
             "kc.mv.bidsystem.com",
             "keygen-password-generator.softonic.fr",
             "land.pckeeper.software",
+            "m-barati.de",
+            "mamameidia.com",
+            "maybankard.com.my"
+        ],
+        "to_test": [
             "mormonchurchgenealogy.com",
             "mp3playerprovider.com",
             "mrace.hopto.org",
@@ -146,6 +152,13 @@
             "www.ayehcleaners.com",
             "www.babos.scrapping.cc",
             "www.bestadbid.com",
+            "www.beyondwhois.com",
+            "www.bigstoreoffers.co.uk",
+            "www.bluemountain1.com",
+            "www.bluemountain2.com",
+            "www.bluemounten.com",
+            "www.brans.pl",
+            "www.buyskype.ru",
             "www.calllwave.com",
             "www.catgallery.com",
             "www.classicallyabsurdphotography.com",
@@ -296,6 +309,8 @@
             "www.zoogdiseny.com",
             "www.zoogdisiny.com",
             "www.zoogdisny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co",
@@ -306,19 +321,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "mamameidia.com",
-            "maybankard.com.my",
-            "www.beyondwhois.com",
-            "www.bigstoreoffers.co.uk",
-            "www.bluemountain1.com",
-            "www.bluemountain2.com",
-            "www.bluemounten.com",
-            "www.brans.pl",
-            "www.buyskype.ru",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "wwwbowcreek.com"
         ]
     }
 }
