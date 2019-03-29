@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1553692018": [
+        "1553864567": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -40,6 +40,7 @@
             "dl1.ezthemes.com",
             "dlldlldll.sytes.net",
             "doda.redirectme.net",
+            "download.fyxm.net",
             "electra-jjh.com.br",
             "ezthemes.ezthemes.com",
             "f8350e7c1.se",
@@ -71,9 +72,13 @@
             "kc.mv.bidsystem.com",
             "keygen-password-generator.softonic.fr",
             "land.pckeeper.software",
-            "m-barati.de",
-            "mamameidia.com",
+            "mamameidia.com"
+        ],
+        "to_test": [
             "maybankard.com.my",
+            "mormonchurchgenealogy.com",
+            "mp3playerprovider.com",
+            "mrace.hopto.org",
             "n.targetbtracker.com",
             "nikolamireasa.com",
             "npktrk1.com",
@@ -154,6 +159,8 @@
             "www.buyskype.ru",
             "www.calllwave.com",
             "www.catgallery.com",
+            "www.classicallyabsurdphotography.com",
+            "www.cleanallvirus.com",
             "www.collectiable.com",
             "www.comfz.com",
             "www.contentcleaner.com",
@@ -302,6 +309,8 @@
             "www.zoogdiseny.com",
             "www.zoogdisiny.com",
             "www.zoogdisny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co",
@@ -312,15 +321,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "mormonchurchgenealogy.com",
-            "mp3playerprovider.com",
-            "mrace.hopto.org",
-            "www.classicallyabsurdphotography.com",
-            "www.cleanallvirus.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "wwwbowcreek.com"
         ]
     }
 }
