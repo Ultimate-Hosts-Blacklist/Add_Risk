@@ -155,18 +155,7 @@
             "www.calllwave.com",
             "www.catgallery.com",
             "www.classicallyabsurdphotography.com",
-            "www.cleanallvirus.com"
-        ],
-        "to_test": [
-            "maybankard.com.my",
-            "mormonchurchgenealogy.com",
-            "mp3playerprovider.com",
-            "mrace.hopto.org",
-            "www.collectiable.com",
-            "www.comfz.com",
-            "www.contentcleaner.com",
-            "www.continentialairline.com",
-            "www.crackspider.net",
+            "www.cleanallvirus.com",
             "www.cudacorp.com",
             "www.desirevandoorne.nl",
             "www.dlldlldll.sytes.net",
@@ -294,6 +283,7 @@
             "www.wwwbluelight.com",
             "www.wwwbluemountian.com",
             "www.wwwbowcreek.com",
+            "www.wwwcallwave.com",
             "www.wwwplaysite.com",
             "www.wwwservicemerchandise.com",
             "www.wwwuproar.com",
@@ -310,8 +300,6 @@
             "www.zoogdiseny.com",
             "www.zoogdisiny.com",
             "www.zoogdisny.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "wwwbowcreek.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
             "xpop.co",
@@ -322,6 +310,19 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
+        ],
+        "to_test": [
+            "maybankard.com.my",
+            "mormonchurchgenealogy.com",
+            "mp3playerprovider.com",
+            "mrace.hopto.org",
+            "www.collectiable.com",
+            "www.comfz.com",
+            "www.contentcleaner.com",
+            "www.continentialairline.com",
+            "www.crackspider.net",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com"
         ]
     }
 }
