@@ -2796,8 +2796,8 @@
             "state": "future"
         },
         "morenews3.net": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
             "state": "future"
         },
         "mp3playerprovider.com": {
@@ -3558,7 +3558,7 @@
         "ribcagebags.com": {
             "epoch": "1553990400",
             "expiration_date": "31-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "riccardochinnici.it": {
             "epoch": "1555977600",
@@ -3591,8 +3591,8 @@
             "state": "future"
         },
         "rngetek.com": {
-            "epoch": "1553990400",
-            "expiration_date": "31-mar-2019",
+            "epoch": "1617148800",
+            "expiration_date": "31-mar-2021",
             "state": "future"
         },
         "robtopol.in": {
@@ -3841,8 +3841,8 @@
             "state": "future"
         },
         "seonetwizard.com": {
-            "epoch": "1553904000",
-            "expiration_date": "30-mar-2019",
+            "epoch": "1585526400",
+            "expiration_date": "30-mar-2020",
             "state": "future"
         },
         "sevenstars7.com": {
