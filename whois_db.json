@@ -3258,7 +3258,7 @@
         "plarium.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "playerassist.com": {
             "epoch": "1590364800",
@@ -3408,7 +3408,7 @@
         "quinnwealth.com": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "r2prod.com": {
             "epoch": "1577836800",
