@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1554900464": [
+        "1555073376": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -75,7 +75,6 @@
             "i.zeroredirect.com",
             "img.xratedbucks.com",
             "insidecentralfl.com",
-            "j.pioneeringad.com",
             "j.theadsnet.com",
             "j.zeroredirect.com",
             "joecartonn.com",
@@ -84,7 +83,11 @@
             "keygen-password-generator.softonic.fr",
             "l.zeroredirect.com",
             "land.pckeeper.software",
-            "m.zeroredirect.com",
+            "m.zeroredirect.com"
+        ],
+        "to_test": [
+            "mamameidia.com",
+            "maybankard.com.my",
             "mormonchurchgenealogy.com",
             "mp3playerprovider.com",
             "mrace.hopto.org",
@@ -168,6 +171,12 @@
             "www.babos.scrapping.cc",
             "www.bestadbid.com",
             "www.beyondwhois.com",
+            "www.bigstoreoffers.co.uk",
+            "www.bluemountain1.com",
+            "www.bluemountain2.com",
+            "www.bluemounten.com",
+            "www.buyskype.ru",
+            "www.calllwave.com",
             "www.catgallery.com",
             "www.classicallyabsurdphotography.com",
             "www.clean-search.com",
@@ -318,6 +327,8 @@
             "www.zoogdiesney.com",
             "www.zoogdinsney.com",
             "www.zoogdisiny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "x.zeroredirect.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
@@ -331,18 +342,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "mamameidia.com",
-            "maybankard.com.my",
-            "www.bigstoreoffers.co.uk",
-            "www.bluemountain1.com",
-            "www.bluemountain2.com",
-            "www.bluemounten.com",
-            "www.buyskype.ru",
-            "www.calllwave.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "wwwbowcreek.com"
         ]
     }
 }
