@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1555073376": [
+        "1555246387": [
             "1.googlenews.xorg.pl",
             "2.googlenews.xorg.pl",
             "3.googlenews.xorg.pl",
@@ -82,8 +82,12 @@
             "kc.mv.bidsystem.com",
             "keygen-password-generator.softonic.fr",
             "l.zeroredirect.com",
-            "land.pckeeper.software",
+            "land.pckeeper.software"
+        ],
+        "to_test": [
             "m.zeroredirect.com",
+            "mamameidia.com",
+            "maybankard.com.my",
             "mormonchurchgenealogy.com",
             "mp3playerprovider.com",
             "mrace.hopto.org",
@@ -162,6 +166,15 @@
             "www.anticarredodolomiti.com",
             "www.arecio.work",
             "www.atousoft.com",
+            "www.ayada.zapto.org",
+            "www.ayehcleaners.com",
+            "www.babos.scrapping.cc",
+            "www.bestadbid.com",
+            "www.beyondwhois.com",
+            "www.bigstoreoffers.co.uk",
+            "www.bluemountain1.com",
+            "www.bluemountain2.com",
+            "www.bluemounten.com",
             "www.buyskype.ru",
             "www.calllwave.com",
             "www.catgallery.com",
@@ -316,6 +329,7 @@
             "www.zoogdiesney.com",
             "www.zoogdinsney.com",
             "www.zoogdisiny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
             "wwwbowcreek.com",
             "x.zeroredirect.com",
             "xicaxique.com.br",
@@ -330,20 +344,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "mamameidia.com",
-            "maybankard.com.my",
-            "www.ayada.zapto.org",
-            "www.ayehcleaners.com",
-            "www.babos.scrapping.cc",
-            "www.bestadbid.com",
-            "www.beyondwhois.com",
-            "www.bigstoreoffers.co.uk",
-            "www.bluemountain1.com",
-            "www.bluemountain2.com",
-            "www.bluemounten.com",
-            "www3.y-83m4wjpzlx6.usa.cc"
         ]
     }
 }
