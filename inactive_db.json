@@ -83,11 +83,8 @@
             "kc.mv.bidsystem.com",
             "keygen-password-generator.softonic.fr",
             "l.zeroredirect.com",
-            "land.pckeeper.software"
-        ],
-        "to_test": [
+            "land.pckeeper.software",
             "m.zeroredirect.com",
-            "mamameidia.com",
             "maybankard.com.my",
             "mormonchurchgenealogy.com",
             "mp3playerprovider.com",
@@ -164,7 +161,10 @@
             "www.alibabaslots.com",
             "www.altafista.com",
             "www.anonymousproxy.tk",
-            "www.antalya.ru",
+            "www.antalya.ru"
+        ],
+        "to_test": [
+            "mamameidia.com",
             "www.anticarredodolomiti.com",
             "www.arecio.work",
             "www.atousoft.com",
