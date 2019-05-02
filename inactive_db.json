@@ -94,15 +94,9 @@
             "mrace.hopto.org",
             "n.targetbtracker.com",
             "n.zeroredirect.com",
-            "nikolamireasa.com"
-        ],
-        "to_test": [
-            "npktrk1.com",
-            "o.zeroredirect.com",
-            "orders.webpower.com",
+            "nikolamireasa.com",
             "p.securedownload01.com",
             "p.zeroredirect.com",
-            "patrickhickey.eu",
             "pda.mv.bidsystem.com",
             "perfectionautorepairs.com",
             "portalangels-1.pop3.ru",
@@ -190,8 +184,13 @@
             "www.cudacorp.com",
             "www.desirevandoorne.nl",
             "www.dlldlldll.sytes.net",
-            "www.doctor-alex.com",
-            "www.doda.redirectme.net",
+            "www.doda.redirectme.net"
+        ],
+        "to_test": [
+            "npktrk1.com",
+            "o.zeroredirect.com",
+            "orders.webpower.com",
+            "patrickhickey.eu",
             "www.dzxcq.com",
             "www.ebdr3.com",
             "www.ebocornac.com",
