@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1556629593": [
+        "1556802012": [
             "1.googlenews.xorg.pl",
             "11163221-517901.c.adprotect.net",
             "2.googlenews.xorg.pl",
@@ -74,6 +74,7 @@
             "handlerhackz.tk",
             "havijrat.zapto.org",
             "hira.hopto.org",
+            "i.trkjmp.com",
             "i.zeroredirect.com",
             "img.xratedbucks.com",
             "insidecentralfl.com",
@@ -93,9 +94,15 @@
             "mrace.hopto.org",
             "n.targetbtracker.com",
             "n.zeroredirect.com",
-            "nikolamireasa.com",
+            "nikolamireasa.com"
+        ],
+        "to_test": [
+            "npktrk1.com",
+            "o.zeroredirect.com",
+            "orders.webpower.com",
             "p.securedownload01.com",
             "p.zeroredirect.com",
+            "patrickhickey.eu",
             "pda.mv.bidsystem.com",
             "perfectionautorepairs.com",
             "portalangels-1.pop3.ru",
@@ -185,6 +192,11 @@
             "www.dlldlldll.sytes.net",
             "www.doctor-alex.com",
             "www.doda.redirectme.net",
+            "www.dzxcq.com",
+            "www.ebdr3.com",
+            "www.ebocornac.com",
+            "www.ecdtrk.com",
+            "www.egoldenglove.com",
             "www.electra-jjh.com.br",
             "www.elisaart.it",
             "www.epmclk.com",
@@ -311,6 +323,8 @@
             "www.zoogdiesney.com",
             "www.zoogdinsney.com",
             "www.zoogdisiny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "x.zeroredirect.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
@@ -324,19 +338,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "npktrk1.com",
-            "o.zeroredirect.com",
-            "orders.webpower.com",
-            "patrickhickey.eu",
-            "www.dzxcq.com",
-            "www.ebdr3.com",
-            "www.ebocornac.com",
-            "www.ecdtrk.com",
-            "www.egoldenglove.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "wwwbowcreek.com"
         ]
     }
 }
