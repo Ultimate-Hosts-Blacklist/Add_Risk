@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1556802012": [
+        "1556974923": [
             "1.googlenews.xorg.pl",
             "11163221-517901.c.adprotect.net",
             "2.googlenews.xorg.pl",
@@ -8,6 +8,7 @@
             "4.googlenews.xorg.pl",
             "5.googlenews.xorg.pl",
             "6.bbnface.com",
+            "6.mamaswishes.com",
             "a.zeroredirect.com",
             "ackjeeves.com",
             "ad.slutload.com",
@@ -95,8 +96,14 @@
             "n.targetbtracker.com",
             "n.zeroredirect.com",
             "nikolamireasa.com",
+            "npktrk1.com"
+        ],
+        "to_test": [
+            "o.zeroredirect.com",
+            "orders.webpower.com",
             "p.securedownload01.com",
             "p.zeroredirect.com",
+            "patrickhickey.eu",
             "pda.mv.bidsystem.com",
             "perfectionautorepairs.com",
             "portalangels-1.pop3.ru",
@@ -185,6 +192,14 @@
             "www.desirevandoorne.nl",
             "www.dlldlldll.sytes.net",
             "www.doda.redirectme.net",
+            "www.dzxcq.com",
+            "www.ebdr3.com",
+            "www.ebocornac.com",
+            "www.ecdtrk.com",
+            "www.egoldenglove.com",
+            "www.electra-jjh.com.br",
+            "www.elisaart.it",
+            "www.epmclk.com",
             "www.f8350e7c1.se",
             "www.fecabook.redirectme.net",
             "www.federatedstores.com",
@@ -309,6 +324,8 @@
             "www.zoogdiesney.com",
             "www.zoogdinsney.com",
             "www.zoogdisiny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "x.zeroredirect.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
@@ -322,22 +339,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "npktrk1.com",
-            "o.zeroredirect.com",
-            "orders.webpower.com",
-            "patrickhickey.eu",
-            "www.dzxcq.com",
-            "www.ebdr3.com",
-            "www.ebocornac.com",
-            "www.ecdtrk.com",
-            "www.egoldenglove.com",
-            "www.electra-jjh.com.br",
-            "www.elisaart.it",
-            "www.epmclk.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "wwwbowcreek.com"
         ]
     }
 }
