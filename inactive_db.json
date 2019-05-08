@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1557148464": [
+        "1557320594": [
             "1.googlenews.xorg.pl",
             "11163221-517901.c.adprotect.net",
             "2.googlenews.xorg.pl",
@@ -53,6 +53,7 @@
             "ezthemes.ezthemes.com",
             "f.zeroredirect.com",
             "f8350e7c1.se",
+            "facebookcrawl.co.cc",
             "fecabook.redirectme.net",
             "federatedstores.com",
             "feedx.bidsystem.com",
@@ -97,8 +98,13 @@
             "n.zeroredirect.com",
             "nikolamireasa.com",
             "npktrk1.com",
+            "o.zeroredirect.com"
+        ],
+        "to_test": [
+            "orders.webpower.com",
             "p.securedownload01.com",
             "p.zeroredirect.com",
+            "patrickhickey.eu",
             "pda.mv.bidsystem.com",
             "perfectionautorepairs.com",
             "portalangels-1.pop3.ru",
@@ -186,6 +192,12 @@
             "www.crackspider.net",
             "www.cudacorp.com",
             "www.desirevandoorne.nl",
+            "www.dlldlldll.sytes.net",
+            "www.doda.redirectme.net",
+            "www.dzxcq.com",
+            "www.ebdr3.com",
+            "www.ebocornac.com",
+            "www.ecdtrk.com",
             "www.egoldenglove.com",
             "www.electra-jjh.com.br",
             "www.elisaart.it",
@@ -313,6 +325,8 @@
             "www.zoogdiesney.com",
             "www.zoogdinsney.com",
             "www.zoogdisiny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "x.zeroredirect.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
@@ -326,19 +340,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "o.zeroredirect.com",
-            "orders.webpower.com",
-            "patrickhickey.eu",
-            "www.dlldlldll.sytes.net",
-            "www.doda.redirectme.net",
-            "www.dzxcq.com",
-            "www.ebdr3.com",
-            "www.ebocornac.com",
-            "www.ecdtrk.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "wwwbowcreek.com"
         ]
     }
 }
