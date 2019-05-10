@@ -860,6 +860,11 @@
             "expiration_date": "26-jan-2020",
             "state": "future"
         },
+        "classicallyabsurdphotography.com": {
+            "epoch": "1588896000",
+            "expiration_date": "08-may-2020",
+            "state": "future"
+        },
         "cle.kr": {
             "epoch": "1559088000",
             "expiration_date": "29-may-2019",
@@ -1151,8 +1156,8 @@
             "state": "future"
         },
         "customersupporthelp.com": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
             "state": "future"
         },
         "cybermecca.com": {
@@ -2201,8 +2206,8 @@
             "state": "future"
         },
         "isuzi.com": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
             "state": "future"
         },
         "itunesdownloadstore.com": {
@@ -2446,8 +2451,8 @@
             "state": "future"
         },
         "lifeeverest.com": {
-            "epoch": "1557360000",
-            "expiration_date": "09-may-2019",
+            "epoch": "1588982400",
+            "expiration_date": "09-may-2020",
             "state": "future"
         },
         "linconpark.com": {

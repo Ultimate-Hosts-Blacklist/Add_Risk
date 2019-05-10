@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Risk/domains.list": {
-        "1557320594": [
+        "1557493511": [
             "1.googlenews.xorg.pl",
             "11163221-517901.c.adprotect.net",
             "2.googlenews.xorg.pl",
@@ -35,9 +35,9 @@
             "cc.webpower.com",
             "ccp14.ac.uk",
             "cdn1.clkcln.com",
-            "classicallyabsurdphotography.com",
             "cleanupit22p.xorg.pl",
             "clicksimpact.cashtrk.com",
+            "compactiongames.gameaholic.com",
             "cxpixel.bidsystem.com",
             "d.zeroredirect.com",
             "d1.windows8downloads.com",
@@ -53,7 +53,6 @@
             "ezthemes.ezthemes.com",
             "f.zeroredirect.com",
             "f8350e7c1.se",
-            "facebookcrawl.co.cc",
             "fecabook.redirectme.net",
             "federatedstores.com",
             "feedx.bidsystem.com",
@@ -99,8 +98,14 @@
             "nikolamireasa.com",
             "npktrk1.com",
             "o.zeroredirect.com",
+            "orders.webpower.com",
             "p.securedownload01.com",
             "p.zeroredirect.com",
+            "patrickhickey.eu",
+            "pda.mv.bidsystem.com",
+            "perfectionautorepairs.com"
+        ],
+        "to_test": [
             "portalangels-1.pop3.ru",
             "portalangels.pop3.ru",
             "pub.ftv-publicite.fr",
@@ -209,6 +214,15 @@
             "www.gamesharkcentral.com",
             "www.getmeaticket.co.uk",
             "www.google-docs.org",
+            "www.grendizer.biz",
+            "www.guardappsfarm.com",
+            "www.guardcyclequick.com",
+            "www.gxplugin.com",
+            "www.haartezenglish.redirectme.net",
+            "www.handlerhackz.tk",
+            "www.havijrat.zapto.org",
+            "www.hefigo.com",
+            "www.herezera.com",
             "www.hira.hopto.org",
             "www.hitwastedgarden.com",
             "www.hot-bot.com",
@@ -312,6 +326,8 @@
             "www.zoogdiesney.com",
             "www.zoogdinsney.com",
             "www.zoogdisiny.com",
+            "www3.y-83m4wjpzlx6.usa.cc",
+            "wwwbowcreek.com",
             "x.zeroredirect.com",
             "xicaxique.com.br",
             "xpath.syncrvprodist.com",
@@ -325,23 +341,6 @@
             "zoogdiesney.com",
             "zoogdinsney.com",
             "zoogdisiny.com"
-        ],
-        "to_test": [
-            "orders.webpower.com",
-            "patrickhickey.eu",
-            "pda.mv.bidsystem.com",
-            "perfectionautorepairs.com",
-            "www.grendizer.biz",
-            "www.guardappsfarm.com",
-            "www.guardcyclequick.com",
-            "www.gxplugin.com",
-            "www.haartezenglish.redirectme.net",
-            "www.handlerhackz.tk",
-            "www.havijrat.zapto.org",
-            "www.hefigo.com",
-            "www.herezera.com",
-            "www3.y-83m4wjpzlx6.usa.cc",
-            "wwwbowcreek.com"
         ]
     }
 }
