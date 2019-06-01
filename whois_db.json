@@ -3114,6 +3114,11 @@
         "expiration_date": "03-jan-2020",
         "state": "future"
     },
+    "spywarenuker.com": {
+        "epoch": 1567036800,
+        "expiration_date": "29-aug-2019",
+        "state": "future"
+    },
     "spywarespy.com": {
         "epoch": 1567209600,
         "expiration_date": "31-aug-2019",
@@ -3252,6 +3257,11 @@
     "thesearchagency.net": {
         "epoch": 1585267200,
         "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "thesearchster.com": {
+        "epoch": 1631059200,
+        "expiration_date": "08-sep-2021",
         "state": "future"
     },
     "thesurfshield.com": {
@@ -3495,8 +3505,8 @@
         "state": "future"
     },
     "updatesoftwaresend.com": {
-        "epoch": 1566172800,
-        "expiration_date": "19-aug-2019",
+        "epoch": 627200,
+        "expiration_date": "18-dec-2019",
         "state": "future"
     },
     "uprour.com": {
