@@ -2963,5 +2963,9 @@
         "www.fsl.sytes.net",
         "s.zeroredirect.com",
         "x.zeroredirect.com"
+    ],
+    "INVALID": [
+        "www.innatek.comm",
+        "innatek.comm"
     ]
 }
