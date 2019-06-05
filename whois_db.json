@@ -1194,6 +1194,11 @@
         "expiration_date": "10-sep-2019",
         "state": "future"
     },
+    "winaproduct.com": {
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
     "winscholarship.com": {
         "epoch": 1585440000,
         "expiration_date": "29-mar-2020",
