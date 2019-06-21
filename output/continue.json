@@ -2956,9 +2956,18 @@
         "i.zeroredirect.com",
         "j.zeroredirect.com",
         "w.zeroredirect.com",
-        "x.zeroredirect.com"
+        "x.zeroredirect.com",
+        "www.egoldenglove.com",
+        "egoldenglove.com",
+        "elisaart.it",
+        "www.elisaart.it",
+        "www.xxxxxxx.hopto.org",
+        "xxxxxxx.hopto.org",
+        "o.zeroredirect.com",
+        "m.zeroredirect.com"
     ],
     "INVALID": [
-        "innatek.comm"
+        "innatek.comm",
+        "www.innatek.comm"
     ]
 }
