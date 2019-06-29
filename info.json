@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 84,
-            "invalid": 0,
-            "tested": 1594,
-            "up": 1510
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Thu Jun 27 13:54:20 2019",
-    "end_epoch": 1561643660.575827,
+    "end_datetime": "Sat Jun 29 13:49:17 2019",
+    "end_epoch": 1561816157.041827,
     "last_autosave_datetime": "Sat Jun 29 13:38:25 2019",
     "last_autosave_epoch": 1561815505.357139,
     "name": "Add_Risk",
