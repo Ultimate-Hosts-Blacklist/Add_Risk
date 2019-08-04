@@ -789,6 +789,11 @@
         "expiration_date": "29-mar-2021",
         "state": "future"
     },
+    "customersupporthelp.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
     "cybermecca.com": {
         "epoch": 1578787200,
         "expiration_date": "12-jan-2020",
@@ -1459,6 +1464,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "ibmvideo.com": {
+        "epoch": 1568332800,
+        "expiration_date": "13-sep-2019",
+        "state": "future"
+    },
     "icityfind.com": {
         "epoch": 1583625600,
         "expiration_date": "08-mar-2020",
@@ -1664,6 +1674,11 @@
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "lcbcad.co.uk": {
+        "epoch": 1560470400,
+        "expiration_date": "14-jun-2019",
+        "state": "past"
+    },
     "leadingedgecash.com": {
         "epoch": 1589155200,
         "expiration_date": "11-may-2020",
@@ -1677,6 +1692,11 @@
     "libecki.net": {
         "epoch": 1579392000,
         "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
+    "liders.biz": {
+        "epoch": 1576627200,
+        "expiration_date": "18-dec-2019",
         "state": "future"
     },
     "linconpark.com": {
@@ -1707,6 +1727,11 @@
     "livewell.net": {
         "epoch": 1578614400,
         "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
+    "lo2.me": {
+        "epoch": 1572393600,
+        "expiration_date": "30-oct-2019",
         "state": "future"
     },
     "localh0st.info": {
