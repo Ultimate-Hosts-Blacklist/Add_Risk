@@ -2741,7 +2741,9 @@
         "newcracks.net",
         "quickbitsdownloads.com",
         "errors.perfectgonzo.com",
-        "bannershotlink.perfectgonzo.com"
+        "bannershotlink.perfectgonzo.com",
+        "asu.msmu.ru",
+        "tmgr.ccmbg.com"
     ],
     "INACTIVE": [
         "www.gxplugin.com",
@@ -2957,11 +2959,17 @@
         "bbcdn.code.new.smartcontext.pl",
         "www.bluemountain2.com",
         "bluemountain2.com",
-        "compactiongames.gameaholic.com"
+        "compactiongames.gameaholic.com",
+        "www.egoldenglove.com",
+        "egoldenglove.com",
+        "www.finders.hopto.org",
+        "finders.hopto.org",
+        "f.zeroredirect.com"
     ],
     "INVALID": [
         "www.microsofto.sytes.nk",
         "microsofto.sytes.nk",
-        "mesopotemia222.zapto.o:"
+        "mesopotemia222.zapto.o:",
+        "www.mesopotemia222.zapto.o:"
     ]
 }
