@@ -29,6 +29,11 @@
         "expiration_date": "25-nov-2019",
         "state": "future"
     },
+    "39dvd-999.com": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "7metasearch.com": {
         "epoch": 1594684800,
         "expiration_date": "14-jul-2020",
@@ -309,6 +314,11 @@
         "expiration_date": "27-jun-2020",
         "state": "future"
     },
+    "beyondwhois.com": {
+        "epoch": 1584403200,
+        "expiration_date": "17-mar-2020",
+        "state": "future"
+    },
     "bighop.com": {
         "epoch": 1585008000,
         "expiration_date": "24-mar-2020",
@@ -407,6 +417,11 @@
     "candidography.com": {
         "epoch": 1583193600,
         "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "catz4.com": {
+        "epoch": 1568764800,
+        "expiration_date": "18-sep-2019",
         "state": "future"
     },
     "caue971.org": {
@@ -1069,6 +1084,11 @@
         "expiration_date": "25-jan-2021",
         "state": "future"
     },
+    "google-docs.org": {
+        "epoch": 1594425600,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
     "googlew.com": {
         "epoch": 1697760000,
         "expiration_date": "20-oct-2023",
@@ -1112,6 +1132,11 @@
     "gwmtracker.com": {
         "epoch": 1591142400,
         "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "gxplugin.com": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "h-adachi.org": {
@@ -1909,6 +1934,11 @@
         "expiration_date": "01-apr-2024",
         "state": "future"
     },
+    "quickbitsdownloads.com": {
+        "epoch": 1569628800,
+        "expiration_date": "28-sep-2019",
+        "state": "future"
+    },
     "quinnwealth.com": {
         "epoch": 1617494400,
         "expiration_date": "04-apr-2021",
@@ -2043,6 +2073,11 @@
         "epoch": 1585353600,
         "expiration_date": "28-mar-2020",
         "state": "future"
+    },
+    "rivasearchpage.com": {
+        "epoch": 1560297600,
+        "expiration_date": "12-jun-2019",
+        "state": "past"
     },
     "robtopol.in": {
         "epoch": 1574640000,
@@ -2494,6 +2529,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "triplequadturbo.com": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "trk4.com": {
         "epoch": 1594684800,
         "expiration_date": "14-jul-2020",
@@ -2827,6 +2867,11 @@
     "ytdownloader.com": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "zipitfast.com": {
+        "epoch": 1580601600,
+        "expiration_date": "02-feb-2020",
         "state": "future"
     },
     "zoodrawings.com": {
