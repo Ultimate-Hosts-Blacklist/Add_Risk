@@ -1699,6 +1699,11 @@
         "expiration_date": "05-dec-2019",
         "state": "future"
     },
+    "lcbcad.co.uk": {
+        "epoch": 1560470400,
+        "expiration_date": "14-jun-2019",
+        "state": "past"
+    },
     "legendofdragoon.com": {
         "epoch": 1594339200,
         "expiration_date": "10-jul-2020",
@@ -1950,6 +1955,11 @@
         "state": "future"
     },
     "monetisetrk3.co.uk": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "monetisetrk4.co.uk": {
         "epoch": 1582329600,
         "expiration_date": "22-feb-2020",
         "state": "future"
