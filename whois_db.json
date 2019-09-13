@@ -34,6 +34,11 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "39dvd-999.com": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "77search.com": {
         "epoch": 1574899200,
         "expiration_date": "28-nov-2019",
@@ -67,6 +72,11 @@
     "acezsoftware.com": {
         "epoch": 1571011200,
         "expiration_date": "14-oct-2019",
+        "state": "future"
+    },
+    "actrck.com": {
+        "epoch": 1569110400,
+        "expiration_date": "22-sep-2019",
         "state": "future"
     },
     "ad-souk.com": {
@@ -532,6 +542,11 @@
     "candidography.com": {
         "epoch": 1583193600,
         "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "catz4.com": {
+        "epoch": 1568764800,
+        "expiration_date": "18-sep-2019",
         "state": "future"
     },
     "caue971.org": {
@@ -1434,6 +1449,11 @@
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
+    "gratisweb.com": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
     "guaranty.com.cn": {
         "epoch": 1800921600,
         "expiration_date": "26-jan-2027",
@@ -1979,6 +1999,11 @@
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
+    "mamamidia.com": {
+        "epoch": 1562630400,
+        "expiration_date": "09-jul-2019",
+        "state": "past"
+    },
     "mansmith.net": {
         "epoch": 1594598400,
         "expiration_date": "13-jul-2020",
@@ -2112,6 +2137,11 @@
     "monetisetrk5.co.uk": {
         "epoch": 1582329600,
         "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "monetisetrk6.co.uk": {
+        "epoch": 1631836800,
+        "expiration_date": "17-sep-2021",
         "state": "future"
     },
     "morenews3.net": {
@@ -2967,6 +2997,11 @@
     "software-phile.com": {
         "epoch": 1607212800,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "softwareupdaterlp.com": {
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "sompuserve.com": {
