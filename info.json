@@ -1,27 +1,18 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 54,
-            "invalid": 0,
-            "tested": 1775,
-            "up": 1721
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sat Sep 14 23:15:20 2019",
-    "end_epoch": 1568502920.023405,
+    "end_datetime": "Sun Sep 15 23:55:32 2019",
+    "end_epoch": 1568591732.333327,
     "last_autosave_datetime": "Sun Sep 15 22:32:50 2019",
     "last_autosave_epoch": 1568586770.616742,
     "name": "Add_Risk",
     "previous_stats": {
-        "builds": 3,
+        "builds": 2,
         "counter": {
-            "down": 220,
+            "down": 221,
             "invalid": 4,
-            "tested": 2963,
-            "up": 2739
+            "tested": 2965,
+            "up": 2740
         },
         "volatile.list": 2743,
         "whitelisted.list": 2743
