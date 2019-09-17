@@ -884,6 +884,11 @@
         "expiration_date": "30-mar-2020",
         "state": "future"
     },
+    "ecdtrk.com": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "eclean.or.kr": {
         "epoch": 1594857600,
         "expiration_date": "15-jun-2020",
@@ -992,6 +997,11 @@
     "facebookloginsignin.com": {
         "epoch": 1586736000,
         "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
+    "fastdownload10.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "fastnclick.com": {
@@ -2289,6 +2299,11 @@
         "expiration_date": "28-mar-2020",
         "state": "future"
     },
+    "rivasearchpage.com": {
+        "epoch": 1598572800,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
     "rngetek.com": {
         "epoch": 1617148800,
         "expiration_date": "31-mar-2021",
@@ -2649,6 +2664,11 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "ta.com.tw": {
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
     "taffr.com": {
         "epoch": 1597190400,
         "expiration_date": "12-aug-2020",
@@ -2912,6 +2932,11 @@
     "vanguardair.com": {
         "epoch": 1586736000,
         "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
+    "vaultsappsbyte.com": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
         "state": "future"
     },
     "vclicks.net": {
