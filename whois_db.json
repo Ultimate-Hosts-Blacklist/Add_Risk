@@ -299,6 +299,11 @@
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
+    "atofilms.com": {
+        "epoch": 1569110400,
+        "expiration_date": "22-sep-2019",
+        "state": "future"
+    },
     "auctiondirectory.org": {
         "epoch": 1572134400,
         "expiration_date": "27-oct-2019",
@@ -527,7 +532,7 @@
     "catz4.com": {
         "epoch": 1568764800,
         "expiration_date": "18-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "caue971.org": {
         "epoch": 1589673600,
@@ -2162,6 +2167,11 @@
     "monetisetrk5.co.uk": {
         "epoch": 1582329600,
         "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "monetisetrk6.co.uk": {
+        "epoch": 1631836800,
+        "expiration_date": "17-sep-2021",
         "state": "future"
     },
     "monofeel.com": {
