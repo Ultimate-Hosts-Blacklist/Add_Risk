@@ -1494,6 +1494,11 @@
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
+    "gxplugin.com": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
     "h-adachi.org": {
         "epoch": 1643760000,
         "expiration_date": "02-feb-2022",
@@ -2539,6 +2544,11 @@
         "expiration_date": "18-may-2020",
         "state": "future"
     },
+    "poppers-rush.ru": {
+        "epoch": 1590278400,
+        "expiration_date": "24-may-2020",
+        "state": "future"
+    },
     "praceline.com": {
         "epoch": 1575676800,
         "expiration_date": "07-dec-2019",
@@ -3284,6 +3294,11 @@
         "expiration_date": "29-oct-2019",
         "state": "future"
     },
+    "toroadvertisingmedia.com": {
+        "epoch": 1584489600,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
     "tossm.com": {
         "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
@@ -3787,6 +3802,11 @@
     "wwwplaysite.com": {
         "epoch": 1588032000,
         "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
+    "wwwrealator.com": {
+        "epoch": 1723334400,
+        "expiration_date": "11-aug-2024",
         "state": "future"
     },
     "wwwservicemerchandise.com": {
