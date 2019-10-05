@@ -229,6 +229,11 @@
         "expiration_date": "22-may-2020",
         "state": "future"
     },
+    "anglewinks.com": {
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "angolotesti.it": {
         "epoch": 1591747200,
         "expiration_date": "10-jun-2020",
@@ -3134,6 +3139,11 @@
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
+    "spywarespy.com": {
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
     "srv2trking.com": {
         "epoch": 1593216000,
         "expiration_date": "27-jun-2020",
@@ -3762,6 +3772,11 @@
     "www4search.net": {
         "epoch": 1601164800,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "wwwadultcheck.com": {
+        "epoch": 1588118400,
+        "expiration_date": "29-apr-2020",
         "state": "future"
     },
     "wwwal.com": {
