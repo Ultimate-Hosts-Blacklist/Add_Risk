@@ -2729,6 +2729,11 @@
         "expiration_date": "24-feb-2020",
         "state": "future"
     },
+    "registrydefender.com": {
+        "epoch": 1579910400,
+        "expiration_date": "25-jan-2020",
+        "state": "future"
+    },
     "registryfix.com": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
@@ -3027,6 +3032,11 @@
     "silvercash.com": {
         "epoch": 1587513600,
         "expiration_date": "22-apr-2020",
+        "state": "future"
+    },
+    "sirius-expedition.com": {
+        "epoch": 1571788800,
+        "expiration_date": "23-oct-2019",
         "state": "future"
     },
     "sj88.com": {
@@ -3542,7 +3552,7 @@
     "upproar.com": {
         "epoch": 1570233600,
         "expiration_date": "05-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "uprour.com": {
         "epoch": 1586476800,
