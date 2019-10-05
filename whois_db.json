@@ -439,6 +439,11 @@
         "expiration_date": "09-feb-2020",
         "state": "future"
     },
+    "bizneed.com": {
+        "epoch": 1640476800,
+        "expiration_date": "26-dec-2021",
+        "state": "future"
+    },
     "bj04.com": {
         "epoch": 1591142400,
         "expiration_date": "03-jun-2020",
@@ -3592,6 +3597,11 @@
     "vjsoft.net": {
         "epoch": 1680393600,
         "expiration_date": "02-apr-2023",
+        "state": "future"
+    },
+    "vk2ca.com": {
+        "epoch": 1598832000,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "vmay.com": {
