@@ -4014,6 +4014,11 @@
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "zeroredirect2.com": {
+        "epoch": 1707955200,
+        "expiration_date": "15-feb-2024",
+        "state": "future"
+    },
     "zipitfast.com": {
         "epoch": 1580601600,
         "expiration_date": "02-feb-2020",
