@@ -1,4 +1,14 @@
 {
+    "freebitmoney.com": {
+        "epoch": 1581638400,
+        "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
+    "freedownloadzone.com": {
+        "epoch": 1585267200,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "joincreditexpert.co.uk": {
         "epoch": 1573257600,
         "expiration_date": "09-nov-2019",
@@ -12,6 +22,16 @@
     "oofun.com": {
         "epoch": 1637625600,
         "expiration_date": "23-nov-2021",
+        "state": "future"
+    },
+    "rowanmclean.com": {
+        "epoch": 1701561600,
+        "expiration_date": "03-dec-2023",
+        "state": "future"
+    },
+    "seethisinaction.com": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
         "state": "future"
     },
     "traveolocity.com": {
