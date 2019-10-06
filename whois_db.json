@@ -24,6 +24,11 @@
         "expiration_date": "13-jun-2025",
         "state": "future"
     },
+    "dotzup.com": {
+        "epoch": 1597190400,
+        "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
     "freebitmoney.com": {
         "epoch": 1581638400,
         "expiration_date": "14-feb-2020",
@@ -34,9 +39,19 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "getrockerbox.com": {
+        "epoch": 1616112000,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
     "joincreditexpert.co.uk": {
         "epoch": 1573257600,
         "expiration_date": "09-nov-2019",
+        "state": "future"
+    },
+    "lprshcsmijfovp.com": {
+        "epoch": 1593648000,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "lufhansa.com": {
@@ -77,6 +92,11 @@
     "shopathome.com": {
         "epoch": 1637971200,
         "expiration_date": "27-nov-2021",
+        "state": "future"
+    },
+    "shore-view.com": {
+        "epoch": 1685577600,
+        "expiration_date": "01-jun-2023",
         "state": "future"
     },
     "ss-01.com": {
