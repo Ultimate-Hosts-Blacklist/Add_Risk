@@ -1424,6 +1424,11 @@
         "expiration_date": "15-aug-2020",
         "state": "future"
     },
+    "get-avast.com": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
     "get-quadcleaner.com": {
         "epoch": 1597276800,
         "expiration_date": "13-aug-2020",
@@ -1692,6 +1697,11 @@
     "imagesmovies.com": {
         "epoch": 1600732800,
         "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "img001.com": {
+        "epoch": 1581206400,
+        "expiration_date": "09-feb-2020",
         "state": "future"
     },
     "infra.by": {
