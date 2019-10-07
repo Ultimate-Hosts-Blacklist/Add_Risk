@@ -14,9 +14,19 @@
         "expiration_date": "17-sep-2022",
         "state": "future"
     },
+    "analyticdns.org": {
+        "epoch": 1581033600,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
     "atmovs.com": {
         "epoch": 1583107200,
         "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "bcservice.it": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
         "state": "future"
     },
     "bestwm.info": {
@@ -39,10 +49,20 @@
         "expiration_date": "01-oct-2021",
         "state": "future"
     },
+    "cleanallspyware.com": {
+        "epoch": 1599696000,
+        "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
     "cloudtracked.com": {
         "epoch": 1565395200,
         "expiration_date": "10-aug-2019",
         "state": "past"
+    },
+    "conduit.com": {
+        "epoch": 1745193600,
+        "expiration_date": "21-apr-2025",
+        "state": "future"
     },
     "crazyprotocol.com": {
         "epoch": 1592870400,
@@ -102,6 +122,11 @@
     "getrockerbox.com": {
         "epoch": 1616112000,
         "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "hlserve.com": {
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "hnskorea.co.kr": {
@@ -244,9 +269,19 @@
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
+    "travelocityca.com": {
+        "epoch": 1596758400,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
     "traveolocity.com": {
         "epoch": 1591920000,
         "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
+    "unrealcommander.org": {
+        "epoch": 1606953600,
+        "expiration_date": "03-dec-2020",
         "state": "future"
     },
     "zoosexart.com": {
