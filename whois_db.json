@@ -4,6 +4,11 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "9malls.co.uk": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
     "adnetworkperformance.com": {
         "epoch": 1587945600,
         "expiration_date": "27-apr-2020",
@@ -37,6 +42,11 @@
     "blogrankers.com": {
         "epoch": 1600732800,
         "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "cdiabetes.com": {
+        "epoch": 1577923200,
+        "expiration_date": "02-jan-2020",
         "state": "future"
     },
     "cheaptickests.com": {
@@ -102,6 +112,11 @@
     "favicon.com": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "femeedia.com": {
+        "epoch": 1571270400,
+        "expiration_date": "17-oct-2019",
         "state": "future"
     },
     "freebitmoney.com": {
@@ -184,6 +199,16 @@
         "expiration_date": "27-dec-2019",
         "state": "future"
     },
+    "monetisetrk.co.uk": {
+        "epoch": 1655251200,
+        "expiration_date": "15-jun-2022",
+        "state": "future"
+    },
+    "monetisetrk5.co.uk": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
     "monofeel.com": {
         "epoch": 1581120000,
         "expiration_date": "08-feb-2020",
@@ -212,6 +237,11 @@
     "oofun.com": {
         "epoch": 1637625600,
         "expiration_date": "23-nov-2021",
+        "state": "future"
+    },
+    "paime.com": {
+        "epoch": 1611532800,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "pay-per-search.com": {
@@ -247,6 +277,11 @@
     "registrycleanertechnology.com": {
         "epoch": 1574640000,
         "expiration_date": "25-nov-2019",
+        "state": "future"
+    },
+    "riskymail4free.com": {
+        "epoch": 1585699200,
+        "expiration_date": "01-apr-2020",
         "state": "future"
     },
     "rowanmclean.com": {
@@ -289,6 +324,11 @@
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
+    "totemcash.com": {
+        "epoch": 1579824000,
+        "expiration_date": "24-jan-2020",
+        "state": "future"
+    },
     "travelocityca.com": {
         "epoch": 1596758400,
         "expiration_date": "07-aug-2020",
@@ -312,6 +352,11 @@
     "unrealcommander.org": {
         "epoch": 1606953600,
         "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
+    "wwwgmacmortgage.com": {
+        "epoch": 1571097600,
+        "expiration_date": "15-oct-2019",
         "state": "future"
     },
     "zoosexart.com": {
