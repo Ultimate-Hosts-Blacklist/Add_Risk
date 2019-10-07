@@ -29,6 +29,11 @@
         "expiration_date": "19-sep-2021",
         "state": "future"
     },
+    "cloudtracked.com": {
+        "epoch": 1565395200,
+        "expiration_date": "10-aug-2019",
+        "state": "past"
+    },
     "crazyprotocol.com": {
         "epoch": 1592870400,
         "expiration_date": "23-jun-2020",
@@ -72,6 +77,16 @@
     "getrockerbox.com": {
         "epoch": 1616112000,
         "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "hnskorea.co.kr": {
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "hot-bot.com": {
+        "epoch": 1586390400,
+        "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "howtocleanacomputervirus.com": {
