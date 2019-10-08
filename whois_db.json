@@ -144,6 +144,11 @@
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
+    "full-edition.info": {
+        "epoch": 1588032000,
+        "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
     "getrockerbox.com": {
         "epoch": 1616112000,
         "expiration_date": "19-mar-2021",
@@ -382,6 +387,11 @@
     "wwwgmacmortgage.com": {
         "epoch": 1571097600,
         "expiration_date": "15-oct-2019",
+        "state": "future"
+    },
+    "wwwplaysite.com": {
+        "epoch": 1588032000,
+        "expiration_date": "28-apr-2020",
         "state": "future"
     },
     "zoosexart.com": {
