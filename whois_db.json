@@ -259,6 +259,11 @@
         "expiration_date": "11-may-2020",
         "state": "future"
     },
+    "linkjumps.com": {
+        "epoch": 1587340800,
+        "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
     "localh0st.info": {
         "epoch": 1604275200,
         "expiration_date": "02-nov-2020",
@@ -317,6 +322,11 @@
     "monetisetrk.co.uk": {
         "epoch": 1655251200,
         "expiration_date": "15-jun-2022",
+        "state": "future"
+    },
+    "monetisetrk4.co.uk": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
         "state": "future"
     },
     "monetisetrk5.co.uk": {
