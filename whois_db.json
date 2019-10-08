@@ -149,9 +149,19 @@
         "expiration_date": "28-apr-2020",
         "state": "future"
     },
+    "getiton.com": {
+        "epoch": 1620086400,
+        "expiration_date": "04-may-2021",
+        "state": "future"
+    },
     "getrockerbox.com": {
         "epoch": 1616112000,
         "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "haedong.es.kr": {
+        "epoch": 1664582400,
+        "expiration_date": "01-oct-2022",
         "state": "future"
     },
     "hlserve.com": {
@@ -269,6 +279,11 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "pccleaner.com": {
+        "epoch": 1679961600,
+        "expiration_date": "28-mar-2023",
+        "state": "future"
+    },
     "pccleanerpro.com": {
         "epoch": 1603670400,
         "expiration_date": "26-oct-2020",
@@ -352,6 +367,11 @@
     "stephens-laughlin.com": {
         "epoch": 1607558400,
         "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
+    "thebugs.ws": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
         "state": "future"
     },
     "totemcash.com": {
