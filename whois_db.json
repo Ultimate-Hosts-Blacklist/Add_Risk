@@ -1,4 +1,9 @@
 {
+    "39dvd-999.com": {
+        "epoch": 1594944000,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "adprotect.net": {
         "epoch": 1583539200,
         "expiration_date": "07-mar-2020",
@@ -9,14 +14,29 @@
         "expiration_date": "10-feb-2021",
         "state": "future"
     },
+    "atinna.com": {
+        "epoch": 1581897600,
+        "expiration_date": "17-feb-2020",
+        "state": "future"
+    },
     "bannerpromotion.it": {
         "epoch": 1579305600,
         "expiration_date": "18-jan-2020",
         "state": "future"
     },
+    "centertrk.com": {
+        "epoch": 1602028800,
+        "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
     "cle.kr": {
         "epoch": 1590710400,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "cleanallvirus.com": {
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
         "state": "future"
     },
     "cybermecca.com": {
@@ -29,9 +49,34 @@
         "expiration_date": "07-mar-2020",
         "state": "future"
     },
+    "dualvaccine.com": {
+        "epoch": 1567123200,
+        "expiration_date": "30-aug-2019",
+        "state": "past"
+    },
+    "flashcasino.com": {
+        "epoch": 1582329600,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "gameplaylabs.com": {
+        "epoch": 1572134400,
+        "expiration_date": "27-oct-2019",
+        "state": "future"
+    },
     "gopeds.com": {
         "epoch": 1604102400,
         "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "islamipedia.org": {
+        "epoch": 1601078400,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "jcwhintey.com": {
+        "epoch": 1600819200,
+        "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "kidsangel.com": {
@@ -44,9 +89,24 @@
         "expiration_date": "31-may-2020",
         "state": "future"
     },
+    "livewell.net": {
+        "epoch": 1578614400,
+        "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
     "malest.com": {
         "epoch": 1596067200,
         "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "morenews3.net": {
+        "epoch": 1592352000,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "myshopmarketim.com": {
+        "epoch": 1715904000,
+        "expiration_date": "17-may-2024",
         "state": "future"
     },
     "ohiomm.com": {
@@ -54,14 +114,44 @@
         "expiration_date": "06-oct-2021",
         "state": "future"
     },
+    "pillsmoney.com": {
+        "epoch": 1586044800,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "registry-cleaners-compared.com": {
+        "epoch": 1575244800,
+        "expiration_date": "02-dec-2019",
+        "state": "future"
+    },
+    "registrycleanertop.com": {
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
     "researchnow.co.uk": {
         "epoch": 1583712000,
         "expiration_date": "09-mar-2020",
         "state": "future"
     },
+    "sacredphoenix.com": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
     "searchnut.com": {
         "epoch": 1588896000,
         "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "symantex.com": {
+        "epoch": 1609286400,
+        "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "thesurfshield.com": {
+        "epoch": 1622937600,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "toroadvertisingmedia.com": {
@@ -87,6 +177,11 @@
     "westerntaneyfire.com": {
         "epoch": 1581292800,
         "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "wmmax.com": {
+        "epoch": 1608249600,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "ymxpb.com": {
