@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 211,
-            "invalid": 0,
-            "tested": 2082,
-            "up": 1871
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Fri Oct 18 21:53:03 2019",
-    "end_epoch": 1571435583.723635,
+    "end_datetime": "Sat Oct 19 22:50:11 2019",
+    "end_epoch": 1571525411.448206,
     "last_autosave_datetime": "Sat Oct 19 22:27:26 2019",
     "last_autosave_epoch": 1571524046.830077,
     "name": "Add_Risk",
     "previous_stats": {
         "builds": 2,
-        "clean.list": 2333,
+        "clean.list": 2326,
         "counter": {
-            "down": 584,
+            "down": 642,
             "invalid": 4,
-            "tested": 2921,
-            "up": 2333
+            "tested": 2972,
+            "up": 2326
         },
-        "domains.list": 2921,
-        "volatile.list": 2333,
-        "whitelisted.list": 2333
+        "domains.list": 2972,
+        "volatile.list": 2326,
+        "whitelisted.list": 2326
     },
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts",
     "start_datetime": "Sat Oct 19 22:17:24 2019",
