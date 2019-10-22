@@ -509,6 +509,11 @@
         "expiration_date": "15-dec-2019",
         "state": "future"
     },
+    "bestserials.com": {
+        "epoch": 1601251200,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "bestwm.info": {
         "epoch": 1593216000,
         "expiration_date": "27-jun-2020",
