@@ -189,6 +189,11 @@
         "expiration_date": "26-aug-2019",
         "state": "past"
     },
+    "aerreravasi.com": {
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "aff12.com": {
         "epoch": 1575849600,
         "expiration_date": "09-dec-2019",
@@ -1510,8 +1515,8 @@
         "state": "future"
     },
     "flowtec.com.br": {
-        "epoch": 1571788800,
-        "expiration_date": "23-oct-2019",
+        "epoch": 1634947200,
+        "expiration_date": "23-oct-2021",
         "state": "future"
     },
     "fmcurling.org": {
@@ -3492,6 +3497,11 @@
     "searchacross.com": {
         "epoch": 1590451200,
         "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "searchapps.me": {
+        "epoch": 1578873600,
+        "expiration_date": "13-jan-2020",
         "state": "future"
     },
     "searchatomic.com": {
