@@ -215,7 +215,7 @@
         "state": "future"
     },
     "agstracker.com": {
-        "epoch": 1568937600,
+        "epoch": 1568937600.0,
         "expiration_date": "20-sep-2019",
         "state": "past"
     },
@@ -680,7 +680,7 @@
         "state": "future"
     },
     "catz4.com": {
-        "epoch": 1568764800,
+        "epoch": 1568764800.0,
         "expiration_date": "18-sep-2019",
         "state": "past"
     },
@@ -1230,7 +1230,7 @@
         "state": "future"
     },
     "downloads-whatsapp.com": {
-        "epoch": 1569542400,
+        "epoch": 1569542400.0,
         "expiration_date": "27-sep-2019",
         "state": "past"
     },
@@ -1502,6 +1502,11 @@
     "flowtec.com.br": {
         "epoch": 1634947200,
         "expiration_date": "23-oct-2021",
+        "state": "future"
+    },
+    "fmcurling.org": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "foreclousure.com": {
@@ -1865,8 +1870,8 @@
         "state": "future"
     },
     "hentaidatabase.com": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "herezera.com": {
@@ -2005,7 +2010,7 @@
         "state": "future"
     },
     "imagesmovies.com": {
-        "epoch": 1569110400,
+        "epoch": 1569110400.0,
         "expiration_date": "22-sep-2019",
         "state": "past"
     },
@@ -2495,7 +2500,7 @@
         "state": "future"
     },
     "maxregistrycleaner.net": {
-        "epoch": 1566604800,
+        "epoch": 1566604800.0,
         "expiration_date": "24-aug-2019",
         "state": "past"
     },
@@ -2672,6 +2677,11 @@
     "mysearch-engine.com": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "mysearch.com": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "mysearchweb.net": {
@@ -3032,6 +3042,11 @@
     "pillsmoney.com": {
         "epoch": 1586044800,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "pkpojhc.com": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
         "state": "future"
     },
     "plarium.com": {
@@ -3472,6 +3487,11 @@
     "searchapps.me": {
         "epoch": 1578873600,
         "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "searchatomic.com": {
+        "epoch": 1577664000.0,
+        "expiration_date": "30-dec-2019",
         "state": "future"
     },
     "searchdiscovered.com": {
@@ -4347,6 +4367,11 @@
     "warezkeeper.com": {
         "epoch": 1594080000,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "warioland.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "watch24.com": {
