@@ -820,7 +820,7 @@
         "state": "future"
     },
     "clean-start.net": {
-        "epoch": 1568937600,
+        "epoch": 1568937600.0,
         "expiration_date": "20-sep-2019",
         "state": "past"
     },
@@ -1000,7 +1000,7 @@
         "state": "future"
     },
     "continentialairline.com": {
-        "epoch": 1568419200,
+        "epoch": 1568419200.0,
         "expiration_date": "14-sep-2019",
         "state": "past"
     },
@@ -1119,6 +1119,11 @@
         "expiration_date": "13-jan-2020",
         "state": "future"
     },
+    "decografix.com": {
+        "epoch": 1581897600.0,
+        "expiration_date": "17-feb-2020",
+        "state": "future"
+    },
     "deflorationvirgins.com": {
         "epoch": 1583539200,
         "expiration_date": "07-mar-2020",
@@ -1165,9 +1170,9 @@
         "state": "future"
     },
     "divx.it": {
-        "epoch": 1573084800,
+        "epoch": 1573084800.0,
         "expiration_date": "07-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "djsrp.com": {
         "epoch": 1580515200,
@@ -1255,7 +1260,7 @@
         "state": "future"
     },
     "dualvaccine.com": {
-        "epoch": 1567123200,
+        "epoch": 1567123200.0,
         "expiration_date": "30-aug-2019",
         "state": "past"
     },
@@ -1347,6 +1352,11 @@
     "emrlogistics.com": {
         "epoch": 1602460800,
         "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "engelfire.com": {
+        "epoch": 1573257600.0,
+        "expiration_date": "09-nov-2019",
         "state": "future"
     },
     "enigmasoftware.com": {
@@ -1487,6 +1497,11 @@
     "findit-quick.com": {
         "epoch": 1584057600,
         "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "firstconsumers.com": {
+        "epoch": 1600128000.0,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "fixcleaner.com": {
@@ -1930,9 +1945,9 @@
         "state": "future"
     },
     "homrdepot.com": {
-        "epoch": 1573171200,
+        "epoch": 1573171200.0,
         "expiration_date": "08-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "hopto.org": {
         "epoch": 1613520000,
@@ -2080,7 +2095,7 @@
         "state": "future"
     },
     "itunesdownloadstore.com": {
-        "epoch": 1567987200,
+        "epoch": 1567987200.0,
         "expiration_date": "09-sep-2019",
         "state": "past"
     },
@@ -2815,9 +2830,9 @@
         "state": "future"
     },
     "oldgames.zp.ua": {
-        "epoch": 1567728000,
-        "expiration_date": "06-sep-2019",
-        "state": "past"
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
     },
     "omnicleaningservices.com": {
         "epoch": 1583971200,
@@ -3190,7 +3205,7 @@
         "state": "future"
     },
     "quickbitsdownloads.com": {
-        "epoch": 1569628800,
+        "epoch": 1569628800.0,
         "expiration_date": "28-sep-2019",
         "state": "past"
     },
@@ -3312,6 +3327,11 @@
     "registryfix.com": {
         "epoch": 1588377600,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "registrysweeper.com": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "removearrest.com": {
@@ -3725,7 +3745,7 @@
         "state": "future"
     },
     "sompuserve.com": {
-        "epoch": 1570406400,
+        "epoch": 1570406400.0,
         "expiration_date": "07-oct-2019",
         "state": "past"
     },
@@ -4035,7 +4055,7 @@
         "state": "future"
     },
     "tracki112.com": {
-        "epoch": 1567296000,
+        "epoch": 1567296000.0,
         "expiration_date": "01-sep-2019",
         "state": "past"
     },
@@ -4582,6 +4602,11 @@
     "wwwnwa.com": {
         "epoch": 1597622400,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "wwwoldnavy.com": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "wwwplaysite.com": {
