@@ -79,6 +79,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "agstracker.com": {
+        "epoch": 1568937600.0,
+        "expiration_date": "20-sep-2019",
+        "state": "past"
+    },
     "alaksaair.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
@@ -289,6 +294,11 @@
         "expiration_date": "14-sep-2019",
         "state": "past"
     },
+    "coolfreehost.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "cpaclickoffer.com": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
@@ -397,6 +407,11 @@
     "epmclk.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "equallyyolked.com": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "expressomatogrosso.com.br": {
@@ -679,6 +694,11 @@
         "expiration_date": "10-dec-2019",
         "state": "future"
     },
+    "lufthansaairlines.com": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "lufthanza.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
@@ -954,6 +974,11 @@
         "expiration_date": "01-aug-2021",
         "state": "future"
     },
+    "registry-cleaner.net": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
+        "state": "future"
+    },
     "registry-cleaners-compared.com": {
         "epoch": 1575244800.0,
         "expiration_date": "02-dec-2019",
@@ -1082,6 +1107,11 @@
     "ta.com.tw": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
+    "tcgtrkr.com": {
+        "epoch": 1648425600.0,
+        "expiration_date": "28-mar-2022",
         "state": "future"
     },
     "thebighits.com": {
