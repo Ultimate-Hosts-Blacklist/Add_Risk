@@ -649,6 +649,11 @@
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
+    "federicksofhollywood.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
     "feiyang163.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
@@ -1544,6 +1549,11 @@
         "expiration_date": "29-nov-2020",
         "state": "future"
     },
+    "scanspyware.net": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
     "searchacross.com": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
@@ -1572,6 +1582,11 @@
     "secure-processingcenter.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
+    "securemypc.co.uk": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "securetracking2.com": {
@@ -1832,6 +1847,11 @@
     "twttr.com": {
         "epoch": 1615161600.0,
         "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
+    "tzw.com": {
+        "epoch": 1665964800.0,
+        "expiration_date": "17-oct-2022",
         "state": "future"
     },
     "updatesoftwaresend.com": {
