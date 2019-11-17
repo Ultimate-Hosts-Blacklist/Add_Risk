@@ -1115,9 +1115,9 @@
         "state": "future"
     },
     "downloads-whatsapp.com": {
-        "epoch": 1569542400.0,
-        "expiration_date": "27-sep-2019",
-        "state": "past"
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
     },
     "downloadupload.com": {
         "epoch": 1581811200.0,
@@ -1757,6 +1757,11 @@
     "homrdepot.com": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "hopto.org": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "hornytraffic.com": {
@@ -2974,6 +2979,11 @@
         "expiration_date": "03-jun-2021",
         "state": "future"
     },
+    "registry-cleaners-compared.com": {
+        "epoch": 1575244800.0,
+        "expiration_date": "02-dec-2019",
+        "state": "future"
+    },
     "registry-error-cleaner.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
@@ -2992,7 +3002,7 @@
     "registrycleanerpro.net": {
         "epoch": 1573948800.0,
         "expiration_date": "17-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "registrycleanertechnology.com": {
         "epoch": 1574640000.0,
