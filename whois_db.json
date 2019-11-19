@@ -1279,6 +1279,11 @@
         "expiration_date": "05-jul-2026",
         "state": "future"
     },
+    "findit-quick.com": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
     "firstconsumers.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -1317,6 +1322,11 @@
     "forex-instruments.info": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
+        "state": "future"
+    },
+    "formessengers.com": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
         "state": "future"
     },
     "fotoidea.com": {
@@ -3329,6 +3339,11 @@
         "expiration_date": "09-jul-2021",
         "state": "future"
     },
+    "tcgtrkr.com": {
+        "epoch": 1648425600.0,
+        "expiration_date": "28-mar-2022",
+        "state": "future"
+    },
     "techbargins.com": {
         "epoch": 1691366400.0,
         "expiration_date": "07-aug-2023",
@@ -3652,6 +3667,11 @@
     "venturead.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "very-koi.com": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
         "state": "future"
     },
     "video-pomp.com": {
