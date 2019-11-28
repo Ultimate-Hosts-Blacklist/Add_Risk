@@ -109,6 +109,11 @@
         "expiration_date": "22-sep-2019",
         "state": "past"
     },
+    "atousoft.com": {
+        "epoch": 1588032000.0,
+        "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
     "audia6.com": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
@@ -159,6 +164,11 @@
         "expiration_date": "24-nov-2020",
         "state": "future"
     },
+    "brevardmusic.com": {
+        "epoch": 1721520000.0,
+        "expiration_date": "21-jul-2024",
+        "state": "future"
+    },
     "buffalogoesout.com": {
         "epoch": 1569801600.0,
         "expiration_date": "30-sep-2019",
@@ -168,6 +178,11 @@
         "epoch": 1569456000.0,
         "expiration_date": "26-sep-2019",
         "state": "past"
+    },
+    "buyingedge.com": {
+        "epoch": 1668384000.0,
+        "expiration_date": "14-nov-2022",
+        "state": "future"
     },
     "cabeles.com": {
         "epoch": 1593216000.0,
@@ -204,9 +219,19 @@
         "expiration_date": "19-sep-2021",
         "state": "future"
     },
+    "cheapticketes.com": {
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "state": "future"
+    },
     "cheapticketsinc.com": {
         "epoch": 1633046400.0,
         "expiration_date": "01-oct-2021",
+        "state": "future"
+    },
+    "cheapticketts.com": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "cheapticktes.com": {
@@ -399,6 +424,11 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "equallyyolked.com": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
     "expressomatogrosso.com.br": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
@@ -482,6 +512,11 @@
     "gamesharck.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
+    "gen2server.com": {
+        "epoch": 1585872000.0,
+        "expiration_date": "03-apr-2020",
         "state": "future"
     },
     "gnuetella.com": {
@@ -597,6 +632,16 @@
     "installm.net": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "intera-x.com": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
+    "isuzi.com": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "iybasketball.info": {
@@ -719,9 +764,19 @@
         "expiration_date": "14-sep-2020",
         "state": "future"
     },
+    "mapqueat.com": {
+        "epoch": 1666742400.0,
+        "expiration_date": "26-oct-2022",
+        "state": "future"
+    },
     "mapquestt.com": {
         "epoch": 1658102400.0,
         "expiration_date": "18-jul-2022",
+        "state": "future"
+    },
+    "mapquuest.com": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "marketingenhanced.com": {
@@ -914,6 +969,11 @@
         "expiration_date": "07-dec-2019",
         "state": "future"
     },
+    "premiumpedia.com": {
+        "epoch": 1595808000.0,
+        "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
     "priiceline.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
@@ -932,6 +992,11 @@
     "prriceline.com": {
         "epoch": 1587081600.0,
         "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "qikdownloads.com": {
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "quickbitsdownloads.com": {
@@ -1002,6 +1067,11 @@
     "sankakustatic.com": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "scanspyware.net": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "searchdiscovered.com": {
@@ -1149,9 +1219,19 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "trustsoft.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "trx625.com": {
         "epoch": 1579132800.0,
         "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
+    "tzw.com": {
+        "epoch": 1665964800.0,
+        "expiration_date": "17-oct-2022",
         "state": "future"
     },
     "updatesoftwaresend.com": {
@@ -1272,6 +1352,11 @@
     "wwwwal-mart.com": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "x-diesel.info": {
+        "epoch": 1589068800.0,
+        "expiration_date": "10-may-2020",
         "state": "future"
     },
     "xclicks.net": {
