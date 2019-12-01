@@ -49,6 +49,11 @@
         "expiration_date": "17-jul-2020",
         "state": "future"
     },
+    "77search.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
     "7metasearch.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
@@ -264,6 +269,11 @@
         "expiration_date": "07-mar-2020",
         "state": "future"
     },
+    "animalrank.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "state": "future"
+    },
     "animaltoplist.com": {
         "epoch": 1626220800.0,
         "expiration_date": "14-jul-2021",
@@ -444,6 +454,11 @@
         "expiration_date": "14-oct-2020",
         "state": "future"
     },
+    "bilbob.com": {
+        "epoch": 1581206400.0,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
     "bizneed.com": {
         "epoch": 1640476800.0,
         "expiration_date": "26-dec-2021",
@@ -592,6 +607,11 @@
     "cecash.com": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
+        "state": "future"
+    },
+    "cellularbeton.it": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "centerfind.com": {
@@ -1154,9 +1174,19 @@
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
+    "eyes.by": {
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
+    },
     "ezthemes.com": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
+        "state": "future"
+    },
+    "fabrics-store.com": {
+        "epoch": 1759017600.0,
+        "expiration_date": "28-sep-2025",
         "state": "future"
     },
     "facebook.cm": {
@@ -1554,6 +1584,11 @@
         "expiration_date": "25-aug-2020",
         "state": "future"
     },
+    "hidemyass.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
     "historykill.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
@@ -1653,6 +1688,11 @@
         "epoch": 1585094400.0,
         "expiration_date": "25-mar-2020",
         "state": "future"
+    },
+    "imagesmovies.com": {
+        "epoch": 1569110400.0,
+        "expiration_date": "22-sep-2019",
+        "state": "past"
     },
     "img001.com": {
         "epoch": 1612828800.0,
@@ -2184,6 +2224,11 @@
         "expiration_date": "15-jun-2020",
         "state": "future"
     },
+    "mytotalsearch.com": {
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "state": "future"
+    },
     "mywebsearch.com": {
         "epoch": 1639094400.0,
         "expiration_date": "10-dec-2021",
@@ -2319,6 +2364,11 @@
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
+    "opensoftwareupdate.com": {
+        "epoch": 1582243200.0,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
     "opensoftwareupdater.com": {
         "epoch": 1582243200.0,
         "expiration_date": "21-feb-2020",
@@ -2412,6 +2462,11 @@
     "pcsecurityshield.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
+    "pdf-platinum.info": {
+        "epoch": 1582588800.0,
+        "expiration_date": "25-feb-2020",
         "state": "future"
     },
     "petrafashion.com": {
@@ -2772,6 +2827,11 @@
     "safelinking.net": {
         "epoch": 1584489600.0,
         "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "safepccleaner.com": {
+        "epoch": 1575936000.0,
+        "expiration_date": "10-dec-2019",
         "state": "future"
     },
     "samaclub.com": {
@@ -3267,6 +3327,11 @@
     "tracklead.net": {
         "epoch": 1613088000.0,
         "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
+    "trackzapper.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "traff1.com": {
