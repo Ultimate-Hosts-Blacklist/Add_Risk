@@ -84,6 +84,11 @@
         "expiration_date": "14-oct-2020",
         "state": "future"
     },
+    "adblockanalytics.com": {
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
     "adchimp.com": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
@@ -212,6 +217,11 @@
     "all-internet-security.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "allfet.info": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "american-prize-center.com": {
@@ -508,6 +518,11 @@
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
         "state": "future"
+    },
+    "buffalogoesout.com": {
+        "epoch": 1569801600.0,
+        "expiration_date": "30-sep-2019",
+        "state": "past"
     },
     "bugsurf.com": {
         "epoch": 1569456000.0,
@@ -887,6 +902,16 @@
     "darley.co.uk": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "dddcc.com": {
+        "epoch": 1578873600.0,
+        "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "dentairemalin.com": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
         "state": "future"
     },
     "desifever.com": {
@@ -1809,6 +1834,11 @@
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "lateecapes.com": {
+        "epoch": 1575504000.0,
+        "expiration_date": "05-dec-2019",
+        "state": "future"
+    },
     "leadingedgecash.com": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
@@ -1817,6 +1847,11 @@
     "letssearch.com": {
         "epoch": 1581206400.0,
         "expiration_date": "09-feb-2020",
+        "state": "future"
+    },
+    "letzonke.com": {
+        "epoch": 1597536000.0,
+        "expiration_date": "16-aug-2020",
         "state": "future"
     },
     "libecki.net": {
@@ -1847,6 +1882,11 @@
     "liqwid.net": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
+    "livejasmin.com": {
+        "epoch": 1605139200.0,
+        "expiration_date": "12-nov-2020",
         "state": "future"
     },
     "livewell.net": {
@@ -2234,6 +2274,11 @@
         "expiration_date": "10-jun-2020",
         "state": "future"
     },
+    "omnicleaningservices.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
+        "state": "future"
+    },
     "onclickpredictiv.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
@@ -2534,6 +2579,11 @@
         "expiration_date": "01-jan-2020",
         "state": "future"
     },
+    "racingandclassic.com": {
+        "epoch": 1580342400.0,
+        "expiration_date": "30-jan-2020",
+        "state": "future"
+    },
     "ratemodels.net": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
@@ -2572,6 +2622,11 @@
     "registry-clean-up.net": {
         "epoch": 1631664000.0,
         "expiration_date": "15-sep-2021",
+        "state": "future"
+    },
+    "registry-cleaner.net": {
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "registry-cleaners-compared.com": {
@@ -3124,6 +3179,11 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "themexp.org": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "theroamingjew.com": {
         "epoch": 1618704000.0,
         "expiration_date": "18-apr-2021",
@@ -3487,6 +3547,11 @@
     "warezaccess.com": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "warezkeeper.com": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "warioland.com": {
