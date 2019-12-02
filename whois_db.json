@@ -409,6 +409,11 @@
         "expiration_date": "18-jan-2020",
         "state": "future"
     },
+    "barclaysghana.org": {
+        "epoch": 1762905600.0,
+        "expiration_date": "12-nov-2025",
+        "state": "future"
+    },
     "bcservice.it": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
@@ -749,6 +754,11 @@
         "expiration_date": "13-nov-2020",
         "state": "future"
     },
+    "cleanproxy.com": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
     "cleansearch.net": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
@@ -979,6 +989,11 @@
         "expiration_date": "11-mar-2020",
         "state": "future"
     },
+    "darley.co.uk": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "dddcc.com": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
@@ -1159,6 +1174,11 @@
         "expiration_date": "16-jul-2020",
         "state": "future"
     },
+    "eclkspsa.com": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
     "ecpmrocks.com": {
         "epoch": 1613260800.0,
         "expiration_date": "14-feb-2021",
@@ -1237,6 +1257,11 @@
     "exactadvertising.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "exacttarget.com": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "expressaffiliatesite.com": {
@@ -1415,6 +1440,11 @@
         "state": "future"
     },
     "frtya.com": {
+        "epoch": 1586995200.0,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
+    "frtyb.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
         "state": "future"
@@ -2819,6 +2849,11 @@
         "expiration_date": "03-jun-2021",
         "state": "future"
     },
+    "registry-cleaners-compared.com": {
+        "epoch": 1575244800.0,
+        "expiration_date": "02-dec-2019",
+        "state": "past"
+    },
     "registry-error-cleaner.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
@@ -2857,6 +2892,11 @@
     "registryfix.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "registrysweeper.com": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "removearrest.com": {
@@ -3259,6 +3299,11 @@
         "expiration_date": "01-dec-2020",
         "state": "future"
     },
+    "startnow.com": {
+        "epoch": 1822089600.0,
+        "expiration_date": "28-sep-2027",
+        "state": "future"
+    },
     "stephens-laughlin.com": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
@@ -3387,6 +3432,11 @@
     "thesurfshield.com": {
         "epoch": 1622937600.0,
         "expiration_date": "06-jun-2021",
+        "state": "future"
+    },
+    "theweatherspace.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "thoroclean.com": {
@@ -3627,6 +3677,11 @@
     "vasanthkumar.com": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "vaultsappsbyte.com": {
+        "epoch": 1575936000.0,
+        "expiration_date": "10-dec-2019",
         "state": "future"
     },
     "vclicks.net": {
