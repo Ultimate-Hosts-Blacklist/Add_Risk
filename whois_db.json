@@ -354,6 +354,11 @@
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
+    "atmovs.com": {
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
     "auctiondirectory.org": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
@@ -829,6 +834,11 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "cnbnews.com": {
+        "epoch": 1647388800.0,
+        "expiration_date": "16-mar-2022",
+        "state": "future"
+    },
     "cnn.cm": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
@@ -1092,6 +1102,11 @@
     "downloads-whatsapp.com": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "downloadupload.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "downloadwarez.org": {
@@ -1624,9 +1639,19 @@
         "expiration_date": "22-oct-2023",
         "state": "future"
     },
+    "gowin7.com": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
     "grabfile.co": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
+    "gratisweb.com": {
+        "epoch": 1597881600.0,
+        "expiration_date": "20-aug-2020",
         "state": "future"
     },
     "guaranty.com.cn": {
@@ -1652,6 +1677,11 @@
     "h-adachi.org": {
         "epoch": 1643760000.0,
         "expiration_date": "02-feb-2022",
+        "state": "future"
+    },
+    "h21.ru": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "hacking-facebook.com": {
@@ -1767,6 +1797,11 @@
     "hot2015rewards.com": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
+    "hotspotshield.com": {
+        "epoch": 1837728000.0,
+        "expiration_date": "27-mar-2028",
         "state": "future"
     },
     "howtocleanacomputervirus.com": {
@@ -2482,6 +2517,11 @@
     "nsrecord.org": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
+    "ntkrnlpa.info": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "ohiomm.com": {
@@ -3669,6 +3709,11 @@
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
+    "travelocoity.com": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "travelogity.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -4197,6 +4242,11 @@
     "xtrafic.ro": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "ymxpb.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "youtuhe.com": {
