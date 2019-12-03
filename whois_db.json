@@ -314,6 +314,16 @@
         "expiration_date": "04-dec-2022",
         "state": "future"
     },
+    "anycracks.com": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "appfindr.org": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "aproxtrack2.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
@@ -923,6 +933,11 @@
         "epoch": 1569369600.0,
         "expiration_date": "25-sep-2019",
         "state": "past"
+    },
+    "crackfulldownload.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
     },
     "crackspider.net": {
         "epoch": 1587427200.0,
@@ -1969,6 +1984,11 @@
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
+    "josip-stadler.org": {
+        "epoch": 1585872000.0,
+        "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
     "jsing.net": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
@@ -2114,6 +2134,11 @@
         "expiration_date": "31-may-2020",
         "state": "future"
     },
+    "littlesturgisrally.com": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
     "livejasmin.com": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
@@ -2214,6 +2239,11 @@
         "expiration_date": "29-jan-2020",
         "state": "future"
     },
+    "mamamidia.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "mansmith.net": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
@@ -2299,6 +2329,11 @@
         "expiration_date": "26-jan-2020",
         "state": "future"
     },
+    "messagetag.com": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
     "mgjmp.com": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
@@ -2312,6 +2347,11 @@
     "ming-dun.com.tw": {
         "epoch": 1660348800.0,
         "expiration_date": "13-aug-2022",
+        "state": "future"
+    },
+    "mlinktracker.com": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "mm26.com": {
@@ -2507,6 +2547,11 @@
     "nkgamers.com": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "notrecommended.co.uk": {
+        "epoch": 1581465600.0,
+        "expiration_date": "12-feb-2020",
         "state": "future"
     },
     "nryb.com": {
@@ -2907,6 +2952,11 @@
     "r2prod.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
+        "state": "future"
+    },
+    "racingandclassic.com": {
+        "epoch": 1580342400.0,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "rd-direct.com": {
@@ -3884,6 +3934,11 @@
         "expiration_date": "16-jun-2020",
         "state": "future"
     },
+    "vaultsappsbyte.com": {
+        "epoch": 1575936000.0,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
     "vclicks.net": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
@@ -3982,6 +4037,11 @@
     "web-feed.net": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "web3000.co.uk": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "webservis.gen.tr": {
