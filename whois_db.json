@@ -1,4 +1,9 @@
 {
+    "0iecfobt.com": {
+        "epoch": 1580860800.0,
+        "expiration_date": "05-feb-2020",
+        "state": "future"
+    },
     "1001movies.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
@@ -224,6 +229,11 @@
         "expiration_date": "17-jan-2020",
         "state": "future"
     },
+    "allfet.info": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
     "american-prize-center.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
@@ -372,6 +382,11 @@
     "avskype.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "balook.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "bananarepubic.com": {
@@ -962,6 +977,11 @@
     "digiaquascr.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
+        "state": "future"
+    },
+    "dimarsbg.com": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "directxex.com": {
@@ -1559,6 +1579,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "goolges.com": {
+        "epoch": 1580169600.0,
+        "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
     "gopeds.com": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
@@ -1677,6 +1702,11 @@
     "hoerbird.net": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "holika.com": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "homedepoy.com": {
@@ -3482,6 +3512,11 @@
     "tnctrx.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "toonfamilies.net": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "top50.co.uk": {
