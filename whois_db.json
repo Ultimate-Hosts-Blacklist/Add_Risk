@@ -174,6 +174,11 @@
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
+    "aerreravasi.com": {
+        "epoch": 1598659200.0,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "aff12.com": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
@@ -429,6 +434,11 @@
         "expiration_date": "12-nov-2025",
         "state": "future"
     },
+    "bcservice.it": {
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
     "bde3d.com": {
         "epoch": 1576022400.0,
         "expiration_date": "11-dec-2019",
@@ -669,6 +679,11 @@
         "expiration_date": "18-jan-2020",
         "state": "future"
     },
+    "chaseonline.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "cheapstickets.com": {
         "epoch": 1632009600.0,
         "expiration_date": "19-sep-2021",
@@ -692,6 +707,11 @@
     "cheapticktes.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
+    "chiaperottipaolo.it": {
+        "epoch": 1589673600.0,
+        "expiration_date": "17-may-2020",
         "state": "future"
     },
     "chilecapacita.cl": {
@@ -2404,6 +2424,11 @@
         "expiration_date": "08-feb-2020",
         "state": "future"
     },
+    "morenews3.net": {
+        "epoch": 1592352000.0,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
     "mpmotrk.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
@@ -2959,6 +2984,11 @@
         "expiration_date": "30-jan-2020",
         "state": "future"
     },
+    "ratemodels.net": {
+        "epoch": 1581465600.0,
+        "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
     "rd-direct.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
@@ -3204,6 +3234,11 @@
         "expiration_date": "26-may-2020",
         "state": "future"
     },
+    "searchapps.me": {
+        "epoch": 1578873600.0,
+        "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
     "searchdiscovered.com": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
@@ -3312,6 +3347,11 @@
     "sellmeyourtraffic.com": {
         "epoch": 1582070400.0,
         "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
+    "sendfwd.com": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "sendori.com": {
@@ -4385,9 +4425,9 @@
         "state": "future"
     },
     "zoophil.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
-        "state": "past"
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
     },
     "zoosexart.com": {
         "epoch": 1609891200.0,
