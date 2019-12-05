@@ -479,6 +479,11 @@
         "expiration_date": "29-nov-2020",
         "state": "future"
     },
+    "bonzybuddy.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "boostsoftware.com": {
         "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
@@ -799,6 +804,11 @@
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
+    "comairairlines.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
     "conds.ru": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
@@ -807,6 +817,16 @@
     "conduit.com": {
         "epoch": 1745193600.0,
         "expiration_date": "21-apr-2025",
+        "state": "future"
+    },
+    "consumeralternatives.org": {
+        "epoch": 1580256000.0,
+        "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "contentcleaner.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
         "state": "future"
     },
     "coolfreehost.com": {
@@ -1107,6 +1127,11 @@
     "epmads.com": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
+        "state": "future"
+    },
+    "epmclk.com": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
         "state": "future"
     },
     "ertya.com": {
@@ -1789,6 +1814,11 @@
         "expiration_date": "09-nov-2020",
         "state": "future"
     },
+    "justredirect24.com": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
     "k5zoom.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
@@ -2059,6 +2089,11 @@
         "expiration_date": "08-may-2020",
         "state": "future"
     },
+    "maxonclick.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "maxregistrycleaner.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
@@ -2297,6 +2332,11 @@
     "notrecommended.co.uk": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
+        "state": "future"
+    },
+    "nryb.com": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "nsrecord.org": {
@@ -2559,6 +2599,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "priiceline.com": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
     "primosearch.com": {
         "epoch": 1598400000.0,
         "expiration_date": "26-aug-2020",
@@ -2792,6 +2837,11 @@
     "ristoromontebasso.it": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "rivasearchpage.com": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "rngetek.com": {
@@ -3639,6 +3689,11 @@
         "expiration_date": "26-jun-2020",
         "state": "future"
     },
+    "warezkeeper.com": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
     "warioland.com": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
@@ -3842,6 +3897,11 @@
     "wwwwal-mart.com": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "x-diesel.biz": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "x-diesel.com": {
