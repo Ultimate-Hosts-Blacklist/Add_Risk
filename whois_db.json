@@ -174,6 +174,11 @@
         "expiration_date": "17-sep-2022",
         "state": "future"
     },
+    "agstracker.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
     "aimes.com": {
         "epoch": 1635724800.0,
         "expiration_date": "01-nov-2021",
@@ -487,6 +492,11 @@
     "bride1.com": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
+    "browseraccelerator.com": {
+        "epoch": 1581724800.0,
+        "expiration_date": "15-feb-2020",
         "state": "future"
     },
     "bulgariabg.com": {
@@ -1309,6 +1319,11 @@
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "gamesfly.com": {
+        "epoch": 1795564800.0,
+        "expiration_date": "25-nov-2026",
+        "state": "future"
+    },
     "gamesharck.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
@@ -1329,9 +1344,19 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "genforumgenealogy.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "get-avast.com": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "getiton.com": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "getrockerbox.com": {
@@ -1479,6 +1504,16 @@
         "expiration_date": "25-aug-2020",
         "state": "future"
     },
+    "hidemyass.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
+    "historykill.com": {
+        "epoch": 1592784000.0,
+        "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
     "hlserve.com": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
@@ -1492,6 +1527,11 @@
     "hoerbird.net": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "holika.com": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "homedepoy.com": {
@@ -1682,6 +1722,11 @@
     "josip-stadler.org": {
         "epoch": 1585872000.0,
         "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
+    "jsonip.com": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "k5zoom.com": {
@@ -1889,6 +1934,11 @@
         "expiration_date": "17-nov-2020",
         "state": "future"
     },
+    "mainteck-fr.com": {
+        "epoch": 1590883200.0,
+        "expiration_date": "31-may-2020",
+        "state": "future"
+    },
     "malkm.com": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
@@ -2074,6 +2124,11 @@
         "expiration_date": "17-may-2024",
         "state": "future"
     },
+    "myshovel.com": {
+        "epoch": 1592179200.0,
+        "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
     "mytotalsearch.com": {
         "epoch": 1634256000.0,
         "expiration_date": "15-oct-2021",
@@ -2152,6 +2207,11 @@
     "ntkrnlpa.info": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "ohiomm.com": {
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
         "state": "future"
     },
     "ojolink.fr": {
@@ -2459,6 +2519,11 @@
         "expiration_date": "01-apr-2024",
         "state": "future"
     },
+    "quickbitsdownloads.com": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
     "quickcreditscore.co.uk": {
         "epoch": 1625616000.0,
         "expiration_date": "07-jul-2021",
@@ -2467,6 +2532,11 @@
     "quinnwealth.com": {
         "epoch": 1617494400.0,
         "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "r2prod.com": {
+        "epoch": 1577836800.0,
+        "expiration_date": "01-jan-2020",
         "state": "future"
     },
     "ranchapptag.com": {
@@ -2657,6 +2727,11 @@
     "safepccleaner.com": {
         "epoch": 1575936000.0,
         "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "samaclub.com": {
+        "epoch": 1666656000.0,
+        "expiration_date": "25-oct-2022",
         "state": "future"
     },
     "sankakustatic.com": {
@@ -2907,6 +2982,11 @@
     "spywareit.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
+    "spywarespy.com": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
         "state": "future"
     },
     "srv2trking.com": {
@@ -3204,6 +3284,11 @@
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
+    "trk4.com": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "trkingace.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -3367,6 +3452,11 @@
     "vmay.com": {
         "epoch": 1591574400.0,
         "expiration_date": "08-jun-2020",
+        "state": "future"
+    },
+    "vpnaffiliates.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "vq918450.com": {
@@ -3549,6 +3639,11 @@
         "expiration_date": "03-oct-2019",
         "state": "past"
     },
+    "wwwdollar.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "wwwgoogles.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -3662,6 +3757,11 @@
     "zbest.in": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
+        "state": "future"
+    },
+    "zeroredirect2.com": {
+        "epoch": 1707955200.0,
+        "expiration_date": "15-feb-2024",
         "state": "future"
     },
     "zipitfast.com": {
