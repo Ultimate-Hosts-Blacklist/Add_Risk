@@ -1889,6 +1889,11 @@
         "expiration_date": "04-jun-2020",
         "state": "future"
     },
+    "installm.net": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
     "instorm.com": {
         "epoch": 1612742400.0,
         "expiration_date": "08-feb-2021",
@@ -4024,6 +4029,11 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "vq918450.com": {
+        "epoch": 1597104000.0,
+        "expiration_date": "11-aug-2020",
+        "state": "future"
+    },
     "wannawatch.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
@@ -4127,6 +4137,11 @@
     "wordseach.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "wpxn.com": {
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
         "state": "future"
     },
     "writingassociates.com": {
@@ -4415,6 +4430,11 @@
         "state": "future"
     },
     "zuverink.net": {
+        "epoch": 1577145600.0,
+        "expiration_date": "24-dec-2019",
+        "state": "future"
+    }
+}  "zuverink.net": {
         "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
         "state": "future"
