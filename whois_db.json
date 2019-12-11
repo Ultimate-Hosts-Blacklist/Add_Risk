@@ -1009,6 +1009,11 @@
         "expiration_date": "24-oct-2019",
         "state": "past"
     },
+    "cpatraffictracker.com": {
+        "epoch": 1569369600.0,
+        "expiration_date": "25-sep-2019",
+        "state": "past"
+    },
     "crackfulldownload.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
@@ -3574,6 +3579,11 @@
         "expiration_date": "01-jun-2023",
         "state": "future"
     },
+    "sijmp.com": {
+        "epoch": 1586995200.0,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
     "silvercash.com": {
         "epoch": 1587513600.0,
         "expiration_date": "22-apr-2020",
@@ -4175,9 +4185,9 @@
         "state": "future"
     },
     "vaultsappsbyte.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
     },
     "vclicks.net": {
         "epoch": 1598054400.0,
