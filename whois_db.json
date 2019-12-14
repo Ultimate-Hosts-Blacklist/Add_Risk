@@ -394,6 +394,11 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "balook.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
     "bananarepubic.com": {
         "epoch": 1580428800.0,
         "expiration_date": "31-jan-2020",
@@ -1849,6 +1854,11 @@
         "expiration_date": "25-mar-2020",
         "state": "future"
     },
+    "imagesmovies.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
     "img001.com": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
@@ -2214,6 +2224,11 @@
         "expiration_date": "12-jun-2021",
         "state": "future"
     },
+    "m57ku6sm.com": {
+        "epoch": 1570665600.0,
+        "expiration_date": "10-oct-2019",
+        "state": "past"
+    },
     "magellen.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
@@ -2512,6 +2527,11 @@
     "newclick.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "newcracks.net": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
         "state": "future"
     },
     "neweed.org": {
@@ -2887,6 +2907,11 @@
     "px24.com": {
         "epoch": 1587254400.0,
         "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "qikdownloads.com": {
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "qssa.co.uk": {
@@ -3834,6 +3859,11 @@
         "expiration_date": "01-apr-2021",
         "state": "future"
     },
+    "trx625.com": {
+        "epoch": 1579132800.0,
+        "expiration_date": "16-jan-2020",
+        "state": "future"
+    },
     "tuckows.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
@@ -3917,6 +3947,11 @@
     "vasanthkumar.com": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
+        "state": "future"
+    },
+    "vaultsappsbyte.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "vclicks.net": {
