@@ -99,6 +99,11 @@
         "expiration_date": "22-sep-2021",
         "state": "future"
     },
+    "ad-souk.com": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
     "adamsfilms.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
@@ -804,6 +809,11 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "clicksagent.com": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
     "clickthruserver.com": {
         "epoch": 1718150400.0,
         "expiration_date": "12-jun-2024",
@@ -989,6 +999,11 @@
         "expiration_date": "13-jun-2025",
         "state": "future"
     },
+    "dddcc.com": {
+        "epoch": 1578873600.0,
+        "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
     "deflorationvirgins.com": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
@@ -1162,6 +1177,11 @@
     "eclkspsa.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
+    "ecpmrocks.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
         "state": "future"
     },
     "edirectory.co.uk": {
@@ -1407,6 +1427,11 @@
     "freebitmoney.com": {
         "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
+    "freedownloadzone.com": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
         "state": "future"
     },
     "freenew.net": {
@@ -3469,6 +3494,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "spywareit.com": {
+        "epoch": 1578009600.0,
+        "expiration_date": "03-jan-2020",
+        "state": "future"
+    },
     "spywarenuker.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
@@ -3819,6 +3849,11 @@
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
+    "trk4.com": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "trkingace.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -4047,6 +4082,11 @@
     "widestep.com": {
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "win-spy.com": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "winadiscount.com": {
