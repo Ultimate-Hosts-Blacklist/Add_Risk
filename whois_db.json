@@ -659,6 +659,11 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "cheapstickets.com": {
+        "epoch": 1632009600.0,
+        "expiration_date": "19-sep-2021",
+        "state": "future"
+    },
     "cheaptickests.com": {
         "epoch": 1632009600.0,
         "expiration_date": "19-sep-2021",
