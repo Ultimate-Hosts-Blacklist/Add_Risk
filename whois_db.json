@@ -579,6 +579,11 @@
         "expiration_date": "21-jul-2024",
         "state": "future"
     },
+    "bride1.com": {
+        "epoch": 1585699200.0,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
     "browseraccelerator.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
@@ -1137,6 +1142,11 @@
     "domainfwd.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
+    "domainfwding.com": {
+        "epoch": 1589328000.0,
+        "expiration_date": "13-may-2020",
         "state": "future"
     },
     "dotzup.com": {
@@ -1817,6 +1827,11 @@
     "hidebux.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "hidemyass.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "historykill.com": {
@@ -2904,6 +2919,11 @@
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
+    "petsmovies.com": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
     "pfaltzgraf.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
@@ -3177,6 +3197,11 @@
     "registryfix.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "registrysweeper.com": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
         "state": "future"
     },
     "rentfromart.com": {
@@ -3697,6 +3722,11 @@
     "suscotrk.com": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
+    "svarkon.ru": {
+        "epoch": 1590278400.0,
+        "expiration_date": "24-may-2020",
         "state": "future"
     },
     "swanksoft.com": {
