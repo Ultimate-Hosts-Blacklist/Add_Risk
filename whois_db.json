@@ -709,6 +709,11 @@
         "expiration_date": "19-sep-2021",
         "state": "future"
     },
+    "cheapticketes.com": {
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "state": "future"
+    },
     "cheapticketsinc.com": {
         "epoch": 1633046400.0,
         "expiration_date": "01-oct-2021",
@@ -2854,6 +2859,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "paypalcz.cz": {
+        "epoch": 1602633600.0,
+        "expiration_date": "14-oct-2020",
+        "state": "future"
+    },
     "payperclickadvertising.org.uk": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
@@ -2917,6 +2927,11 @@
     "petrafashion.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
+    "petrenko.biz": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "petsmovies.com": {
@@ -3902,6 +3917,11 @@
     "tracki112.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "tracklead.net": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "trackzapper.com": {
