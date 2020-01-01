@@ -54,6 +54,11 @@
         "expiration_date": "28-nov-2020",
         "state": "future"
     },
+    "7metasearch.com": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "7search.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
@@ -547,6 +552,11 @@
     "bluemountain1.com": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "boattraider.com": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "bonzbuddy.com": {
@@ -1122,6 +1132,11 @@
     "distrilamadrid.com.ar": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "divx.it": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "djsrp.com": {
@@ -1929,6 +1944,11 @@
         "expiration_date": "07-mar-2020",
         "state": "future"
     },
+    "ieginc.com": {
+        "epoch": 1587600000.0,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "igame4free.com": {
         "epoch": 1578268800.0,
         "expiration_date": "06-jan-2020",
@@ -2689,6 +2709,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "nmapquest.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "notrecommended.co.uk": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
@@ -3095,8 +3120,8 @@
         "state": "future"
     },
     "r2prod.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "ranchapptag.com": {
@@ -3402,7 +3427,7 @@
     "searchnet.com": {
         "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "searchnigeria.net": {
         "epoch": 1638057600.0,
@@ -3879,6 +3904,11 @@
         "expiration_date": "18-mar-2020",
         "state": "future"
     },
+    "tossm.com": {
+        "epoch": 1580083200.0,
+        "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
     "totemcash.com": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
@@ -4224,6 +4254,11 @@
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
+    "warioland.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "watch24.com": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
@@ -4272,6 +4307,11 @@
     "winadiscount.com": {
         "epoch": 1646784000.0,
         "expiration_date": "09-mar-2022",
+        "state": "future"
+    },
+    "winaproduct.com": {
+        "epoch": 1590624000.0,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "wincleaner.com": {
