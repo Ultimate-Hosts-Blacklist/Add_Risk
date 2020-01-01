@@ -1034,6 +1034,11 @@
         "expiration_date": "07-nov-2020",
         "state": "future"
     },
+    "ctibank.com": {
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
+    },
     "ctrck.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
@@ -1269,6 +1274,11 @@
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
+    "eclean.or.kr": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
     "eclkspsa.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
@@ -1467,6 +1477,11 @@
     "flashcasino.com": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "flowtec.com.br": {
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
         "state": "future"
     },
     "fmcurling.org": {
@@ -2934,6 +2949,11 @@
         "expiration_date": "18-mar-2021",
         "state": "future"
     },
+    "petrafashion.com": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
     "petrenko.biz": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
@@ -3122,6 +3142,11 @@
     "r2prod.com": {
         "epoch": 1609459200.0,
         "expiration_date": "01-jan-2021",
+        "state": "future"
+    },
+    "racingandclassic.com": {
+        "epoch": 1580342400.0,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "ranchapptag.com": {
@@ -3392,6 +3417,11 @@
     "searchapps.me": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
+        "state": "future"
+    },
+    "searchatomic.com": {
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "searchfwding.com": {
