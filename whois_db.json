@@ -1179,6 +1179,11 @@
         "expiration_date": "04-jul-2020",
         "state": "future"
     },
+    "domainfwding.com": {
+        "epoch": 1589328000.0,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
     "dotzup.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
@@ -1942,6 +1947,11 @@
     "howtocleanacomputervirus.com": {
         "epoch": 1585440000.0,
         "expiration_date": "29-mar-2020",
+        "state": "future"
+    },
+    "i-games.biz": {
+        "epoch": 1599696000.0,
+        "expiration_date": "10-sep-2020",
         "state": "future"
     },
     "ibmvideo.com": {
@@ -3460,9 +3470,9 @@
         "state": "future"
     },
     "searchnet.com": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
-        "state": "past"
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
     },
     "searchnigeria.net": {
         "epoch": 1638057600.0,
@@ -4322,6 +4332,11 @@
     "webservis.gen.tr": {
         "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "websitehome.co.uk": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "westerntaneyfire.com": {
