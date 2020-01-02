@@ -3254,6 +3254,11 @@
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
+    "registry-error-cleaner.com": {
+        "epoch": 1596844800.0,
+        "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
     "registrycleaner-reviews.net": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
