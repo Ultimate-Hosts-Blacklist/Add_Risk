@@ -1044,6 +1044,11 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "credibleartstherapies.org": {
+        "epoch": 1585958400.0,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
     "cswilliamsburg.com": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
@@ -4522,6 +4527,11 @@
     "wwwcheaptickets.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "wwwcnnnews.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "wwwdollar.com": {
