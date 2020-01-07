@@ -849,6 +849,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "clickcash.com": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
     "clicksagent.com": {
         "epoch": 1604188800.0,
         "expiration_date": "01-nov-2020",
@@ -1072,6 +1077,11 @@
     "disable-uac.com": {
         "epoch": 1584921600.0,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "distribuidoraderetentores.com.br": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "distrilamadrid.com.ar": {
@@ -1664,6 +1674,11 @@
         "expiration_date": "28-feb-2021",
         "state": "future"
     },
+    "gwmtracker.com": {
+        "epoch": 1591142400.0,
+        "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
     "gxplugin.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
@@ -1752,6 +1767,11 @@
     "hlserve.com": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
+    "hnskorea.co.kr": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "hoerbird.net": {
@@ -2309,6 +2329,11 @@
         "expiration_date": "11-nov-2020",
         "state": "future"
     },
+    "mcleanvahomes.com": {
+        "epoch": 1600214400.0,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
     "media-playerz.com": {
         "epoch": 1580688000.0,
         "expiration_date": "03-feb-2020",
@@ -2474,6 +2499,11 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
+    "mysearch.com": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "state": "future"
+    },
     "myshopmarketim.com": {
         "epoch": 1715904000.0,
         "expiration_date": "17-may-2024",
@@ -2542,6 +2572,11 @@
     "neyscape.com": {
         "epoch": 1633996800.0,
         "expiration_date": "12-oct-2021",
+        "state": "future"
+    },
+    "nkgamers.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "notrecommended.co.uk": {
@@ -3249,6 +3284,11 @@
         "expiration_date": "08-may-2020",
         "state": "future"
     },
+    "searchremagnified.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
     "searchresultsguide.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
@@ -3512,6 +3552,11 @@
     "stripteas.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "sttvisa.com": {
+        "epoch": 1693008000.0,
+        "expiration_date": "26-aug-2023",
         "state": "future"
     },
     "sugarsync.com": {
@@ -4267,6 +4312,11 @@
     "xtrafic.ro": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "ymxpb.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "youtuhe.com": {
