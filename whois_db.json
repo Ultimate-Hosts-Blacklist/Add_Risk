@@ -209,6 +209,16 @@
         "expiration_date": "17-sep-2022",
         "state": "future"
     },
+    "agstracker.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "aimes.com": {
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "state": "future"
+    },
     "akirkpatrick.com": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
@@ -1225,8 +1235,8 @@
         "state": "future"
     },
     "edmedsnow.com": {
-        "epoch": 1579910400.0,
-        "expiration_date": "25-jan-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "effectivebrand.com": {
@@ -1554,6 +1564,11 @@
         "expiration_date": "12-apr-2020",
         "state": "future"
     },
+    "gamesfly.com": {
+        "epoch": 1795564800.0,
+        "expiration_date": "25-nov-2026",
+        "state": "future"
+    },
     "gamesharck.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
@@ -1794,9 +1809,19 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "homedepoy.com": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
     "homrdepot.com": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "hopto.org": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
         "state": "future"
     },
     "hornytraffic.com": {
@@ -1959,6 +1984,11 @@
         "expiration_date": "20-jan-2021",
         "state": "future"
     },
+    "jmp2click.com": {
+        "epoch": 1596758400.0,
+        "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
     "joincreditexpert.co.uk": {
         "epoch": 1573257600.0,
         "expiration_date": "09-nov-2019",
@@ -2073,6 +2103,11 @@
         "epoch": 1574985600.0,
         "expiration_date": "29-nov-2019",
         "state": "past"
+    },
+    "letssearch.com": {
+        "epoch": 1581206400.0,
+        "expiration_date": "09-feb-2020",
+        "state": "future"
     },
     "letzonke.com": {
         "epoch": 1597536000.0,
@@ -3474,6 +3509,11 @@
         "expiration_date": "04-feb-2021",
         "state": "future"
     },
+    "stamplive.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "startnow.com": {
         "epoch": 1822089600.0,
         "expiration_date": "28-sep-2027",
@@ -4342,6 +4382,11 @@
     "zoosexart.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
+    "zootoplist.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "zootravel.com": {
