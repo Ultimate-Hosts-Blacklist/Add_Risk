@@ -494,6 +494,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "bestappinstalls.com": {
+        "epoch": 1597708800.0,
+        "expiration_date": "18-aug-2020",
+        "state": "future"
+    },
     "bestsearch.com": {
         "epoch": 1607990400.0,
         "expiration_date": "15-dec-2020",
@@ -2019,9 +2024,19 @@
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
+    "islamipedia.org": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
     "isuzi.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "iybasketball.info": {
+        "epoch": 1599609600.0,
+        "expiration_date": "09-sep-2020",
         "state": "future"
     },
     "iyfnzgb.com": {
@@ -2467,6 +2482,11 @@
     "mlinktracker.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "mm26.com": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "mmapquest.com": {
@@ -2924,6 +2944,11 @@
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "php4you.biz": {
+        "epoch": 1597017600.0,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
     "pillsmoney.com": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
@@ -3332,6 +3357,11 @@
     "samvaulter.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "sankakustatic.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "sasdiskcleaner.com": {
@@ -4477,6 +4507,11 @@
     "xsedu.zj.cn": {
         "epoch": 1638748800.0,
         "expiration_date": "06-dec-2021",
+        "state": "future"
+    },
+    "xtrafic.ro": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "ymxpb.com": {
