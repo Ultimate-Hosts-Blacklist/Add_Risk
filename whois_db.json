@@ -1209,6 +1209,11 @@
         "expiration_date": "16-nov-2020",
         "state": "future"
     },
+    "downloadupload.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
     "downloadwarez.org": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
@@ -3935,8 +3940,8 @@
         "state": "future"
     },
     "tossm.com": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
+        "epoch": 1674777600.0,
+        "expiration_date": "27-jan-2023",
         "state": "future"
     },
     "totemcash.com": {
@@ -3995,6 +4000,11 @@
         "state": "future"
     },
     "travelocite.com": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "travelocitu.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
         "state": "future"
@@ -4332,6 +4342,11 @@
     "win-spy.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "winadiscount.com": {
+        "epoch": 1646784000.0,
+        "expiration_date": "09-mar-2022",
         "state": "future"
     },
     "winaproduct.com": {
