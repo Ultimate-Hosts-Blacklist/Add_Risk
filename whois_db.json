@@ -964,6 +964,11 @@
         "expiration_date": "05-may-2020",
         "state": "future"
     },
+    "columbianhouse.com": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "comairairlines.com": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
@@ -2142,6 +2147,11 @@
     "jsonip.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
+    "justredirect24.com": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
         "state": "future"
     },
     "k5zoom.com": {
