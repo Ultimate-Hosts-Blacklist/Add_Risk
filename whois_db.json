@@ -1044,6 +1044,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "cswilliamsburg.com": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
     "ctibank.com": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
@@ -2014,6 +2019,11 @@
         "expiration_date": "09-feb-2021",
         "state": "future"
     },
+    "info.com": {
+        "epoch": 1669248000.0,
+        "expiration_date": "24-nov-2022",
+        "state": "future"
+    },
     "infra.by": {
         "epoch": 1605139200.0,
         "expiration_date": "12-nov-2020",
@@ -2632,6 +2642,11 @@
     "mycleanpc.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "mycpvlife.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "mydati.com": {
@@ -3279,6 +3294,11 @@
         "expiration_date": "25-jan-2021",
         "state": "future"
     },
+    "registryfix.com": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "registrysweeper.com": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
@@ -3452,6 +3472,11 @@
     "searchacross.com": {
         "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
+        "state": "future"
+    },
+    "searchapps.me": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "searchatomic.com": {
@@ -3647,6 +3672,11 @@
     "skyperec.com": {
         "epoch": 1632528000.0,
         "expiration_date": "25-sep-2021",
+        "state": "future"
+    },
+    "slorent.com": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     },
     "slutloadlive.com": {
@@ -3992,6 +4022,11 @@
     "trackzapper.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "traff1.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "travekocity.com": {
