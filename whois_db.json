@@ -1770,9 +1770,9 @@
         "state": "future"
     },
     "goolges.com": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
-        "state": "past"
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
     },
     "gopeds.com": {
         "epoch": 1604102400.0,
@@ -1785,9 +1785,9 @@
         "state": "future"
     },
     "gowin7.com": {
-        "epoch": 1573257600.0,
-        "expiration_date": "09-nov-2019",
-        "state": "past"
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
     },
     "grabfile.co": {
         "epoch": 1601337600.0,
@@ -3197,7 +3197,7 @@
     "racingandclassic.com": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ranchapptag.com": {
         "epoch": 1575331200.0,
