@@ -990,9 +990,9 @@
         "state": "future"
     },
     "consumeralternatives.org": {
-        "epoch": 1580256000.0,
-        "expiration_date": "29-jan-2020",
-        "state": "past"
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
     },
     "contentcleaner.com": {
         "epoch": 1596758400.0,
@@ -4637,6 +4637,11 @@
     "xtrafic.ro": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "yatrk.xyz": {
+        "epoch": 1597363200.0,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "ymxpb.com": {
