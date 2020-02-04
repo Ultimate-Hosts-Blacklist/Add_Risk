@@ -274,6 +274,11 @@
         "expiration_date": "09-sep-2021",
         "state": "future"
     },
+    "auto-overview.com": {
+        "epoch": 1581552000.0,
+        "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
     "automoneygenerator.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
@@ -334,6 +339,11 @@
         "expiration_date": "10-jun-2020",
         "state": "future"
     },
+    "bestadbid.com": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "bestsearch.com": {
         "epoch": 1607990400.0,
         "expiration_date": "15-dec-2020",
@@ -387,6 +397,11 @@
     "bonzibuddi.com": {
         "epoch": 1574985600.0,
         "expiration_date": "29-nov-2019",
+        "state": "past"
+    },
+    "bonzybuddy.com": {
+        "epoch": 1574553600.0,
+        "expiration_date": "24-nov-2019",
         "state": "past"
     },
     "boostsoftware.com": {
@@ -502,6 +517,11 @@
     "cheapticketsinc.com": {
         "epoch": 1633046400.0,
         "expiration_date": "01-oct-2021",
+        "state": "future"
+    },
+    "cheapticketts.com": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "cheapticktes.com": {
@@ -1269,6 +1289,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "ibmvideo.com": {
+        "epoch": 1599955200.0,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
     "icityfind.com": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
@@ -1564,6 +1589,11 @@
         "expiration_date": "14-sep-2020",
         "state": "future"
     },
+    "mapqueat.com": {
+        "epoch": 1666742400.0,
+        "expiration_date": "26-oct-2022",
+        "state": "future"
+    },
     "mapquestt.com": {
         "epoch": 1658102400.0,
         "expiration_date": "18-jul-2022",
@@ -1674,7 +1704,17 @@
         "expiration_date": "15-jun-2022",
         "state": "future"
     },
+    "monetisetrk2.co.uk": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
     "monetisetrk3.co.uk": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
+    "monetisetrk4.co.uk": {
         "epoch": 1613952000.0,
         "expiration_date": "22-feb-2021",
         "state": "future"
@@ -1892,6 +1932,11 @@
     "paraskov.com": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
+        "state": "future"
+    },
+    "pastie.org": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "paypal-exchange.com": {
@@ -2324,6 +2369,11 @@
         "expiration_date": "23-apr-2020",
         "state": "future"
     },
+    "sentrol.cl": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
     "seoholding.com": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
@@ -2667,6 +2717,11 @@
     "twskype.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "tzw.com": {
+        "epoch": 1665964800.0,
+        "expiration_date": "17-oct-2022",
         "state": "future"
     },
     "unblockfacebook.co.uk": {
