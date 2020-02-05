@@ -2414,6 +2414,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "marinoderosas.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
     "marketingenhanced.com": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
@@ -2717,6 +2722,11 @@
     "neyscape.com": {
         "epoch": 1633996800.0,
         "expiration_date": "12-oct-2021",
+        "state": "future"
+    },
+    "nkgamers.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "nmapquest.com": {
@@ -3092,6 +3102,11 @@
     "puroclean.com": {
         "epoch": 1639267200.0,
         "expiration_date": "12-dec-2021",
+        "state": "future"
+    },
+    "px24.com": {
+        "epoch": 1587254400.0,
+        "expiration_date": "19-apr-2020",
         "state": "future"
     },
     "qikdownloads.com": {
@@ -4322,6 +4337,11 @@
     "westerntaneyfire.com": {
         "epoch": 1612915200.0,
         "expiration_date": "10-feb-2021",
+        "state": "future"
+    },
+    "widestep.com": {
+        "epoch": 1583712000.0,
+        "expiration_date": "09-mar-2020",
         "state": "future"
     },
     "win-spy.com": {
