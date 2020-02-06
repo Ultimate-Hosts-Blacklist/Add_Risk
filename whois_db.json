@@ -1,8 +1,8 @@
 {
     "0iecfobt.com": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
-        "state": "past"
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
     },
     "1001movies.com": {
         "epoch": 1595548800.0,
@@ -70,9 +70,9 @@
         "state": "future"
     },
     "94uyvwwh.com": {
-        "epoch": 1580860800.0,
-        "expiration_date": "05-feb-2020",
-        "state": "past"
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
     },
     "9malls.co.uk": {
         "epoch": 1597881600.0,
@@ -669,6 +669,11 @@
         "expiration_date": "26-nov-2020",
         "state": "future"
     },
+    "caue971.org": {
+        "epoch": 1589673600.0,
+        "expiration_date": "17-may-2020",
+        "state": "future"
+    },
     "cbtopsites.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
@@ -902,6 +907,11 @@
     "clkfeed.com": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "clkoffers.com": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "clksite.com": {
@@ -2792,6 +2802,11 @@
     "onlineadmin.net": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
+        "state": "future"
+    },
+    "onlinedownloads.org": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "onwardclick.com": {
