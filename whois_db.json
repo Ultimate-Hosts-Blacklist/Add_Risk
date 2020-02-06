@@ -389,6 +389,11 @@
         "expiration_date": "28-apr-2020",
         "state": "future"
     },
+    "auctiondirectory.org": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
     "audia6.com": {
         "epoch": 1631145600.0,
         "expiration_date": "09-sep-2021",
@@ -1502,6 +1507,11 @@
     "foreclousures.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "forex-instruments.info": {
+        "epoch": 1588464000.0,
+        "expiration_date": "03-may-2020",
         "state": "future"
     },
     "formessengers.com": {
