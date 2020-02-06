@@ -1104,6 +1104,11 @@
         "expiration_date": "13-jan-2021",
         "state": "future"
     },
+    "decografix.com": {
+        "epoch": 1581897600.0,
+        "expiration_date": "17-feb-2020",
+        "state": "future"
+    },
     "deflorationvirgins.com": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
@@ -1217,6 +1222,11 @@
     "downloads-whatsapp.com": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
+    "downloadupload.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "downloadwarez.org": {
