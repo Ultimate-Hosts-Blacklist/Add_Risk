@@ -119,6 +119,11 @@
         "expiration_date": "09-feb-2021",
         "state": "future"
     },
+    "adclickservice.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "adclickthru.net": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -4592,6 +4597,11 @@
     "xsedu.zj.cn": {
         "epoch": 1638748800.0,
         "expiration_date": "06-dec-2021",
+        "state": "future"
+    },
+    "xtrafic.ro": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "yatrk.xyz": {
