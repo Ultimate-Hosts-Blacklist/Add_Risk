@@ -759,6 +759,11 @@
         "expiration_date": "18-nov-2020",
         "state": "future"
     },
+    "chokertraffic.com": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
     "chuckfaganco.com": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
@@ -4289,6 +4294,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "wdmwebs.us": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
     "weathet.com": {
         "epoch": 1693958400.0,
         "expiration_date": "06-sep-2023",
@@ -4332,6 +4342,11 @@
     "winaproduct.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
+        "state": "future"
+    },
+    "wincleaner.com": {
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "winscholarship.com": {
