@@ -4529,6 +4529,11 @@
         "expiration_date": "09-mar-2020",
         "state": "future"
     },
+    "xclicks.net": {
+        "epoch": 1578096000.0,
+        "expiration_date": "04-jan-2020",
+        "state": "past"
+    },
     "xed.pl": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
