@@ -134,6 +134,11 @@
         "expiration_date": "22-feb-2021",
         "state": "future"
     },
+    "adforati.com": {
+        "epoch": 1590019200.0,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "adgtracker.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
@@ -382,7 +387,7 @@
     "auto-overview.com": {
         "epoch": 1581552000.0,
         "expiration_date": "13-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "automoneygenerator.com": {
         "epoch": 1603238400.0,
@@ -1664,6 +1669,11 @@
         "expiration_date": "25-jan-2021",
         "state": "future"
     },
+    "google-docs.org": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
     "googlew.com": {
         "epoch": 1697760000.0,
         "expiration_date": "20-oct-2023",
@@ -2564,6 +2574,11 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
+    "mysearch.com": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "state": "future"
+    },
     "mysearchweb.net": {
         "epoch": 1597104000.0,
         "expiration_date": "11-aug-2020",
@@ -2702,6 +2717,11 @@
     "onclickpredictiv.com": {
         "epoch": 1587945600.0,
         "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "oneund.ru": {
+        "epoch": 1588723200.0,
+        "expiration_date": "06-may-2020",
         "state": "future"
     },
     "online.sh.cn": {
@@ -3080,9 +3100,9 @@
         "state": "future"
     },
     "ratemodels.net": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
-        "state": "past"
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
     },
     "rd-direct.com": {
         "epoch": 1604966400.0,
