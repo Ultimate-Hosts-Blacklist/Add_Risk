@@ -1904,6 +1904,11 @@
         "expiration_date": "17-feb-2021",
         "state": "future"
     },
+    "hornytraffic.com": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "host-it.co.uk": {
         "epoch": 1745020800.0,
         "expiration_date": "19-apr-2025",
@@ -2494,6 +2499,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "ming-dun.com.tw": {
+        "epoch": 1660348800.0,
+        "expiration_date": "13-aug-2022",
+        "state": "future"
+    },
     "mlinktracker.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
@@ -2707,6 +2717,11 @@
     "neweed.org": {
         "epoch": 1733616000.0,
         "expiration_date": "08-dec-2024",
+        "state": "future"
+    },
+    "neyscape.com": {
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
         "state": "future"
     },
     "nkgamers.com": {
