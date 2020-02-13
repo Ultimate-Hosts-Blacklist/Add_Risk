@@ -349,6 +349,11 @@
         "expiration_date": "09-nov-2020",
         "state": "future"
     },
+    "areasnap.com": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
     "arkinsoftware.in": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -402,6 +407,16 @@
     "av-clean.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
+    "avis.cm": {
+        "epoch": 1589673600.0,
+        "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "avskype.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "balook.com": {
@@ -574,6 +589,11 @@
         "expiration_date": "21-jul-2025",
         "state": "future"
     },
+    "bride1.com": {
+        "epoch": 1585699200.0,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
     "browseraccelerator.com": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
@@ -739,6 +759,11 @@
         "expiration_date": "18-nov-2020",
         "state": "future"
     },
+    "chokertraffic.com": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
     "chuckfaganco.com": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
@@ -747,6 +772,16 @@
     "claitors.com": {
         "epoch": 1674691200.0,
         "expiration_date": "26-jan-2023",
+        "state": "future"
+    },
+    "cle.kr": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "clean-cracks.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "clean-search.com": {
@@ -857,6 +892,11 @@
     "clkfeed.com": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
+    "clkoffers.com": {
+        "epoch": 1601942400.0,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "clksite.com": {
@@ -1182,6 +1222,11 @@
     "dualvaccine.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "duplicatefilecleaner.com": {
+        "epoch": 1581724800.0,
+        "expiration_date": "15-feb-2020",
         "state": "future"
     },
     "dynamictoolbar.com": {
@@ -3034,6 +3079,11 @@
         "expiration_date": "17-apr-2020",
         "state": "future"
     },
+    "ps7894.com": {
+        "epoch": 1595116800.0,
+        "expiration_date": "19-jul-2020",
+        "state": "future"
+    },
     "pumpkin.co.uk": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
@@ -3404,6 +3454,11 @@
         "expiration_date": "14-feb-2021",
         "state": "future"
     },
+    "searchmagna.com": {
+        "epoch": 1591228800.0,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "searchmagnified.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
@@ -3422,6 +3477,11 @@
     "searchnut.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
+        "state": "future"
+    },
+    "searchresultsguide.com": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "searchtoexplore.com": {
@@ -3565,9 +3625,9 @@
         "state": "future"
     },
     "slutloadlive.com": {
-        "epoch": 1581465600.0,
-        "expiration_date": "12-feb-2020",
-        "state": "past"
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
     },
     "smartgiveaway.com": {
         "epoch": 1600819200.0,
@@ -3807,6 +3867,11 @@
     "thesearchster.com": {
         "epoch": 1631059200.0,
         "expiration_date": "08-sep-2021",
+        "state": "future"
+    },
+    "thesurfshield.com": {
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "theweatherspace.com": {
