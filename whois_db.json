@@ -374,6 +374,11 @@
         "expiration_date": "17-feb-2021",
         "state": "future"
     },
+    "atmovs.com": {
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
     "atousoft.com": {
         "epoch": 1588032000.0,
         "expiration_date": "28-apr-2020",
@@ -442,6 +447,11 @@
     "barclaysghana.org": {
         "epoch": 1762905600.0,
         "expiration_date": "12-nov-2025",
+        "state": "future"
+    },
+    "bcservice.it": {
+        "epoch": 1582070400.0,
+        "expiration_date": "19-feb-2020",
         "state": "future"
     },
     "bde3d.com": {
@@ -1542,6 +1552,11 @@
     "freedownloadzone.com": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "freemao.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "freenew.net": {
@@ -3869,6 +3884,11 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "themexp.org": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "theroamingjew.com": {
         "epoch": 1618704000.0,
         "expiration_date": "18-apr-2021",
@@ -4252,6 +4272,11 @@
     "vk2ca.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "vmay.com": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "vpnaffiliates.com": {
