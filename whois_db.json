@@ -1389,6 +1389,11 @@
         "expiration_date": "28-sep-2025",
         "state": "future"
     },
+    "facebook.cm": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
     "facebookloginsignin.com": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
@@ -1489,6 +1494,11 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "fpcclicks.com": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
+    },
     "fpcpopunder.com": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
@@ -1567,6 +1577,11 @@
     "fxlayer.net": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "fxstra.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
         "state": "future"
     },
     "fyxm.net": {
@@ -2579,6 +2594,11 @@
         "expiration_date": "12-mar-2020",
         "state": "future"
     },
+    "mydati.com": {
+        "epoch": 1597968000.0,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
     "myoffers.co.uk": {
         "epoch": 1669248000.0,
         "expiration_date": "24-nov-2022",
@@ -3419,6 +3439,11 @@
         "expiration_date": "25-aug-2020",
         "state": "future"
     },
+    "searchmachine.com": {
+        "epoch": 1613260800.0,
+        "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
     "searchmagna.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
@@ -3517,6 +3542,11 @@
     "sentrol.cl": {
         "epoch": 1611792000.0,
         "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
+    "seoholding.com": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "seonetwizard.com": {
@@ -3787,6 +3817,11 @@
     "tapair.com": {
         "epoch": 1694822400.0,
         "expiration_date": "16-sep-2023",
+        "state": "future"
+    },
+    "target.cm": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "tavelscape.com": {
@@ -4062,7 +4097,7 @@
     "tuckows.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "turkeyrank.com": {
         "epoch": 1609718400.0,
