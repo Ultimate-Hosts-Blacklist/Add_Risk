@@ -44,6 +44,11 @@
         "expiration_date": "22-jun-2020",
         "state": "future"
     },
+    "39dvd-999.com": {
+        "epoch": 1594944000.0,
+        "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
     "77search.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
@@ -1739,6 +1744,11 @@
         "expiration_date": "20-aug-2020",
         "state": "future"
     },
+    "guaranty.com.cn": {
+        "epoch": 1800921600.0,
+        "expiration_date": "26-jan-2027",
+        "state": "future"
+    },
     "gulf-industrial.com": {
         "epoch": 1614470400.0,
         "expiration_date": "28-feb-2021",
@@ -2197,6 +2207,11 @@
     "letzonke.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
+        "state": "future"
+    },
+    "libecki.net": {
+        "epoch": 1642550400.0,
+        "expiration_date": "19-jan-2022",
         "state": "future"
     },
     "liders.biz": {
