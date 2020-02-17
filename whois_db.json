@@ -204,6 +204,11 @@
         "expiration_date": "29-nov-2020",
         "state": "future"
     },
+    "aimes.com": {
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "state": "future"
+    },
     "akirkpatrick.com": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
@@ -592,6 +597,11 @@
     "bugsurf.com": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
+    "bulgariabg.com": {
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "buyingedge.com": {
@@ -1579,6 +1589,11 @@
         "expiration_date": "28-apr-2020",
         "state": "future"
     },
+    "gameangel.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "state": "future"
+    },
     "gameatlas.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
@@ -1884,9 +1899,19 @@
         "expiration_date": "19-apr-2025",
         "state": "future"
     },
+    "hot-bot.com": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
     "hot2015rewards.com": {
         "epoch": 1612310400.0,
         "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
+    "hotspotshield.com": {
+        "epoch": 1837728000.0,
+        "expiration_date": "27-mar-2028",
         "state": "future"
     },
     "howtocleanacomputervirus.com": {
@@ -1969,6 +1994,11 @@
         "expiration_date": "26-oct-2020",
         "state": "future"
     },
+    "instorm.com": {
+        "epoch": 1612742400.0,
+        "expiration_date": "08-feb-2021",
+        "state": "future"
+    },
     "intera-x.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
@@ -2012,6 +2042,11 @@
     "japanesevehicles.us": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "javascriptobfuscator.com": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
         "state": "future"
     },
     "jcwhiney.com": {
@@ -3794,6 +3829,11 @@
         "expiration_date": "18-apr-2021",
         "state": "future"
     },
+    "thesearchagency.net": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
     "thesearchster.com": {
         "epoch": 1631059200.0,
         "expiration_date": "08-sep-2021",
@@ -4332,6 +4372,11 @@
     "wwwal.com": {
         "epoch": 1613779200.0,
         "expiration_date": "20-feb-2021",
+        "state": "future"
+    },
+    "wwwalaskaair.com": {
+        "epoch": 1583712000.0,
+        "expiration_date": "09-mar-2020",
         "state": "future"
     },
     "wwwaolmail.com": {
