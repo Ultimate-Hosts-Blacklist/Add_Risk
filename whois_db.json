@@ -109,6 +109,11 @@
         "expiration_date": "31-aug-2020",
         "state": "future"
     },
+    "adblockanalytics.com": {
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "state": "future"
+    },
     "adchimp.com": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
