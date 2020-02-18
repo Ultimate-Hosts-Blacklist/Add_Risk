@@ -464,6 +464,11 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "bdsmtours.com": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "be-funk.com": {
         "epoch": 1613952000.0,
         "expiration_date": "22-feb-2021",
@@ -662,6 +667,11 @@
     "cbtopsites.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "ccbilleu.com": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "cdiabetes.com": {
@@ -3172,6 +3182,11 @@
     "reducelnk.com": {
         "epoch": 1678147200.0,
         "expiration_date": "07-mar-2023",
+        "state": "future"
+    },
+    "regdefense.com": {
+        "epoch": 1598313600.0,
+        "expiration_date": "25-aug-2020",
         "state": "future"
     },
     "registry-clean-up.net": {
