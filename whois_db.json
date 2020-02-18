@@ -844,6 +844,11 @@
         "expiration_date": "06-jun-2020",
         "state": "future"
     },
+    "cleansofts.com": {
+        "epoch": 1585872000.0,
+        "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
     "cleanuninstall.com": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
@@ -937,6 +942,11 @@
     "coldwellbanker.net": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
+    "columbahouse.com": {
+        "epoch": 1588636800.0,
+        "expiration_date": "05-may-2020",
         "state": "future"
     },
     "columbianhouse.com": {
@@ -2944,6 +2954,11 @@
         "expiration_date": "25-feb-2020",
         "state": "future"
     },
+    "peiceline.com": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
     "penwithian.co.uk": {
         "epoch": 1616025600.0,
         "expiration_date": "18-mar-2021",
@@ -3965,9 +3980,9 @@
         "state": "future"
     },
     "trackzapper.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
-        "state": "past"
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
     },
     "traff1.com": {
         "epoch": 1603497600.0,
@@ -4105,9 +4120,9 @@
         "state": "future"
     },
     "tuckows.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
-        "state": "past"
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
     },
     "turkeyrank.com": {
         "epoch": 1609718400.0,
