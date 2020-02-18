@@ -2825,9 +2825,9 @@
         "state": "future"
     },
     "opendownloadmanager.com": {
-        "epoch": 1581897600.0,
-        "expiration_date": "17-feb-2020",
-        "state": "past"
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
     },
     "opensoftwareupdate.com": {
         "epoch": 1582243200.0,
@@ -3632,6 +3632,11 @@
     "skassets.com": {
         "epoch": 1643760000.0,
         "expiration_date": "02-feb-2022",
+        "state": "future"
+    },
+    "skypeclass.com": {
+        "epoch": 1654905600.0,
+        "expiration_date": "11-jun-2022",
         "state": "future"
     },
     "skypefr.com": {
