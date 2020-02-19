@@ -359,6 +359,11 @@
         "expiration_date": "27-sep-2020",
         "state": "future"
     },
+    "balook.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
     "bananarepubic.com": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
@@ -602,6 +607,11 @@
     "cheapticketsinc.com": {
         "epoch": 1633046400.0,
         "expiration_date": "01-oct-2021",
+        "state": "future"
+    },
+    "cheapticketts.com": {
+        "epoch": 1594512000.0,
+        "expiration_date": "12-jul-2020",
         "state": "future"
     },
     "cheapticktes.com": {
@@ -1079,6 +1089,11 @@
         "expiration_date": "13-oct-2020",
         "state": "future"
     },
+    "epmclk.com": {
+        "epoch": 1597795200.0,
+        "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
     "equallyyolked.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
@@ -1457,6 +1472,11 @@
     "harmonyhollow.net": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "heaptickets.com": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "hefigo.com": {
@@ -2184,6 +2204,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "ocpersian.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "ohiomm.com": {
         "epoch": 1633478400.0,
         "expiration_date": "06-oct-2021",
@@ -2869,6 +2894,11 @@
         "expiration_date": "01-jun-2023",
         "state": "future"
     },
+    "sijmp.com": {
+        "epoch": 1586995200.0,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
     "singular-cy.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
@@ -3089,6 +3119,11 @@
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
+    "thesearchster.com": {
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
+        "state": "future"
+    },
     "thesurfshield.com": {
         "epoch": 1622937600.0,
         "expiration_date": "06-jun-2021",
@@ -3302,6 +3337,11 @@
     "unicaitaly.it": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "unlimiclick.com": {
+        "epoch": 1592438400.0,
+        "expiration_date": "18-jun-2020",
         "state": "future"
     },
     "unrealcommander.biz": {
@@ -3613,6 +3653,11 @@
         "epoch": 1583712000.0,
         "expiration_date": "09-mar-2020",
         "state": "future"
+    },
+    "xclicks.net": {
+        "epoch": 1578096000.0,
+        "expiration_date": "04-jan-2020",
+        "state": "past"
     },
     "xed.pl": {
         "epoch": 1612051200.0,
