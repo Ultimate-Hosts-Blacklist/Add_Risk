@@ -1,12 +1,12 @@
 {
     "current_stats": {
-        "builds": 1,
+        "builds": 2,
         "clean.list": 2649,
         "counter": {
-            "down": 12,
+            "down": 29,
             "invalid": 0,
-            "tested": 634,
-            "up": 622
+            "tested": 1195,
+            "up": 1166
         },
         "ip.list": 0,
         "volatile.list": 2649,
@@ -16,8 +16,8 @@
     "days_until_next_test": 2,
     "end_datetime": "Sat Feb 22 15:31:26 2020",
     "end_epoch": 1582385486.160945,
-    "last_autosave_datetime": "Sat Feb 22 22:14:22 2020",
-    "last_autosave_epoch": 1582409662.391794,
+    "last_autosave_datetime": "Sat Feb 22 23:32:26 2020",
+    "last_autosave_epoch": 1582414346.764649,
     "name": "Add_Risk",
     "previous_stats": {
         "builds": 7,
