@@ -229,6 +229,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "alaskaaair.com": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
     "albiondrugs.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
@@ -3769,6 +3774,11 @@
         "expiration_date": "09-aug-2020",
         "state": "future"
     },
+    "sunonsunday.com": {
+        "epoch": 1600905600.0,
+        "expiration_date": "24-sep-2020",
+        "state": "future"
+    },
     "superbrewards.com": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
@@ -3882,6 +3892,11 @@
     "thesurfshield.com": {
         "epoch": 1622937600.0,
         "expiration_date": "06-jun-2021",
+        "state": "future"
+    },
+    "theweatherspace.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "thoroclean.com": {
