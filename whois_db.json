@@ -14,6 +14,11 @@
         "expiration_date": "27-dec-2019",
         "state": "past"
     },
+    "105vibe.com": {
+        "epoch": 1584316800.0,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "11hour.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
@@ -2727,6 +2732,11 @@
     "nryb.com": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
+    "nsrecord.org": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "ocpersian.com": {
