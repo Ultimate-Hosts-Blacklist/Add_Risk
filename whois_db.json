@@ -1054,6 +1054,11 @@
         "expiration_date": "09-may-2020",
         "state": "future"
     },
+    "cybermecca.com": {
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
+        "state": "future"
+    },
     "cybertown.ru": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
@@ -2590,9 +2595,9 @@
         "state": "future"
     },
     "ms-mvp.org": {
-        "epoch": 1582329600.0,
-        "expiration_date": "22-feb-2020",
-        "state": "past"
+        "epoch": 1645488000.0,
+        "expiration_date": "22-feb-2022",
+        "state": "future"
     },
     "msnsports.com": {
         "epoch": 1625356800.0,
@@ -2892,6 +2897,11 @@
     "paypal-exchange.com": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
+    "paypalcz.cz": {
+        "epoch": 1602633600.0,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "payperclickadvertising.org.uk": {
@@ -3497,6 +3507,11 @@
     "searchremagnified.com": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
+    "searchresultsguide.com": {
+        "epoch": 1595548800.0,
+        "expiration_date": "24-jul-2020",
         "state": "future"
     },
     "searchtoexplore.com": {
