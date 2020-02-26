@@ -2699,6 +2699,11 @@
         "expiration_date": "06-nov-2021",
         "state": "future"
     },
+    "netcscape.com": {
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "state": "future"
+    },
     "netmag.co.uk": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
