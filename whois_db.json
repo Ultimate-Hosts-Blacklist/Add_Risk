@@ -2239,6 +2239,11 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "lennoxcollections.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "state": "future"
+    },
     "letssearch.com": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
@@ -4502,6 +4507,11 @@
     "wwwdollar.com": {
         "epoch": 1603929600.0,
         "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "wwwgamepro.com": {
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "wwwgmacmortgage.com": {
