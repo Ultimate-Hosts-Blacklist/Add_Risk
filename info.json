@@ -1,19 +1,8 @@
 {
-    "current_stats": {
-        "builds": 6,
-        "counter": {
-            "down": 232,
-            "invalid": 0,
-            "tested": 2874,
-            "up": 2642
-        },
-        "volatile.list": 2645,
-        "whitelisted.list": 2645
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Fri Feb 28 17:11:50 2020",
-    "end_epoch": 1582909910.699143,
+    "end_datetime": "Sun Mar  1 20:12:55 2020",
+    "end_epoch": 1583093575.541958,
     "last_autosave_datetime": "Sun Mar  1 19:22:51 2020",
     "last_autosave_epoch": 1583090571.281439,
     "name": "Add_Risk",
