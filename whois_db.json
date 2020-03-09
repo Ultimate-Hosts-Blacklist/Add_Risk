@@ -1429,6 +1429,11 @@
         "expiration_date": "24-oct-2021",
         "state": "future"
     },
+    "flashcasino.com": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
     "flowtec.com.br": {
         "epoch": 1634947200.0,
         "expiration_date": "23-oct-2021",
@@ -1437,6 +1442,11 @@
     "fmcurling.org": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
+        "state": "future"
+    },
+    "foreclousure.com": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "foreclousures.com": {
