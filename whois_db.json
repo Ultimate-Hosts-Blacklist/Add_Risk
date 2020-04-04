@@ -609,6 +609,11 @@
         "expiration_date": "25-jul-2021",
         "state": "future"
     },
+    "bureau.co.il": {
+        "epoch": 1591228800.0,
+        "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
     "buyingedge.com": {
         "epoch": 1668384000.0,
         "expiration_date": "14-nov-2022",
