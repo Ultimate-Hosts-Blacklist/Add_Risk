@@ -1545,13 +1545,23 @@
         "state": "future"
     },
     "fyxm.net": {
-        "epoch": 1584921600.0,
-        "expiration_date": "23-mar-2020",
+        "epoch": 1616457600.0,
+        "expiration_date": "23-mar-2021",
         "state": "future"
     },
     "gaja79.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
+        "state": "future"
+    },
+    "gameangel.com": {
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "state": "future"
+    },
+    "gameatlas.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "gameplaylabs.com": {
@@ -1562,6 +1572,11 @@
     "gamepor.com": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "gamesfly.com": {
+        "epoch": 1795564800.0,
+        "expiration_date": "25-nov-2026",
         "state": "future"
     },
     "gamesharck.com": {
