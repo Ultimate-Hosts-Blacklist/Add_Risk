@@ -1439,6 +1439,11 @@
         "expiration_date": "07-aug-2020",
         "state": "future"
     },
+    "feiyang163.com": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
     "femeedia.com": {
         "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
@@ -2959,6 +2964,11 @@
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
+    "pfaltzgraf.com": {
+        "epoch": 1590624000.0,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
     "php4you.biz": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
@@ -3612,6 +3622,11 @@
     "slorent.com": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
+    "slutloadlive.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
         "state": "future"
     },
     "smartgiveaway.com": {
@@ -4269,6 +4284,11 @@
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
+    "web3000.co.uk": {
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
     "webservis.gen.tr": {
         "epoch": 1625443200.0,
         "expiration_date": "05-jul-2021",
@@ -4519,6 +4539,11 @@
         "expiration_date": "06-dec-2021",
         "state": "future"
     },
+    "xtrafic.ro": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "yatrk.xyz": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
@@ -4587,6 +4612,11 @@
     "zoogdisny.com": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
+    "zoomovies.org": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "zoompegs.com": {
