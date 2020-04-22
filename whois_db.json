@@ -4289,6 +4289,11 @@
         "expiration_date": "17-oct-2021",
         "state": "future"
     },
+    "warezaccess.com": {
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
     "warezkeeper.com": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
@@ -4667,6 +4672,11 @@
     "zoosexart.com": {
         "epoch": 1609891200.0,
         "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
+    "zootoplist.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "zootravel.com": {
