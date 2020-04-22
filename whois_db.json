@@ -1074,6 +1074,11 @@
         "expiration_date": "01-sep-2020",
         "state": "future"
     },
+    "darley.co.uk": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "dcm5.com": {
         "epoch": 1749772800.0,
         "expiration_date": "13-jun-2025",
@@ -2204,6 +2209,11 @@
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
+    "laexotic.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
     "lanonna.co.uk": {
         "epoch": 1614211200.0,
         "expiration_date": "25-feb-2021",
@@ -2257,6 +2267,11 @@
     "linkbucks.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "linkjumps.com": {
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "linktarget.com": {
@@ -3404,6 +3419,11 @@
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
+    "sbo.it": {
+        "epoch": 1593734400.0,
+        "expiration_date": "03-jul-2020",
+        "state": "future"
+    },
     "scanspyware.net": {
         "epoch": 1616889600.0,
         "expiration_date": "28-mar-2021",
@@ -3954,6 +3974,11 @@
         "expiration_date": "12-feb-2021",
         "state": "future"
     },
+    "trackzapper.com": {
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
     "traff1.com": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
@@ -4214,6 +4239,11 @@
         "expiration_date": "01-feb-2021",
         "state": "future"
     },
+    "vinyljazzrecords.com": {
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
     "vipcpms.com": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
@@ -4222,6 +4252,11 @@
     "vivaimontina.com": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "vjsoft.net": {
+        "epoch": 1680393600.0,
+        "expiration_date": "02-apr-2023",
         "state": "future"
     },
     "vk2ca.com": {
