@@ -1674,6 +1674,11 @@
         "expiration_date": "07-feb-2021",
         "state": "future"
     },
+    "get-quadcleaner.com": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "getiton.com": {
         "epoch": 1620086400.0,
         "expiration_date": "04-may-2021",
@@ -2240,8 +2245,8 @@
         "state": "past"
     },
     "linconpark.com": {
-        "epoch": 1585872000.0,
-        "expiration_date": "03-apr-2020",
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
         "state": "future"
     },
     "linkbucks.com": {
@@ -2409,6 +2414,11 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "martgage.com": {
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
+        "state": "future"
+    },
     "mathenea.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
@@ -2554,6 +2564,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "mpxxtrk.com": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "ms-mvp.org": {
         "epoch": 1645488000.0,
         "expiration_date": "22-feb-2022",
@@ -2577,6 +2592,11 @@
     "mycleanpc.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "mycpvlife.com": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "mydati.com": {
@@ -2628,6 +2648,11 @@
         "epoch": 1578441600.0,
         "expiration_date": "08-jan-2020",
         "state": "past"
+    },
+    "naturesunshine.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
     },
     "nbrtrack.com": {
         "epoch": 1617753600.0,
@@ -2769,6 +2794,11 @@
         "expiration_date": "08-jan-2021",
         "state": "future"
     },
+    "onwey.com": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
     "oofun.com": {
         "epoch": 1637625600.0,
         "expiration_date": "23-nov-2021",
@@ -2817,6 +2847,11 @@
     "pamoran.net": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
+        "state": "future"
+    },
+    "paraskov.com": {
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "pastie.org": {
@@ -3912,6 +3947,11 @@
     "travekocity.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "travelasity.com": {
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "travelcape.com": {
