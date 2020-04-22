@@ -194,6 +194,11 @@
         "expiration_date": "09-dec-2020",
         "state": "future"
     },
+    "affiliatefuture.co.uk": {
+        "epoch": 1595203200.0,
+        "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
     "affntwklnk.com": {
         "epoch": 1617494400.0,
         "expiration_date": "04-apr-2021",
@@ -445,9 +450,9 @@
         "state": "future"
     },
     "bcservice.it": {
-        "epoch": 1582070400.0,
-        "expiration_date": "19-feb-2020",
-        "state": "past"
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "state": "future"
     },
     "bde3d.com": {
         "epoch": 1607644800.0,
@@ -1749,6 +1754,11 @@
         "expiration_date": "22-oct-2023",
         "state": "future"
     },
+    "gowin7.com": {
+        "epoch": 1611878400.0,
+        "expiration_date": "29-jan-2021",
+        "state": "future"
+    },
     "grabfile.co": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
@@ -1967,6 +1977,11 @@
     "imagesmovies.com": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
+    "img001.com": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
         "state": "future"
     },
     "info.com": {
@@ -3087,6 +3102,11 @@
     "racingandclassic.com": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
+    "ranchapptag.com": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
         "state": "future"
     },
     "ratemodels.net": {
