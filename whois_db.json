@@ -1564,6 +1564,11 @@
         "expiration_date": "23-jun-2020",
         "state": "future"
     },
+    "frosinonewesternshow.it": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
+    },
     "frtya.com": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
@@ -1889,6 +1894,11 @@
         "expiration_date": "17-feb-2021",
         "state": "future"
     },
+    "hornytraffic.com": {
+        "epoch": 1613001600.0,
+        "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
     "host-it.co.uk": {
         "epoch": 1745020800.0,
         "expiration_date": "19-apr-2025",
@@ -1972,6 +1982,11 @@
     "innatek.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
+        "state": "future"
+    },
+    "inndl.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "installm.net": {
@@ -2910,8 +2925,8 @@
         "state": "future"
     },
     "plarium.com": {
-        "epoch": 1585958400.0,
-        "expiration_date": "04-apr-2020",
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "playerassist.com": {
@@ -2932,7 +2947,7 @@
     "playsataion.com": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "playstatation.com": {
         "epoch": 1633046400.0,
@@ -3285,8 +3300,8 @@
         "state": "future"
     },
     "safelinking.net": {
-        "epoch": 1584489600.0,
-        "expiration_date": "18-mar-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "safemobilelink.com": {
@@ -3454,6 +3469,11 @@
         "expiration_date": "19-feb-2021",
         "state": "future"
     },
+    "sendfwd.com": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
     "sendori.com": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
@@ -3477,6 +3497,11 @@
     "shareaza.com": {
         "epoch": 1717200000.0,
         "expiration_date": "01-jun-2024",
+        "state": "future"
+    },
+    "shopathome.com": {
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
         "state": "future"
     },
     "shore-view.com": {
@@ -3752,6 +3777,11 @@
     "thebighits.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "thebigoutdoors.co.uk": {
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "state": "future"
     },
     "thebugs.ws": {
