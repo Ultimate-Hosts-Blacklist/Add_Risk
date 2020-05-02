@@ -320,8 +320,8 @@
         "state": "future"
     },
     "antalya.ru": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "anticlown.com": {
@@ -2542,7 +2542,7 @@
     "mmtracking.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "monarchslo.com": {
         "epoch": 1593129600.0,
@@ -3285,8 +3285,8 @@
         "state": "future"
     },
     "registryfix.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "registrysweeper.com": {
