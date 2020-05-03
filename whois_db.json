@@ -1512,7 +1512,7 @@
     "forex-instruments.info": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "formessengers.com": {
         "epoch": 1588550400.0,
