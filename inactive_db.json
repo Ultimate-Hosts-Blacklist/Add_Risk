@@ -808,8 +808,8 @@
         "noredirecto.redirectme.net": {
             "included_at_epoch": 1588459730.0,
             "included_at_iso": "2020-05-02T22:48:50",
-            "last_retested_at_epoch": 1588459730.0,
-            "last_retested_at_iso": "2020-05-02T22:48:50",
+            "last_retested_at_epoch": 1588578435.322056,
+            "last_retested_at_iso": "2020-05-04T07:47:15.322056",
             "status": "INACTIVE"
         },
         "ns1.ntkrnlpa.info": {
@@ -1466,8 +1466,8 @@
         "www.cheapticketsinc.com": {
             "included_at_epoch": 1588490165.0,
             "included_at_iso": "2020-05-03T07:16:05",
-            "last_retested_at_epoch": 1588490165.0,
-            "last_retested_at_iso": "2020-05-03T07:16:05",
+            "last_retested_at_epoch": 1588578304.560323,
+            "last_retested_at_iso": "2020-05-04T07:45:04.560323",
             "status": "INACTIVE"
         },
         "www.cheapticketts.com": {
@@ -1480,8 +1480,8 @@
         "www.cheapticktes.com": {
             "included_at_epoch": 1588490099.0,
             "included_at_iso": "2020-05-03T07:14:59",
-            "last_retested_at_epoch": 1588490099.0,
-            "last_retested_at_iso": "2020-05-03T07:14:59",
+            "last_retested_at_epoch": 1588578524.177369,
+            "last_retested_at_iso": "2020-05-04T07:48:44.177369",
             "status": "INACTIVE"
         },
         "www.chokertraffic.com": {
@@ -1900,8 +1900,8 @@
         "www.gxplugin.com": {
             "included_at_epoch": 1588478773.0,
             "included_at_iso": "2020-05-03T04:06:13",
-            "last_retested_at_epoch": 1588478773.0,
-            "last_retested_at_iso": "2020-05-03T04:06:13",
+            "last_retested_at_epoch": 1588578280.537823,
+            "last_retested_at_iso": "2020-05-04T07:44:40.537823",
             "status": "INACTIVE"
         },
         "www.h-adachi.org": {
@@ -2859,8 +2859,8 @@
         "www.xvika.org": {
             "included_at_epoch": 1588486990.0,
             "included_at_iso": "2020-05-03T06:23:10",
-            "last_retested_at_epoch": 1588486990.0,
-            "last_retested_at_iso": "2020-05-03T06:23:10",
+            "last_retested_at_epoch": 1588578525.277003,
+            "last_retested_at_iso": "2020-05-04T07:48:45.277003",
             "status": "INACTIVE"
         },
         "www.xxxxxxx.hopto.org": {
@@ -2985,8 +2985,8 @@
         "x3.xclicks.net": {
             "included_at_epoch": 1588469107.0,
             "included_at_iso": "2020-05-03T01:25:07",
-            "last_retested_at_epoch": 1588469107.0,
-            "last_retested_at_iso": "2020-05-03T01:25:07",
+            "last_retested_at_epoch": 1588578806.909083,
+            "last_retested_at_iso": "2020-05-04T07:53:26.909083",
             "status": "INACTIVE"
         },
         "x4.xclicks.net": {
@@ -3027,8 +3027,8 @@
         "xvika.org": {
             "included_at_epoch": 1588486990.0,
             "included_at_iso": "2020-05-03T06:23:10",
-            "last_retested_at_epoch": 1588486990.0,
-            "last_retested_at_iso": "2020-05-03T06:23:10",
+            "last_retested_at_epoch": 1588578525.321908,
+            "last_retested_at_iso": "2020-05-04T07:48:45.321908",
             "status": "INACTIVE"
         },
         "xxxxxxx.hopto.org": {
