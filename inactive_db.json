@@ -318,8 +318,8 @@
         "collectiable.com": {
             "included_at_epoch": 1588525088.0,
             "included_at_iso": "2020-05-03T16:58:08",
-            "last_retested_at_epoch": 1588525088.0,
-            "last_retested_at_iso": "2020-05-03T16:58:08",
+            "last_retested_at_epoch": 1588627631.251659,
+            "last_retested_at_iso": "2020-05-04T21:27:11.251659",
             "status": "INACTIVE"
         },
         "compactiongames.gameaholic.com": {
@@ -556,8 +556,8 @@
         "hitwastedgarden.com": {
             "included_at_epoch": 1588436165.0,
             "included_at_iso": "2020-05-02T16:16:05",
-            "last_retested_at_epoch": 1588539502.614307,
-            "last_retested_at_iso": "2020-05-03T20:58:22.614307",
+            "last_retested_at_epoch": 1588627565.213022,
+            "last_retested_at_iso": "2020-05-04T21:26:05.213022",
             "status": "INACTIVE"
         },
         "hot2015rewards.com": {
@@ -577,8 +577,8 @@
         "i.zeroredirect.com": {
             "included_at_epoch": 1588530471.0,
             "included_at_iso": "2020-05-03T18:27:51",
-            "last_retested_at_epoch": 1588530471.0,
-            "last_retested_at_iso": "2020-05-03T18:27:51",
+            "last_retested_at_epoch": 1588627578.259202,
+            "last_retested_at_iso": "2020-05-04T21:26:18.259202",
             "status": "INACTIVE"
         },
         "infospace.tk": {
@@ -647,8 +647,8 @@
         "l.zeroredirect.com": {
             "included_at_epoch": 1588506748.0,
             "included_at_iso": "2020-05-03T11:52:28",
-            "last_retested_at_epoch": 1588506748.0,
-            "last_retested_at_iso": "2020-05-03T11:52:28",
+            "last_retested_at_epoch": 1588627867.37243,
+            "last_retested_at_iso": "2020-05-04T21:31:07.372430",
             "status": "INACTIVE"
         },
         "lateecapes.com": {
@@ -724,8 +724,8 @@
         "m57ku6sm.com": {
             "included_at_epoch": 1588440861.0,
             "included_at_iso": "2020-05-02T17:34:21",
-            "last_retested_at_epoch": 1588534872.620223,
-            "last_retested_at_iso": "2020-05-03T19:41:12.620223",
+            "last_retested_at_epoch": 1588627566.234635,
+            "last_retested_at_iso": "2020-05-04T21:26:06.234635",
             "status": "INACTIVE"
         },
         "maconbraves.com": {
@@ -843,8 +843,8 @@
         "o.zeroredirect.com": {
             "included_at_epoch": 1588409444.0,
             "included_at_iso": "2020-05-02T08:50:44",
-            "last_retested_at_epoch": 1588539243.568468,
-            "last_retested_at_iso": "2020-05-03T20:54:03.568468",
+            "last_retested_at_epoch": 1588627725.240104,
+            "last_retested_at_iso": "2020-05-04T21:28:45.240104",
             "status": "INACTIVE"
         },
         "ocpersian.com": {
@@ -983,8 +983,8 @@
         "themillionaireinpjs.net": {
             "included_at_epoch": 1588524769.0,
             "included_at_iso": "2020-05-03T16:52:49",
-            "last_retested_at_epoch": 1588524769.0,
-            "last_retested_at_iso": "2020-05-03T16:52:49",
+            "last_retested_at_epoch": 1588627653.982804,
+            "last_retested_at_iso": "2020-05-04T21:27:33.982804",
             "status": "INACTIVE"
         },
         "thenewupdatee.redirectme.net": {
@@ -1375,8 +1375,8 @@
         "www.brans.pl": {
             "included_at_epoch": 1588021598.0,
             "included_at_iso": "2020-04-27T21:06:38",
-            "last_retested_at_epoch": 1588021598.0,
-            "last_retested_at_iso": "2020-04-27T21:06:38",
+            "last_retested_at_epoch": 1588627531.59985,
+            "last_retested_at_iso": "2020-05-04T21:25:31.599850",
             "status": "INACTIVE"
         },
         "www.bulgariabg.com": {
@@ -1452,8 +1452,8 @@
         "www.cheaptickests.com": {
             "included_at_epoch": 1588527432.0,
             "included_at_iso": "2020-05-03T17:37:12",
-            "last_retested_at_epoch": 1588527432.0,
-            "last_retested_at_iso": "2020-05-03T17:37:12",
+            "last_retested_at_epoch": 1588627560.984291,
+            "last_retested_at_iso": "2020-05-04T21:26:00.984291",
             "status": "INACTIVE"
         },
         "www.cheapticketes.com": {
@@ -1650,6 +1650,13 @@
             "included_at_iso": "2020-04-13T16:21:02",
             "last_retested_at_epoch": 1586794862.0,
             "last_retested_at_iso": "2020-04-13T16:21:02",
+            "status": "INACTIVE"
+        },
+        "www.dimarsbg.com": {
+            "included_at_epoch": 1588627971.506035,
+            "included_at_iso": "2020-05-04T21:32:51.506035",
+            "last_retested_at_epoch": 1588627971.506035,
+            "last_retested_at_iso": "2020-05-04T21:32:51.506035",
             "status": "INACTIVE"
         },
         "www.directxex.com": {
@@ -1851,8 +1858,8 @@
         "www.fsl.sytes.net": {
             "included_at_epoch": 1588370892.0,
             "included_at_iso": "2020-05-01T22:08:12",
-            "last_retested_at_epoch": 1588539451.221335,
-            "last_retested_at_iso": "2020-05-03T20:57:31.221335",
+            "last_retested_at_epoch": 1588627936.66474,
+            "last_retested_at_iso": "2020-05-04T21:32:16.664740",
             "status": "INACTIVE"
         },
         "www.garudaairlines.com": {
@@ -1970,8 +1977,8 @@
         "www.hitwastedgarden.com": {
             "included_at_epoch": 1588436165.0,
             "included_at_iso": "2020-05-02T16:16:05",
-            "last_retested_at_epoch": 1588539502.911405,
-            "last_retested_at_iso": "2020-05-03T20:58:22.911405",
+            "last_retested_at_epoch": 1588627565.093703,
+            "last_retested_at_iso": "2020-05-04T21:26:05.093703",
             "status": "INACTIVE"
         },
         "www.hot-bot.com": {
@@ -2145,8 +2152,8 @@
         "www.m57ku6sm.com": {
             "included_at_epoch": 1588440861.0,
             "included_at_iso": "2020-05-02T17:34:21",
-            "last_retested_at_epoch": 1588534872.565593,
-            "last_retested_at_iso": "2020-05-03T19:41:12.565593",
+            "last_retested_at_epoch": 1588627566.214217,
+            "last_retested_at_iso": "2020-05-04T21:26:06.214217",
             "status": "INACTIVE"
         },
         "www.maconbraves.com": {
@@ -2390,8 +2397,8 @@
         "www.paypal-exchange.com": {
             "included_at_epoch": 1588445049.0,
             "included_at_iso": "2020-05-02T18:44:09",
-            "last_retested_at_epoch": 1588539255.733351,
-            "last_retested_at_iso": "2020-05-03T20:54:15.733351",
+            "last_retested_at_epoch": 1588627720.160197,
+            "last_retested_at_iso": "2020-05-04T21:28:40.160197",
             "status": "INACTIVE"
         },
         "www.pc-detox.com": {
