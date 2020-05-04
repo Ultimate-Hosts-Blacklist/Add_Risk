@@ -73,8 +73,8 @@
         "adserve.cpmba.se": {
             "included_at_epoch": 1588440866.0,
             "included_at_iso": "2020-05-02T17:34:26",
-            "last_retested_at_epoch": 1588440866.0,
-            "last_retested_at_iso": "2020-05-02T17:34:26",
+            "last_retested_at_epoch": 1588565098.194175,
+            "last_retested_at_iso": "2020-05-04T04:04:58.194175",
             "status": "INACTIVE"
         },
         "adserver.online-tech.com": {
@@ -780,8 +780,8 @@
         "mrace.hopto.org": {
             "included_at_epoch": 1588464226.0,
             "included_at_iso": "2020-05-03T00:03:46",
-            "last_retested_at_epoch": 1588464226.0,
-            "last_retested_at_iso": "2020-05-03T00:03:46",
+            "last_retested_at_epoch": 1588565160.080835,
+            "last_retested_at_iso": "2020-05-04T04:06:00.080835",
             "status": "INACTIVE"
         },
         "my-pc-cleaner.org": {
@@ -1627,8 +1627,8 @@
         "www.cudacorp.com": {
             "included_at_epoch": 1588474296.0,
             "included_at_iso": "2020-05-03T02:51:36",
-            "last_retested_at_epoch": 1588474296.0,
-            "last_retested_at_iso": "2020-05-03T02:51:36",
+            "last_retested_at_epoch": 1588565190.516741,
+            "last_retested_at_iso": "2020-05-04T04:06:30.516741",
             "status": "INACTIVE"
         },
         "www.customersupporthelp.com": {
@@ -2278,8 +2278,8 @@
         "www.mrace.hopto.org": {
             "included_at_epoch": 1588464226.0,
             "included_at_iso": "2020-05-03T00:03:46",
-            "last_retested_at_epoch": 1588464226.0,
-            "last_retested_at_iso": "2020-05-03T00:03:46",
+            "last_retested_at_epoch": 1588565160.056913,
+            "last_retested_at_iso": "2020-05-04T04:06:00.056913",
             "status": "INACTIVE"
         },
         "www.my-pc-cleaner.org": {
@@ -2411,8 +2411,8 @@
         "www.premiumpedia.com": {
             "included_at_epoch": 1588478566.0,
             "included_at_iso": "2020-05-03T04:02:46",
-            "last_retested_at_epoch": 1588478566.0,
-            "last_retested_at_iso": "2020-05-03T04:02:46",
+            "last_retested_at_epoch": 1588565158.348381,
+            "last_retested_at_iso": "2020-05-04T04:05:58.348381",
             "status": "INACTIVE"
         },
         "www.qikdownloads.com": {
@@ -2789,8 +2789,8 @@
         "www.wwwcheaptickets.com": {
             "included_at_epoch": 1588459562.0,
             "included_at_iso": "2020-05-02T22:46:02",
-            "last_retested_at_epoch": 1588459562.0,
-            "last_retested_at_iso": "2020-05-02T22:46:02",
+            "last_retested_at_epoch": 1588564825.312767,
+            "last_retested_at_iso": "2020-05-04T04:00:25.312767",
             "status": "INACTIVE"
         },
         "www.wwwdiynet.com": {
@@ -3041,8 +3041,8 @@
         "y.zeroredirect.com": {
             "included_at_epoch": 1588474149.0,
             "included_at_iso": "2020-05-03T02:49:09",
-            "last_retested_at_epoch": 1588474149.0,
-            "last_retested_at_iso": "2020-05-03T02:49:09",
+            "last_retested_at_epoch": 1588564907.204908,
+            "last_retested_at_iso": "2020-05-04T04:01:47.204908",
             "status": "INACTIVE"
         },
         "yk.handlerhackz.tk": {
