@@ -94,8 +94,8 @@
         "adweb1.hornymatches.com": {
             "included_at_epoch": 1588474142.0,
             "included_at_iso": "2020-05-03T02:49:02",
-            "last_retested_at_epoch": 1588569665.612431,
-            "last_retested_at_iso": "2020-05-04T05:21:05.612431",
+            "last_retested_at_epoch": 1588677006.142377,
+            "last_retested_at_iso": "2020-05-05T11:10:06.142377",
             "status": "INACTIVE"
         },
         "affiliate.trk4.com": {
@@ -388,8 +388,8 @@
         "dlldlldll.sytes.net": {
             "included_at_epoch": 1588483158.0,
             "included_at_iso": "2020-05-03T05:19:18",
-            "last_retested_at_epoch": 1588587851.141697,
-            "last_retested_at_iso": "2020-05-04T10:24:11.141697",
+            "last_retested_at_epoch": 1588677205.491288,
+            "last_retested_at_iso": "2020-05-05T11:13:25.491288",
             "status": "INACTIVE"
         },
         "doda.redirectme.net": {
@@ -542,8 +542,8 @@
         "havijrat.zapto.org": {
             "included_at_epoch": 1588497281.0,
             "included_at_iso": "2020-05-03T09:14:41",
-            "last_retested_at_epoch": 1588587789.402223,
-            "last_retested_at_iso": "2020-05-04T10:23:09.402223",
+            "last_retested_at_epoch": 1588676930.331676,
+            "last_retested_at_iso": "2020-05-05T11:08:50.331676",
             "status": "INACTIVE"
         },
         "hira.hopto.org": {
@@ -570,8 +570,8 @@
         "i.trkjmp.com": {
             "included_at_epoch": 1588422656.0,
             "included_at_iso": "2020-05-02T12:30:56",
-            "last_retested_at_epoch": 1588549055.882509,
-            "last_retested_at_iso": "2020-05-03T23:37:35.882509",
+            "last_retested_at_epoch": 1588676741.879231,
+            "last_retested_at_iso": "2020-05-05T11:05:41.879231",
             "status": "INACTIVE"
         },
         "i.zeroredirect.com": {
@@ -899,8 +899,8 @@
         "rahulthehacker.tk": {
             "included_at_epoch": 1588454473.0,
             "included_at_iso": "2020-05-02T21:21:13",
-            "last_retested_at_epoch": 1588583289.890425,
-            "last_retested_at_iso": "2020-05-04T09:08:09.890425",
+            "last_retested_at_epoch": 1588677040.113171,
+            "last_retested_at_iso": "2020-05-05T11:10:40.113171",
             "status": "INACTIVE"
         },
         "redirectlnk.redirectme.net": {
@@ -1207,8 +1207,8 @@
         "www.antalya.ru": {
             "included_at_epoch": 1588509653.0,
             "included_at_iso": "2020-05-03T12:40:53",
-            "last_retested_at_epoch": 1588509653.0,
-            "last_retested_at_iso": "2020-05-03T12:40:53",
+            "last_retested_at_epoch": 1588676666.661932,
+            "last_retested_at_iso": "2020-05-05T11:04:26.661932",
             "status": "INACTIVE"
         },
         "www.arecio.work": {
@@ -1466,15 +1466,15 @@
         "www.cheapticketsinc.com": {
             "included_at_epoch": 1588490165.0,
             "included_at_iso": "2020-05-03T07:16:05",
-            "last_retested_at_epoch": 1588578304.560323,
-            "last_retested_at_iso": "2020-05-04T07:45:04.560323",
+            "last_retested_at_epoch": 1588676887.489387,
+            "last_retested_at_iso": "2020-05-05T11:08:07.489387",
             "status": "INACTIVE"
         },
         "www.cheapticketts.com": {
             "included_at_epoch": 1588489889.0,
             "included_at_iso": "2020-05-03T07:11:29",
-            "last_retested_at_epoch": 1588587820.750544,
-            "last_retested_at_iso": "2020-05-04T10:23:40.750544",
+            "last_retested_at_epoch": 1588676835.25225,
+            "last_retested_at_iso": "2020-05-05T11:07:15.252250",
             "status": "INACTIVE"
         },
         "www.cheapticktes.com": {
@@ -1676,8 +1676,8 @@
         "www.dlldlldll.sytes.net": {
             "included_at_epoch": 1588483158.0,
             "included_at_iso": "2020-05-03T05:19:18",
-            "last_retested_at_epoch": 1588587851.109566,
-            "last_retested_at_iso": "2020-05-04T10:24:11.109566",
+            "last_retested_at_epoch": 1588677205.47307,
+            "last_retested_at_iso": "2020-05-05T11:13:25.473070",
             "status": "INACTIVE"
         },
         "www.doda.redirectme.net": {
@@ -1949,8 +1949,8 @@
         "www.havijrat.zapto.org": {
             "included_at_epoch": 1588497281.0,
             "included_at_iso": "2020-05-03T09:14:41",
-            "last_retested_at_epoch": 1588587789.341439,
-            "last_retested_at_iso": "2020-05-04T10:23:09.341439",
+            "last_retested_at_epoch": 1588676930.275753,
+            "last_retested_at_iso": "2020-05-05T11:08:50.275753",
             "status": "INACTIVE"
         },
         "www.heaptickets.com": {
@@ -2082,8 +2082,8 @@
         "www.leadingedgecash.com": {
             "included_at_epoch": 1588478512.0,
             "included_at_iso": "2020-05-03T04:01:52",
-            "last_retested_at_epoch": 1588574034.85026,
-            "last_retested_at_iso": "2020-05-04T06:33:54.850260",
+            "last_retested_at_epoch": 1588676858.265107,
+            "last_retested_at_iso": "2020-05-05T11:07:38.265107",
             "status": "INACTIVE"
         },
         "www.lefos.net": {
@@ -2446,8 +2446,8 @@
         "www.rahulthehacker.tk": {
             "included_at_epoch": 1588454473.0,
             "included_at_iso": "2020-05-02T21:21:13",
-            "last_retested_at_epoch": 1588583290.374385,
-            "last_retested_at_iso": "2020-05-04T09:08:10.374385",
+            "last_retested_at_epoch": 1588677040.507819,
+            "last_retested_at_iso": "2020-05-05T11:10:40.507819",
             "status": "INACTIVE"
         },
         "www.ratemodels.net": {
@@ -2467,8 +2467,8 @@
         "www.registry-cleaner.net": {
             "included_at_epoch": 1588486807.0,
             "included_at_iso": "2020-05-03T06:20:07",
-            "last_retested_at_epoch": 1588587769.153244,
-            "last_retested_at_iso": "2020-05-04T10:22:49.153244",
+            "last_retested_at_epoch": 1588676702.140534,
+            "last_retested_at_iso": "2020-05-05T11:05:02.140534",
             "status": "INACTIVE"
         },
         "www.registry-cleaners-compared.com": {
