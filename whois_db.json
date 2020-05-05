@@ -957,7 +957,7 @@
     "columbahouse.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "columbianhouse.com": {
         "epoch": 1603065600.0,
@@ -2337,7 +2337,7 @@
     "lottoga.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "lprshcsmijfovp.com": {
         "epoch": 1593648000.0,
@@ -4315,8 +4315,8 @@
         "state": "future"
     },
     "wannawatch.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "warco.pl": {
