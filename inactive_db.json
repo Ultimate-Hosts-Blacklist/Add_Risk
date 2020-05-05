@@ -717,8 +717,8 @@
         "m.zeroredirect.com": {
             "included_at_epoch": 1588455055.0,
             "included_at_iso": "2020-05-02T21:30:55",
-            "last_retested_at_epoch": 1588583128.030439,
-            "last_retested_at_iso": "2020-05-04T09:05:28.030439",
+            "last_retested_at_epoch": 1588672234.499414,
+            "last_retested_at_iso": "2020-05-05T09:50:34.499414",
             "status": "INACTIVE"
         },
         "m57ku6sm.com": {
@@ -857,8 +857,8 @@
         "orango.redirectme.net": {
             "included_at_epoch": 1588445326.0,
             "included_at_iso": "2020-05-02T18:48:46",
-            "last_retested_at_epoch": 1588583559.700758,
-            "last_retested_at_iso": "2020-05-04T09:12:39.700758",
+            "last_retested_at_epoch": 1588672420.976066,
+            "last_retested_at_iso": "2020-05-05T09:53:40.976066",
             "status": "INACTIVE"
         },
         "p.zeroredirect.com": {
@@ -941,8 +941,8 @@
         "ships.zapto.org": {
             "included_at_epoch": 1588493476.0,
             "included_at_iso": "2020-05-03T08:11:16",
-            "last_retested_at_epoch": 1588583240.854724,
-            "last_retested_at_iso": "2020-05-04T09:07:20.854724",
+            "last_retested_at_epoch": 1588672516.0557,
+            "last_retested_at_iso": "2020-05-05T09:55:16.055700",
             "status": "INACTIVE"
         },
         "stignita.zapto.org": {
@@ -1249,8 +1249,8 @@
         "www.auto-overview.com": {
             "included_at_epoch": 1588440843.0,
             "included_at_iso": "2020-05-02T17:34:03",
-            "last_retested_at_epoch": 1588539321.672848,
-            "last_retested_at_iso": "2020-05-03T20:55:21.672848",
+            "last_retested_at_epoch": 1588672292.128368,
+            "last_retested_at_iso": "2020-05-05T09:51:32.128368",
             "status": "INACTIVE"
         },
         "www.automoneygenerator.com": {
@@ -1515,8 +1515,8 @@
         "www.cleanproxy.com": {
             "included_at_epoch": 1588486660.0,
             "included_at_iso": "2020-05-03T06:17:40",
-            "last_retested_at_epoch": 1588573824.068217,
-            "last_retested_at_iso": "2020-05-04T06:30:24.068217",
+            "last_retested_at_epoch": 1588672630.670292,
+            "last_retested_at_iso": "2020-05-05T09:57:10.670292",
             "status": "INACTIVE"
         },
         "www.clearshieldredirect.com": {
@@ -1739,8 +1739,8 @@
         "www.ecdtrk.com": {
             "included_at_epoch": 1588454889.0,
             "included_at_iso": "2020-05-02T21:28:09",
-            "last_retested_at_epoch": 1588554310.377203,
-            "last_retested_at_iso": "2020-05-04T01:05:10.377203",
+            "last_retested_at_epoch": 1588672248.666751,
+            "last_retested_at_iso": "2020-05-05T09:50:48.666751",
             "status": "INACTIVE"
         },
         "www.egoldenglove.com": {
@@ -2278,8 +2278,8 @@
         "www.monetisetrk6.co.uk": {
             "included_at_epoch": 1588479072.0,
             "included_at_iso": "2020-05-03T04:11:12",
-            "last_retested_at_epoch": 1588573973.377522,
-            "last_retested_at_iso": "2020-05-04T06:32:53.377522",
+            "last_retested_at_epoch": 1588672602.482641,
+            "last_retested_at_iso": "2020-05-05T09:56:42.482641",
             "status": "INACTIVE"
         },
         "www.monofeel.com": {
@@ -2376,8 +2376,8 @@
         "www.orango.redirectme.net": {
             "included_at_epoch": 1588445326.0,
             "included_at_iso": "2020-05-02T18:48:46",
-            "last_retested_at_epoch": 1588583559.643521,
-            "last_retested_at_iso": "2020-05-04T09:12:39.643521",
+            "last_retested_at_epoch": 1588672420.975109,
+            "last_retested_at_iso": "2020-05-05T09:53:40.975109",
             "status": "INACTIVE"
         },
         "www.orbiyz.com": {
@@ -2544,8 +2544,8 @@
         "www.ships.zapto.org": {
             "included_at_epoch": 1588493476.0,
             "included_at_iso": "2020-05-03T08:11:16",
-            "last_retested_at_epoch": 1588583240.703795,
-            "last_retested_at_iso": "2020-05-04T09:07:20.703795",
+            "last_retested_at_epoch": 1588672516.036855,
+            "last_retested_at_iso": "2020-05-05T09:55:16.036855",
             "status": "INACTIVE"
         },
         "www.sijmp.com": {
