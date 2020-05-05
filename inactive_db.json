@@ -38,8 +38,8 @@
         "ad.slutload.com": {
             "included_at_epoch": 1588459614.0,
             "included_at_iso": "2020-05-02T22:46:54",
-            "last_retested_at_epoch": 1588554472.605373,
-            "last_retested_at_iso": "2020-05-04T01:07:52.605373",
+            "last_retested_at_epoch": 1588667792.793773,
+            "last_retested_at_iso": "2020-05-05T08:36:32.793773",
             "status": "INACTIVE"
         },
         "ad3.hornymatches.com": {
@@ -668,8 +668,8 @@
         "lefos.net": {
             "included_at_epoch": 1588479053.0,
             "included_at_iso": "2020-05-03T04:10:53",
-            "last_retested_at_epoch": 1588569387.801024,
-            "last_retested_at_iso": "2020-05-04T05:16:27.801024",
+            "last_retested_at_epoch": 1588667939.352194,
+            "last_retested_at_iso": "2020-05-05T08:38:59.352194",
             "status": "INACTIVE"
         },
         "lennoxcollections.com": {
@@ -815,8 +815,8 @@
         "ns1.ntkrnlpa.info": {
             "included_at_epoch": 1588454839.0,
             "included_at_iso": "2020-05-02T21:27:19",
-            "last_retested_at_epoch": 1588559536.652672,
-            "last_retested_at_iso": "2020-05-04T02:32:16.652672",
+            "last_retested_at_epoch": 1588667966.940301,
+            "last_retested_at_iso": "2020-05-05T08:39:26.940301",
             "status": "INACTIVE"
         },
         "ns2.ntkrnlpa.info": {
@@ -1543,8 +1543,8 @@
         "www.collectiable.com": {
             "included_at_epoch": 1588486866.0,
             "included_at_iso": "2020-05-03T06:21:06",
-            "last_retested_at_epoch": 1588574005.669358,
-            "last_retested_at_iso": "2020-05-04T06:33:25.669358",
+            "last_retested_at_epoch": 1588667999.93242,
+            "last_retested_at_iso": "2020-05-05T08:39:59.932420",
             "status": "INACTIVE"
         },
         "www.columbianhouse.com": {
@@ -1907,8 +1907,8 @@
         "www.gxplugin.com": {
             "included_at_epoch": 1588478773.0,
             "included_at_iso": "2020-05-03T04:06:13",
-            "last_retested_at_epoch": 1588578280.537823,
-            "last_retested_at_iso": "2020-05-04T07:44:40.537823",
+            "last_retested_at_epoch": 1588667690.455602,
+            "last_retested_at_iso": "2020-05-05T08:34:50.455602",
             "status": "INACTIVE"
         },
         "www.h-adachi.org": {
@@ -2089,8 +2089,8 @@
         "www.lefos.net": {
             "included_at_epoch": 1588479053.0,
             "included_at_iso": "2020-05-03T04:10:53",
-            "last_retested_at_epoch": 1588569387.80024,
-            "last_retested_at_iso": "2020-05-04T05:16:27.800240",
+            "last_retested_at_epoch": 1588667939.369667,
+            "last_retested_at_iso": "2020-05-05T08:38:59.369667",
             "status": "INACTIVE"
         },
         "www.lennoxcollections.com": {
@@ -2425,8 +2425,8 @@
         "www.premiumpedia.com": {
             "included_at_epoch": 1588478566.0,
             "included_at_iso": "2020-05-03T04:02:46",
-            "last_retested_at_epoch": 1588565158.348381,
-            "last_retested_at_iso": "2020-05-04T04:05:58.348381",
+            "last_retested_at_epoch": 1588667873.498701,
+            "last_retested_at_iso": "2020-05-05T08:37:53.498701",
             "status": "INACTIVE"
         },
         "www.qikdownloads.com": {
@@ -2978,8 +2978,8 @@
         "wwwmancow.com": {
             "included_at_epoch": 1588454780.0,
             "included_at_iso": "2020-05-02T21:26:20",
-            "last_retested_at_epoch": 1588548912.44608,
-            "last_retested_at_iso": "2020-05-03T23:35:12.446080",
+            "last_retested_at_epoch": 1588667971.667518,
+            "last_retested_at_iso": "2020-05-05T08:39:31.667518",
             "status": "INACTIVE"
         },
         "wwwuproar.com": {
@@ -3083,8 +3083,8 @@
         "z.zeroredirect.com": {
             "included_at_epoch": 1588459952.0,
             "included_at_iso": "2020-05-02T22:52:32",
-            "last_retested_at_epoch": 1588574329.545701,
-            "last_retested_at_iso": "2020-05-04T06:38:49.545701",
+            "last_retested_at_epoch": 1588667660.95296,
+            "last_retested_at_iso": "2020-05-05T08:34:20.952960",
             "status": "INACTIVE"
         },
         "zm1.zeroredirect5.com": {
