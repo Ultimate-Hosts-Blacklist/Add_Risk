@@ -437,8 +437,8 @@
         "e.zeroredirect.com": {
             "included_at_epoch": 1588493613.0,
             "included_at_iso": "2020-05-03T08:13:33",
-            "last_retested_at_epoch": 1588760305.889239,
-            "last_retested_at_iso": "2020-05-06T10:18:25.889239",
+            "last_retested_at_epoch": 1588949975.95371,
+            "last_retested_at_iso": "2020-05-08T14:59:35.953710",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
