@@ -479,8 +479,8 @@
         "fecabook.redirectme.net": {
             "included_at_epoch": 1588515874.0,
             "included_at_iso": "2020-05-03T14:24:34",
-            "last_retested_at_epoch": 1588705283.716413,
-            "last_retested_at_iso": "2020-05-05T19:01:23.716413",
+            "last_retested_at_epoch": 1588954464.177728,
+            "last_retested_at_iso": "2020-05-08T16:14:24.177728",
             "status": "INACTIVE"
         },
         "finders.hopto.org": {
@@ -1683,8 +1683,8 @@
         "www.disable-uac.com": {
             "included_at_epoch": 1588519215.0,
             "included_at_iso": "2020-05-03T15:20:15",
-            "last_retested_at_epoch": 1588743175.167416,
-            "last_retested_at_iso": "2020-05-06T05:32:55.167416",
+            "last_retested_at_epoch": 1588954237.255764,
+            "last_retested_at_iso": "2020-05-08T16:10:37.255764",
             "status": "INACTIVE"
         },
         "www.dlldlldll.sytes.net": {
@@ -1823,8 +1823,8 @@
         "www.fecabook.redirectme.net": {
             "included_at_epoch": 1588515874.0,
             "included_at_iso": "2020-05-03T14:24:34",
-            "last_retested_at_epoch": 1588705283.678531,
-            "last_retested_at_iso": "2020-05-05T19:01:23.678531",
+            "last_retested_at_epoch": 1588954464.144634,
+            "last_retested_at_iso": "2020-05-08T16:14:24.144634",
             "status": "INACTIVE"
         },
         "www.femeedia.com": {
