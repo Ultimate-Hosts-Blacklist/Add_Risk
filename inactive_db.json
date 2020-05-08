@@ -563,8 +563,8 @@
         "hitwastedgarden.com": {
             "included_at_epoch": 1588436165.0,
             "included_at_iso": "2020-05-02T16:16:05",
-            "last_retested_at_epoch": 1588715090.510682,
-            "last_retested_at_iso": "2020-05-05T21:44:50.510682",
+            "last_retested_at_epoch": 1588930950.364209,
+            "last_retested_at_iso": "2020-05-08T09:42:30.364209",
             "status": "INACTIVE"
         },
         "hot2015rewards.com": {
@@ -1998,8 +1998,8 @@
         "www.hitwastedgarden.com": {
             "included_at_epoch": 1588436165.0,
             "included_at_iso": "2020-05-02T16:16:05",
-            "last_retested_at_epoch": 1588715090.606538,
-            "last_retested_at_iso": "2020-05-05T21:44:50.606538",
+            "last_retested_at_epoch": 1588930950.552471,
+            "last_retested_at_iso": "2020-05-08T09:42:30.552471",
             "status": "INACTIVE"
         },
         "www.hot-bot.com": {
@@ -2124,8 +2124,8 @@
         "www.letzonke.com": {
             "included_at_epoch": 1588530230.0,
             "included_at_iso": "2020-05-03T18:23:50",
-            "last_retested_at_epoch": 1588729225.460697,
-            "last_retested_at_iso": "2020-05-06T01:40:25.460697",
+            "last_retested_at_epoch": 1588930938.700857,
+            "last_retested_at_iso": "2020-05-08T09:42:18.700857",
             "status": "INACTIVE"
         },
         "www.liders.biz": {
@@ -2385,6 +2385,13 @@
             "included_at_iso": "2020-03-03T01:08:38",
             "last_retested_at_epoch": 1583197718.0,
             "last_retested_at_iso": "2020-03-03T01:08:38",
+            "status": "INACTIVE"
+        },
+        "www.oneund.ru": {
+            "included_at_epoch": 1588930620.608636,
+            "included_at_iso": "2020-05-08T09:37:00.608636",
+            "last_retested_at_epoch": 1588930620.608636,
+            "last_retested_at_iso": "2020-05-08T09:37:00.608636",
             "status": "INACTIVE"
         },
         "www.onlineadmin.net": {
@@ -3048,8 +3055,8 @@
         "x6.xclicks.net": {
             "included_at_epoch": 1588478541.0,
             "included_at_iso": "2020-05-03T04:02:21",
-            "last_retested_at_epoch": 1588695555.006114,
-            "last_retested_at_iso": "2020-05-05T16:19:15.006114",
+            "last_retested_at_epoch": 1588930704.359767,
+            "last_retested_at_iso": "2020-05-08T09:38:24.359767",
             "status": "INACTIVE"
         },
         "xchangetrak.com": {
@@ -3083,8 +3090,8 @@
         "y.zeroredirect.com": {
             "included_at_epoch": 1588474149.0,
             "included_at_iso": "2020-05-03T02:49:09",
-            "last_retested_at_epoch": 1588760398.929877,
-            "last_retested_at_iso": "2020-05-06T10:19:58.929877",
+            "last_retested_at_epoch": 1588930930.950499,
+            "last_retested_at_iso": "2020-05-08T09:42:10.950499",
             "status": "INACTIVE"
         },
         "yk.handlerhackz.tk": {
