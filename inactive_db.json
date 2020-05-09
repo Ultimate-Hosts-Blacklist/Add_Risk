@@ -500,8 +500,8 @@
         "g.zeroredirect.com": {
             "included_at_epoch": 1588478966.0,
             "included_at_iso": "2020-05-03T04:09:26",
-            "last_retested_at_epoch": 1588896656.493747,
-            "last_retested_at_iso": "2020-05-08T00:10:56.493747",
+            "last_retested_at_epoch": 1589044492.17859,
+            "last_retested_at_iso": "2020-05-09T17:14:52.178590",
             "status": "INACTIVE"
         },
         "gbanners.hornymatches.com": {
@@ -787,8 +787,8 @@
         "mrace.hopto.org": {
             "included_at_epoch": 1588464226.0,
             "included_at_iso": "2020-05-03T00:03:46",
-            "last_retested_at_epoch": 1588907008.86334,
-            "last_retested_at_iso": "2020-05-08T03:03:28.863340",
+            "last_retested_at_epoch": 1589044402.678392,
+            "last_retested_at_iso": "2020-05-09T17:13:22.678392",
             "status": "INACTIVE"
         },
         "my-pc-cleaner.org": {
@@ -2320,8 +2320,8 @@
         "www.mrace.hopto.org": {
             "included_at_epoch": 1588464226.0,
             "included_at_iso": "2020-05-03T00:03:46",
-            "last_retested_at_epoch": 1588907008.915095,
-            "last_retested_at_iso": "2020-05-08T03:03:28.915095",
+            "last_retested_at_epoch": 1589044402.677449,
+            "last_retested_at_iso": "2020-05-09T17:13:22.677449",
             "status": "INACTIVE"
         },
         "www.my-pc-cleaner.org": {
@@ -3034,15 +3034,15 @@
         "x.zeroredirect.com": {
             "included_at_epoch": 1588509920.0,
             "included_at_iso": "2020-05-03T12:45:20",
-            "last_retested_at_epoch": 1588926227.400081,
-            "last_retested_at_iso": "2020-05-08T08:23:47.400081",
+            "last_retested_at_epoch": 1589044874.243986,
+            "last_retested_at_iso": "2020-05-09T17:21:14.243986",
             "status": "INACTIVE"
         },
         "x2.xclicks.net": {
             "included_at_epoch": 1588450044.0,
             "included_at_iso": "2020-05-02T20:07:24",
-            "last_retested_at_epoch": 1588917027.49863,
-            "last_retested_at_iso": "2020-05-08T05:50:27.498630",
+            "last_retested_at_epoch": 1589044764.341558,
+            "last_retested_at_iso": "2020-05-09T17:19:24.341558",
             "status": "INACTIVE"
         },
         "x3.xclicks.net": {
