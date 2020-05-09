@@ -171,8 +171,8 @@
         "ayada.zapto.org": {
             "included_at_epoch": 1588497244.0,
             "included_at_iso": "2020-05-03T09:14:04",
-            "last_retested_at_epoch": 1588907545.967694,
-            "last_retested_at_iso": "2020-05-08T03:12:25.967694",
+            "last_retested_at_epoch": 1589016220.490172,
+            "last_retested_at_iso": "2020-05-09T09:23:40.490172",
             "status": "INACTIVE"
         },
         "ayehcleaners.com": {
@@ -1277,8 +1277,8 @@
         "www.ayada.zapto.org": {
             "included_at_epoch": 1588497244.0,
             "included_at_iso": "2020-05-03T09:14:04",
-            "last_retested_at_epoch": 1588907545.898227,
-            "last_retested_at_iso": "2020-05-08T03:12:25.898227",
+            "last_retested_at_epoch": 1589016220.424623,
+            "last_retested_at_iso": "2020-05-09T09:23:40.424623",
             "status": "INACTIVE"
         },
         "www.ayehcleaners.com": {
@@ -2033,8 +2033,8 @@
         "www.ilovecheating.com": {
             "included_at_epoch": 1588524826.0,
             "included_at_iso": "2020-05-03T16:53:46",
-            "last_retested_at_epoch": 1588916942.014583,
-            "last_retested_at_iso": "2020-05-08T05:49:02.014583",
+            "last_retested_at_epoch": 1589016483.416284,
+            "last_retested_at_iso": "2020-05-09T09:28:03.416284",
             "status": "INACTIVE"
         },
         "www.infospace.tk": {
@@ -2803,8 +2803,8 @@
         "www.vyrus.redirectme.net": {
             "included_at_epoch": 1588516010.0,
             "included_at_iso": "2020-05-03T14:26:50",
-            "last_retested_at_epoch": 1588877811.254002,
-            "last_retested_at_iso": "2020-05-07T18:56:51.254002",
+            "last_retested_at_epoch": 1589016618.978757,
+            "last_retested_at_iso": "2020-05-09T09:30:18.978757",
             "status": "INACTIVE"
         },
         "www.wmserver.net": {
