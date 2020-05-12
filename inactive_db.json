@@ -101,8 +101,8 @@
         "affiliate.trk4.com": {
             "included_at_epoch": 1588503693.0,
             "included_at_iso": "2020-05-03T11:01:33",
-            "last_retested_at_epoch": 1589171708.127216,
-            "last_retested_at_iso": "2020-05-11T04:35:08.127216",
+            "last_retested_at_epoch": 1589263347.794513,
+            "last_retested_at_iso": "2020-05-12T06:02:27.794513",
             "status": "INACTIVE"
         },
         "alibabaslots.com": {
@@ -255,8 +255,8 @@
         "bonzibuddi.com": {
             "included_at_epoch": 1588503736.0,
             "included_at_iso": "2020-05-03T11:02:16",
-            "last_retested_at_epoch": 1589175822.583453,
-            "last_retested_at_iso": "2020-05-11T05:43:42.583453",
+            "last_retested_at_epoch": 1589263524.831544,
+            "last_retested_at_iso": "2020-05-12T06:05:24.831544",
             "status": "INACTIVE"
         },
         "brans.pl": {
@@ -423,8 +423,8 @@
         "down3.feiyang163.com": {
             "included_at_epoch": 1588486426.0,
             "included_at_iso": "2020-05-03T06:13:46",
-            "last_retested_at_epoch": 1589175766.253956,
-            "last_retested_at_iso": "2020-05-11T05:42:46.253956",
+            "last_retested_at_epoch": 1589263145.190277,
+            "last_retested_at_iso": "2020-05-12T05:59:05.190277",
             "status": "INACTIVE"
         },
         "download.grandcloud.cn": {
@@ -577,8 +577,8 @@
         "i.trkjmp.com": {
             "included_at_epoch": 1588422656.0,
             "included_at_iso": "2020-05-02T12:30:56",
-            "last_retested_at_epoch": 1589176192.60611,
-            "last_retested_at_iso": "2020-05-11T05:49:52.606110",
+            "last_retested_at_epoch": 1589263117.043165,
+            "last_retested_at_iso": "2020-05-12T05:58:37.043165",
             "status": "INACTIVE"
         },
         "i.zeroredirect.com": {
@@ -654,8 +654,8 @@
         "l.zeroredirect.com": {
             "included_at_epoch": 1588506748.0,
             "included_at_iso": "2020-05-03T11:52:28",
-            "last_retested_at_epoch": 1589166949.347249,
-            "last_retested_at_iso": "2020-05-11T03:15:49.347249",
+            "last_retested_at_epoch": 1589263276.422004,
+            "last_retested_at_iso": "2020-05-12T06:01:16.422004",
             "status": "INACTIVE"
         },
         "lateecapes.com": {
@@ -920,8 +920,8 @@
         "redirectlnk.redirectme.net": {
             "included_at_epoch": 1588440768.0,
             "included_at_iso": "2020-05-02T17:32:48",
-            "last_retested_at_epoch": 1589151828.540196,
-            "last_retested_at_iso": "2020-05-10T23:03:48.540196",
+            "last_retested_at_epoch": 1589263618.660652,
+            "last_retested_at_iso": "2020-05-12T06:06:58.660652",
             "status": "INACTIVE"
         },
         "registrycleaner.onlinedownloads.org": {
@@ -1382,8 +1382,8 @@
         "www.bonzibuddi.com": {
             "included_at_epoch": 1588503736.0,
             "included_at_iso": "2020-05-03T11:02:16",
-            "last_retested_at_epoch": 1589175822.715485,
-            "last_retested_at_iso": "2020-05-11T05:43:42.715485",
+            "last_retested_at_epoch": 1589263524.8886,
+            "last_retested_at_iso": "2020-05-12T06:05:24.888600",
             "status": "INACTIVE"
         },
         "www.brans.pl": {
@@ -1445,8 +1445,8 @@
         "www.ceskarepublika.net": {
             "included_at_epoch": 1588527489.0,
             "included_at_iso": "2020-05-03T17:38:09",
-            "last_retested_at_epoch": 1589171420.854499,
-            "last_retested_at_iso": "2020-05-11T04:30:20.854499",
+            "last_retested_at_epoch": 1589263396.900724,
+            "last_retested_at_iso": "2020-05-12T06:03:16.900724",
             "status": "INACTIVE"
         },
         "www.chaseonline.com": {
@@ -2012,8 +2012,8 @@
         "www.hot-bot.com": {
             "included_at_epoch": 1588583169.715144,
             "included_at_iso": "2020-05-04T09:06:09.715144",
-            "last_retested_at_epoch": 1588751445.978758,
-            "last_retested_at_iso": "2020-05-06T07:50:45.978758",
+            "last_retested_at_epoch": 1589263268.203614,
+            "last_retested_at_iso": "2020-05-12T06:01:08.203614",
             "status": "INACTIVE"
         },
         "www.hot2015rewards.com": {
@@ -2495,8 +2495,8 @@
         "www.redirectlnk.redirectme.net": {
             "included_at_epoch": 1588440767.0,
             "included_at_iso": "2020-05-02T17:32:47",
-            "last_retested_at_epoch": 1589151829.360263,
-            "last_retested_at_iso": "2020-05-10T23:03:49.360263",
+            "last_retested_at_epoch": 1589263619.053372,
+            "last_retested_at_iso": "2020-05-12T06:06:59.053372",
             "status": "INACTIVE"
         },
         "www.registry-cleaner.net": {
@@ -2719,8 +2719,8 @@
         "www.trx625.com": {
             "included_at_epoch": 1588512764.0,
             "included_at_iso": "2020-05-03T13:32:44",
-            "last_retested_at_epoch": 1589161487.95646,
-            "last_retested_at_iso": "2020-05-11T01:44:47.956460",
+            "last_retested_at_epoch": 1589263511.500251,
+            "last_retested_at_iso": "2020-05-12T06:05:11.500251",
             "status": "INACTIVE"
         },
         "www.tttbbbttt.zapto.org": {
@@ -2880,8 +2880,8 @@
         "www.wwwmancow.com": {
             "included_at_epoch": 1588506980.0,
             "included_at_iso": "2020-05-03T11:56:20",
-            "last_retested_at_epoch": 1589166795.321929,
-            "last_retested_at_iso": "2020-05-11T03:13:15.321929",
+            "last_retested_at_epoch": 1589263341.974261,
+            "last_retested_at_iso": "2020-05-12T06:02:21.974261",
             "status": "INACTIVE"
         },
         "www.wwwuproar.com": {
@@ -3027,8 +3027,8 @@
         "wwwmancow.com": {
             "included_at_epoch": 1588454780.0,
             "included_at_iso": "2020-05-02T21:26:20",
-            "last_retested_at_epoch": 1589166795.26413,
-            "last_retested_at_iso": "2020-05-11T03:13:15.264130",
+            "last_retested_at_epoch": 1589263341.784187,
+            "last_retested_at_iso": "2020-05-12T06:02:21.784187",
             "status": "INACTIVE"
         },
         "wwwuproar.com": {
