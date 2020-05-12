@@ -10,8 +10,8 @@
         "11163221-517901.c.adprotect.net": {
             "included_at_epoch": 1588524761.0,
             "included_at_iso": "2020-05-03T16:52:41",
-            "last_retested_at_epoch": 1589199936.265135,
-            "last_retested_at_iso": "2020-05-11T12:25:36.265135",
+            "last_retested_at_epoch": 1589321830.752428,
+            "last_retested_at_iso": "2020-05-12T22:17:10.752428",
             "status": "INACTIVE"
         },
         "6.mamaswishes.com": {
@@ -493,8 +493,8 @@
         "ftp.flyfishusa.com": {
             "included_at_epoch": 1588506528.0,
             "included_at_iso": "2020-05-03T11:48:48",
-            "last_retested_at_epoch": 1589185258.840164,
-            "last_retested_at_iso": "2020-05-11T08:20:58.840164",
+            "last_retested_at_epoch": 1589322111.118433,
+            "last_retested_at_iso": "2020-05-12T22:21:51.118433",
             "status": "INACTIVE"
         },
         "g.zeroredirect.com": {
@@ -969,8 +969,8 @@
         "stressx.org": {
             "included_at_epoch": 1588422568.0,
             "included_at_iso": "2020-05-02T12:29:28",
-            "last_retested_at_epoch": 1589185427.002165,
-            "last_retested_at_iso": "2020-05-11T08:23:47.002165",
+            "last_retested_at_epoch": 1589321909.655741,
+            "last_retested_at_iso": "2020-05-12T22:18:29.655741",
             "status": "INACTIVE"
         },
         "suscotrk.com": {
@@ -1466,8 +1466,8 @@
         "www.cheaptickests.com": {
             "included_at_epoch": 1588527432.0,
             "included_at_iso": "2020-05-03T17:37:12",
-            "last_retested_at_epoch": 1589234640.829966,
-            "last_retested_at_iso": "2020-05-11T22:04:00.829966",
+            "last_retested_at_epoch": 1589321864.303798,
+            "last_retested_at_iso": "2020-05-12T22:17:44.303798",
             "status": "INACTIVE"
         },
         "www.cheapticketes.com": {
@@ -1585,8 +1585,8 @@
         "www.contentcleaner.com": {
             "included_at_epoch": 1588497359.0,
             "included_at_iso": "2020-05-03T09:15:59",
-            "last_retested_at_epoch": 1589214753.092849,
-            "last_retested_at_iso": "2020-05-11T16:32:33.092849",
+            "last_retested_at_epoch": 1589322270.926848,
+            "last_retested_at_iso": "2020-05-12T22:24:30.926848",
             "status": "INACTIVE"
         },
         "www.continentialairline.com": {
@@ -2040,8 +2040,8 @@
         "www.ilovecheating.com": {
             "included_at_epoch": 1588524826.0,
             "included_at_iso": "2020-05-03T16:53:46",
-            "last_retested_at_epoch": 1589219749.081361,
-            "last_retested_at_iso": "2020-05-11T17:55:49.081361",
+            "last_retested_at_epoch": 1589322105.521147,
+            "last_retested_at_iso": "2020-05-12T22:21:45.521147",
             "status": "INACTIVE"
         },
         "www.infospace.tk": {
@@ -2376,8 +2376,8 @@
         "www.notrecommended.co.uk": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1589204151.220541,
-            "last_retested_at_iso": "2020-05-11T13:35:51.220541",
+            "last_retested_at_epoch": 1589322049.482995,
+            "last_retested_at_iso": "2020-05-12T22:20:49.482995",
             "status": "INACTIVE"
         },
         "www.ntkrnlpa.info": {
@@ -2635,8 +2635,8 @@
         "www.stressx.org": {
             "included_at_epoch": 1588422568.0,
             "included_at_iso": "2020-05-02T12:29:28",
-            "last_retested_at_epoch": 1589185426.914472,
-            "last_retested_at_iso": "2020-05-11T08:23:46.914472",
+            "last_retested_at_epoch": 1589321909.576509,
+            "last_retested_at_iso": "2020-05-12T22:18:29.576509",
             "status": "INACTIVE"
         },
         "www.suscotrk.com": {
@@ -2978,8 +2978,8 @@
         "www.zooggames.com": {
             "included_at_epoch": 1588513074.0,
             "included_at_iso": "2020-05-03T13:37:54",
-            "last_retested_at_epoch": 1589199826.503173,
-            "last_retested_at_iso": "2020-05-11T12:23:46.503173",
+            "last_retested_at_epoch": 1589321879.426001,
+            "last_retested_at_iso": "2020-05-12T22:17:59.426001",
             "status": "INACTIVE"
         },
         "www2.leadingedgecash.com": {
@@ -3160,8 +3160,8 @@
         "zooggames.com": {
             "included_at_epoch": 1588513074.0,
             "included_at_iso": "2020-05-03T13:37:54",
-            "last_retested_at_epoch": 1589199826.48361,
-            "last_retested_at_iso": "2020-05-11T12:23:46.483610",
+            "last_retested_at_epoch": 1589321879.352672,
+            "last_retested_at_iso": "2020-05-12T22:17:59.352672",
             "status": "INACTIVE"
         }
     }
