@@ -31,8 +31,8 @@
         "a.zeroredirect.com": {
             "included_at_epoch": 1588473965.0,
             "included_at_iso": "2020-05-03T02:46:05",
-            "last_retested_at_epoch": 1589277009.11822,
-            "last_retested_at_iso": "2020-05-12T09:50:09.118220",
+            "last_retested_at_epoch": 1589367662.221927,
+            "last_retested_at_iso": "2020-05-13T11:01:02.221927",
             "status": "INACTIVE"
         },
         "ad.slutload.com": {
@@ -815,8 +815,8 @@
         "noredirecto.redirectme.net": {
             "included_at_epoch": 1588459730.0,
             "included_at_iso": "2020-05-02T22:48:50",
-            "last_retested_at_epoch": 1589276967.889645,
-            "last_retested_at_iso": "2020-05-12T09:49:27.889645",
+            "last_retested_at_epoch": 1589367174.118773,
+            "last_retested_at_iso": "2020-05-13T10:52:54.118773",
             "status": "INACTIVE"
         },
         "ns1.ntkrnlpa.info": {
@@ -1690,8 +1690,8 @@
         "www.disable-uac.com": {
             "included_at_epoch": 1588519215.0,
             "included_at_iso": "2020-05-03T15:20:15",
-            "last_retested_at_epoch": 1589267824.890453,
-            "last_retested_at_iso": "2020-05-12T07:17:04.890453",
+            "last_retested_at_epoch": 1589367574.459691,
+            "last_retested_at_iso": "2020-05-13T10:59:34.459691",
             "status": "INACTIVE"
         },
         "www.dlldlldll.sytes.net": {
@@ -2026,8 +2026,8 @@
         "www.ibmvideo.com": {
             "included_at_epoch": 1588454817.0,
             "included_at_iso": "2020-05-02T21:26:57",
-            "last_retested_at_epoch": 1589248960.67082,
-            "last_retested_at_iso": "2020-05-12T02:02:40.670820",
+            "last_retested_at_epoch": 1589367222.690017,
+            "last_retested_at_iso": "2020-05-13T10:53:42.690017",
             "status": "INACTIVE"
         },
         "www.icracks.net": {
@@ -2369,8 +2369,8 @@
         "www.noredirecto.redirectme.net": {
             "included_at_epoch": 1588445024.0,
             "included_at_iso": "2020-05-02T18:43:44",
-            "last_retested_at_epoch": 1589276967.835816,
-            "last_retested_at_iso": "2020-05-12T09:49:27.835816",
+            "last_retested_at_epoch": 1589367174.150896,
+            "last_retested_at_iso": "2020-05-13T10:52:54.150896",
             "status": "INACTIVE"
         },
         "www.notrecommended.co.uk": {
@@ -2425,8 +2425,8 @@
         "www.orbiyz.com": {
             "included_at_epoch": 1588497165.0,
             "included_at_iso": "2020-05-03T09:12:45",
-            "last_retested_at_epoch": 1589243770.889224,
-            "last_retested_at_iso": "2020-05-12T00:36:10.889224",
+            "last_retested_at_epoch": 1589367203.28701,
+            "last_retested_at_iso": "2020-05-13T10:53:23.287010",
             "status": "INACTIVE"
         },
         "www.pastie.org": {
@@ -2474,8 +2474,8 @@
         "www.qikdownloads.com": {
             "included_at_epoch": 1588449905.0,
             "included_at_iso": "2020-05-02T20:05:05",
-            "last_retested_at_epoch": 1589267680.413927,
-            "last_retested_at_iso": "2020-05-12T07:14:40.413927",
+            "last_retested_at_epoch": 1589367669.796387,
+            "last_retested_at_iso": "2020-05-13T11:01:09.796387",
             "status": "INACTIVE"
         },
         "www.qzip.cjb.net": {
@@ -2558,8 +2558,8 @@
         "www.scanspyware.net": {
             "included_at_epoch": 1588486725.0,
             "included_at_iso": "2020-05-03T06:18:45",
-            "last_retested_at_epoch": 1589267860.294283,
-            "last_retested_at_iso": "2020-05-12T07:17:40.294283",
+            "last_retested_at_epoch": 1589367669.242546,
+            "last_retested_at_iso": "2020-05-13T11:01:09.242546",
             "status": "INACTIVE"
         },
         "www.searchatomic.com": {
@@ -2712,8 +2712,8 @@
         "www.travlers.com": {
             "included_at_epoch": 1588521859.0,
             "included_at_iso": "2020-05-03T16:04:19",
-            "last_retested_at_epoch": 1589276815.018203,
-            "last_retested_at_iso": "2020-05-12T09:46:55.018203",
+            "last_retested_at_epoch": 1589367174.960258,
+            "last_retested_at_iso": "2020-05-13T10:52:54.960258",
             "status": "INACTIVE"
         },
         "www.trk4.com": {
@@ -2768,8 +2768,8 @@
         "www.unlimiclick.com": {
             "included_at_epoch": 1588506471.0,
             "included_at_iso": "2020-05-03T11:47:51",
-            "last_retested_at_epoch": 1589272411.249465,
-            "last_retested_at_iso": "2020-05-12T08:33:31.249465",
+            "last_retested_at_epoch": 1589367095.759764,
+            "last_retested_at_iso": "2020-05-13T10:51:35.759764",
             "status": "INACTIVE"
         },
         "www.updo.nl": {
