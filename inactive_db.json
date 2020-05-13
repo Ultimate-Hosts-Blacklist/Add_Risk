@@ -2838,8 +2838,8 @@
         "www.wwwbackstreetboys.com": {
             "included_at_epoch": 1588474233.0,
             "included_at_iso": "2020-05-03T02:50:33",
-            "last_retested_at_epoch": 1589239063.248824,
-            "last_retested_at_iso": "2020-05-11T23:17:43.248824",
+            "last_retested_at_epoch": 1589340307.650887,
+            "last_retested_at_iso": "2020-05-13T03:25:07.650887",
             "status": "INACTIVE"
         },
         "www.wwwbluelight.com": {
@@ -2964,15 +2964,15 @@
         "www.zoogdiseny.com": {
             "included_at_epoch": 1588418400.0,
             "included_at_iso": "2020-05-02T11:20:00",
-            "last_retested_at_epoch": 1589243542.776858,
-            "last_retested_at_iso": "2020-05-12T00:32:22.776858",
+            "last_retested_at_epoch": 1589340221.165528,
+            "last_retested_at_iso": "2020-05-13T03:23:41.165528",
             "status": "INACTIVE"
         },
         "www.zoogdisny.com": {
             "included_at_epoch": 1589156967.759823,
             "included_at_iso": "2020-05-11T00:29:27.759823",
-            "last_retested_at_epoch": 1589243617.096037,
-            "last_retested_at_iso": "2020-05-12T00:33:37.096037",
+            "last_retested_at_epoch": 1589340443.299583,
+            "last_retested_at_iso": "2020-05-13T03:27:23.299583",
             "status": "INACTIVE"
         },
         "www.zooggames.com": {
@@ -2992,8 +2992,8 @@
         "wwwbackstreetboys.com": {
             "included_at_epoch": 1588474232.0,
             "included_at_iso": "2020-05-03T02:50:32",
-            "last_retested_at_epoch": 1589239063.105379,
-            "last_retested_at_iso": "2020-05-11T23:17:43.105379",
+            "last_retested_at_epoch": 1589340307.495481,
+            "last_retested_at_iso": "2020-05-13T03:25:07.495481",
             "status": "INACTIVE"
         },
         "wwwbluelight.com": {
