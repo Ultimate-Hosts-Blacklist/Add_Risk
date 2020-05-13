@@ -444,8 +444,8 @@
         "egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1589277135.177142,
-            "last_retested_at_iso": "2020-05-12T09:52:15.177142",
+            "last_retested_at_epoch": 1589373713.255241,
+            "last_retested_at_iso": "2020-05-13T12:41:53.255241",
             "status": "INACTIVE"
         },
         "elisaart.it": {
@@ -647,8 +647,8 @@
         "ka.bar.need2find.com": {
             "included_at_epoch": 1588513098.0,
             "included_at_iso": "2020-05-03T13:38:18",
-            "last_retested_at_epoch": 1589286111.876091,
-            "last_retested_at_iso": "2020-05-12T12:21:51.876091",
+            "last_retested_at_epoch": 1589373854.066094,
+            "last_retested_at_iso": "2020-05-13T12:44:14.066094",
             "status": "INACTIVE"
         },
         "l.zeroredirect.com": {
@@ -864,8 +864,8 @@
         "oneund.ru": {
             "included_at_epoch": 1588964496.039772,
             "included_at_iso": "2020-05-08T19:01:36.039772",
-            "last_retested_at_epoch": 1589267944.735921,
-            "last_retested_at_iso": "2020-05-12T07:19:04.735921",
+            "last_retested_at_epoch": 1589373714.584099,
+            "last_retested_at_iso": "2020-05-13T12:41:54.584099",
             "status": "INACTIVE"
         },
         "orango.redirectme.net": {
@@ -1137,8 +1137,8 @@
         "www.aff12.com": {
             "included_at_epoch": 1588431583.0,
             "included_at_iso": "2020-05-02T14:59:43",
-            "last_retested_at_epoch": 1589276799.195633,
-            "last_retested_at_iso": "2020-05-12T09:46:39.195633",
+            "last_retested_at_epoch": 1589374001.35983,
+            "last_retested_at_iso": "2020-05-13T12:46:41.359830",
             "status": "INACTIVE"
         },
         "www.affntwklnk.com": {
@@ -1459,8 +1459,8 @@
         "www.cheapstickets.com": {
             "included_at_epoch": 1588493670.0,
             "included_at_iso": "2020-05-03T08:14:30",
-            "last_retested_at_epoch": 1589268037.929547,
-            "last_retested_at_iso": "2020-05-12T07:20:37.929547",
+            "last_retested_at_epoch": 1589374126.937804,
+            "last_retested_at_iso": "2020-05-13T12:48:46.937804",
             "status": "INACTIVE"
         },
         "www.cheaptickests.com": {
@@ -1767,8 +1767,8 @@
         "www.egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1589277135.137192,
-            "last_retested_at_iso": "2020-05-12T09:52:15.137192",
+            "last_retested_at_epoch": 1589373713.275827,
+            "last_retested_at_iso": "2020-05-13T12:41:53.275827",
             "status": "INACTIVE"
         },
         "www.elisaart.it": {
@@ -2299,8 +2299,8 @@
         "www.monetisetrk4.co.uk": {
             "included_at_epoch": 1588530382.0,
             "included_at_iso": "2020-05-03T18:26:22",
-            "last_retested_at_epoch": 1589268191.102671,
-            "last_retested_at_iso": "2020-05-12T07:23:11.102671",
+            "last_retested_at_epoch": 1589373898.741495,
+            "last_retested_at_iso": "2020-05-13T12:44:58.741495",
             "status": "INACTIVE"
         },
         "www.monetisetrk5.co.uk": {
@@ -2509,8 +2509,8 @@
         "www.registry-cleaner.net": {
             "included_at_epoch": 1588486807.0,
             "included_at_iso": "2020-05-03T06:20:07",
-            "last_retested_at_epoch": 1589276847.093332,
-            "last_retested_at_iso": "2020-05-12T09:47:27.093332",
+            "last_retested_at_epoch": 1589373928.100004,
+            "last_retested_at_iso": "2020-05-13T12:45:28.100004",
             "status": "INACTIVE"
         },
         "www.registry-cleaners-compared.com": {
@@ -2754,8 +2754,8 @@
         "www.tzw.com": {
             "included_at_epoch": 1588509787.0,
             "included_at_iso": "2020-05-03T12:43:07",
-            "last_retested_at_epoch": 1589285895.968512,
-            "last_retested_at_iso": "2020-05-12T12:18:15.968512",
+            "last_retested_at_epoch": 1589373926.345583,
+            "last_retested_at_iso": "2020-05-13T12:45:26.345583",
             "status": "INACTIVE"
         },
         "www.unblocksit.es": {
@@ -2887,15 +2887,15 @@
         "www.wwwgameshark.com": {
             "included_at_epoch": 1588445325.0,
             "included_at_iso": "2020-05-02T18:48:45",
-            "last_retested_at_epoch": 1589285856.089754,
-            "last_retested_at_iso": "2020-05-12T12:17:36.089754",
+            "last_retested_at_epoch": 1589373673.164229,
+            "last_retested_at_iso": "2020-05-13T12:41:13.164229",
             "status": "INACTIVE"
         },
         "www.wwwmancow.com": {
             "included_at_epoch": 1588506980.0,
             "included_at_iso": "2020-05-03T11:56:20",
-            "last_retested_at_epoch": 1589263341.974261,
-            "last_retested_at_iso": "2020-05-12T06:02:21.974261",
+            "last_retested_at_epoch": 1589374187.123383,
+            "last_retested_at_iso": "2020-05-13T12:49:47.123383",
             "status": "INACTIVE"
         },
         "www.wwwuproar.com": {
@@ -3034,15 +3034,15 @@
         "wwwgameshark.com": {
             "included_at_epoch": 1588445325.0,
             "included_at_iso": "2020-05-02T18:48:45",
-            "last_retested_at_epoch": 1589285856.088833,
-            "last_retested_at_iso": "2020-05-12T12:17:36.088833",
+            "last_retested_at_epoch": 1589373673.020723,
+            "last_retested_at_iso": "2020-05-13T12:41:13.020723",
             "status": "INACTIVE"
         },
         "wwwmancow.com": {
             "included_at_epoch": 1588454780.0,
             "included_at_iso": "2020-05-02T21:26:20",
-            "last_retested_at_epoch": 1589263341.784187,
-            "last_retested_at_iso": "2020-05-12T06:02:21.784187",
+            "last_retested_at_epoch": 1589374187.124269,
+            "last_retested_at_iso": "2020-05-13T12:49:47.124269",
             "status": "INACTIVE"
         },
         "wwwuproar.com": {
