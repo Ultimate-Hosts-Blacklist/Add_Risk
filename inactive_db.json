@@ -31,8 +31,8 @@
         "a.zeroredirect.com": {
             "included_at_epoch": 1588473965.0,
             "included_at_iso": "2020-05-03T02:46:05",
-            "last_retested_at_epoch": 1589367662.221927,
-            "last_retested_at_iso": "2020-05-13T11:01:02.221927",
+            "last_retested_at_epoch": 1589455462.515136,
+            "last_retested_at_iso": "2020-05-14T11:24:22.515136",
             "status": "INACTIVE"
         },
         "ad.slutload.com": {
@@ -535,8 +535,8 @@
         "handlerhackz.tk": {
             "included_at_epoch": 1588519204.0,
             "included_at_iso": "2020-05-03T15:20:04",
-            "last_retested_at_epoch": 1589331191.908974,
-            "last_retested_at_iso": "2020-05-13T00:53:11.908974",
+            "last_retested_at_epoch": 1589455262.780632,
+            "last_retested_at_iso": "2020-05-14T11:21:02.780632",
             "status": "INACTIVE"
         },
         "hapjes-maken.eu": {
@@ -1445,8 +1445,8 @@
         "www.ceskarepublika.net": {
             "included_at_epoch": 1588527489.0,
             "included_at_iso": "2020-05-03T17:38:09",
-            "last_retested_at_epoch": 1589362643.523828,
-            "last_retested_at_iso": "2020-05-13T09:37:23.523828",
+            "last_retested_at_epoch": 1589455171.772828,
+            "last_retested_at_iso": "2020-05-14T11:19:31.772828",
             "status": "INACTIVE"
         },
         "www.chaseonline.com": {
@@ -1963,8 +1963,8 @@
         "www.handlerhackz.tk": {
             "included_at_epoch": 1588519205.0,
             "included_at_iso": "2020-05-03T15:20:05",
-            "last_retested_at_epoch": 1589331192.095806,
-            "last_retested_at_iso": "2020-05-13T00:53:12.095806",
+            "last_retested_at_epoch": 1589455262.892295,
+            "last_retested_at_iso": "2020-05-14T11:21:02.892295",
             "status": "INACTIVE"
         },
         "www.hapjes-maken.eu": {
@@ -2481,8 +2481,8 @@
         "www.qikdownloads.com": {
             "included_at_epoch": 1588449905.0,
             "included_at_iso": "2020-05-02T20:05:05",
-            "last_retested_at_epoch": 1589367669.796387,
-            "last_retested_at_iso": "2020-05-13T11:01:09.796387",
+            "last_retested_at_epoch": 1589455338.907166,
+            "last_retested_at_iso": "2020-05-14T11:22:18.907166",
             "status": "INACTIVE"
         },
         "www.qzip.cjb.net": {
@@ -2565,8 +2565,8 @@
         "www.scanspyware.net": {
             "included_at_epoch": 1588486725.0,
             "included_at_iso": "2020-05-03T06:18:45",
-            "last_retested_at_epoch": 1589367669.242546,
-            "last_retested_at_iso": "2020-05-13T11:01:09.242546",
+            "last_retested_at_epoch": 1589455661.266793,
+            "last_retested_at_iso": "2020-05-14T11:27:41.266793",
             "status": "INACTIVE"
         },
         "www.searchatomic.com": {
@@ -2943,8 +2943,8 @@
         "www.xvika.org": {
             "included_at_epoch": 1588486990.0,
             "included_at_iso": "2020-05-03T06:23:10",
-            "last_retested_at_epoch": 1589357996.521925,
-            "last_retested_at_iso": "2020-05-13T08:19:56.521925",
+            "last_retested_at_epoch": 1589455360.893641,
+            "last_retested_at_iso": "2020-05-14T11:22:40.893641",
             "status": "INACTIVE"
         },
         "www.xxxxxxx.hopto.org": {
@@ -2978,8 +2978,8 @@
         "www.zoogdisny.com": {
             "included_at_epoch": 1589156967.759823,
             "included_at_iso": "2020-05-11T00:29:27.759823",
-            "last_retested_at_epoch": 1589340443.299583,
-            "last_retested_at_iso": "2020-05-13T03:27:23.299583",
+            "last_retested_at_epoch": 1589455362.477878,
+            "last_retested_at_iso": "2020-05-14T11:22:42.477878",
             "status": "INACTIVE"
         },
         "www.zooggames.com": {
@@ -3118,8 +3118,8 @@
         "xvika.org": {
             "included_at_epoch": 1588486990.0,
             "included_at_iso": "2020-05-03T06:23:10",
-            "last_retested_at_epoch": 1589357996.523029,
-            "last_retested_at_iso": "2020-05-13T08:19:56.523029",
+            "last_retested_at_epoch": 1589455360.881514,
+            "last_retested_at_iso": "2020-05-14T11:22:40.881514",
             "status": "INACTIVE"
         },
         "xxxxxxx.hopto.org": {
