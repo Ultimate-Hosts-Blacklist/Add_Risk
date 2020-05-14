@@ -437,8 +437,8 @@
         "e.zeroredirect.com": {
             "included_at_epoch": 1588493613.0,
             "included_at_iso": "2020-05-03T08:13:33",
-            "last_retested_at_epoch": 1589344501.847233,
-            "last_retested_at_iso": "2020-05-13T04:35:01.847233",
+            "last_retested_at_epoch": 1589439952.310433,
+            "last_retested_at_iso": "2020-05-14T07:05:52.310433",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
@@ -500,8 +500,8 @@
         "g.zeroredirect.com": {
             "included_at_epoch": 1588478966.0,
             "included_at_iso": "2020-05-03T04:09:26",
-            "last_retested_at_epoch": 1589326705.267093,
-            "last_retested_at_iso": "2020-05-12T23:38:25.267093",
+            "last_retested_at_epoch": 1589440453.44106,
+            "last_retested_at_iso": "2020-05-14T07:14:13.441060",
             "status": "INACTIVE"
         },
         "gbanners.hornymatches.com": {
@@ -787,8 +787,8 @@
         "mrace.hopto.org": {
             "included_at_epoch": 1588464226.0,
             "included_at_iso": "2020-05-03T00:03:46",
-            "last_retested_at_epoch": 1589344914.707105,
-            "last_retested_at_iso": "2020-05-13T04:41:54.707105",
+            "last_retested_at_epoch": 1589440188.048939,
+            "last_retested_at_iso": "2020-05-14T07:09:48.048939",
             "status": "INACTIVE"
         },
         "my-pc-cleaner.org": {
@@ -878,8 +878,8 @@
         "p.zeroredirect.com": {
             "included_at_epoch": 1588459617.0,
             "included_at_iso": "2020-05-02T22:46:57",
-            "last_retested_at_epoch": 1589326686.017541,
-            "last_retested_at_iso": "2020-05-12T23:38:06.017541",
+            "last_retested_at_epoch": 1589440413.406476,
+            "last_retested_at_iso": "2020-05-14T07:13:33.406476",
             "status": "INACTIVE"
         },
         "pc-detox.com": {
@@ -1935,8 +1935,8 @@
         "www.gxplugin.com": {
             "included_at_epoch": 1588478773.0,
             "included_at_iso": "2020-05-03T04:06:13",
-            "last_retested_at_epoch": 1589353697.556922,
-            "last_retested_at_iso": "2020-05-13T07:08:17.556922",
+            "last_retested_at_epoch": 1589440282.112263,
+            "last_retested_at_iso": "2020-05-14T07:11:22.112263",
             "status": "INACTIVE"
         },
         "www.h-adachi.org": {
@@ -2198,6 +2198,13 @@
             "last_retested_at_iso": "2020-05-14T06:05:26.203337",
             "status": "INACTIVE"
         },
+        "www.malest.com": {
+            "included_at_epoch": 1589440186.262303,
+            "included_at_iso": "2020-05-14T07:09:46.262303",
+            "last_retested_at_epoch": 1589440186.262303,
+            "last_retested_at_iso": "2020-05-14T07:09:46.262303",
+            "status": "INACTIVE"
+        },
         "www.mapqueat.com": {
             "included_at_epoch": 1588431282.0,
             "included_at_iso": "2020-05-02T14:54:42",
@@ -2236,8 +2243,8 @@
         "www.mesopotemia222.zapto.org": {
             "included_at_epoch": 1588519328.0,
             "included_at_iso": "2020-05-03T15:22:08",
-            "last_retested_at_epoch": 1589349077.53798,
-            "last_retested_at_iso": "2020-05-13T05:51:17.537980",
+            "last_retested_at_epoch": 1589440197.081763,
+            "last_retested_at_iso": "2020-05-14T07:09:57.081763",
             "status": "INACTIVE"
         },
         "www.microsofto.sytes.net": {
@@ -2327,8 +2334,8 @@
         "www.mrace.hopto.org": {
             "included_at_epoch": 1588464226.0,
             "included_at_iso": "2020-05-03T00:03:46",
-            "last_retested_at_epoch": 1589344914.707988,
-            "last_retested_at_iso": "2020-05-13T04:41:54.707988",
+            "last_retested_at_epoch": 1589440187.977637,
+            "last_retested_at_iso": "2020-05-14T07:09:47.977637",
             "status": "INACTIVE"
         },
         "www.my-pc-cleaner.org": {
