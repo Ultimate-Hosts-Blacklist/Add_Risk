@@ -675,8 +675,8 @@
         "lefos.net": {
             "included_at_epoch": 1588479053.0,
             "included_at_iso": "2020-05-03T04:10:53",
-            "last_retested_at_epoch": 1589444026.339429,
-            "last_retested_at_iso": "2020-05-14T08:13:46.339429",
+            "last_retested_at_epoch": 1589531929.656863,
+            "last_retested_at_iso": "2020-05-15T08:38:49.656863",
             "status": "INACTIVE"
         },
         "lennoxcollections.com": {
@@ -1144,8 +1144,8 @@
         "www.affntwklnk.com": {
             "included_at_epoch": 1588431355.0,
             "included_at_iso": "2020-05-02T14:55:55",
-            "last_retested_at_epoch": 1589436116.784358,
-            "last_retested_at_iso": "2020-05-14T06:01:56.784358",
+            "last_retested_at_epoch": 1589531735.547078,
+            "last_retested_at_iso": "2020-05-15T08:35:35.547078",
             "status": "INACTIVE"
         },
         "www.agstracker.com": {
@@ -1326,8 +1326,8 @@
         "www.bestadbid.com": {
             "included_at_epoch": 1588497247.0,
             "included_at_iso": "2020-05-03T09:14:07",
-            "last_retested_at_epoch": 1589443948.206828,
-            "last_retested_at_iso": "2020-05-14T08:12:28.206828",
+            "last_retested_at_epoch": 1589531921.210761,
+            "last_retested_at_iso": "2020-05-15T08:38:41.210761",
             "status": "INACTIVE"
         },
         "www.beyondwhois.com": {
@@ -1466,8 +1466,8 @@
         "www.cheaptickests.com": {
             "included_at_epoch": 1588527432.0,
             "included_at_iso": "2020-05-03T17:37:12",
-            "last_retested_at_epoch": 1589428610.648847,
-            "last_retested_at_iso": "2020-05-14T03:56:50.648847",
+            "last_retested_at_epoch": 1589532028.469244,
+            "last_retested_at_iso": "2020-05-15T08:40:28.469244",
             "status": "INACTIVE"
         },
         "www.cheapticketes.com": {
@@ -2124,8 +2124,8 @@
         "www.lefos.net": {
             "included_at_epoch": 1588479053.0,
             "included_at_iso": "2020-05-03T04:10:53",
-            "last_retested_at_epoch": 1589444026.338503,
-            "last_retested_at_iso": "2020-05-14T08:13:46.338503",
+            "last_retested_at_epoch": 1589531929.776551,
+            "last_retested_at_iso": "2020-05-15T08:38:49.776551",
             "status": "INACTIVE"
         },
         "www.lennoxcollections.com": {
@@ -2243,8 +2243,8 @@
         "www.mesopotemia222.zapto.org": {
             "included_at_epoch": 1588519328.0,
             "included_at_iso": "2020-05-03T15:22:08",
-            "last_retested_at_epoch": 1589440197.081763,
-            "last_retested_at_iso": "2020-05-14T07:09:57.081763",
+            "last_retested_at_epoch": 1589531988.498004,
+            "last_retested_at_iso": "2020-05-15T08:39:48.498004",
             "status": "INACTIVE"
         },
         "www.microsofto.sytes.net": {
@@ -2558,8 +2558,8 @@
         "www.samvaulter.com": {
             "included_at_epoch": 1588422322.0,
             "included_at_iso": "2020-05-02T12:25:22",
-            "last_retested_at_epoch": 1589436302.205942,
-            "last_retested_at_iso": "2020-05-14T06:05:02.205942",
+            "last_retested_at_epoch": 1589531544.473582,
+            "last_retested_at_iso": "2020-05-15T08:32:24.473582",
             "status": "INACTIVE"
         },
         "www.scanspyware.net": {
@@ -2824,8 +2824,8 @@
         "www.vyrus.redirectme.net": {
             "included_at_epoch": 1588516010.0,
             "included_at_iso": "2020-05-03T14:26:50",
-            "last_retested_at_epoch": 1589403370.866743,
-            "last_retested_at_iso": "2020-05-13T20:56:10.866743",
+            "last_retested_at_epoch": 1589531654.101694,
+            "last_retested_at_iso": "2020-05-15T08:34:14.101694",
             "status": "INACTIVE"
         },
         "www.wmserver.net": {
@@ -2985,8 +2985,8 @@
         "www.zooggames.com": {
             "included_at_epoch": 1588513074.0,
             "included_at_iso": "2020-05-03T13:37:54",
-            "last_retested_at_epoch": 1589432590.982076,
-            "last_retested_at_iso": "2020-05-14T05:03:10.982076",
+            "last_retested_at_epoch": 1589531488.781707,
+            "last_retested_at_iso": "2020-05-15T08:31:28.781707",
             "status": "INACTIVE"
         },
         "www2.leadingedgecash.com": {
@@ -3090,8 +3090,8 @@
         "x5.xclicks.net": {
             "included_at_epoch": 1588510044.0,
             "included_at_iso": "2020-05-03T12:47:24",
-            "last_retested_at_epoch": 1589432077.695655,
-            "last_retested_at_iso": "2020-05-14T04:54:37.695655",
+            "last_retested_at_epoch": 1589531737.844821,
+            "last_retested_at_iso": "2020-05-15T08:35:37.844821",
             "status": "INACTIVE"
         },
         "x6.xclicks.net": {
@@ -3167,8 +3167,8 @@
         "zooggames.com": {
             "included_at_epoch": 1588513074.0,
             "included_at_iso": "2020-05-03T13:37:54",
-            "last_retested_at_epoch": 1589432591.072537,
-            "last_retested_at_iso": "2020-05-14T05:03:11.072537",
+            "last_retested_at_epoch": 1589531488.782737,
+            "last_retested_at_iso": "2020-05-15T08:31:28.782737",
             "status": "INACTIVE"
         }
     }
