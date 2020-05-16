@@ -45,8 +45,8 @@
         "ad3.hornymatches.com": {
             "included_at_epoch": 1588506430.0,
             "included_at_iso": "2020-05-03T11:47:10",
-            "last_retested_at_epoch": 1589504536.568651,
-            "last_retested_at_iso": "2020-05-15T01:02:16.568651",
+            "last_retested_at_epoch": 1589601029.717724,
+            "last_retested_at_iso": "2020-05-16T03:50:29.717724",
             "status": "INACTIVE"
         },
         "ads.clicksor.cn": {
@@ -185,8 +185,8 @@
         "b.zeroredirect.com": {
             "included_at_epoch": 1588454892.0,
             "included_at_iso": "2020-05-02T21:28:12",
-            "last_retested_at_epoch": 1589513573.359767,
-            "last_retested_at_iso": "2020-05-15T03:32:53.359767",
+            "last_retested_at_epoch": 1589600957.399016,
+            "last_retested_at_iso": "2020-05-16T03:49:17.399016",
             "status": "INACTIVE"
         },
         "banner.tonygpoker.com": {
@@ -304,8 +304,8 @@
         "click.dealshark.com": {
             "included_at_epoch": 1588469199.0,
             "included_at_iso": "2020-05-03T01:26:39",
-            "last_retested_at_epoch": 1589500354.406646,
-            "last_retested_at_iso": "2020-05-14T23:52:34.406646",
+            "last_retested_at_epoch": 1589601185.814953,
+            "last_retested_at_iso": "2020-05-16T03:53:05.814953",
             "status": "INACTIVE"
         },
         "coding.1100011.ir": {
@@ -507,8 +507,8 @@
         "gbanners.hornymatches.com": {
             "included_at_epoch": 1588493773.0,
             "included_at_iso": "2020-05-03T08:16:13",
-            "last_retested_at_epoch": 1589513444.987407,
-            "last_retested_at_iso": "2020-05-15T03:30:44.987407",
+            "last_retested_at_epoch": 1589601207.808919,
+            "last_retested_at_iso": "2020-05-16T03:53:27.808919",
             "status": "INACTIVE"
         },
         "h.zeroredirect.com": {
@@ -577,8 +577,8 @@
         "i.trkjmp.com": {
             "included_at_epoch": 1588422656.0,
             "included_at_iso": "2020-05-02T12:30:56",
-            "last_retested_at_epoch": 1589478796.424915,
-            "last_retested_at_iso": "2020-05-14T17:53:16.424915",
+            "last_retested_at_epoch": 1589601263.375133,
+            "last_retested_at_iso": "2020-05-16T03:54:23.375133",
             "status": "INACTIVE"
         },
         "i.zeroredirect.com": {
@@ -773,15 +773,15 @@
         "minigameplanet.com": {
             "included_at_epoch": 1588500317.0,
             "included_at_iso": "2020-05-03T10:05:17",
-            "last_retested_at_epoch": 1589475438.486032,
-            "last_retested_at_iso": "2020-05-14T16:57:18.486032",
+            "last_retested_at_epoch": 1589601473.507992,
+            "last_retested_at_iso": "2020-05-16T03:57:53.507992",
             "status": "INACTIVE"
         },
         "mlpoint.pt": {
             "included_at_epoch": 1588468859.0,
             "included_at_iso": "2020-05-03T01:20:59",
-            "last_retested_at_epoch": 1589496067.601682,
-            "last_retested_at_iso": "2020-05-14T22:41:07.601682",
+            "last_retested_at_epoch": 1589601023.903852,
+            "last_retested_at_iso": "2020-05-16T03:50:23.903852",
             "status": "INACTIVE"
         },
         "mobatory.com": {
@@ -1039,8 +1039,8 @@
         "upproar.com": {
             "included_at_epoch": 1588445448.0,
             "included_at_iso": "2020-05-02T18:50:48",
-            "last_retested_at_epoch": 1589504352.33847,
-            "last_retested_at_iso": "2020-05-15T00:59:12.338470",
+            "last_retested_at_epoch": 1589601380.830891,
+            "last_retested_at_iso": "2020-05-16T03:56:20.830891",
             "status": "INACTIVE"
         },
         "urchman11.zapto.org": {
@@ -1116,8 +1116,8 @@
         "www.actrck.com": {
             "included_at_epoch": 1588431181.0,
             "included_at_iso": "2020-05-02T14:53:01",
-            "last_retested_at_epoch": 1589459672.955477,
-            "last_retested_at_iso": "2020-05-14T12:34:32.955477",
+            "last_retested_at_epoch": 1589601459.857492,
+            "last_retested_at_iso": "2020-05-16T03:57:39.857492",
             "status": "INACTIVE"
         },
         "www.ad-souk.com": {
@@ -1585,8 +1585,8 @@
         "www.comairairlines.com": {
             "included_at_epoch": 1588422180.0,
             "included_at_iso": "2020-05-02T12:23:00",
-            "last_retested_at_epoch": 1589500211.629339,
-            "last_retested_at_iso": "2020-05-14T23:50:11.629339",
+            "last_retested_at_epoch": 1589601131.258142,
+            "last_retested_at_iso": "2020-05-16T03:52:11.258142",
             "status": "INACTIVE"
         },
         "www.conds.ru": {
@@ -2271,15 +2271,15 @@
         "www.minigameplanet.com": {
             "included_at_epoch": 1588500317.0,
             "included_at_iso": "2020-05-03T10:05:17",
-            "last_retested_at_epoch": 1589475438.570655,
-            "last_retested_at_iso": "2020-05-14T16:57:18.570655",
+            "last_retested_at_epoch": 1589601473.554218,
+            "last_retested_at_iso": "2020-05-16T03:57:53.554218",
             "status": "INACTIVE"
         },
         "www.mlpoint.pt": {
             "included_at_epoch": 1588468855.0,
             "included_at_iso": "2020-05-03T01:20:55",
-            "last_retested_at_epoch": 1589496062.982062,
-            "last_retested_at_iso": "2020-05-14T22:41:02.982062",
+            "last_retested_at_epoch": 1589601019.343431,
+            "last_retested_at_iso": "2020-05-16T03:50:19.343431",
             "status": "INACTIVE"
         },
         "www.mobatory.com": {
@@ -2299,8 +2299,8 @@
         "www.monetisetrk.co.uk": {
             "included_at_epoch": 1588496883.0,
             "included_at_iso": "2020-05-03T09:08:03",
-            "last_retested_at_epoch": 1589508939.95863,
-            "last_retested_at_iso": "2020-05-15T02:15:39.958630",
+            "last_retested_at_epoch": 1589600917.009344,
+            "last_retested_at_iso": "2020-05-16T03:48:37.009344",
             "status": "INACTIVE"
         },
         "www.monetisetrk2.co.uk": {
@@ -2425,8 +2425,8 @@
         "www.oneund.ru": {
             "included_at_epoch": 1588930620.608636,
             "included_at_iso": "2020-05-08T09:37:00.608636",
-            "last_retested_at_epoch": 1589504365.284878,
-            "last_retested_at_iso": "2020-05-15T00:59:25.284878",
+            "last_retested_at_epoch": 1589601218.242639,
+            "last_retested_at_iso": "2020-05-16T03:53:38.242639",
             "status": "INACTIVE"
         },
         "www.onlineadmin.net": {
@@ -2747,8 +2747,8 @@
         "www.trx625.com": {
             "included_at_epoch": 1588512764.0,
             "included_at_iso": "2020-05-03T13:32:44",
-            "last_retested_at_epoch": 1589479122.594464,
-            "last_retested_at_iso": "2020-05-14T17:58:42.594464",
+            "last_retested_at_epoch": 1589601432.746803,
+            "last_retested_at_iso": "2020-05-16T03:57:12.746803",
             "status": "INACTIVE"
         },
         "www.tttbbbttt.zapto.org": {
@@ -2803,8 +2803,8 @@
         "www.upproar.com": {
             "included_at_epoch": 1588474144.0,
             "included_at_iso": "2020-05-03T02:49:04",
-            "last_retested_at_epoch": 1589504352.354298,
-            "last_retested_at_iso": "2020-05-15T00:59:12.354298",
+            "last_retested_at_epoch": 1589601380.885234,
+            "last_retested_at_iso": "2020-05-16T03:56:20.885234",
             "status": "INACTIVE"
         },
         "www.urchman11.zapto.org": {
@@ -2901,8 +2901,8 @@
         "www.wwwgamepro.com": {
             "included_at_epoch": 1588486733.0,
             "included_at_iso": "2020-05-03T06:18:53",
-            "last_retested_at_epoch": 1589504558.250135,
-            "last_retested_at_iso": "2020-05-15T01:02:38.250135",
+            "last_retested_at_epoch": 1589601197.139253,
+            "last_retested_at_iso": "2020-05-16T03:53:17.139253",
             "status": "INACTIVE"
         },
         "www.wwwgameshark.com": {
@@ -3097,8 +3097,8 @@
         "x4.xclicks.net": {
             "included_at_epoch": 1588440492.0,
             "included_at_iso": "2020-05-02T17:28:12",
-            "last_retested_at_epoch": 1589513635.105912,
-            "last_retested_at_iso": "2020-05-15T03:33:55.105912",
+            "last_retested_at_epoch": 1589601235.585088,
+            "last_retested_at_iso": "2020-05-16T03:53:55.585088",
             "status": "INACTIVE"
         },
         "x5.xclicks.net": {
