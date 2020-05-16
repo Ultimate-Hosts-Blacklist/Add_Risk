@@ -38,8 +38,8 @@
         "ad.slutload.com": {
             "included_at_epoch": 1588459614.0,
             "included_at_iso": "2020-05-02T22:46:54",
-            "last_retested_at_epoch": 1589443767.094395,
-            "last_retested_at_iso": "2020-05-14T08:09:27.094395",
+            "last_retested_at_epoch": 1589588067.989372,
+            "last_retested_at_iso": "2020-05-16T00:14:27.989372",
             "status": "INACTIVE"
         },
         "ad3.hornymatches.com": {
@@ -353,8 +353,8 @@
         "cpatraffictracker.com": {
             "included_at_epoch": 1588426927.0,
             "included_at_iso": "2020-05-02T13:42:07",
-            "last_retested_at_epoch": 1589496030.565913,
-            "last_retested_at_iso": "2020-05-14T22:40:30.565913",
+            "last_retested_at_epoch": 1589588071.13784,
+            "last_retested_at_iso": "2020-05-16T00:14:31.137840",
             "status": "INACTIVE"
         },
         "crackguru.tk": {
@@ -749,6 +749,13 @@
             "last_retested_at_iso": "2020-05-15T04:53:04.492501",
             "status": "INACTIVE"
         },
+        "marketing-internet-solution.naix.pureleads.sendori.com": {
+            "included_at_epoch": 1589588067.385315,
+            "included_at_iso": "2020-05-16T00:14:27.385315",
+            "last_retested_at_epoch": 1589588067.385315,
+            "last_retested_at_iso": "2020-05-16T00:14:27.385315",
+            "status": "INACTIVE"
+        },
         "maybankard.com.my": {
             "included_at_epoch": 1588493325.0,
             "included_at_iso": "2020-05-03T08:08:45",
@@ -920,8 +927,8 @@
         "redirectlnk.redirectme.net": {
             "included_at_epoch": 1588440768.0,
             "included_at_iso": "2020-05-02T17:32:48",
-            "last_retested_at_epoch": 1589463401.199929,
-            "last_retested_at_iso": "2020-05-14T13:36:41.199929",
+            "last_retested_at_epoch": 1589587950.785904,
+            "last_retested_at_iso": "2020-05-16T00:12:30.785904",
             "status": "INACTIVE"
         },
         "registrycleaner.onlinedownloads.org": {
@@ -941,8 +948,8 @@
         "searchatomic.com": {
             "included_at_epoch": 1588436320.0,
             "included_at_iso": "2020-05-02T16:18:40",
-            "last_retested_at_epoch": 1589478954.251773,
-            "last_retested_at_iso": "2020-05-14T17:55:54.251773",
+            "last_retested_at_epoch": 1589588138.36066,
+            "last_retested_at_iso": "2020-05-16T00:15:38.360660",
             "status": "INACTIVE"
         },
         "sevenstars7.com": {
@@ -1137,8 +1144,8 @@
         "www.aff12.com": {
             "included_at_epoch": 1588431583.0,
             "included_at_iso": "2020-05-02T14:59:43",
-            "last_retested_at_epoch": 1589483207.558519,
-            "last_retested_at_iso": "2020-05-14T19:06:47.558519",
+            "last_retested_at_epoch": 1589587790.691101,
+            "last_retested_at_iso": "2020-05-16T00:09:50.691101",
             "status": "INACTIVE"
         },
         "www.affntwklnk.com": {
@@ -1613,8 +1620,8 @@
         "www.cpatraffictracker.com": {
             "included_at_epoch": 1588418258.0,
             "included_at_iso": "2020-05-02T11:17:38",
-            "last_retested_at_epoch": 1589496030.648065,
-            "last_retested_at_iso": "2020-05-14T22:40:30.648065",
+            "last_retested_at_epoch": 1589588071.30151,
+            "last_retested_at_iso": "2020-05-16T00:14:31.301510",
             "status": "INACTIVE"
         },
         "www.crackguru.tk": {
@@ -1690,8 +1697,8 @@
         "www.disable-uac.com": {
             "included_at_epoch": 1588519215.0,
             "included_at_iso": "2020-05-03T15:20:15",
-            "last_retested_at_epoch": 1589483356.416369,
-            "last_retested_at_iso": "2020-05-14T19:09:16.416369",
+            "last_retested_at_epoch": 1589588132.108139,
+            "last_retested_at_iso": "2020-05-16T00:15:32.108139",
             "status": "INACTIVE"
         },
         "www.dlldlldll.sytes.net": {
@@ -1991,8 +1998,8 @@
         "www.herezera.com": {
             "included_at_epoch": 1588483031.0,
             "included_at_iso": "2020-05-03T05:17:11",
-            "last_retested_at_epoch": 1589500107.06353,
-            "last_retested_at_iso": "2020-05-14T23:48:27.063530",
+            "last_retested_at_epoch": 1589587836.350879,
+            "last_retested_at_iso": "2020-05-16T00:10:36.350879",
             "status": "INACTIVE"
         },
         "www.hira.hopto.org": {
@@ -2089,8 +2096,8 @@
         "www.justredirect24.com": {
             "included_at_epoch": 1588506846.0,
             "included_at_iso": "2020-05-03T11:54:06",
-            "last_retested_at_epoch": 1589495795.395715,
-            "last_retested_at_iso": "2020-05-14T22:36:35.395715",
+            "last_retested_at_epoch": 1589587641.6119,
+            "last_retested_at_iso": "2020-05-16T00:07:21.611900",
             "status": "INACTIVE"
         },
         "www.kipasdenim.com": {
@@ -2509,8 +2516,8 @@
         "www.redirectlnk.redirectme.net": {
             "included_at_epoch": 1588440767.0,
             "included_at_iso": "2020-05-02T17:32:47",
-            "last_retested_at_epoch": 1589463401.201066,
-            "last_retested_at_iso": "2020-05-14T13:36:41.201066",
+            "last_retested_at_epoch": 1589587950.732547,
+            "last_retested_at_iso": "2020-05-16T00:12:30.732547",
             "status": "INACTIVE"
         },
         "www.registry-cleaner.net": {
@@ -2572,8 +2579,8 @@
         "www.searchatomic.com": {
             "included_at_epoch": 1588436320.0,
             "included_at_iso": "2020-05-02T16:18:40",
-            "last_retested_at_epoch": 1589478954.405072,
-            "last_retested_at_iso": "2020-05-14T17:55:54.405072",
+            "last_retested_at_epoch": 1589588138.437493,
+            "last_retested_at_iso": "2020-05-16T00:15:38.437493",
             "status": "INACTIVE"
         },
         "www.sentrol.cl": {
