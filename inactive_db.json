@@ -248,8 +248,8 @@
         "bonzbuddy.com": {
             "included_at_epoch": 1588486853.0,
             "included_at_iso": "2020-05-03T06:20:53",
-            "last_retested_at_epoch": 1589605386.515382,
-            "last_retested_at_iso": "2020-05-16T05:03:06.515382",
+            "last_retested_at_epoch": 1589754394.566524,
+            "last_retested_at_iso": "2020-05-17T22:26:34.566524",
             "status": "INACTIVE"
         },
         "bonzibuddi.com": {
@@ -269,8 +269,8 @@
         "butterfly-media.co.uk": {
             "included_at_epoch": 1588464261.0,
             "included_at_iso": "2020-05-03T00:04:21",
-            "last_retested_at_epoch": 1589664482.962967,
-            "last_retested_at_iso": "2020-05-16T21:28:02.962967",
+            "last_retested_at_epoch": 1589754240.359021,
+            "last_retested_at_iso": "2020-05-17T22:24:00.359021",
             "status": "INACTIVE"
         },
         "bypasser.net": {
@@ -444,8 +444,8 @@
         "egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1589656602.80834,
-            "last_retested_at_iso": "2020-05-16T19:16:42.808340",
+            "last_retested_at_epoch": 1589754134.130942,
+            "last_retested_at_iso": "2020-05-17T22:22:14.130942",
             "status": "INACTIVE"
         },
         "elisaart.it": {
@@ -479,8 +479,8 @@
         "fecabook.redirectme.net": {
             "included_at_epoch": 1588515874.0,
             "included_at_iso": "2020-05-03T14:24:34",
-            "last_retested_at_epoch": 1589660469.728493,
-            "last_retested_at_iso": "2020-05-16T20:21:09.728493",
+            "last_retested_at_epoch": 1589753958.308182,
+            "last_retested_at_iso": "2020-05-17T22:19:18.308182",
             "status": "INACTIVE"
         },
         "finders.hopto.org": {
@@ -549,8 +549,8 @@
         "havijrat.zapto.org": {
             "included_at_epoch": 1588497281.0,
             "included_at_iso": "2020-05-03T09:14:41",
-            "last_retested_at_epoch": 1589644582.523941,
-            "last_retested_at_iso": "2020-05-16T15:56:22.523941",
+            "last_retested_at_epoch": 1589754436.75006,
+            "last_retested_at_iso": "2020-05-17T22:27:16.750060",
             "status": "INACTIVE"
         },
         "hira.hopto.org": {
@@ -738,8 +738,8 @@
         "maconbraves.com": {
             "included_at_epoch": 1588489924.0,
             "included_at_iso": "2020-05-03T07:12:04",
-            "last_retested_at_epoch": 1589656755.692071,
-            "last_retested_at_iso": "2020-05-16T19:19:15.692071",
+            "last_retested_at_epoch": 1589754110.689371,
+            "last_retested_at_iso": "2020-05-17T22:21:50.689371",
             "status": "INACTIVE"
         },
         "mail.poker.cm": {
@@ -1347,8 +1347,8 @@
         "www.bestadbid.com": {
             "included_at_epoch": 1588497247.0,
             "included_at_iso": "2020-05-03T09:14:07",
-            "last_retested_at_epoch": 1589660284.22397,
-            "last_retested_at_iso": "2020-05-16T20:18:04.223970",
+            "last_retested_at_epoch": 1589754317.811444,
+            "last_retested_at_iso": "2020-05-17T22:25:17.811444",
             "status": "INACTIVE"
         },
         "www.beyondwhois.com": {
@@ -1396,8 +1396,8 @@
         "www.bonzbuddy.com": {
             "included_at_epoch": 1588486853.0,
             "included_at_iso": "2020-05-03T06:20:53",
-            "last_retested_at_epoch": 1589605386.545239,
-            "last_retested_at_iso": "2020-05-16T05:03:06.545239",
+            "last_retested_at_epoch": 1589754394.705866,
+            "last_retested_at_iso": "2020-05-17T22:26:34.705866",
             "status": "INACTIVE"
         },
         "www.bonzibuddi.com": {
@@ -1424,8 +1424,8 @@
         "www.butterfly-media.co.uk": {
             "included_at_epoch": 1588464261.0,
             "included_at_iso": "2020-05-03T00:04:21",
-            "last_retested_at_epoch": 1589664482.825832,
-            "last_retested_at_iso": "2020-05-16T21:28:02.825832",
+            "last_retested_at_epoch": 1589754240.290365,
+            "last_retested_at_iso": "2020-05-17T22:24:00.290365",
             "status": "INACTIVE"
         },
         "www.bypasser.net": {
@@ -1788,8 +1788,8 @@
         "www.egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1589656602.849834,
-            "last_retested_at_iso": "2020-05-16T19:16:42.849834",
+            "last_retested_at_epoch": 1589754134.102323,
+            "last_retested_at_iso": "2020-05-17T22:22:14.102323",
             "status": "INACTIVE"
         },
         "www.elisaart.it": {
@@ -1851,15 +1851,15 @@
         "www.fecabook.redirectme.net": {
             "included_at_epoch": 1588515874.0,
             "included_at_iso": "2020-05-03T14:24:34",
-            "last_retested_at_epoch": 1589660469.539891,
-            "last_retested_at_iso": "2020-05-16T20:21:09.539891",
+            "last_retested_at_epoch": 1589753958.833918,
+            "last_retested_at_iso": "2020-05-17T22:19:18.833918",
             "status": "INACTIVE"
         },
         "www.femeedia.com": {
             "included_at_epoch": 1588449912.0,
             "included_at_iso": "2020-05-02T20:05:12",
-            "last_retested_at_epoch": 1589640621.929743,
-            "last_retested_at_iso": "2020-05-16T14:50:21.929743",
+            "last_retested_at_epoch": 1589753933.902413,
+            "last_retested_at_iso": "2020-05-17T22:18:53.902413",
             "status": "INACTIVE"
         },
         "www.finders.hopto.org": {
@@ -1998,8 +1998,8 @@
         "www.havijrat.zapto.org": {
             "included_at_epoch": 1588497281.0,
             "included_at_iso": "2020-05-03T09:14:41",
-            "last_retested_at_epoch": 1589644582.44369,
-            "last_retested_at_iso": "2020-05-16T15:56:22.443690",
+            "last_retested_at_epoch": 1589754436.707373,
+            "last_retested_at_iso": "2020-05-17T22:27:16.707373",
             "status": "INACTIVE"
         },
         "www.heaptickets.com": {
@@ -2096,8 +2096,8 @@
         "www.jn.redirectme.net": {
             "included_at_epoch": 1588521840.0,
             "included_at_iso": "2020-05-03T16:04:00",
-            "last_retested_at_epoch": 1589664512.223975,
-            "last_retested_at_iso": "2020-05-16T21:28:32.223975",
+            "last_retested_at_epoch": 1589754300.98367,
+            "last_retested_at_iso": "2020-05-17T22:25:00.983670",
             "status": "INACTIVE"
         },
         "www.jque.net": {
@@ -2152,8 +2152,8 @@
         "www.lennoxcollections.com": {
             "included_at_epoch": 1588440845.0,
             "included_at_iso": "2020-05-02T17:34:05",
-            "last_retested_at_epoch": 1589660608.024701,
-            "last_retested_at_iso": "2020-05-16T20:23:28.024701",
+            "last_retested_at_epoch": 1589754111.151954,
+            "last_retested_at_iso": "2020-05-17T22:21:51.151954",
             "status": "INACTIVE"
         },
         "www.letzonke.com": {
@@ -2215,8 +2215,8 @@
         "www.maconbraves.com": {
             "included_at_epoch": 1588489924.0,
             "included_at_iso": "2020-05-03T07:12:04",
-            "last_retested_at_epoch": 1589656755.639389,
-            "last_retested_at_iso": "2020-05-16T19:19:15.639389",
+            "last_retested_at_epoch": 1589754110.633579,
+            "last_retested_at_iso": "2020-05-17T22:21:50.633579",
             "status": "INACTIVE"
         },
         "www.malest.com": {
@@ -2551,8 +2551,8 @@
         "www.registry-cleaner.net": {
             "included_at_epoch": 1588486807.0,
             "included_at_iso": "2020-05-03T06:20:07",
-            "last_retested_at_epoch": 1589656863.063342,
-            "last_retested_at_iso": "2020-05-16T19:21:03.063342",
+            "last_retested_at_epoch": 1589754061.281539,
+            "last_retested_at_iso": "2020-05-17T22:21:01.281539",
             "status": "INACTIVE"
         },
         "www.registry-cleaners-compared.com": {
