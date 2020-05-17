@@ -192,8 +192,8 @@
         "banner.tonygpoker.com": {
             "included_at_epoch": 1588454997.0,
             "included_at_iso": "2020-05-02T21:29:57",
-            "last_retested_at_epoch": 1589564559.055041,
-            "last_retested_at_iso": "2020-05-15T17:42:39.055041",
+            "last_retested_at_epoch": 1589681008.913519,
+            "last_retested_at_iso": "2020-05-17T02:03:28.913519",
             "status": "INACTIVE"
         },
         "banners.leadingedgecash.com": {
@@ -332,8 +332,8 @@
         "continentialairline.com": {
             "included_at_epoch": 1588436297.0,
             "included_at_iso": "2020-05-02T16:18:17",
-            "last_retested_at_epoch": 1589591566.652816,
-            "last_retested_at_iso": "2020-05-16T01:12:46.652816",
+            "last_retested_at_epoch": 1589680559.275264,
+            "last_retested_at_iso": "2020-05-17T01:55:59.275264",
             "status": "INACTIVE"
         },
         "contniental.com": {
@@ -416,8 +416,8 @@
         "down2.feiyang163.com": {
             "included_at_epoch": 1588503610.0,
             "included_at_iso": "2020-05-03T11:00:10",
-            "last_retested_at_epoch": 1589591853.64112,
-            "last_retested_at_iso": "2020-05-16T01:17:33.641120",
+            "last_retested_at_epoch": 1589680831.479072,
+            "last_retested_at_iso": "2020-05-17T02:00:31.479072",
             "status": "INACTIVE"
         },
         "down3.feiyang163.com": {
@@ -486,8 +486,8 @@
         "finders.hopto.org": {
             "included_at_epoch": 1588497057.0,
             "included_at_iso": "2020-05-03T09:10:57",
-            "last_retested_at_epoch": 1589591775.195464,
-            "last_retested_at_iso": "2020-05-16T01:16:15.195464",
+            "last_retested_at_epoch": 1589680924.638627,
+            "last_retested_at_iso": "2020-05-17T02:02:04.638627",
             "status": "INACTIVE"
         },
         "ftp.flyfishusa.com": {
@@ -752,8 +752,8 @@
         "mal-ware-domain-list-2.tinker.pureleads.sendori.com": {
             "included_at_epoch": 1589591893.171789,
             "included_at_iso": "2020-05-16T01:18:13.171789",
-            "last_retested_at_epoch": 1589591893.171789,
-            "last_retested_at_iso": "2020-05-16T01:18:13.171789",
+            "last_retested_at_epoch": 1589680638.094595,
+            "last_retested_at_iso": "2020-05-17T01:57:18.094595",
             "status": "INACTIVE"
         },
         "marketing-internet-solution.naix.pureleads.sendori.com": {
@@ -1004,8 +1004,8 @@
         "t.zeroredirect.com": {
             "included_at_epoch": 1588413495.0,
             "included_at_iso": "2020-05-02T09:58:15",
-            "last_retested_at_epoch": 1589591392.687831,
-            "last_retested_at_iso": "2020-05-16T01:09:52.687831",
+            "last_retested_at_epoch": 1589680600.752904,
+            "last_retested_at_iso": "2020-05-17T01:56:40.752904",
             "status": "INACTIVE"
         },
         "theads.me": {
@@ -1613,8 +1613,8 @@
         "www.continentialairline.com": {
             "included_at_epoch": 1588436297.0,
             "included_at_iso": "2020-05-02T16:18:17",
-            "last_retested_at_epoch": 1589591566.631527,
-            "last_retested_at_iso": "2020-05-16T01:12:46.631527",
+            "last_retested_at_epoch": 1589680559.208258,
+            "last_retested_at_iso": "2020-05-17T01:55:59.208258",
             "status": "INACTIVE"
         },
         "www.contniental.com": {
@@ -1865,8 +1865,8 @@
         "www.finders.hopto.org": {
             "included_at_epoch": 1588497057.0,
             "included_at_iso": "2020-05-03T09:10:57",
-            "last_retested_at_epoch": 1589591775.119838,
-            "last_retested_at_iso": "2020-05-16T01:16:15.119838",
+            "last_retested_at_epoch": 1589680924.63771,
+            "last_retested_at_iso": "2020-05-17T02:02:04.637710",
             "status": "INACTIVE"
         },
         "www.findit-quick.com": {
