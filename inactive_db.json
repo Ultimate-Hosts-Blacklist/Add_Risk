@@ -38,8 +38,8 @@
         "ad.slutload.com": {
             "included_at_epoch": 1588459614.0,
             "included_at_iso": "2020-05-02T22:46:54",
-            "last_retested_at_epoch": 1589588067.989372,
-            "last_retested_at_iso": "2020-05-16T00:14:27.989372",
+            "last_retested_at_epoch": 1589676460.959997,
+            "last_retested_at_iso": "2020-05-17T00:47:40.959997",
             "status": "INACTIVE"
         },
         "ad3.hornymatches.com": {
@@ -493,8 +493,8 @@
         "ftp.flyfishusa.com": {
             "included_at_epoch": 1588506528.0,
             "included_at_iso": "2020-05-03T11:48:48",
-            "last_retested_at_epoch": 1589573892.58684,
-            "last_retested_at_iso": "2020-05-15T20:18:12.586840",
+            "last_retested_at_epoch": 1589676506.079395,
+            "last_retested_at_iso": "2020-05-17T00:48:26.079395",
             "status": "INACTIVE"
         },
         "g.zeroredirect.com": {
@@ -598,8 +598,8 @@
         "itunesdownloadstore.com": {
             "included_at_epoch": 1588431156.0,
             "included_at_iso": "2020-05-02T14:52:36",
-            "last_retested_at_epoch": 1589574003.49929,
-            "last_retested_at_iso": "2020-05-15T20:20:03.499290",
+            "last_retested_at_epoch": 1589676504.103992,
+            "last_retested_at_iso": "2020-05-17T00:48:24.103992",
             "status": "INACTIVE"
         },
         "j.pioneeringad.com": {
@@ -815,8 +815,8 @@
         "n.zeroredirect.com": {
             "included_at_epoch": 1588513173.0,
             "included_at_iso": "2020-05-03T13:39:33",
-            "last_retested_at_epoch": 1589583660.939959,
-            "last_retested_at_iso": "2020-05-15T23:01:00.939959",
+            "last_retested_at_epoch": 1589676430.791683,
+            "last_retested_at_iso": "2020-05-17T00:47:10.791683",
             "status": "INACTIVE"
         },
         "n149adserv.com": {
@@ -824,6 +824,13 @@
             "included_at_iso": "2020-05-03T18:24:30",
             "last_retested_at_epoch": 1589644780.227529,
             "last_retested_at_iso": "2020-05-16T15:59:40.227529",
+            "status": "INACTIVE"
+        },
+        "naijahacklord.tk": {
+            "included_at_epoch": 1589676360.884866,
+            "included_at_iso": "2020-05-17T00:46:00.884866",
+            "last_retested_at_epoch": 1589676360.884866,
+            "last_retested_at_iso": "2020-05-17T00:46:00.884866",
             "status": "INACTIVE"
         },
         "noredirecto.redirectme.net": {
@@ -2005,8 +2012,8 @@
         "www.herezera.com": {
             "included_at_epoch": 1588483031.0,
             "included_at_iso": "2020-05-03T05:17:11",
-            "last_retested_at_epoch": 1589587836.350879,
-            "last_retested_at_iso": "2020-05-16T00:10:36.350879",
+            "last_retested_at_epoch": 1589676026.118117,
+            "last_retested_at_iso": "2020-05-17T00:40:26.118117",
             "status": "INACTIVE"
         },
         "www.hira.hopto.org": {
@@ -2075,8 +2082,8 @@
         "www.itunesdownloadstore.com": {
             "included_at_epoch": 1588506501.0,
             "included_at_iso": "2020-05-03T11:48:21",
-            "last_retested_at_epoch": 1589574003.462955,
-            "last_retested_at_iso": "2020-05-15T20:20:03.462955",
+            "last_retested_at_epoch": 1589676504.322967,
+            "last_retested_at_iso": "2020-05-17T00:48:24.322967",
             "status": "INACTIVE"
         },
         "www.japanmadchen.com": {
@@ -2103,8 +2110,8 @@
         "www.justredirect24.com": {
             "included_at_epoch": 1588506846.0,
             "included_at_iso": "2020-05-03T11:54:06",
-            "last_retested_at_epoch": 1589587641.6119,
-            "last_retested_at_iso": "2020-05-16T00:07:21.611900",
+            "last_retested_at_epoch": 1589676208.945733,
+            "last_retested_at_iso": "2020-05-17T00:43:28.945733",
             "status": "INACTIVE"
         },
         "www.kipasdenim.com": {
@@ -2873,8 +2880,8 @@
         "www.wwwbluelight.com": {
             "included_at_epoch": 1588509663.0,
             "included_at_iso": "2020-05-03T12:41:03",
-            "last_retested_at_epoch": 1589574100.418964,
-            "last_retested_at_iso": "2020-05-15T20:21:40.418964",
+            "last_retested_at_epoch": 1589676099.50378,
+            "last_retested_at_iso": "2020-05-17T00:41:39.503780",
             "status": "INACTIVE"
         },
         "www.wwwbluemoutain.com": {
@@ -3027,8 +3034,8 @@
         "wwwbluelight.com": {
             "included_at_epoch": 1588509663.0,
             "included_at_iso": "2020-05-03T12:41:03",
-            "last_retested_at_epoch": 1589574100.292132,
-            "last_retested_at_iso": "2020-05-15T20:21:40.292132",
+            "last_retested_at_epoch": 1589676099.46833,
+            "last_retested_at_iso": "2020-05-17T00:41:39.468330",
             "status": "INACTIVE"
         },
         "wwwbluemoutain.com": {
