@@ -220,8 +220,8 @@
         "bbcdn.code.new.smartcontext.pl": {
             "included_at_epoch": 1588530045.0,
             "included_at_iso": "2020-05-03T18:20:45",
-            "last_retested_at_epoch": 1589609005.275724,
-            "last_retested_at_iso": "2020-05-16T06:03:25.275724",
+            "last_retested_at_epoch": 1589714020.915839,
+            "last_retested_at_iso": "2020-05-17T11:13:40.915839",
             "status": "INACTIVE"
         },
         "bbs.bjchun.com": {
@@ -367,8 +367,8 @@
         "d.zeroredirect.com": {
             "included_at_epoch": 1588482574.0,
             "included_at_iso": "2020-05-03T05:09:34",
-            "last_retested_at_epoch": 1589605373.551443,
-            "last_retested_at_iso": "2020-05-16T05:02:53.551443",
+            "last_retested_at_epoch": 1589713978.796122,
+            "last_retested_at_iso": "2020-05-17T11:12:58.796122",
             "status": "INACTIVE"
         },
         "demo.vertexinfo.in": {
@@ -612,8 +612,8 @@
         "j.theadsnet.com": {
             "included_at_epoch": 1588524754.0,
             "included_at_iso": "2020-05-03T16:52:34",
-            "last_retested_at_epoch": 1589617522.439634,
-            "last_retested_at_iso": "2020-05-16T08:25:22.439634",
+            "last_retested_at_epoch": 1589714124.108147,
+            "last_retested_at_iso": "2020-05-17T11:15:24.108147",
             "status": "INACTIVE"
         },
         "j.zeroredirect.com": {
@@ -675,8 +675,8 @@
         "lefos.net": {
             "included_at_epoch": 1588479053.0,
             "included_at_iso": "2020-05-03T04:10:53",
-            "last_retested_at_epoch": 1589624971.821032,
-            "last_retested_at_iso": "2020-05-16T10:29:31.821032",
+            "last_retested_at_epoch": 1589714355.722922,
+            "last_retested_at_iso": "2020-05-17T11:19:15.722922",
             "status": "INACTIVE"
         },
         "lennoxcollections.com": {
@@ -1046,8 +1046,8 @@
         "upproar.com": {
             "included_at_epoch": 1588445448.0,
             "included_at_iso": "2020-05-02T18:50:48",
-            "last_retested_at_epoch": 1589601380.830891,
-            "last_retested_at_iso": "2020-05-16T03:56:20.830891",
+            "last_retested_at_epoch": 1589714322.904826,
+            "last_retested_at_iso": "2020-05-17T11:18:42.904826",
             "status": "INACTIVE"
         },
         "urchman11.zapto.org": {
@@ -1900,8 +1900,8 @@
         "www.freeserials.ws": {
             "included_at_epoch": 1588527306.0,
             "included_at_iso": "2020-05-03T17:35:06",
-            "last_retested_at_epoch": 1589545414.316463,
-            "last_retested_at_iso": "2020-05-15T12:23:34.316463",
+            "last_retested_at_epoch": 1589714351.859323,
+            "last_retested_at_iso": "2020-05-17T11:19:11.859323",
             "status": "INACTIVE"
         },
         "www.fsl.sytes.net": {
@@ -2145,8 +2145,8 @@
         "www.lefos.net": {
             "included_at_epoch": 1588479053.0,
             "included_at_iso": "2020-05-03T04:10:53",
-            "last_retested_at_epoch": 1589624971.94554,
-            "last_retested_at_iso": "2020-05-16T10:29:31.945540",
+            "last_retested_at_epoch": 1589714355.684935,
+            "last_retested_at_iso": "2020-05-17T11:19:15.684935",
             "status": "INACTIVE"
         },
         "www.lennoxcollections.com": {
@@ -2369,8 +2369,8 @@
         "www.mycleanerpc.com": {
             "included_at_epoch": 1588516077.0,
             "included_at_iso": "2020-05-03T14:27:57",
-            "last_retested_at_epoch": 1589608979.578984,
-            "last_retested_at_iso": "2020-05-16T06:02:59.578984",
+            "last_retested_at_epoch": 1589714540.846841,
+            "last_retested_at_iso": "2020-05-17T11:22:20.846841",
             "status": "INACTIVE"
         },
         "www.n149adserv.com": {
@@ -2607,8 +2607,8 @@
         "www.sendori.com": {
             "included_at_epoch": 1589617282.109581,
             "included_at_iso": "2020-05-16T08:21:22.109581",
-            "last_retested_at_epoch": 1589617282.109581,
-            "last_retested_at_iso": "2020-05-16T08:21:22.109581",
+            "last_retested_at_epoch": 1589714137.387898,
+            "last_retested_at_iso": "2020-05-17T11:15:37.387898",
             "status": "INACTIVE"
         },
         "www.sentrol.cl": {
@@ -2824,8 +2824,8 @@
         "www.upproar.com": {
             "included_at_epoch": 1588474144.0,
             "included_at_iso": "2020-05-03T02:49:04",
-            "last_retested_at_epoch": 1589601380.885234,
-            "last_retested_at_iso": "2020-05-16T03:56:20.885234",
+            "last_retested_at_epoch": 1589714322.903351,
+            "last_retested_at_iso": "2020-05-17T11:18:42.903351",
             "status": "INACTIVE"
         },
         "www.urchman11.zapto.org": {
