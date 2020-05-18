@@ -2769,6 +2769,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "ntkrnlpa.info": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
+        "state": "future"
+    },
     "ocpersian.com": {
         "epoch": 1613606400.0,
         "expiration_date": "18-feb-2021",
