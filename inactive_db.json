@@ -577,8 +577,8 @@
         "i.trkjmp.com": {
             "included_at_epoch": 1588422656.0,
             "included_at_iso": "2020-05-02T12:30:56",
-            "last_retested_at_epoch": 1589745200.957424,
-            "last_retested_at_iso": "2020-05-17T19:53:20.957424",
+            "last_retested_at_epoch": 1589913511.6491,
+            "last_retested_at_iso": "2020-05-19T18:38:31.649100",
             "status": "INACTIVE"
         },
         "i.zeroredirect.com": {
@@ -794,8 +794,8 @@
         "mobile.bitterstrawberry.org": {
             "included_at_epoch": 1588482913.0,
             "included_at_iso": "2020-05-03T05:15:13",
-            "last_retested_at_epoch": 1589811545.995676,
-            "last_retested_at_iso": "2020-05-18T14:19:05.995676",
+            "last_retested_at_epoch": 1589913257.335604,
+            "last_retested_at_iso": "2020-05-19T18:34:17.335604",
             "status": "INACTIVE"
         },
         "mrace.hopto.org": {
@@ -1851,8 +1851,8 @@
         "www.fastnclick.com": {
             "included_at_epoch": 1588454662.0,
             "included_at_iso": "2020-05-02T21:24:22",
-            "last_retested_at_epoch": 1589824617.238364,
-            "last_retested_at_iso": "2020-05-18T17:56:57.238364",
+            "last_retested_at_epoch": 1589913242.928573,
+            "last_retested_at_iso": "2020-05-19T18:34:02.928573",
             "status": "INACTIVE"
         },
         "www.fecabook.redirectme.net": {
@@ -2103,8 +2103,8 @@
         "www.jn.redirectme.net": {
             "included_at_epoch": 1588521840.0,
             "included_at_iso": "2020-05-03T16:04:00",
-            "last_retested_at_epoch": 1589754300.98367,
-            "last_retested_at_iso": "2020-05-17T22:25:00.983670",
+            "last_retested_at_epoch": 1589913483.018491,
+            "last_retested_at_iso": "2020-05-19T18:38:03.018491",
             "status": "INACTIVE"
         },
         "www.jque.net": {
@@ -2586,8 +2586,8 @@
         "www.rngetek.com": {
             "included_at_epoch": 1588449959.0,
             "included_at_iso": "2020-05-02T20:05:59",
-            "last_retested_at_epoch": 1589815459.036204,
-            "last_retested_at_iso": "2020-05-18T15:24:19.036204",
+            "last_retested_at_epoch": 1589913380.893677,
+            "last_retested_at_iso": "2020-05-19T18:36:20.893677",
             "status": "INACTIVE"
         },
         "www.robtopol.in": {
@@ -2964,8 +2964,8 @@
         "www.wwwgameshark.com": {
             "included_at_epoch": 1588445325.0,
             "included_at_iso": "2020-05-02T18:48:45",
-            "last_retested_at_epoch": 1589824530.645797,
-            "last_retested_at_iso": "2020-05-18T17:55:30.645797",
+            "last_retested_at_epoch": 1589913517.154139,
+            "last_retested_at_iso": "2020-05-19T18:38:37.154139",
             "status": "INACTIVE"
         },
         "www.wwwmancow.com": {
@@ -3020,8 +3020,8 @@
         "www.xxxxxxx.hopto.org": {
             "included_at_epoch": 1588474197.0,
             "included_at_iso": "2020-05-03T02:49:57",
-            "last_retested_at_epoch": 1589788177.291796,
-            "last_retested_at_iso": "2020-05-18T07:49:37.291796",
+            "last_retested_at_epoch": 1589913453.490835,
+            "last_retested_at_iso": "2020-05-19T18:37:33.490835",
             "status": "INACTIVE"
         },
         "www.yourdedicatedhost.com": {
@@ -3111,8 +3111,8 @@
         "wwwgameshark.com": {
             "included_at_epoch": 1588445325.0,
             "included_at_iso": "2020-05-02T18:48:45",
-            "last_retested_at_epoch": 1589824530.687634,
-            "last_retested_at_iso": "2020-05-18T17:55:30.687634",
+            "last_retested_at_epoch": 1589913517.253426,
+            "last_retested_at_iso": "2020-05-19T18:38:37.253426",
             "status": "INACTIVE"
         },
         "wwwmancow.com": {
@@ -3195,8 +3195,8 @@
         "xxxxxxx.hopto.org": {
             "included_at_epoch": 1588474197.0,
             "included_at_iso": "2020-05-03T02:49:57",
-            "last_retested_at_epoch": 1589788177.35431,
-            "last_retested_at_iso": "2020-05-18T07:49:37.354310",
+            "last_retested_at_epoch": 1589913453.538931,
+            "last_retested_at_iso": "2020-05-19T18:37:33.538931",
             "status": "INACTIVE"
         },
         "y.zeroredirect.com": {
