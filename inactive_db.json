@@ -444,15 +444,15 @@
         "e.zeroredirect.com": {
             "included_at_epoch": 1588493613.0,
             "included_at_iso": "2020-05-03T08:13:33",
-            "last_retested_at_epoch": 1589847475.800948,
-            "last_retested_at_iso": "2020-05-19T00:17:55.800948",
+            "last_retested_at_epoch": 1589937869.214922,
+            "last_retested_at_iso": "2020-05-20T01:24:29.214922",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1589842770.647946,
-            "last_retested_at_iso": "2020-05-18T22:59:30.647946",
+            "last_retested_at_epoch": 1589937877.465199,
+            "last_retested_at_iso": "2020-05-20T01:24:37.465199",
             "status": "INACTIVE"
         },
         "elisaart.it": {
@@ -514,8 +514,8 @@
         "gbanners.hornymatches.com": {
             "included_at_epoch": 1588493773.0,
             "included_at_iso": "2020-05-03T08:16:13",
-            "last_retested_at_epoch": 1589824623.970108,
-            "last_retested_at_iso": "2020-05-18T17:57:03.970108",
+            "last_retested_at_epoch": 1589937676.644555,
+            "last_retested_at_iso": "2020-05-20T01:21:16.644555",
             "status": "INACTIVE"
         },
         "h.zeroredirect.com": {
@@ -983,8 +983,8 @@
         "sevenstars7.com": {
             "included_at_epoch": 1588509937.0,
             "included_at_iso": "2020-05-03T12:45:37",
-            "last_retested_at_epoch": 1589833843.263334,
-            "last_retested_at_iso": "2020-05-18T20:30:43.263334",
+            "last_retested_at_epoch": 1589937847.555254,
+            "last_retested_at_iso": "2020-05-20T01:24:07.555254",
             "status": "INACTIVE"
         },
         "ships.zapto.org": {
@@ -1298,8 +1298,8 @@
         "www.auto-overview.com": {
             "included_at_epoch": 1588440843.0,
             "included_at_iso": "2020-05-02T17:34:03",
-            "last_retested_at_epoch": 1589815691.19372,
-            "last_retested_at_iso": "2020-05-18T15:28:11.193720",
+            "last_retested_at_epoch": 1589937837.01262,
+            "last_retested_at_iso": "2020-05-20T01:23:57.012620",
             "status": "INACTIVE"
         },
         "www.automoneygenerator.com": {
@@ -1480,8 +1480,8 @@
         "www.ceskarepublika.net": {
             "included_at_epoch": 1588527489.0,
             "included_at_iso": "2020-05-03T17:38:09",
-            "last_retested_at_epoch": 1589842814.286029,
-            "last_retested_at_iso": "2020-05-18T23:00:14.286029",
+            "last_retested_at_epoch": 1589937743.403044,
+            "last_retested_at_iso": "2020-05-20T01:22:23.403044",
             "status": "INACTIVE"
         },
         "www.chaseonline.com": {
@@ -1802,8 +1802,8 @@
         "www.egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1589842770.707815,
-            "last_retested_at_iso": "2020-05-18T22:59:30.707815",
+            "last_retested_at_epoch": 1589937877.575163,
+            "last_retested_at_iso": "2020-05-20T01:24:37.575163",
             "status": "INACTIVE"
         },
         "www.elisaart.it": {
@@ -2348,8 +2348,8 @@
         "www.monetisetrk4.co.uk": {
             "included_at_epoch": 1588530382.0,
             "included_at_iso": "2020-05-03T18:26:22",
-            "last_retested_at_epoch": 1589802386.837665,
-            "last_retested_at_iso": "2020-05-18T11:46:26.837665",
+            "last_retested_at_epoch": 1589938115.241942,
+            "last_retested_at_iso": "2020-05-20T01:28:35.241942",
             "status": "INACTIVE"
         },
         "www.monetisetrk5.co.uk": {
@@ -2537,8 +2537,8 @@
         "www.premiumpedia.com": {
             "included_at_epoch": 1588478566.0,
             "included_at_iso": "2020-05-03T04:02:46",
-            "last_retested_at_epoch": 1589829307.011151,
-            "last_retested_at_iso": "2020-05-18T19:15:07.011151",
+            "last_retested_at_epoch": 1589937700.84338,
+            "last_retested_at_iso": "2020-05-20T01:21:40.843380",
             "status": "INACTIVE"
         },
         "www.qikdownloads.com": {
@@ -2656,8 +2656,8 @@
         "www.sevenstars7.com": {
             "included_at_epoch": 1588509937.0,
             "included_at_iso": "2020-05-03T12:45:37",
-            "last_retested_at_epoch": 1589833843.339107,
-            "last_retested_at_iso": "2020-05-18T20:30:43.339107",
+            "last_retested_at_epoch": 1589937847.556334,
+            "last_retested_at_iso": "2020-05-20T01:24:07.556334",
             "status": "INACTIVE"
         },
         "www.shareaza.com": {
@@ -2803,8 +2803,8 @@
         "www.trk4.com": {
             "included_at_epoch": 1588524965.0,
             "included_at_iso": "2020-05-03T16:56:05",
-            "last_retested_at_epoch": 1589847288.557635,
-            "last_retested_at_iso": "2020-05-19T00:14:48.557635",
+            "last_retested_at_epoch": 1589937928.989586,
+            "last_retested_at_iso": "2020-05-20T01:25:28.989586",
             "status": "INACTIVE"
         },
         "www.trx625.com": {
@@ -2908,8 +2908,8 @@
         "www.wmserver.net": {
             "included_at_epoch": 1588153826.0,
             "included_at_iso": "2020-04-29T09:50:26",
-            "last_retested_at_epoch": 1589833584.160146,
-            "last_retested_at_iso": "2020-05-18T20:26:24.160146",
+            "last_retested_at_epoch": 1589937952.479434,
+            "last_retested_at_iso": "2020-05-20T01:25:52.479434",
             "status": "INACTIVE"
         },
         "www.wwfsable.com": {
@@ -2950,8 +2950,8 @@
         "www.wwwcheaptickets.com": {
             "included_at_epoch": 1588459562.0,
             "included_at_iso": "2020-05-02T22:46:02",
-            "last_retested_at_epoch": 1589838101.356331,
-            "last_retested_at_iso": "2020-05-18T21:41:41.356331",
+            "last_retested_at_epoch": 1589937978.746785,
+            "last_retested_at_iso": "2020-05-20T01:26:18.746785",
             "status": "INACTIVE"
         },
         "www.wwwdiynet.com": {
@@ -3174,8 +3174,8 @@
         "x6.xclicks.net": {
             "included_at_epoch": 1588478541.0,
             "included_at_iso": "2020-05-03T04:02:21",
-            "last_retested_at_epoch": 1589769344.16332,
-            "last_retested_at_iso": "2020-05-18T02:35:44.163320",
+            "last_retested_at_epoch": 1589938140.915167,
+            "last_retested_at_iso": "2020-05-20T01:29:00.915167",
             "status": "INACTIVE"
         },
         "xchangetrak.com": {
