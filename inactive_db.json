@@ -315,6 +315,13 @@
             "last_retested_at_iso": "2020-05-21T00:47:15.248496",
             "status": "INACTIVE"
         },
+        "cmicapui.ce.gov.br": {
+            "included_at_epoch": 1590099370.432962,
+            "included_at_iso": "2020-05-21T22:16:10.432962",
+            "last_retested_at_epoch": 1590099370.432962,
+            "last_retested_at_iso": "2020-05-21T22:16:10.432962",
+            "status": "INACTIVE"
+        },
         "coding.1100011.ir": {
             "included_at_epoch": 1588454886.0,
             "included_at_iso": "2020-05-02T21:28:06",
@@ -374,8 +381,8 @@
         "d.zeroredirect.com": {
             "included_at_epoch": 1588482574.0,
             "included_at_iso": "2020-05-03T05:09:34",
-            "last_retested_at_epoch": 1590011704.700454,
-            "last_retested_at_iso": "2020-05-20T21:55:04.700454",
+            "last_retested_at_epoch": 1590099319.180373,
+            "last_retested_at_iso": "2020-05-21T22:15:19.180373",
             "status": "INACTIVE"
         },
         "demo.vertexinfo.in": {
@@ -1186,8 +1193,8 @@
         "www.aff12.com": {
             "included_at_epoch": 1588431583.0,
             "included_at_iso": "2020-05-02T14:59:43",
-            "last_retested_at_epoch": 1589948890.995291,
-            "last_retested_at_iso": "2020-05-20T04:28:10.995291",
+            "last_retested_at_epoch": 1590099557.663574,
+            "last_retested_at_iso": "2020-05-21T22:19:17.663574",
             "status": "INACTIVE"
         },
         "www.affntwklnk.com": {
@@ -1298,8 +1305,8 @@
         "www.atousoft.com": {
             "included_at_epoch": 1588524950.0,
             "included_at_iso": "2020-05-03T16:55:50",
-            "last_retested_at_epoch": 1590001954.686755,
-            "last_retested_at_iso": "2020-05-20T19:12:34.686755",
+            "last_retested_at_epoch": 1590099133.471768,
+            "last_retested_at_iso": "2020-05-21T22:12:13.471768",
             "status": "INACTIVE"
         },
         "www.audia6.com": {
@@ -1601,6 +1608,13 @@
             "included_at_iso": "2020-04-13T22:06:49",
             "last_retested_at_epoch": 1586815609.0,
             "last_retested_at_iso": "2020-04-13T22:06:49",
+            "status": "INACTIVE"
+        },
+        "www.cmicapui.ce.gov.br": {
+            "included_at_epoch": 1590099370.136034,
+            "included_at_iso": "2020-05-21T22:16:10.136034",
+            "last_retested_at_epoch": 1590099370.136034,
+            "last_retested_at_iso": "2020-05-21T22:16:10.136034",
             "status": "INACTIVE"
         },
         "www.collectiable.com": {
@@ -2341,8 +2355,8 @@
         "www.monetisetrk.co.uk": {
             "included_at_epoch": 1588496883.0,
             "included_at_iso": "2020-05-03T09:08:03",
-            "last_retested_at_epoch": 1589991863.248815,
-            "last_retested_at_iso": "2020-05-20T16:24:23.248815",
+            "last_retested_at_epoch": 1590099248.829857,
+            "last_retested_at_iso": "2020-05-21T22:14:08.829857",
             "status": "INACTIVE"
         },
         "www.monetisetrk2.co.uk": {
@@ -2656,8 +2670,8 @@
         "www.sendori.com": {
             "included_at_epoch": 1589617282.109581,
             "included_at_iso": "2020-05-16T08:21:22.109581",
-            "last_retested_at_epoch": 1589991887.251136,
-            "last_retested_at_iso": "2020-05-20T16:24:47.251136",
+            "last_retested_at_epoch": 1590099531.167925,
+            "last_retested_at_iso": "2020-05-21T22:18:51.167925",
             "status": "INACTIVE"
         },
         "www.sentrol.cl": {
@@ -2838,8 +2852,8 @@
         "www.tuckows.com": {
             "included_at_epoch": 1588486889.0,
             "included_at_iso": "2020-05-03T06:21:29",
-            "last_retested_at_epoch": 1590011613.576746,
-            "last_retested_at_iso": "2020-05-20T21:53:33.576746",
+            "last_retested_at_epoch": 1590099413.807305,
+            "last_retested_at_iso": "2020-05-21T22:16:53.807305",
             "status": "INACTIVE"
         },
         "www.twskype.com": {
