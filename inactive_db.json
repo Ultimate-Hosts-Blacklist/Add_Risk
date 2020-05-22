@@ -31,8 +31,8 @@
         "a.zeroredirect.com": {
             "included_at_epoch": 1588473965.0,
             "included_at_iso": "2020-05-03T02:46:05",
-            "last_retested_at_epoch": 1590026816.400024,
-            "last_retested_at_iso": "2020-05-21T02:06:56.400024",
+            "last_retested_at_epoch": 1590114735.045499,
+            "last_retested_at_iso": "2020-05-22T02:32:15.045499",
             "status": "INACTIVE"
         },
         "ad.slutload.com": {
@@ -325,8 +325,8 @@
         "coding.1100011.ir": {
             "included_at_epoch": 1588454886.0,
             "included_at_iso": "2020-05-02T21:28:06",
-            "last_retested_at_epoch": 1589977631.320928,
-            "last_retested_at_iso": "2020-05-20T12:27:11.320928",
+            "last_retested_at_epoch": 1590114519.302214,
+            "last_retested_at_iso": "2020-05-22T02:28:39.302214",
             "status": "INACTIVE"
         },
         "collectiable.com": {
@@ -451,8 +451,8 @@
         "e.zeroredirect.com": {
             "included_at_epoch": 1588493613.0,
             "included_at_iso": "2020-05-03T08:13:33",
-            "last_retested_at_epoch": 1590026920.192672,
-            "last_retested_at_iso": "2020-05-21T02:08:40.192672",
+            "last_retested_at_epoch": 1590114813.187792,
+            "last_retested_at_iso": "2020-05-22T02:33:33.187792",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
@@ -1088,8 +1088,8 @@
         "urchman11.zapto.org": {
             "included_at_epoch": 1588454765.0,
             "included_at_iso": "2020-05-02T21:26:05",
-            "last_retested_at_epoch": 1589918578.482434,
-            "last_retested_at_iso": "2020-05-19T20:02:58.482434",
+            "last_retested_at_epoch": 1590114381.308963,
+            "last_retested_at_iso": "2020-05-22T02:26:21.308963",
             "status": "INACTIVE"
         },
         "w.zeroredirect.com": {
@@ -1536,15 +1536,15 @@
         "www.cheapticketsinc.com": {
             "included_at_epoch": 1588490165.0,
             "included_at_iso": "2020-05-03T07:16:05",
-            "last_retested_at_epoch": 1590022093.231461,
-            "last_retested_at_iso": "2020-05-21T00:48:13.231461",
+            "last_retested_at_epoch": 1590114900.659562,
+            "last_retested_at_iso": "2020-05-22T02:35:00.659562",
             "status": "INACTIVE"
         },
         "www.cheapticketts.com": {
             "included_at_epoch": 1588489889.0,
             "included_at_iso": "2020-05-03T07:11:29",
-            "last_retested_at_epoch": 1590016695.774719,
-            "last_retested_at_iso": "2020-05-20T23:18:15.774719",
+            "last_retested_at_epoch": 1590114769.813185,
+            "last_retested_at_iso": "2020-05-22T02:32:49.813185",
             "status": "INACTIVE"
         },
         "www.cheapticktes.com": {
@@ -1704,15 +1704,15 @@
         "www.cudacorp.com": {
             "included_at_epoch": 1588474296.0,
             "included_at_iso": "2020-05-03T02:51:36",
-            "last_retested_at_epoch": 1590006851.22915,
-            "last_retested_at_iso": "2020-05-20T20:34:11.229150",
+            "last_retested_at_epoch": 1590114319.660224,
+            "last_retested_at_iso": "2020-05-22T02:25:19.660224",
             "status": "INACTIVE"
         },
         "www.customersupporthelp.com": {
             "included_at_epoch": 1586078936.0,
             "included_at_iso": "2020-04-05T09:28:56",
-            "last_retested_at_epoch": 1590017108.25316,
-            "last_retested_at_iso": "2020-05-20T23:25:08.253160",
+            "last_retested_at_epoch": 1590114508.046978,
+            "last_retested_at_iso": "2020-05-22T02:28:28.046978",
             "status": "INACTIVE"
         },
         "www.desifever.com": {
@@ -2460,8 +2460,8 @@
         "www.notrecommended.co.uk": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1590006640.267973,
-            "last_retested_at_iso": "2020-05-20T20:30:40.267973",
+            "last_retested_at_epoch": 1590114863.034775,
+            "last_retested_at_iso": "2020-05-22T02:34:23.034775",
             "status": "INACTIVE"
         },
         "www.ntkrnlpa.info": {
@@ -2901,8 +2901,8 @@
         "www.urchman11.zapto.org": {
             "included_at_epoch": 1588454765.0,
             "included_at_iso": "2020-05-02T21:26:05",
-            "last_retested_at_epoch": 1589918578.398184,
-            "last_retested_at_iso": "2020-05-19T20:02:58.398184",
+            "last_retested_at_epoch": 1590114381.248904,
+            "last_retested_at_iso": "2020-05-22T02:26:21.248904",
             "status": "INACTIVE"
         },
         "www.vaultsappsbyte.com": {
@@ -2978,8 +2978,8 @@
         "www.wwwcheaptickets.com": {
             "included_at_epoch": 1588459562.0,
             "included_at_iso": "2020-05-02T22:46:02",
-            "last_retested_at_epoch": 1590026691.211336,
-            "last_retested_at_iso": "2020-05-21T02:04:51.211336",
+            "last_retested_at_epoch": 1590114730.294418,
+            "last_retested_at_iso": "2020-05-22T02:32:10.294418",
             "status": "INACTIVE"
         },
         "www.wwwdiynet.com": {
