@@ -220,8 +220,8 @@
         "bbcdn.code.new.smartcontext.pl": {
             "included_at_epoch": 1588530045.0,
             "included_at_iso": "2020-05-03T18:20:45",
-            "last_retested_at_epoch": 1590124537.340696,
-            "last_retested_at_iso": "2020-05-22T05:15:37.340696",
+            "last_retested_at_epoch": 1590213209.569552,
+            "last_retested_at_iso": "2020-05-23T05:53:29.569552",
             "status": "INACTIVE"
         },
         "bbs.bjchun.com": {
@@ -402,8 +402,8 @@
         "dipli.unipa.it": {
             "included_at_epoch": 1588436181.0,
             "included_at_iso": "2020-05-02T16:16:21",
-            "last_retested_at_epoch": 1590124373.063493,
-            "last_retested_at_iso": "2020-05-22T05:12:53.063493",
+            "last_retested_at_epoch": 1590213322.826173,
+            "last_retested_at_iso": "2020-05-23T05:55:22.826173",
             "status": "INACTIVE"
         },
         "directhackerz.tk": {
@@ -2516,8 +2516,8 @@
         "www.orbiyz.com": {
             "included_at_epoch": 1588497165.0,
             "included_at_iso": "2020-05-03T09:12:45",
-            "last_retested_at_epoch": 1590119703.018705,
-            "last_retested_at_iso": "2020-05-22T03:55:03.018705",
+            "last_retested_at_epoch": 1590213301.053613,
+            "last_retested_at_iso": "2020-05-23T05:55:01.053613",
             "status": "INACTIVE"
         },
         "www.pastie.org": {
@@ -2574,6 +2574,13 @@
             "included_at_iso": "2020-05-03T04:02:46",
             "last_retested_at_epoch": 1590185841.629432,
             "last_retested_at_iso": "2020-05-22T22:17:21.629432",
+            "status": "INACTIVE"
+        },
+        "www.pumpkin.co.uk": {
+            "included_at_epoch": 1590213590.488357,
+            "included_at_iso": "2020-05-23T05:59:50.488357",
+            "last_retested_at_epoch": 1590213590.488357,
+            "last_retested_at_iso": "2020-05-23T05:59:50.488357",
             "status": "INACTIVE"
         },
         "www.qikdownloads.com": {
@@ -2985,8 +2992,8 @@
         "www.wwwcareerpath.com": {
             "included_at_epoch": 1588454502.0,
             "included_at_iso": "2020-05-02T21:21:42",
-            "last_retested_at_epoch": 1590119926.409597,
-            "last_retested_at_iso": "2020-05-22T03:58:46.409597",
+            "last_retested_at_epoch": 1590213485.285854,
+            "last_retested_at_iso": "2020-05-23T05:58:05.285854",
             "status": "INACTIVE"
         },
         "www.wwwcheaptickets.com": {
@@ -3139,8 +3146,8 @@
         "wwwcareerpath.com": {
             "included_at_epoch": 1588454502.0,
             "included_at_iso": "2020-05-02T21:21:42",
-            "last_retested_at_epoch": 1590119926.417359,
-            "last_retested_at_iso": "2020-05-22T03:58:46.417359",
+            "last_retested_at_epoch": 1590213485.286759,
+            "last_retested_at_iso": "2020-05-23T05:58:05.286759",
             "status": "INACTIVE"
         },
         "wwwdiynet.com": {
@@ -3188,8 +3195,8 @@
         "x2.xclicks.net": {
             "included_at_epoch": 1588450044.0,
             "included_at_iso": "2020-05-02T20:07:24",
-            "last_retested_at_epoch": 1590089424.496562,
-            "last_retested_at_iso": "2020-05-21T19:30:24.496562",
+            "last_retested_at_epoch": 1590213126.72659,
+            "last_retested_at_iso": "2020-05-23T05:52:06.726590",
             "status": "INACTIVE"
         },
         "x3.xclicks.net": {
