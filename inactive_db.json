@@ -584,8 +584,8 @@
         "hira.hopto.org": {
             "included_at_epoch": 1588478685.0,
             "included_at_iso": "2020-05-03T04:04:45",
-            "last_retested_at_epoch": 1590249039.978087,
-            "last_retested_at_iso": "2020-05-23T15:50:39.978087",
+            "last_retested_at_epoch": 1590340328.520576,
+            "last_retested_at_iso": "2020-05-24T17:12:08.520576",
             "status": "INACTIVE"
         },
         "hitwastedgarden.com": {
@@ -1767,8 +1767,8 @@
         "www.disable-uac.com": {
             "included_at_epoch": 1588519215.0,
             "included_at_iso": "2020-05-03T15:20:15",
-            "last_retested_at_epoch": 1590233911.683251,
-            "last_retested_at_iso": "2020-05-23T11:38:31.683251",
+            "last_retested_at_epoch": 1590340900.029457,
+            "last_retested_at_iso": "2020-05-24T17:21:40.029457",
             "status": "INACTIVE"
         },
         "www.dlldlldll.sytes.net": {
@@ -1823,8 +1823,8 @@
         "www.ebdr3.com": {
             "included_at_epoch": 1588500318.0,
             "included_at_iso": "2020-05-03T10:05:18",
-            "last_retested_at_epoch": 1590233943.710675,
-            "last_retested_at_iso": "2020-05-23T11:39:03.710675",
+            "last_retested_at_epoch": 1590340582.651651,
+            "last_retested_at_iso": "2020-05-24T17:16:22.651651",
             "status": "INACTIVE"
         },
         "www.ebocornac.com": {
@@ -2075,8 +2075,8 @@
         "www.hira.hopto.org": {
             "included_at_epoch": 1588440914.0,
             "included_at_iso": "2020-05-02T17:35:14",
-            "last_retested_at_epoch": 1590249039.977139,
-            "last_retested_at_iso": "2020-05-23T15:50:39.977139",
+            "last_retested_at_epoch": 1590340328.492674,
+            "last_retested_at_iso": "2020-05-24T17:12:08.492674",
             "status": "INACTIVE"
         },
         "www.hitwastedgarden.com": {
@@ -2292,8 +2292,8 @@
         "www.mapquestt.com": {
             "included_at_epoch": 1588500208.0,
             "included_at_iso": "2020-05-03T10:03:28",
-            "last_retested_at_epoch": 1590223146.612329,
-            "last_retested_at_iso": "2020-05-23T08:39:06.612329",
+            "last_retested_at_epoch": 1590340454.905279,
+            "last_retested_at_iso": "2020-05-24T17:14:14.905279",
             "status": "INACTIVE"
         },
         "www.maxregistrycleaner.net": {
