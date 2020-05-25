@@ -185,8 +185,8 @@
         "b.zeroredirect.com": {
             "included_at_epoch": 1588454892.0,
             "included_at_iso": "2020-05-02T21:28:12",
-            "last_retested_at_epoch": 1590331689.781656,
-            "last_retested_at_iso": "2020-05-24T14:48:09.781656",
+            "last_retested_at_epoch": 1590430777.286254,
+            "last_retested_at_iso": "2020-05-25T18:19:37.286254",
             "status": "INACTIVE"
         },
         "banner.tonygpoker.com": {
@@ -458,8 +458,8 @@
         "e.zeroredirect.com": {
             "included_at_epoch": 1588493613.0,
             "included_at_iso": "2020-05-03T08:13:33",
-            "last_retested_at_epoch": 1590292276.206338,
-            "last_retested_at_iso": "2020-05-24T03:51:16.206338",
+            "last_retested_at_epoch": 1590430986.669508,
+            "last_retested_at_iso": "2020-05-25T18:23:06.669508",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
@@ -1277,8 +1277,8 @@
         "www.anmira.info": {
             "included_at_epoch": 1583342285.0,
             "included_at_iso": "2020-03-04T17:18:05",
-            "last_retested_at_epoch": 1583342285.0,
-            "last_retested_at_iso": "2020-03-04T17:18:05",
+            "last_retested_at_epoch": 1590430948.119814,
+            "last_retested_at_iso": "2020-05-25T18:22:28.119814",
             "status": "INACTIVE"
         },
         "www.anonymousproxy.tk": {
@@ -1515,8 +1515,8 @@
         "www.ceskarepublika.net": {
             "included_at_epoch": 1588527489.0,
             "included_at_iso": "2020-05-03T17:38:09",
-            "last_retested_at_epoch": 1590336395.323043,
-            "last_retested_at_iso": "2020-05-24T16:06:35.323043",
+            "last_retested_at_epoch": 1590430897.084106,
+            "last_retested_at_iso": "2020-05-25T18:21:37.084106",
             "status": "INACTIVE"
         },
         "www.chaseonline.com": {
@@ -2684,8 +2684,8 @@
         "www.scanspyware.net": {
             "included_at_epoch": 1588486725.0,
             "included_at_iso": "2020-05-03T06:18:45",
-            "last_retested_at_epoch": 1590344762.308241,
-            "last_retested_at_iso": "2020-05-24T18:26:02.308241",
+            "last_retested_at_epoch": 1590431170.559338,
+            "last_retested_at_iso": "2020-05-25T18:26:10.559338",
             "status": "INACTIVE"
         },
         "www.searchatomic.com": {
@@ -2859,8 +2859,8 @@
         "www.trk4.com": {
             "included_at_epoch": 1588524965.0,
             "included_at_iso": "2020-05-03T16:56:05",
-            "last_retested_at_epoch": 1590336299.728019,
-            "last_retested_at_iso": "2020-05-24T16:04:59.728019",
+            "last_retested_at_epoch": 1590431226.544772,
+            "last_retested_at_iso": "2020-05-25T18:27:06.544772",
             "status": "INACTIVE"
         },
         "www.trx625.com": {
@@ -3132,8 +3132,8 @@
         "www2.leadingedgecash.com": {
             "included_at_epoch": 1588464093.0,
             "included_at_iso": "2020-05-03T00:01:33",
-            "last_retested_at_epoch": 1590332071.052437,
-            "last_retested_at_iso": "2020-05-24T14:54:31.052437",
+            "last_retested_at_epoch": 1590430774.594652,
+            "last_retested_at_iso": "2020-05-25T18:19:34.594652",
             "status": "INACTIVE"
         },
         "wwwbackstreetboys.com": {
