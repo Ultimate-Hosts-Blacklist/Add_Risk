@@ -388,8 +388,8 @@
         "d.zeroredirect.com": {
             "included_at_epoch": 1588482574.0,
             "included_at_iso": "2020-05-03T05:09:34",
-            "last_retested_at_epoch": 1590292083.828983,
-            "last_retested_at_iso": "2020-05-24T03:48:03.828983",
+            "last_retested_at_epoch": 1590415791.26774,
+            "last_retested_at_iso": "2020-05-25T14:09:51.267740",
             "status": "INACTIVE"
         },
         "demo.vertexinfo.in": {
@@ -563,8 +563,8 @@
         "handlerhackz.tk": {
             "included_at_epoch": 1588519204.0,
             "included_at_iso": "2020-05-03T15:20:04",
-            "last_retested_at_epoch": 1590313905.110967,
-            "last_retested_at_iso": "2020-05-24T09:51:45.110967",
+            "last_retested_at_epoch": 1590415856.289365,
+            "last_retested_at_iso": "2020-05-25T14:10:56.289365",
             "status": "INACTIVE"
         },
         "hapjes-maken.eu": {
@@ -871,8 +871,8 @@
         "ns1.ntkrnlpa.info": {
             "included_at_epoch": 1588454839.0,
             "included_at_iso": "2020-05-02T21:27:19",
-            "last_retested_at_epoch": 1590322932.885487,
-            "last_retested_at_iso": "2020-05-24T12:22:12.885487",
+            "last_retested_at_epoch": 1590415676.958377,
+            "last_retested_at_iso": "2020-05-25T14:07:56.958377",
             "status": "INACTIVE"
         },
         "ns2.ntkrnlpa.info": {
@@ -1011,8 +1011,8 @@
         "sevenstars7.com": {
             "included_at_epoch": 1588509937.0,
             "included_at_iso": "2020-05-03T12:45:37",
-            "last_retested_at_epoch": 1590327447.683666,
-            "last_retested_at_iso": "2020-05-24T13:37:27.683666",
+            "last_retested_at_epoch": 1590415671.204624,
+            "last_retested_at_iso": "2020-05-25T14:07:51.204624",
             "status": "INACTIVE"
         },
         "ships.zapto.org": {
@@ -2040,8 +2040,8 @@
         "www.handlerhackz.tk": {
             "included_at_epoch": 1588519205.0,
             "included_at_iso": "2020-05-03T15:20:05",
-            "last_retested_at_epoch": 1590313905.082937,
-            "last_retested_at_iso": "2020-05-24T09:51:45.082937",
+            "last_retested_at_epoch": 1590415857.452556,
+            "last_retested_at_iso": "2020-05-25T14:10:57.452556",
             "status": "INACTIVE"
         },
         "www.hapjes-maken.eu": {
@@ -2131,8 +2131,8 @@
         "www.installm.net": {
             "included_at_epoch": 1588527325.0,
             "included_at_iso": "2020-05-03T17:35:25",
-            "last_retested_at_epoch": 1590327259.794859,
-            "last_retested_at_iso": "2020-05-24T13:34:19.794859",
+            "last_retested_at_epoch": 1590415921.316369,
+            "last_retested_at_iso": "2020-05-25T14:12:01.316369",
             "status": "INACTIVE"
         },
         "www.itunesdownloadstore.com": {
@@ -2712,8 +2712,8 @@
         "www.sevenstars7.com": {
             "included_at_epoch": 1588509937.0,
             "included_at_iso": "2020-05-03T12:45:37",
-            "last_retested_at_epoch": 1590327447.742253,
-            "last_retested_at_iso": "2020-05-24T13:37:27.742253",
+            "last_retested_at_epoch": 1590415671.287075,
+            "last_retested_at_iso": "2020-05-25T14:07:51.287075",
             "status": "INACTIVE"
         },
         "www.shareaza.com": {
@@ -2999,8 +2999,8 @@
         "www.wwwbluemoutain.com": {
             "included_at_epoch": 1588464581.0,
             "included_at_iso": "2020-05-03T00:09:41",
-            "last_retested_at_epoch": 1590323121.645707,
-            "last_retested_at_iso": "2020-05-24T12:25:21.645707",
+            "last_retested_at_epoch": 1590415725.183623,
+            "last_retested_at_iso": "2020-05-25T14:08:45.183623",
             "status": "INACTIVE"
         },
         "www.wwwcareerpath.com": {
@@ -3153,8 +3153,8 @@
         "wwwbluemoutain.com": {
             "included_at_epoch": 1588464581.0,
             "included_at_iso": "2020-05-03T00:09:41",
-            "last_retested_at_epoch": 1590323121.544966,
-            "last_retested_at_iso": "2020-05-24T12:25:21.544966",
+            "last_retested_at_epoch": 1590415725.075684,
+            "last_retested_at_iso": "2020-05-25T14:08:45.075684",
             "status": "INACTIVE"
         },
         "wwwcareerpath.com": {
