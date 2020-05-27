@@ -220,8 +220,8 @@
         "bbcdn.code.new.smartcontext.pl": {
             "included_at_epoch": 1588530045.0,
             "included_at_iso": "2020-05-03T18:20:45",
-            "last_retested_at_epoch": 1590440463.159401,
-            "last_retested_at_iso": "2020-05-25T21:01:03.159401",
+            "last_retested_at_epoch": 1590568949.664931,
+            "last_retested_at_iso": "2020-05-27T08:42:29.664931",
             "status": "INACTIVE"
         },
         "bbs.bjchun.com": {
@@ -493,8 +493,8 @@
         "facebook.realtorarcf.com": {
             "included_at_epoch": 1588486798.0,
             "included_at_iso": "2020-05-03T06:19:58",
-            "last_retested_at_epoch": 1590465692.345892,
-            "last_retested_at_iso": "2020-05-26T04:01:32.345892",
+            "last_retested_at_epoch": 1590568916.773811,
+            "last_retested_at_iso": "2020-05-27T08:41:56.773811",
             "status": "INACTIVE"
         },
         "fecabook.redirectme.net": {
@@ -899,8 +899,8 @@
         "o.zeroredirect.com": {
             "included_at_epoch": 1588409444.0,
             "included_at_iso": "2020-05-02T08:50:44",
-            "last_retested_at_epoch": 1590440673.979702,
-            "last_retested_at_iso": "2020-05-25T21:04:33.979702",
+            "last_retested_at_epoch": 1590568674.980281,
+            "last_retested_at_iso": "2020-05-27T08:37:54.980281",
             "status": "INACTIVE"
         },
         "ocpersian.com": {
@@ -1893,8 +1893,8 @@
         "www.facebook.realtorarcf.com": {
             "included_at_epoch": 1588486799.0,
             "included_at_iso": "2020-05-03T06:19:59",
-            "last_retested_at_epoch": 1590465693.868504,
-            "last_retested_at_iso": "2020-05-26T04:01:33.868504",
+            "last_retested_at_epoch": 1590568918.53014,
+            "last_retested_at_iso": "2020-05-27T08:41:58.530140",
             "status": "INACTIVE"
         },
         "www.fastdownload10.com": {
@@ -2971,8 +2971,8 @@
         "www.vyrus.redirectme.net": {
             "included_at_epoch": 1588516010.0,
             "included_at_iso": "2020-05-03T14:26:50",
-            "last_retested_at_epoch": 1590450239.820106,
-            "last_retested_at_iso": "2020-05-25T23:43:59.820106",
+            "last_retested_at_epoch": 1590568983.239728,
+            "last_retested_at_iso": "2020-05-27T08:43:03.239728",
             "status": "INACTIVE"
         },
         "www.wmserver.net": {
