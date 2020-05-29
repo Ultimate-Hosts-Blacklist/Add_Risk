@@ -612,8 +612,8 @@
         "i.zeroredirect.com": {
             "included_at_epoch": 1588530471.0,
             "included_at_iso": "2020-05-03T18:27:51",
-            "last_retested_at_epoch": 1590623285.247778,
-            "last_retested_at_iso": "2020-05-27T23:48:05.247778",
+            "last_retested_at_epoch": 1590734973.307506,
+            "last_retested_at_iso": "2020-05-29T06:49:33.307506",
             "status": "INACTIVE"
         },
         "infospace.tk": {
@@ -668,8 +668,8 @@
         "k.zeroredirect.com": {
             "included_at_epoch": 1588500139.0,
             "included_at_iso": "2020-05-03T10:02:19",
-            "last_retested_at_epoch": 1590641843.150578,
-            "last_retested_at_iso": "2020-05-28T04:57:23.150578",
+            "last_retested_at_epoch": 1590734196.143536,
+            "last_retested_at_iso": "2020-05-29T06:36:36.143536",
             "status": "INACTIVE"
         },
         "ka.bar.need2find.com": {
@@ -843,8 +843,8 @@
         "n.zeroredirect.com": {
             "included_at_epoch": 1588513173.0,
             "included_at_iso": "2020-05-03T13:39:33",
-            "last_retested_at_epoch": 1590641937.805079,
-            "last_retested_at_iso": "2020-05-28T04:58:57.805079",
+            "last_retested_at_epoch": 1590734830.898986,
+            "last_retested_at_iso": "2020-05-29T06:47:10.898986",
             "status": "INACTIVE"
         },
         "n149adserv.com": {
@@ -1081,8 +1081,8 @@
         "tttbbbttt.zapto.org": {
             "included_at_epoch": 1588459722.0,
             "included_at_iso": "2020-05-02T22:48:42",
-            "last_retested_at_epoch": 1590629757.694081,
-            "last_retested_at_iso": "2020-05-28T01:35:57.694081",
+            "last_retested_at_epoch": 1590734958.071981,
+            "last_retested_at_iso": "2020-05-29T06:49:18.071981",
             "status": "INACTIVE"
         },
         "updo.nl": {
@@ -1102,8 +1102,8 @@
         "urchman11.zapto.org": {
             "included_at_epoch": 1588454765.0,
             "included_at_iso": "2020-05-02T21:26:05",
-            "last_retested_at_epoch": 1590578065.659277,
-            "last_retested_at_iso": "2020-05-27T11:14:25.659277",
+            "last_retested_at_epoch": 1590734237.20308,
+            "last_retested_at_iso": "2020-05-29T06:37:17.203080",
             "status": "INACTIVE"
         },
         "w.zeroredirect.com": {
@@ -2110,8 +2110,8 @@
         "www.ibmvideo.com": {
             "included_at_epoch": 1588454817.0,
             "included_at_iso": "2020-05-02T21:26:57",
-            "last_retested_at_epoch": 1590636081.535497,
-            "last_retested_at_iso": "2020-05-28T03:21:21.535497",
+            "last_retested_at_epoch": 1590734642.883002,
+            "last_retested_at_iso": "2020-05-29T06:44:02.883002",
             "status": "INACTIVE"
         },
         "www.icracks.net": {
@@ -2138,8 +2138,8 @@
         "www.installm.net": {
             "included_at_epoch": 1588527325.0,
             "included_at_iso": "2020-05-03T17:35:25",
-            "last_retested_at_epoch": 1590642131.120572,
-            "last_retested_at_iso": "2020-05-28T05:02:11.120572",
+            "last_retested_at_epoch": 1590734153.030565,
+            "last_retested_at_iso": "2020-05-29T06:35:53.030565",
             "status": "INACTIVE"
         },
         "www.itunesdownloadstore.com": {
@@ -2880,8 +2880,8 @@
         "www.tttbbbttt.zapto.org": {
             "included_at_epoch": 1588459722.0,
             "included_at_iso": "2020-05-02T22:48:42",
-            "last_retested_at_epoch": 1590629757.693046,
-            "last_retested_at_iso": "2020-05-28T01:35:57.693046",
+            "last_retested_at_epoch": 1590734958.07106,
+            "last_retested_at_iso": "2020-05-29T06:49:18.071060",
             "status": "INACTIVE"
         },
         "www.tuckows.com": {
@@ -2915,8 +2915,8 @@
         "www.unlimiclick.com": {
             "included_at_epoch": 1588506471.0,
             "included_at_iso": "2020-05-03T11:47:51",
-            "last_retested_at_epoch": 1590629469.614777,
-            "last_retested_at_iso": "2020-05-28T01:31:09.614777",
+            "last_retested_at_epoch": 1590734293.110852,
+            "last_retested_at_iso": "2020-05-29T06:38:13.110852",
             "status": "INACTIVE"
         },
         "www.updo.nl": {
@@ -2943,8 +2943,8 @@
         "www.urchman11.zapto.org": {
             "included_at_epoch": 1588454765.0,
             "included_at_iso": "2020-05-02T21:26:05",
-            "last_retested_at_epoch": 1590578065.597838,
-            "last_retested_at_iso": "2020-05-27T11:14:25.597838",
+            "last_retested_at_epoch": 1590734237.046931,
+            "last_retested_at_iso": "2020-05-29T06:37:17.046931",
             "status": "INACTIVE"
         },
         "www.vaultsappsbyte.com": {
@@ -3125,8 +3125,8 @@
         "www.zoogdiseny.com": {
             "included_at_epoch": 1588418400.0,
             "included_at_iso": "2020-05-02T11:20:00",
-            "last_retested_at_epoch": 1590648156.195091,
-            "last_retested_at_iso": "2020-05-28T06:42:36.195091",
+            "last_retested_at_epoch": 1590734800.248666,
+            "last_retested_at_iso": "2020-05-29T06:46:40.248666",
             "status": "INACTIVE"
         },
         "www.zoogdisny.com": {
@@ -3146,8 +3146,8 @@
         "www2.leadingedgecash.com": {
             "included_at_epoch": 1588464093.0,
             "included_at_iso": "2020-05-03T00:01:33",
-            "last_retested_at_epoch": 1590628980.332198,
-            "last_retested_at_iso": "2020-05-28T01:23:00.332198",
+            "last_retested_at_epoch": 1590734239.185293,
+            "last_retested_at_iso": "2020-05-29T06:37:19.185293",
             "status": "INACTIVE"
         },
         "wwwbackstreetboys.com": {
@@ -3293,8 +3293,8 @@
         "yk.handlerhackz.tk": {
             "included_at_epoch": 1588454682.0,
             "included_at_iso": "2020-05-02T21:24:42",
-            "last_retested_at_epoch": 1590636038.477531,
-            "last_retested_at_iso": "2020-05-28T03:20:38.477531",
+            "last_retested_at_epoch": 1590734717.193785,
+            "last_retested_at_iso": "2020-05-29T06:45:17.193785",
             "status": "INACTIVE"
         },
         "yourdedicatedhost.com": {
