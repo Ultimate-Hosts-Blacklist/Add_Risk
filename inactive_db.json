@@ -73,8 +73,8 @@
         "adserve.cpmba.se": {
             "included_at_epoch": 1588440866.0,
             "included_at_iso": "2020-05-02T17:34:26",
-            "last_retested_at_epoch": 1590682872.610575,
-            "last_retested_at_iso": "2020-05-28T16:21:12.610575",
+            "last_retested_at_epoch": 1590776612.390712,
+            "last_retested_at_iso": "2020-05-29T18:23:32.390712",
             "status": "INACTIVE"
         },
         "adserver.online-tech.com": {
@@ -535,8 +535,8 @@
         "gbanners.hornymatches.com": {
             "included_at_epoch": 1588493773.0,
             "included_at_iso": "2020-05-03T08:16:13",
-            "last_retested_at_epoch": 1590682801.277044,
-            "last_retested_at_iso": "2020-05-28T16:20:01.277044",
+            "last_retested_at_epoch": 1590776580.871998,
+            "last_retested_at_iso": "2020-05-29T18:23:00.871998",
             "status": "INACTIVE"
         },
         "h.zeroredirect.com": {
@@ -605,8 +605,8 @@
         "i.trkjmp.com": {
             "included_at_epoch": 1588422656.0,
             "included_at_iso": "2020-05-02T12:30:56",
-            "last_retested_at_epoch": 1590654187.493668,
-            "last_retested_at_iso": "2020-05-28T08:23:07.493668",
+            "last_retested_at_epoch": 1590776529.305809,
+            "last_retested_at_iso": "2020-05-29T18:22:09.305809",
             "status": "INACTIVE"
         },
         "i.zeroredirect.com": {
@@ -780,8 +780,8 @@
         "mal-ware-domain-list-2.tinker.pureleads.sendori.com": {
             "included_at_epoch": 1589591893.171789,
             "included_at_iso": "2020-05-16T01:18:13.171789",
-            "last_retested_at_epoch": 1590688097.574085,
-            "last_retested_at_iso": "2020-05-28T17:48:17.574085",
+            "last_retested_at_epoch": 1590775766.839699,
+            "last_retested_at_iso": "2020-05-29T18:09:26.839699",
             "status": "INACTIVE"
         },
         "marketing-internet-solution.naix.pureleads.sendori.com": {
@@ -794,8 +794,8 @@
         "maybankard.com.my": {
             "included_at_epoch": 1588493325.0,
             "included_at_iso": "2020-05-03T08:08:45",
-            "last_retested_at_epoch": 1590682197.522718,
-            "last_retested_at_iso": "2020-05-28T16:09:57.522718",
+            "last_retested_at_epoch": 1590776004.085693,
+            "last_retested_at_iso": "2020-05-29T18:13:24.085693",
             "status": "INACTIVE"
         },
         "minigameplanet.com": {
@@ -822,8 +822,8 @@
         "mobile.bitterstrawberry.org": {
             "included_at_epoch": 1588482913.0,
             "included_at_iso": "2020-05-03T05:15:13",
-            "last_retested_at_epoch": 1590683019.648251,
-            "last_retested_at_iso": "2020-05-28T16:23:39.648251",
+            "last_retested_at_epoch": 1590776208.96341,
+            "last_retested_at_iso": "2020-05-29T18:16:48.963410",
             "status": "INACTIVE"
         },
         "mrace.hopto.org": {
@@ -836,8 +836,8 @@
         "my-pc-cleaner.org": {
             "included_at_epoch": 1588527357.0,
             "included_at_iso": "2020-05-03T17:35:57",
-            "last_retested_at_epoch": 1590623838.334723,
-            "last_retested_at_iso": "2020-05-27T23:57:18.334723",
+            "last_retested_at_epoch": 1590776013.841303,
+            "last_retested_at_iso": "2020-05-29T18:13:33.841303",
             "status": "INACTIVE"
         },
         "n.zeroredirect.com": {
@@ -927,8 +927,8 @@
         "p.zeroredirect.com": {
             "included_at_epoch": 1588459617.0,
             "included_at_iso": "2020-05-02T22:46:57",
-            "last_retested_at_epoch": 1590687668.762746,
-            "last_retested_at_iso": "2020-05-28T17:41:08.762746",
+            "last_retested_at_epoch": 1590776301.042404,
+            "last_retested_at_iso": "2020-05-29T18:18:21.042404",
             "status": "INACTIVE"
         },
         "pc-detox.com": {
@@ -1585,15 +1585,15 @@
         "www.clean-start.net": {
             "included_at_epoch": 1588490048.0,
             "included_at_iso": "2020-05-03T07:14:08",
-            "last_retested_at_epoch": 1590683047.259441,
-            "last_retested_at_iso": "2020-05-28T16:24:07.259441",
+            "last_retested_at_epoch": 1590776552.466732,
+            "last_retested_at_iso": "2020-05-29T18:22:32.466732",
             "status": "INACTIVE"
         },
         "www.cleanallvirus.com": {
             "included_at_epoch": 1588515981.0,
             "included_at_iso": "2020-05-03T14:26:21",
-            "last_retested_at_epoch": 1590666115.146748,
-            "last_retested_at_iso": "2020-05-28T11:41:55.146748",
+            "last_retested_at_epoch": 1590775905.805324,
+            "last_retested_at_iso": "2020-05-29T18:11:45.805324",
             "status": "INACTIVE"
         },
         "www.cleanproxy.com": {
@@ -1718,8 +1718,8 @@
         "www.cudacorp.com": {
             "included_at_epoch": 1588474296.0,
             "included_at_iso": "2020-05-03T02:51:36",
-            "last_retested_at_epoch": 1590677397.166681,
-            "last_retested_at_iso": "2020-05-28T14:49:57.166681",
+            "last_retested_at_epoch": 1590776334.750734,
+            "last_retested_at_iso": "2020-05-29T18:18:54.750734",
             "status": "INACTIVE"
         },
         "www.customersupporthelp.com": {
@@ -1823,8 +1823,8 @@
         "www.ebdr3.com": {
             "included_at_epoch": 1588500318.0,
             "included_at_iso": "2020-05-03T10:05:18",
-            "last_retested_at_epoch": 1590687655.222379,
-            "last_retested_at_iso": "2020-05-28T17:40:55.222379",
+            "last_retested_at_epoch": 1590775776.621804,
+            "last_retested_at_iso": "2020-05-29T18:09:36.621804",
             "status": "INACTIVE"
         },
         "www.ebocornac.com": {
@@ -2313,8 +2313,8 @@
         "www.maybankard.com.my": {
             "included_at_epoch": 1588493320.0,
             "included_at_iso": "2020-05-03T08:08:40",
-            "last_retested_at_epoch": 1590682192.606197,
-            "last_retested_at_iso": "2020-05-28T16:09:52.606197",
+            "last_retested_at_epoch": 1590775999.294676,
+            "last_retested_at_iso": "2020-05-29T18:13:19.294676",
             "status": "INACTIVE"
         },
         "www.media-playerz.com": {
@@ -2432,8 +2432,8 @@
         "www.my-pc-cleaner.org": {
             "included_at_epoch": 1588486856.0,
             "included_at_iso": "2020-05-03T06:20:56",
-            "last_retested_at_epoch": 1590623838.501444,
-            "last_retested_at_iso": "2020-05-27T23:57:18.501444",
+            "last_retested_at_epoch": 1590776013.831898,
+            "last_retested_at_iso": "2020-05-29T18:13:33.831898",
             "status": "INACTIVE"
         },
         "www.mycleanerpc.com": {
@@ -2635,8 +2635,8 @@
         "www.registry-cleaner.net": {
             "included_at_epoch": 1588486807.0,
             "included_at_iso": "2020-05-03T06:20:07",
-            "last_retested_at_epoch": 1590687908.074355,
-            "last_retested_at_iso": "2020-05-28T17:45:08.074355",
+            "last_retested_at_epoch": 1590776268.019352,
+            "last_retested_at_iso": "2020-05-29T18:17:48.019352",
             "status": "INACTIVE"
         },
         "www.registry-cleaners-compared.com": {
@@ -2936,8 +2936,8 @@
         "www.uprour.com": {
             "included_at_epoch": 1590196118.836935,
             "included_at_iso": "2020-05-23T01:08:38.836935",
-            "last_retested_at_epoch": 1590687633.495844,
-            "last_retested_at_iso": "2020-05-28T17:40:33.495844",
+            "last_retested_at_epoch": 1590775967.718747,
+            "last_retested_at_iso": "2020-05-29T18:12:47.718747",
             "status": "INACTIVE"
         },
         "www.urchman11.zapto.org": {
@@ -3321,8 +3321,8 @@
         "zm1.zeroredirect5.com": {
             "included_at_epoch": 1588486933.0,
             "included_at_iso": "2020-05-03T06:22:13",
-            "last_retested_at_epoch": 1590687788.562938,
-            "last_retested_at_iso": "2020-05-28T17:43:08.562938",
+            "last_retested_at_epoch": 1590775783.499558,
+            "last_retested_at_iso": "2020-05-29T18:09:43.499558",
             "status": "INACTIVE"
         },
         "zooggames.com": {
