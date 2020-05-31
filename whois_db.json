@@ -1842,7 +1842,7 @@
     "harmonyhollow.net": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "heaptickets.com": {
         "epoch": 1594252800.0,
@@ -2297,7 +2297,7 @@
     "litec-fr.com": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "livejasmin.com": {
         "epoch": 1605139200.0,
