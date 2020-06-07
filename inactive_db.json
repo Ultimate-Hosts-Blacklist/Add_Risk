@@ -171,8 +171,8 @@
         "atofilms.com": {
             "included_at_epoch": 1588524824.0,
             "included_at_iso": "2020-05-03T16:53:44",
-            "last_retested_at_epoch": 1591362632.615116,
-            "last_retested_at_iso": "2020-06-05T13:10:32.615116",
+            "last_retested_at_epoch": 1591497618.904904,
+            "last_retested_at_iso": "2020-06-07T02:40:18.904904",
             "status": "INACTIVE"
         },
         "ayada.zapto.org": {
@@ -493,8 +493,8 @@
         "egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1591410791.937636,
-            "last_retested_at_iso": "2020-06-06T02:33:11.937636",
+            "last_retested_at_epoch": 1591497670.71642,
+            "last_retested_at_iso": "2020-06-07T02:41:10.716420",
             "status": "INACTIVE"
         },
         "elisaart.it": {
@@ -794,8 +794,8 @@
         "littlesturgisrally.com": {
             "included_at_epoch": 1588349376.0,
             "included_at_iso": "2020-05-01T16:09:36",
-            "last_retested_at_epoch": 1591400310.261007,
-            "last_retested_at_iso": "2020-06-05T23:38:30.261007",
+            "last_retested_at_epoch": 1591498133.566689,
+            "last_retested_at_iso": "2020-06-07T02:48:53.566689",
             "status": "INACTIVE"
         },
         "llaredlrgn.angelcities.com": {
@@ -1165,8 +1165,8 @@
         "suscotrk.com": {
             "included_at_epoch": 1588506770.0,
             "included_at_iso": "2020-05-03T11:52:50",
-            "last_retested_at_epoch": 1591405460.136166,
-            "last_retested_at_iso": "2020-06-06T01:04:20.136166",
+            "last_retested_at_epoch": 1591497710.196949,
+            "last_retested_at_iso": "2020-06-07T02:41:50.196949",
             "status": "INACTIVE"
         },
         "t.zeroredirect.com": {
@@ -1459,8 +1459,8 @@
         "www.atofilms.com": {
             "included_at_epoch": 1588524823.0,
             "included_at_iso": "2020-05-03T16:53:43",
-            "last_retested_at_epoch": 1591362632.735778,
-            "last_retested_at_iso": "2020-06-05T13:10:32.735778",
+            "last_retested_at_epoch": 1591497618.913509,
+            "last_retested_at_iso": "2020-06-07T02:40:18.913509",
             "status": "INACTIVE"
         },
         "www.atousoft.com": {
@@ -1991,15 +1991,15 @@
         "www.ecdtrk.com": {
             "included_at_epoch": 1588454889.0,
             "included_at_iso": "2020-05-02T21:28:09",
-            "last_retested_at_epoch": 1591395012.353814,
-            "last_retested_at_iso": "2020-06-05T22:10:12.353814",
+            "last_retested_at_epoch": 1591498296.141926,
+            "last_retested_at_iso": "2020-06-07T02:51:36.141926",
             "status": "INACTIVE"
         },
         "www.egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1591410791.950562,
-            "last_retested_at_iso": "2020-06-06T02:33:11.950562",
+            "last_retested_at_epoch": 1591497670.7612,
+            "last_retested_at_iso": "2020-06-07T02:41:10.761200",
             "status": "INACTIVE"
         },
         "www.elisaart.it": {
@@ -2320,8 +2320,8 @@
         "www.jcwhintey.com": {
             "included_at_epoch": 1590840381.952981,
             "included_at_iso": "2020-05-30T12:06:21.952981",
-            "last_retested_at_epoch": 1591405525.195455,
-            "last_retested_at_iso": "2020-06-06T01:05:25.195455",
+            "last_retested_at_epoch": 1591497641.820789,
+            "last_retested_at_iso": "2020-06-07T02:40:41.820789",
             "status": "INACTIVE"
         },
         "www.jcwhitey.com": {
@@ -2355,8 +2355,8 @@
         "www.kipasdenim.com": {
             "included_at_epoch": 1588509853.0,
             "included_at_iso": "2020-05-03T12:44:13",
-            "last_retested_at_epoch": 1591400262.888656,
-            "last_retested_at_iso": "2020-06-05T23:37:42.888656",
+            "last_retested_at_epoch": 1591498229.229663,
+            "last_retested_at_iso": "2020-06-07T02:50:29.229663",
             "status": "INACTIVE"
         },
         "www.lateecapes.com": {
@@ -2432,8 +2432,8 @@
         "www.littlesturgisrally.com": {
             "included_at_epoch": 1588349376.0,
             "included_at_iso": "2020-05-01T16:09:36",
-            "last_retested_at_epoch": 1591400310.279042,
-            "last_retested_at_iso": "2020-06-05T23:38:30.279042",
+            "last_retested_at_epoch": 1591498133.588655,
+            "last_retested_at_iso": "2020-06-07T02:48:53.588655",
             "status": "INACTIVE"
         },
         "www.lycosgamesville.com": {
@@ -2474,8 +2474,8 @@
         "www.mapquestt.com": {
             "included_at_epoch": 1588500208.0,
             "included_at_iso": "2020-05-03T10:03:28",
-            "last_retested_at_epoch": 1591399666.565373,
-            "last_retested_at_iso": "2020-06-05T23:27:46.565373",
+            "last_retested_at_epoch": 1591498010.45437,
+            "last_retested_at_iso": "2020-06-07T02:46:50.454370",
             "status": "INACTIVE"
         },
         "www.maxregistrycleaner.net": {
@@ -2691,8 +2691,8 @@
         "www.onlineadmin.net": {
             "included_at_epoch": 1588489922.0,
             "included_at_iso": "2020-05-03T07:12:02",
-            "last_retested_at_epoch": 1591405204.39122,
-            "last_retested_at_iso": "2020-06-06T01:00:04.391220",
+            "last_retested_at_epoch": 1591497444.394286,
+            "last_retested_at_iso": "2020-06-07T02:37:24.394286",
             "status": "INACTIVE"
         },
         "www.orango.redirectme.net": {
@@ -2761,8 +2761,8 @@
         "www.premiumpedia.com": {
             "included_at_epoch": 1588478566.0,
             "included_at_iso": "2020-05-03T04:02:46",
-            "last_retested_at_epoch": 1591405407.68974,
-            "last_retested_at_iso": "2020-06-06T01:03:27.689740",
+            "last_retested_at_epoch": 1591498109.096962,
+            "last_retested_at_iso": "2020-06-07T02:48:29.096962",
             "status": "INACTIVE"
         },
         "www.pumpkin.co.uk": {
@@ -2824,8 +2824,8 @@
         "www.rngetek.com": {
             "included_at_epoch": 1588449959.0,
             "included_at_iso": "2020-05-02T20:05:59",
-            "last_retested_at_epoch": 1591399962.838333,
-            "last_retested_at_iso": "2020-06-05T23:32:42.838333",
+            "last_retested_at_epoch": 1591498137.833893,
+            "last_retested_at_iso": "2020-06-07T02:48:57.833893",
             "status": "INACTIVE"
         },
         "www.robtopol.in": {
@@ -2964,8 +2964,8 @@
         "www.suscotrk.com": {
             "included_at_epoch": 1588506770.0,
             "included_at_iso": "2020-05-03T11:52:50",
-            "last_retested_at_epoch": 1591405460.132896,
-            "last_retested_at_iso": "2020-06-06T01:04:20.132896",
+            "last_retested_at_epoch": 1591497710.19609,
+            "last_retested_at_iso": "2020-06-07T02:41:50.196090",
             "status": "INACTIVE"
         },
         "www.swingingcommunity.com": {
@@ -3076,8 +3076,8 @@
         "www.tzw.com": {
             "included_at_epoch": 1588509787.0,
             "included_at_iso": "2020-05-03T12:43:07",
-            "last_retested_at_epoch": 1591383636.219518,
-            "last_retested_at_iso": "2020-06-05T19:00:36.219518",
+            "last_retested_at_epoch": 1591497865.622557,
+            "last_retested_at_iso": "2020-06-07T02:44:25.622557",
             "status": "INACTIVE"
         },
         "www.unblocksit.es": {
@@ -3510,8 +3510,8 @@
         "ylgingq.angelcities.com": {
             "included_at_epoch": 1590971865.111025,
             "included_at_iso": "2020-06-01T00:37:45.111025",
-            "last_retested_at_epoch": 1591410586.684654,
-            "last_retested_at_iso": "2020-06-06T02:29:46.684654",
+            "last_retested_at_epoch": 1591497735.744488,
+            "last_retested_at_iso": "2020-06-07T02:42:15.744488",
             "status": "INACTIVE"
         },
         "yourdedicatedhost.com": {
