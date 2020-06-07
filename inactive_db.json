@@ -451,8 +451,8 @@
         "doda.redirectme.net": {
             "included_at_epoch": 1588422641.0,
             "included_at_iso": "2020-05-02T12:30:41",
-            "last_retested_at_epoch": 1591438434.181866,
-            "last_retested_at_iso": "2020-06-06T10:13:54.181866",
+            "last_retested_at_epoch": 1591545583.981448,
+            "last_retested_at_iso": "2020-06-07T15:59:43.981448",
             "status": "INACTIVE"
         },
         "down.feiyang163.com": {
@@ -493,8 +493,8 @@
         "e.zeroredirect.com": {
             "included_at_epoch": 1588493613.0,
             "included_at_iso": "2020-05-03T08:13:33",
-            "last_retested_at_epoch": 1591457642.913672,
-            "last_retested_at_iso": "2020-06-06T15:34:02.913672",
+            "last_retested_at_epoch": 1591546117.723915,
+            "last_retested_at_iso": "2020-06-07T16:08:37.723915",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
@@ -885,8 +885,8 @@
         "minigameplanet.com": {
             "included_at_epoch": 1588500317.0,
             "included_at_iso": "2020-05-03T10:05:17",
-            "last_retested_at_epoch": 1591448012.659334,
-            "last_retested_at_iso": "2020-06-06T12:53:32.659334",
+            "last_retested_at_epoch": 1591545510.34818,
+            "last_retested_at_iso": "2020-06-07T15:58:30.348180",
             "status": "INACTIVE"
         },
         "mlpoint.pt": {
@@ -1935,8 +1935,8 @@
         "www.doda.redirectme.net": {
             "included_at_epoch": 1588422641.0,
             "included_at_iso": "2020-05-02T12:30:41",
-            "last_retested_at_epoch": 1591438434.151707,
-            "last_retested_at_iso": "2020-06-06T10:13:54.151707",
+            "last_retested_at_epoch": 1591545584.009367,
+            "last_retested_at_iso": "2020-06-07T15:59:44.009367",
             "status": "INACTIVE"
         },
         "www.dogpial.com": {
@@ -2271,8 +2271,8 @@
         "www.ibmvideo.com": {
             "included_at_epoch": 1588454817.0,
             "included_at_iso": "2020-05-02T21:26:57",
-            "last_retested_at_epoch": 1591453072.388827,
-            "last_retested_at_iso": "2020-06-06T14:17:52.388827",
+            "last_retested_at_epoch": 1591545259.391099,
+            "last_retested_at_iso": "2020-06-07T15:54:19.391099",
             "status": "INACTIVE"
         },
         "www.icracks.net": {
@@ -2432,8 +2432,8 @@
         "www.linkjumps.com": {
             "included_at_epoch": 1588473912.0,
             "included_at_iso": "2020-05-03T02:45:12",
-            "last_retested_at_epoch": 1591434501.301581,
-            "last_retested_at_iso": "2020-06-06T09:08:21.301581",
+            "last_retested_at_epoch": 1591545909.456802,
+            "last_retested_at_iso": "2020-06-07T16:05:09.456802",
             "status": "INACTIVE"
         },
         "www.littlesturgisrally.com": {
@@ -2530,8 +2530,8 @@
         "www.minigameplanet.com": {
             "included_at_epoch": 1588500317.0,
             "included_at_iso": "2020-05-03T10:05:17",
-            "last_retested_at_epoch": 1591448012.87921,
-            "last_retested_at_iso": "2020-06-06T12:53:32.879210",
+            "last_retested_at_epoch": 1591545510.477545,
+            "last_retested_at_iso": "2020-06-07T15:58:30.477545",
             "status": "INACTIVE"
         },
         "www.mlpoint.pt": {
@@ -2558,8 +2558,8 @@
         "www.monetisetrk.co.uk": {
             "included_at_epoch": 1588496883.0,
             "included_at_iso": "2020-05-03T09:08:03",
-            "last_retested_at_epoch": 1591443212.01412,
-            "last_retested_at_iso": "2020-06-06T11:33:32.014120",
+            "last_retested_at_epoch": 1591545293.894915,
+            "last_retested_at_iso": "2020-06-07T15:54:53.894915",
             "status": "INACTIVE"
         },
         "www.monetisetrk2.co.uk": {
@@ -3244,8 +3244,8 @@
         "www.wwwmancow.com": {
             "included_at_epoch": 1588506980.0,
             "included_at_iso": "2020-05-03T11:56:20",
-            "last_retested_at_epoch": 1591447885.732913,
-            "last_retested_at_iso": "2020-06-06T12:51:25.732913",
+            "last_retested_at_epoch": 1591545745.254734,
+            "last_retested_at_iso": "2020-06-07T16:02:25.254734",
             "status": "INACTIVE"
         },
         "www.wwwplaysite.com": {
@@ -3405,8 +3405,8 @@
         "wwwmancow.com": {
             "included_at_epoch": 1588454780.0,
             "included_at_iso": "2020-05-02T21:26:20",
-            "last_retested_at_epoch": 1591447885.603284,
-            "last_retested_at_iso": "2020-06-06T12:51:25.603284",
+            "last_retested_at_epoch": 1591545745.226366,
+            "last_retested_at_iso": "2020-06-07T16:02:25.226366",
             "status": "INACTIVE"
         },
         "wwwuproar.com": {
