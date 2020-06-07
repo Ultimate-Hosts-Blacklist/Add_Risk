@@ -136,8 +136,8 @@
         "anonymousproxy.tk": {
             "included_at_epoch": 1588496892.0,
             "included_at_iso": "2020-05-03T09:08:12",
-            "last_retested_at_epoch": 1591415739.358583,
-            "last_retested_at_iso": "2020-06-06T03:55:39.358583",
+            "last_retested_at_epoch": 1591503065.433539,
+            "last_retested_at_iso": "2020-06-07T04:11:05.433539",
             "status": "INACTIVE"
         },
         "antispyware.onlinedownloads.org": {
@@ -353,8 +353,8 @@
         "compactiongames.gameaholic.com": {
             "included_at_epoch": 1588440465.0,
             "included_at_iso": "2020-05-02T17:27:45",
-            "last_retested_at_epoch": 1591415829.930744,
-            "last_retested_at_iso": "2020-06-06T03:57:09.930744",
+            "last_retested_at_epoch": 1591503625.427811,
+            "last_retested_at_iso": "2020-06-07T04:20:25.427811",
             "status": "INACTIVE"
         },
         "continentialairline.com": {
@@ -619,8 +619,8 @@
         "hira.hopto.org": {
             "included_at_epoch": 1588478685.0,
             "included_at_iso": "2020-05-03T04:04:45",
-            "last_retested_at_epoch": 1591415927.388217,
-            "last_retested_at_iso": "2020-06-06T03:58:47.388217",
+            "last_retested_at_epoch": 1591503609.442657,
+            "last_retested_at_iso": "2020-06-07T04:20:09.442657",
             "status": "INACTIVE"
         },
         "hitwastedgarden.com": {
@@ -647,8 +647,8 @@
         "i.zeroredirect.com": {
             "included_at_epoch": 1588530471.0,
             "included_at_iso": "2020-05-03T18:27:51",
-            "last_retested_at_epoch": 1591415345.490413,
-            "last_retested_at_iso": "2020-06-06T03:49:05.490413",
+            "last_retested_at_epoch": 1591503409.885358,
+            "last_retested_at_iso": "2020-06-07T04:16:49.885358",
             "status": "INACTIVE"
         },
         "infospace.tk": {
@@ -1032,8 +1032,8 @@
         "p.zeroredirect.com": {
             "included_at_epoch": 1588459617.0,
             "included_at_iso": "2020-05-02T22:46:57",
-            "last_retested_at_epoch": 1591410122.417253,
-            "last_retested_at_iso": "2020-06-06T02:22:02.417253",
+            "last_retested_at_epoch": 1591503890.011798,
+            "last_retested_at_iso": "2020-06-07T04:24:50.011798",
             "status": "INACTIVE"
         },
         "pc-detox.com": {
@@ -1431,8 +1431,8 @@
         "www.anonymousproxy.tk": {
             "included_at_epoch": 1588496892.0,
             "included_at_iso": "2020-05-03T09:08:12",
-            "last_retested_at_epoch": 1591415740.224552,
-            "last_retested_at_iso": "2020-06-06T03:55:40.224552",
+            "last_retested_at_epoch": 1591503065.411948,
+            "last_retested_at_iso": "2020-06-07T04:11:05.411948",
             "status": "INACTIVE"
         },
         "www.antalya.ru": {
@@ -1683,8 +1683,8 @@
         "www.cheaptickests.com": {
             "included_at_epoch": 1588527432.0,
             "included_at_iso": "2020-05-03T17:37:12",
-            "last_retested_at_epoch": 1591416051.337032,
-            "last_retested_at_iso": "2020-06-06T04:00:51.337032",
+            "last_retested_at_epoch": 1591503206.854012,
+            "last_retested_at_iso": "2020-06-07T04:13:26.854012",
             "status": "INACTIVE"
         },
         "www.cheapticketes.com": {
@@ -1739,8 +1739,8 @@
         "www.cleanallvirus.com": {
             "included_at_epoch": 1588515981.0,
             "included_at_iso": "2020-05-03T14:26:21",
-            "last_retested_at_epoch": 1591410085.866956,
-            "last_retested_at_iso": "2020-06-06T02:21:25.866956",
+            "last_retested_at_epoch": 1591503144.388335,
+            "last_retested_at_iso": "2020-06-07T04:12:24.388335",
             "status": "INACTIVE"
         },
         "www.cleanproxy.com": {
@@ -2236,8 +2236,8 @@
         "www.hira.hopto.org": {
             "included_at_epoch": 1588440914.0,
             "included_at_iso": "2020-05-02T17:35:14",
-            "last_retested_at_epoch": 1591415927.35615,
-            "last_retested_at_iso": "2020-06-06T03:58:47.356150",
+            "last_retested_at_epoch": 1591503609.394076,
+            "last_retested_at_iso": "2020-06-07T04:20:09.394076",
             "status": "INACTIVE"
         },
         "www.hitwastedgarden.com": {
@@ -2978,8 +2978,8 @@
         "www.tcgtrkr.com": {
             "included_at_epoch": 1588530418.0,
             "included_at_iso": "2020-05-03T18:26:58",
-            "last_retested_at_epoch": 1591415524.792514,
-            "last_retested_at_iso": "2020-06-06T03:52:04.792514",
+            "last_retested_at_epoch": 1591503291.337891,
+            "last_retested_at_iso": "2020-06-07T04:14:51.337891",
             "status": "INACTIVE"
         },
         "www.theads.me": {
@@ -3111,8 +3111,8 @@
         "www.uprour.com": {
             "included_at_epoch": 1590196118.836935,
             "included_at_iso": "2020-05-23T01:08:38.836935",
-            "last_retested_at_epoch": 1591415749.7734,
-            "last_retested_at_iso": "2020-06-06T03:55:49.773400",
+            "last_retested_at_epoch": 1591503710.614096,
+            "last_retested_at_iso": "2020-06-07T04:21:50.614096",
             "status": "INACTIVE"
         },
         "www.urchman11.zapto.org": {
@@ -3216,8 +3216,8 @@
         "www.wwwdollar.com": {
             "included_at_epoch": 1590840290.203742,
             "included_at_iso": "2020-05-30T12:04:50.203742",
-            "last_retested_at_epoch": 1591415915.292203,
-            "last_retested_at_iso": "2020-06-06T03:58:35.292203",
+            "last_retested_at_epoch": 1591503071.928125,
+            "last_retested_at_iso": "2020-06-07T04:11:11.928125",
             "status": "INACTIVE"
         },
         "www.wwwgamepro.com": {
@@ -3230,8 +3230,8 @@
         "www.wwwgameshark.com": {
             "included_at_epoch": 1588445325.0,
             "included_at_iso": "2020-05-02T18:48:45",
-            "last_retested_at_epoch": 1591395009.152634,
-            "last_retested_at_iso": "2020-06-05T22:10:09.152634",
+            "last_retested_at_epoch": 1591503701.112985,
+            "last_retested_at_iso": "2020-06-07T04:21:41.112985",
             "status": "INACTIVE"
         },
         "www.wwwmancow.com": {
@@ -3391,8 +3391,8 @@
         "wwwgameshark.com": {
             "included_at_epoch": 1588445325.0,
             "included_at_iso": "2020-05-02T18:48:45",
-            "last_retested_at_epoch": 1591395009.344253,
-            "last_retested_at_iso": "2020-06-05T22:10:09.344253",
+            "last_retested_at_epoch": 1591503701.061344,
+            "last_retested_at_iso": "2020-06-07T04:21:41.061344",
             "status": "INACTIVE"
         },
         "wwwmancow.com": {
