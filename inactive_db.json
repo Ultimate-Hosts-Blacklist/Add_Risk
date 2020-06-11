@@ -290,8 +290,8 @@
         "butterfly-media.co.uk": {
             "included_at_epoch": 1588464261.0,
             "included_at_iso": "2020-05-03T00:04:21",
-            "last_retested_at_epoch": 1591599642.407239,
-            "last_retested_at_iso": "2020-06-08T07:00:42.407239",
+            "last_retested_at_epoch": 1591874209.732965,
+            "last_retested_at_iso": "2020-06-11T11:16:49.732965",
             "status": "INACTIVE"
         },
         "bypasser.net": {
@@ -780,8 +780,8 @@
         "liders.biz": {
             "included_at_epoch": 1588496830.0,
             "included_at_iso": "2020-05-03T09:07:10",
-            "last_retested_at_epoch": 1591654655.205805,
-            "last_retested_at_iso": "2020-06-08T22:17:35.205805",
+            "last_retested_at_epoch": 1591873709.512059,
+            "last_retested_at_iso": "2020-06-11T11:08:29.512059",
             "status": "INACTIVE"
         },
         "lifeeverest.com": {
@@ -1634,8 +1634,8 @@
         "www.butterfly-media.co.uk": {
             "included_at_epoch": 1588464261.0,
             "included_at_iso": "2020-05-03T00:04:21",
-            "last_retested_at_epoch": 1591599642.228079,
-            "last_retested_at_iso": "2020-06-08T07:00:42.228079",
+            "last_retested_at_epoch": 1591874209.664853,
+            "last_retested_at_iso": "2020-06-11T11:16:49.664853",
             "status": "INACTIVE"
         },
         "www.bypasser.net": {
@@ -2425,8 +2425,8 @@
         "www.liders.biz": {
             "included_at_epoch": 1588496830.0,
             "included_at_iso": "2020-05-03T09:07:10",
-            "last_retested_at_epoch": 1591654655.182725,
-            "last_retested_at_iso": "2020-06-08T22:17:35.182725",
+            "last_retested_at_epoch": 1591873709.47729,
+            "last_retested_at_iso": "2020-06-11T11:08:29.477290",
             "status": "INACTIVE"
         },
         "www.lifeeverest.com": {
@@ -2560,6 +2560,13 @@
             "included_at_iso": "2020-05-03T01:20:55",
             "last_retested_at_epoch": 1591833096.887936,
             "last_retested_at_iso": "2020-06-10T23:51:36.887936",
+            "status": "INACTIVE"
+        },
+        "www.mmtracking.com": {
+            "included_at_epoch": 1591874348.300621,
+            "included_at_iso": "2020-06-11T11:19:08.300621",
+            "last_retested_at_epoch": 1591874348.300621,
+            "last_retested_at_iso": "2020-06-11T11:19:08.300621",
             "status": "INACTIVE"
         },
         "www.mobatory.com": {
