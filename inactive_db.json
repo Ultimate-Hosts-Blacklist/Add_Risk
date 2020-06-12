@@ -73,8 +73,8 @@
         "ads.wikipartes.com": {
             "included_at_epoch": 1588516032.0,
             "included_at_iso": "2020-05-03T14:27:12",
-            "last_retested_at_epoch": 1591833413.127555,
-            "last_retested_at_iso": "2020-06-10T23:56:53.127555",
+            "last_retested_at_epoch": 1591971899.493529,
+            "last_retested_at_iso": "2020-06-12T14:24:59.493529",
             "status": "INACTIVE"
         },
         "adserve.cpmba.se": {
@@ -103,6 +103,13 @@
             "included_at_iso": "2020-05-03T02:49:02",
             "last_retested_at_epoch": 1591906824.274877,
             "last_retested_at_iso": "2020-06-11T20:20:24.274877",
+            "status": "INACTIVE"
+        },
+        "aff.naughtyconnect.com": {
+            "included_at_epoch": 1591971451.129801,
+            "included_at_iso": "2020-06-12T14:17:31.129801",
+            "last_retested_at_epoch": 1591971451.129801,
+            "last_retested_at_iso": "2020-06-12T14:17:31.129801",
             "status": "INACTIVE"
         },
         "affiliate.trk4.com": {
@@ -584,8 +591,8 @@
         "h.zeroredirect.com": {
             "included_at_epoch": 1588459871.0,
             "included_at_iso": "2020-05-02T22:51:11",
-            "last_retested_at_epoch": 1591849902.221829,
-            "last_retested_at_iso": "2020-06-11T04:31:42.221829",
+            "last_retested_at_epoch": 1591971431.40494,
+            "last_retested_at_iso": "2020-06-12T14:17:11.404940",
             "status": "INACTIVE"
         },
         "haartezenglish.redirectme.net": {
@@ -997,8 +1004,8 @@
         "o.zeroredirect.com": {
             "included_at_epoch": 1588409444.0,
             "included_at_iso": "2020-05-02T08:50:44",
-            "last_retested_at_epoch": 1591828365.349598,
-            "last_retested_at_iso": "2020-06-10T22:32:45.349598",
+            "last_retested_at_epoch": 1591971767.431302,
+            "last_retested_at_iso": "2020-06-12T14:22:47.431302",
             "status": "INACTIVE"
         },
         "ocpersian.com": {
@@ -2446,8 +2453,8 @@
         "www.linkjumps.com": {
             "included_at_epoch": 1588473912.0,
             "included_at_iso": "2020-05-03T02:45:12",
-            "last_retested_at_epoch": 1591827677.367442,
-            "last_retested_at_iso": "2020-06-10T22:21:17.367442",
+            "last_retested_at_epoch": 1591971437.633331,
+            "last_retested_at_iso": "2020-06-12T14:17:17.633331",
             "status": "INACTIVE"
         },
         "www.littlesturgisrally.com": {
