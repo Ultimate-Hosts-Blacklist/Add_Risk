@@ -136,8 +136,8 @@
         "amazing-offers.co.il": {
             "included_at_epoch": 1588459655.0,
             "included_at_iso": "2020-05-02T22:47:35",
-            "last_retested_at_epoch": 1592001720.78423,
-            "last_retested_at_iso": "2020-06-12T22:42:00.784230",
+            "last_retested_at_epoch": 1592091099.713122,
+            "last_retested_at_iso": "2020-06-13T23:31:39.713122",
             "status": "INACTIVE"
         },
         "analytics.safelinking.net": {
@@ -654,8 +654,8 @@
         "i.trkjmp.com": {
             "included_at_epoch": 1588422656.0,
             "included_at_iso": "2020-05-02T12:30:56",
-            "last_retested_at_epoch": 1591990541.293555,
-            "last_retested_at_iso": "2020-06-12T19:35:41.293555",
+            "last_retested_at_epoch": 1592090554.033955,
+            "last_retested_at_iso": "2020-06-13T23:22:34.033955",
             "status": "INACTIVE"
         },
         "i.zeroredirect.com": {
@@ -675,8 +675,8 @@
         "itunesdownloadstore.com": {
             "included_at_epoch": 1588431156.0,
             "included_at_iso": "2020-05-02T14:52:36",
-            "last_retested_at_epoch": 1592001460.671579,
-            "last_retested_at_iso": "2020-06-12T22:37:40.671579",
+            "last_retested_at_epoch": 1592090959.137897,
+            "last_retested_at_iso": "2020-06-13T23:29:19.137897",
             "status": "INACTIVE"
         },
         "j.pioneeringad.com": {
@@ -1417,8 +1417,8 @@
         "www.amazing-offers.co.il": {
             "included_at_epoch": 1588459648.0,
             "included_at_iso": "2020-05-02T22:47:28",
-            "last_retested_at_epoch": 1592001716.738057,
-            "last_retested_at_iso": "2020-06-12T22:41:56.738057",
+            "last_retested_at_epoch": 1592091095.8919,
+            "last_retested_at_iso": "2020-06-13T23:31:35.891900",
             "status": "INACTIVE"
         },
         "www.andr.net": {
@@ -2348,8 +2348,8 @@
         "www.itunesdownloadstore.com": {
             "included_at_epoch": 1588506501.0,
             "included_at_iso": "2020-05-03T11:48:21",
-            "last_retested_at_epoch": 1592001460.814217,
-            "last_retested_at_iso": "2020-06-12T22:37:40.814217",
+            "last_retested_at_epoch": 1592090959.225399,
+            "last_retested_at_iso": "2020-06-13T23:29:19.225399",
             "status": "INACTIVE"
         },
         "www.japanmadchen.com": {
@@ -2523,8 +2523,8 @@
         "www.mapqueat.com": {
             "included_at_epoch": 1588431282.0,
             "included_at_iso": "2020-05-02T14:54:42",
-            "last_retested_at_epoch": 1591996268.793067,
-            "last_retested_at_iso": "2020-06-12T21:11:08.793067",
+            "last_retested_at_epoch": 1592090389.503273,
+            "last_retested_at_iso": "2020-06-13T23:19:49.503273",
             "status": "INACTIVE"
         },
         "www.mapquestt.com": {
@@ -2621,8 +2621,8 @@
         "www.monetisetrk.co.uk": {
             "included_at_epoch": 1588496883.0,
             "included_at_iso": "2020-05-03T09:08:03",
-            "last_retested_at_epoch": 1591932221.216686,
-            "last_retested_at_iso": "2020-06-12T03:23:41.216686",
+            "last_retested_at_epoch": 1592090449.170187,
+            "last_retested_at_iso": "2020-06-13T23:20:49.170187",
             "status": "INACTIVE"
         },
         "www.monetisetrk2.co.uk": {
@@ -2663,8 +2663,8 @@
         "www.monofeel.com": {
             "included_at_epoch": 1588445094.0,
             "included_at_iso": "2020-05-02T18:44:54",
-            "last_retested_at_epoch": 1592001544.371495,
-            "last_retested_at_iso": "2020-06-12T22:39:04.371495",
+            "last_retested_at_epoch": 1592090734.366644,
+            "last_retested_at_iso": "2020-06-13T23:25:34.366644",
             "status": "INACTIVE"
         },
         "www.mrace.hopto.org": {
@@ -3251,8 +3251,8 @@
         "www.wwfsable.com": {
             "included_at_epoch": 1588522180.0,
             "included_at_iso": "2020-05-03T16:09:40",
-            "last_retested_at_epoch": 1592001269.583448,
-            "last_retested_at_iso": "2020-06-12T22:34:29.583448",
+            "last_retested_at_epoch": 1592090860.432796,
+            "last_retested_at_iso": "2020-06-13T23:27:40.432796",
             "status": "INACTIVE"
         },
         "www.wwwadultcheck.com": {
