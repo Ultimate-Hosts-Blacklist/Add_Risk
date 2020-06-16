@@ -500,8 +500,8 @@
         "dqxaszsk.angelcities.com": {
             "included_at_epoch": 1590965503.329303,
             "included_at_iso": "2020-05-31T22:51:43.329303",
-            "last_retested_at_epoch": 1592096727.116547,
-            "last_retested_at_iso": "2020-06-14T01:05:27.116547",
+            "last_retested_at_epoch": 1592345293.084668,
+            "last_retested_at_iso": "2020-06-16T22:08:13.084668",
             "status": "INACTIVE"
         },
         "e.zeroredirect.com": {
@@ -850,8 +850,8 @@
         "m.zeroredirect.com": {
             "included_at_epoch": 1588455055.0,
             "included_at_iso": "2020-05-02T21:30:55",
-            "last_retested_at_epoch": 1592198691.152632,
-            "last_retested_at_iso": "2020-06-15T05:24:51.152632",
+            "last_retested_at_epoch": 1592345477.034452,
+            "last_retested_at_iso": "2020-06-16T22:11:17.034452",
             "status": "INACTIVE"
         },
         "m57ku6sm.com": {
@@ -2026,8 +2026,8 @@
         "www.ebdr3.com": {
             "included_at_epoch": 1588500318.0,
             "included_at_iso": "2020-05-03T10:05:18",
-            "last_retested_at_epoch": 1592133223.806087,
-            "last_retested_at_iso": "2020-06-14T11:13:43.806087",
+            "last_retested_at_epoch": 1592345106.622615,
+            "last_retested_at_iso": "2020-06-16T22:05:06.622615",
             "status": "INACTIVE"
         },
         "www.ebocornac.com": {
@@ -3685,8 +3685,8 @@
         "zm1.zeroredirect5.com": {
             "included_at_epoch": 1588486933.0,
             "included_at_iso": "2020-05-03T06:22:13",
-            "last_retested_at_epoch": 1592208980.450995,
-            "last_retested_at_iso": "2020-06-15T08:16:20.450995",
+            "last_retested_at_epoch": 1592345130.079584,
+            "last_retested_at_iso": "2020-06-16T22:05:30.079584",
             "status": "INACTIVE"
         },
         "zooggames.com": {
