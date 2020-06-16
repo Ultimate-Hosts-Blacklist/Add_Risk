@@ -150,8 +150,8 @@
         "anonymousproxy.tk": {
             "included_at_epoch": 1588496892.0,
             "included_at_iso": "2020-05-03T09:08:12",
-            "last_retested_at_epoch": 1592138371.094009,
-            "last_retested_at_iso": "2020-06-14T12:39:31.094009",
+            "last_retested_at_epoch": 1592335095.134071,
+            "last_retested_at_iso": "2020-06-16T19:18:15.134071",
             "status": "INACTIVE"
         },
         "antispyware.onlinedownloads.org": {
@@ -584,8 +584,8 @@
         "ftp.flyfishusa.com": {
             "included_at_epoch": 1588506528.0,
             "included_at_iso": "2020-05-03T11:48:48",
-            "last_retested_at_epoch": 1592133289.546503,
-            "last_retested_at_iso": "2020-06-14T11:14:49.546503",
+            "last_retested_at_epoch": 1592335797.288068,
+            "last_retested_at_iso": "2020-06-16T19:29:57.288068",
             "status": "INACTIVE"
         },
         "g.zeroredirect.com": {
@@ -1046,8 +1046,8 @@
         "oovqsvi.angelcities.com": {
             "included_at_epoch": 1590965312.287215,
             "included_at_iso": "2020-05-31T22:48:32.287215",
-            "last_retested_at_epoch": 1592198435.372145,
-            "last_retested_at_iso": "2020-06-15T05:20:35.372145",
+            "last_retested_at_epoch": 1592334952.910185,
+            "last_retested_at_iso": "2020-06-16T19:15:52.910185",
             "status": "INACTIVE"
         },
         "orango.redirectme.net": {
@@ -1284,8 +1284,8 @@
         "w.zeroredirect.com": {
             "included_at_epoch": 1588436318.0,
             "included_at_iso": "2020-05-02T16:18:38",
-            "last_retested_at_epoch": 1592181723.111585,
-            "last_retested_at_iso": "2020-06-15T00:42:03.111585",
+            "last_retested_at_epoch": 1592335651.862262,
+            "last_retested_at_iso": "2020-06-16T19:27:31.862262",
             "status": "INACTIVE"
         },
         "www.0iecfobt.com": {
@@ -1466,8 +1466,8 @@
         "www.anonymousproxy.tk": {
             "included_at_epoch": 1588496892.0,
             "included_at_iso": "2020-05-03T09:08:12",
-            "last_retested_at_epoch": 1592138371.262884,
-            "last_retested_at_iso": "2020-06-14T12:39:31.262884",
+            "last_retested_at_epoch": 1592335095.384288,
+            "last_retested_at_iso": "2020-06-16T19:18:15.384288",
             "status": "INACTIVE"
         },
         "www.antalya.ru": {
@@ -3405,8 +3405,8 @@
         "www.xchangetrak.com": {
             "included_at_epoch": 1588482820.0,
             "included_at_iso": "2020-05-03T05:13:40",
-            "last_retested_at_epoch": 1592182372.434185,
-            "last_retested_at_iso": "2020-06-15T00:52:52.434185",
+            "last_retested_at_epoch": 1592335528.628777,
+            "last_retested_at_iso": "2020-06-16T19:25:28.628777",
             "status": "INACTIVE"
         },
         "www.xclicks.net": {
@@ -3594,8 +3594,8 @@
         "xchangetrak.com": {
             "included_at_epoch": 1588482820.0,
             "included_at_iso": "2020-05-03T05:13:40",
-            "last_retested_at_epoch": 1592182372.629212,
-            "last_retested_at_iso": "2020-06-15T00:52:52.629212",
+            "last_retested_at_epoch": 1592335528.629862,
+            "last_retested_at_iso": "2020-06-16T19:25:28.629862",
             "status": "INACTIVE"
         },
         "xvika.net": {
