@@ -178,8 +178,8 @@
         "arecio.work": {
             "included_at_epoch": 1588510120.0,
             "included_at_iso": "2020-05-03T12:48:40",
-            "last_retested_at_epoch": 1592149690.921312,
-            "last_retested_at_iso": "2020-06-14T15:48:10.921312",
+            "last_retested_at_epoch": 1592341048.05589,
+            "last_retested_at_iso": "2020-06-16T20:57:28.055890",
             "status": "INACTIVE"
         },
         "atofilms.com": {
@@ -766,8 +766,8 @@
         "l.zeroredirect.com": {
             "included_at_epoch": 1588506748.0,
             "included_at_iso": "2020-05-03T11:52:28",
-            "last_retested_at_epoch": 1592209108.431983,
-            "last_retested_at_iso": "2020-06-15T08:18:28.431983",
+            "last_retested_at_epoch": 1592341592.66684,
+            "last_retested_at_iso": "2020-06-16T21:06:32.666840",
             "status": "INACTIVE"
         },
         "lateecapes.com": {
@@ -878,8 +878,8 @@
         "mal-ware-domain-list-2.tinker.pureleads.sendori.com": {
             "included_at_epoch": 1589591893.171789,
             "included_at_iso": "2020-05-16T01:18:13.171789",
-            "last_retested_at_epoch": 1592203980.630073,
-            "last_retested_at_iso": "2020-06-15T06:53:00.630073",
+            "last_retested_at_epoch": 1592341025.942105,
+            "last_retested_at_iso": "2020-06-16T20:57:05.942105",
             "status": "INACTIVE"
         },
         "markbruinink.nl": {
@@ -1480,8 +1480,8 @@
         "www.arecio.work": {
             "included_at_epoch": 1588510119.0,
             "included_at_iso": "2020-05-03T12:48:39",
-            "last_retested_at_epoch": 1592149691.062902,
-            "last_retested_at_iso": "2020-06-14T15:48:11.062902",
+            "last_retested_at_epoch": 1592341048.405252,
+            "last_retested_at_iso": "2020-06-16T20:57:28.405252",
             "status": "INACTIVE"
         },
         "www.arkinsoftware.in": {
@@ -2705,8 +2705,8 @@
         "www.monofeel.com": {
             "included_at_epoch": 1588445094.0,
             "included_at_iso": "2020-05-02T18:44:54",
-            "last_retested_at_epoch": 1592193396.154294,
-            "last_retested_at_iso": "2020-06-15T03:56:36.154294",
+            "last_retested_at_epoch": 1592341573.055167,
+            "last_retested_at_iso": "2020-06-16T21:06:13.055167",
             "status": "INACTIVE"
         },
         "www.mrace.hopto.org": {
