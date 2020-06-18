@@ -710,8 +710,8 @@
         "j.zeroredirect.com": {
             "included_at_epoch": 1588490326.0,
             "included_at_iso": "2020-05-03T07:18:46",
-            "last_retested_at_epoch": 1592330594.7284,
-            "last_retested_at_iso": "2020-06-16T18:03:14.728400",
+            "last_retested_at_epoch": 1592490288.849189,
+            "last_retested_at_iso": "2020-06-18T14:24:48.849189",
             "status": "INACTIVE"
         },
         "japanmadchen.com": {
@@ -1550,8 +1550,8 @@
         "www.babos.scrapping.cc": {
             "included_at_epoch": 1588464125.0,
             "included_at_iso": "2020-05-03T00:02:05",
-            "last_retested_at_epoch": 1592328199.521876,
-            "last_retested_at_iso": "2020-06-16T17:23:19.521876",
+            "last_retested_at_epoch": 1592490295.653902,
+            "last_retested_at_iso": "2020-06-18T14:24:55.653902",
             "status": "INACTIVE"
         },
         "www.balook.com": {
