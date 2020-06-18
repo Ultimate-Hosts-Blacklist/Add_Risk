@@ -507,8 +507,8 @@
         "e.zeroredirect.com": {
             "included_at_epoch": 1588493613.0,
             "included_at_iso": "2020-05-03T08:13:33",
-            "last_retested_at_epoch": 1592327107.196525,
-            "last_retested_at_iso": "2020-06-16T17:05:07.196525",
+            "last_retested_at_epoch": 1592473647.025034,
+            "last_retested_at_iso": "2020-06-18T09:47:27.025034",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
@@ -738,8 +738,8 @@
         "k.zeroredirect.com": {
             "included_at_epoch": 1588500139.0,
             "included_at_iso": "2020-05-03T10:02:19",
-            "last_retested_at_epoch": 1592325910.930987,
-            "last_retested_at_iso": "2020-06-16T16:45:10.930987",
+            "last_retested_at_epoch": 1592473804.558809,
+            "last_retested_at_iso": "2020-06-18T09:50:04.558809",
             "status": "INACTIVE"
         },
         "ka.bar.need2find.com": {
@@ -976,8 +976,8 @@
         "noredirecto.redirectme.net": {
             "included_at_epoch": 1588459730.0,
             "included_at_iso": "2020-05-02T22:48:50",
-            "last_retested_at_epoch": 1592330618.076021,
-            "last_retested_at_iso": "2020-06-16T18:03:38.076021",
+            "last_retested_at_epoch": 1592473377.606972,
+            "last_retested_at_iso": "2020-06-18T09:42:57.606972",
             "status": "INACTIVE"
         },
         "nourteenthp.angelcities.com": {
@@ -1230,6 +1230,13 @@
             "included_at_iso": "2020-05-03T09:08:13",
             "last_retested_at_epoch": 1592443505.651904,
             "last_retested_at_iso": "2020-06-18T01:25:05.651904",
+            "status": "INACTIVE"
+        },
+        "totszentmarton.hu": {
+            "included_at_epoch": 1592474046.907034,
+            "included_at_iso": "2020-06-18T09:54:06.907034",
+            "last_retested_at_epoch": 1592474046.907034,
+            "last_retested_at_iso": "2020-06-18T09:54:06.907034",
             "status": "INACTIVE"
         },
         "tttbbbttt.zapto.org": {
@@ -1501,8 +1508,8 @@
         "www.atousoft.com": {
             "included_at_epoch": 1588524950.0,
             "included_at_iso": "2020-05-03T16:55:50",
-            "last_retested_at_epoch": 1592338124.855415,
-            "last_retested_at_iso": "2020-06-16T20:08:44.855415",
+            "last_retested_at_epoch": 1592474077.69463,
+            "last_retested_at_iso": "2020-06-18T09:54:37.694630",
             "status": "INACTIVE"
         },
         "www.audia6.com": {
@@ -2761,8 +2768,8 @@
         "www.noredirecto.redirectme.net": {
             "included_at_epoch": 1588445024.0,
             "included_at_iso": "2020-05-02T18:43:44",
-            "last_retested_at_epoch": 1592330618.936036,
-            "last_retested_at_iso": "2020-06-16T18:03:38.936036",
+            "last_retested_at_epoch": 1592473377.593714,
+            "last_retested_at_iso": "2020-06-18T09:42:57.593714",
             "status": "INACTIVE"
         },
         "www.notrecommended.co.uk": {
@@ -3349,8 +3356,8 @@
         "www.wwwdiynet.com": {
             "included_at_epoch": 1588464029.0,
             "included_at_iso": "2020-05-03T00:00:29",
-            "last_retested_at_epoch": 1592330495.57543,
-            "last_retested_at_iso": "2020-06-16T18:01:35.575430",
+            "last_retested_at_epoch": 1592473498.584165,
+            "last_retested_at_iso": "2020-06-18T09:44:58.584165",
             "status": "INACTIVE"
         },
         "www.wwwdollar.com": {
@@ -3517,8 +3524,8 @@
         "wwwdiynet.com": {
             "included_at_epoch": 1588464029.0,
             "included_at_iso": "2020-05-03T00:00:29",
-            "last_retested_at_epoch": 1592330495.5974,
-            "last_retested_at_iso": "2020-06-16T18:01:35.597400",
+            "last_retested_at_epoch": 1592473498.579257,
+            "last_retested_at_iso": "2020-06-18T09:44:58.579257",
             "status": "INACTIVE"
         },
         "wwwgamepro.com": {
