@@ -507,8 +507,8 @@
         "e.zeroredirect.com": {
             "included_at_epoch": 1588493613.0,
             "included_at_iso": "2020-05-03T08:13:33",
-            "last_retested_at_epoch": 1592473647.025034,
-            "last_retested_at_iso": "2020-06-18T09:47:27.025034",
+            "last_retested_at_epoch": 1592586652.41753,
+            "last_retested_at_iso": "2020-06-19T17:10:52.417530",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
@@ -675,8 +675,8 @@
         "i.zeroredirect.com": {
             "included_at_epoch": 1588530471.0,
             "included_at_iso": "2020-05-03T18:27:51",
-            "last_retested_at_epoch": 1592437404.19618,
-            "last_retested_at_iso": "2020-06-17T23:43:24.196180",
+            "last_retested_at_epoch": 1592586707.744766,
+            "last_retested_at_iso": "2020-06-19T17:11:47.744766",
             "status": "INACTIVE"
         },
         "infospace.tk": {
@@ -927,8 +927,8 @@
         "mobatory.com": {
             "included_at_epoch": 1588516320.0,
             "included_at_iso": "2020-05-03T14:32:00",
-            "last_retested_at_epoch": 1592462079.158031,
-            "last_retested_at_iso": "2020-06-18T06:34:39.158031",
+            "last_retested_at_epoch": 1592586436.462717,
+            "last_retested_at_iso": "2020-06-19T17:07:16.462717",
             "status": "INACTIVE"
         },
         "mobile.bitterstrawberry.org": {
@@ -1550,8 +1550,8 @@
         "www.babos.scrapping.cc": {
             "included_at_epoch": 1588464125.0,
             "included_at_iso": "2020-05-03T00:02:05",
-            "last_retested_at_epoch": 1592490295.653902,
-            "last_retested_at_iso": "2020-06-18T14:24:55.653902",
+            "last_retested_at_epoch": 1592586986.31322,
+            "last_retested_at_iso": "2020-06-19T17:16:26.313220",
             "status": "INACTIVE"
         },
         "www.balook.com": {
@@ -1851,8 +1851,8 @@
         "www.comairairlines.com": {
             "included_at_epoch": 1588422180.0,
             "included_at_iso": "2020-05-02T12:23:00",
-            "last_retested_at_epoch": 1592468623.869701,
-            "last_retested_at_iso": "2020-06-18T08:23:43.869701",
+            "last_retested_at_epoch": 1592587143.688616,
+            "last_retested_at_iso": "2020-06-19T17:19:03.688616",
             "status": "INACTIVE"
         },
         "www.conds.ru": {
@@ -2656,15 +2656,15 @@
         "www.mobatory.com": {
             "included_at_epoch": 1588516320.0,
             "included_at_iso": "2020-05-03T14:32:00",
-            "last_retested_at_epoch": 1592462079.135908,
-            "last_retested_at_iso": "2020-06-18T06:34:39.135908",
+            "last_retested_at_epoch": 1592586436.729532,
+            "last_retested_at_iso": "2020-06-19T17:07:16.729532",
             "status": "INACTIVE"
         },
         "www.monarchslo.com": {
             "included_at_epoch": 1588413649.0,
             "included_at_iso": "2020-05-02T10:00:49",
-            "last_retested_at_epoch": 1592479284.366282,
-            "last_retested_at_iso": "2020-06-18T11:21:24.366282",
+            "last_retested_at_epoch": 1592586546.125605,
+            "last_retested_at_iso": "2020-06-19T17:09:06.125605",
             "status": "INACTIVE"
         },
         "www.monetisetrk.co.uk": {
