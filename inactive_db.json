@@ -416,8 +416,8 @@
         "cuoujvfi.angelcities.com": {
             "included_at_epoch": 1590959792.621925,
             "included_at_iso": "2020-05-31T21:16:32.621925",
-            "last_retested_at_epoch": 1592450939.977253,
-            "last_retested_at_iso": "2020-06-18T03:28:59.977253",
+            "last_retested_at_epoch": 1592570930.296989,
+            "last_retested_at_iso": "2020-06-19T12:48:50.296989",
             "status": "INACTIVE"
         },
         "d.tds.adlabs.ru": {
@@ -871,8 +871,8 @@
         "mail.poker.cm": {
             "included_at_epoch": 1588513283.0,
             "included_at_iso": "2020-05-03T13:41:23",
-            "last_retested_at_epoch": 1592424625.294405,
-            "last_retested_at_iso": "2020-06-17T20:10:25.294405",
+            "last_retested_at_epoch": 1592570577.082965,
+            "last_retested_at_iso": "2020-06-19T12:42:57.082965",
             "status": "INACTIVE"
         },
         "mal-ware-domain-list-2.tinker.pureleads.sendori.com": {
@@ -990,8 +990,8 @@
         "ns1.ntkrnlpa.info": {
             "included_at_epoch": 1588454839.0,
             "included_at_iso": "2020-05-02T21:27:19",
-            "last_retested_at_epoch": 1592479437.444157,
-            "last_retested_at_iso": "2020-06-18T11:23:57.444157",
+            "last_retested_at_epoch": 1592570603.029613,
+            "last_retested_at_iso": "2020-06-19T12:43:23.029613",
             "status": "INACTIVE"
         },
         "ns2.ntkrnlpa.info": {
@@ -2376,8 +2376,8 @@
         "www.installm.net": {
             "included_at_epoch": 1588527325.0,
             "included_at_iso": "2020-05-03T17:35:25",
-            "last_retested_at_epoch": 1592450945.604986,
-            "last_retested_at_iso": "2020-06-18T03:29:05.604986",
+            "last_retested_at_epoch": 1592570802.452009,
+            "last_retested_at_iso": "2020-06-19T12:46:42.452009",
             "status": "INACTIVE"
         },
         "www.itunesdownloadstore.com": {
@@ -2943,8 +2943,8 @@
         "www.rngetek.com": {
             "included_at_epoch": 1588449959.0,
             "included_at_iso": "2020-05-02T20:05:59",
-            "last_retested_at_epoch": 1592479157.267542,
-            "last_retested_at_iso": "2020-06-18T11:19:17.267542",
+            "last_retested_at_epoch": 1592570385.216914,
+            "last_retested_at_iso": "2020-06-19T12:39:45.216914",
             "status": "INACTIVE"
         },
         "www.robtopol.in": {
