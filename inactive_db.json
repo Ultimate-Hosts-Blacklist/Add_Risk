@@ -346,8 +346,8 @@
         "c.pioneeringad.com": {
             "included_at_epoch": 1592327087.733654,
             "included_at_iso": "2020-06-16T17:04:47.733654",
-            "last_retested_at_epoch": 1593439972.786807,
-            "last_retested_at_iso": "2020-06-29T14:12:52.786807",
+            "last_retested_at_epoch": 1593528283.474903,
+            "last_retested_at_iso": "2020-06-30T14:44:43.474903",
             "status": "INACTIVE"
         },
         "c.zeroredirect.com": {
@@ -962,8 +962,8 @@
         "minigameplanet.com": {
             "included_at_epoch": 1588500317.0,
             "included_at_iso": "2020-05-03T10:05:17",
-            "last_retested_at_epoch": 1593440244.306907,
-            "last_retested_at_iso": "2020-06-29T14:17:24.306907",
+            "last_retested_at_epoch": 1593528566.52431,
+            "last_retested_at_iso": "2020-06-30T14:49:26.524310",
             "status": "INACTIVE"
         },
         "mlpoint.pt": {
@@ -976,8 +976,8 @@
         "mobatory.com": {
             "included_at_epoch": 1588516320.0,
             "included_at_iso": "2020-05-03T14:32:00",
-            "last_retested_at_epoch": 1593440159.828693,
-            "last_retested_at_iso": "2020-06-29T14:15:59.828693",
+            "last_retested_at_epoch": 1593528328.680022,
+            "last_retested_at_iso": "2020-06-30T14:45:28.680022",
             "status": "INACTIVE"
         },
         "mobile.bitterstrawberry.org": {
@@ -1039,8 +1039,8 @@
         "ns1.ntkrnlpa.info": {
             "included_at_epoch": 1588454839.0,
             "included_at_iso": "2020-05-02T21:27:19",
-            "last_retested_at_epoch": 1593434228.108418,
-            "last_retested_at_iso": "2020-06-29T12:37:08.108418",
+            "last_retested_at_epoch": 1593528238.490844,
+            "last_retested_at_iso": "2020-06-30T14:43:58.490844",
             "status": "INACTIVE"
         },
         "ns2.ntkrnlpa.info": {
@@ -1242,8 +1242,8 @@
         "stressx.org": {
             "included_at_epoch": 1588422568.0,
             "included_at_iso": "2020-05-02T12:29:28",
-            "last_retested_at_epoch": 1593440373.607485,
-            "last_retested_at_iso": "2020-06-29T14:19:33.607485",
+            "last_retested_at_epoch": 1593528244.045829,
+            "last_retested_at_iso": "2020-06-30T14:44:04.045829",
             "status": "INACTIVE"
         },
         "suscotrk.com": {
@@ -1543,8 +1543,8 @@
         "www.antalya.ru": {
             "included_at_epoch": 1588509653.0,
             "included_at_iso": "2020-05-03T12:40:53",
-            "last_retested_at_epoch": 1593431301.333985,
-            "last_retested_at_iso": "2020-06-29T11:48:21.333985",
+            "last_retested_at_epoch": 1593528117.768213,
+            "last_retested_at_iso": "2020-06-30T14:41:57.768213",
             "status": "INACTIVE"
         },
         "www.arecio.work": {
@@ -1585,8 +1585,8 @@
         "www.auto-overview.com": {
             "included_at_epoch": 1588440843.0,
             "included_at_iso": "2020-05-02T17:34:03",
-            "last_retested_at_epoch": 1593436948.184083,
-            "last_retested_at_iso": "2020-06-29T13:22:28.184083",
+            "last_retested_at_epoch": 1593528630.039558,
+            "last_retested_at_iso": "2020-06-30T14:50:30.039558",
             "status": "INACTIVE"
         },
         "www.automoneygenerator.com": {
@@ -2285,8 +2285,8 @@
         "www.getsearchlist.com": {
             "included_at_epoch": 1588549090.122043,
             "included_at_iso": "2020-05-03T23:38:10.122043",
-            "last_retested_at_epoch": 1593413968.03509,
-            "last_retested_at_iso": "2020-06-29T06:59:28.035090",
+            "last_retested_at_epoch": 1593528060.000934,
+            "last_retested_at_iso": "2020-06-30T14:41:00.000934",
             "status": "INACTIVE"
         },
         "www.gnuetella.com": {
@@ -2691,8 +2691,8 @@
         "www.minigameplanet.com": {
             "included_at_epoch": 1588500317.0,
             "included_at_iso": "2020-05-03T10:05:17",
-            "last_retested_at_epoch": 1593440244.31484,
-            "last_retested_at_iso": "2020-06-29T14:17:24.314840",
+            "last_retested_at_epoch": 1593528566.709998,
+            "last_retested_at_iso": "2020-06-30T14:49:26.709998",
             "status": "INACTIVE"
         },
         "www.mlinktracker.com": {
@@ -2719,8 +2719,8 @@
         "www.mobatory.com": {
             "included_at_epoch": 1588516320.0,
             "included_at_iso": "2020-05-03T14:32:00",
-            "last_retested_at_epoch": 1593440159.90381,
-            "last_retested_at_iso": "2020-06-29T14:15:59.903810",
+            "last_retested_at_epoch": 1593528328.679157,
+            "last_retested_at_iso": "2020-06-30T14:45:28.679157",
             "status": "INACTIVE"
         },
         "www.monarchslo.com": {
@@ -3062,8 +3062,8 @@
         "www.sendori.com": {
             "included_at_epoch": 1589617282.109581,
             "included_at_iso": "2020-05-16T08:21:22.109581",
-            "last_retested_at_epoch": 1593437112.492374,
-            "last_retested_at_iso": "2020-06-29T13:25:12.492374",
+            "last_retested_at_epoch": 1593527813.70662,
+            "last_retested_at_iso": "2020-06-30T14:36:53.706620",
             "status": "INACTIVE"
         },
         "www.sentrol.cl": {
@@ -3139,8 +3139,8 @@
         "www.stressx.org": {
             "included_at_epoch": 1588422568.0,
             "included_at_iso": "2020-05-02T12:29:28",
-            "last_retested_at_epoch": 1593440373.639608,
-            "last_retested_at_iso": "2020-06-29T14:19:33.639608",
+            "last_retested_at_epoch": 1593528244.09615,
+            "last_retested_at_iso": "2020-06-30T14:44:04.096150",
             "status": "INACTIVE"
         },
         "www.sunidaytravel.co.uk": {
@@ -3559,8 +3559,8 @@
         "www.zooggames.com": {
             "included_at_epoch": 1588513074.0,
             "included_at_iso": "2020-05-03T13:37:54",
-            "last_retested_at_epoch": 1593437112.895868,
-            "last_retested_at_iso": "2020-06-29T13:25:12.895868",
+            "last_retested_at_epoch": 1593528565.176556,
+            "last_retested_at_iso": "2020-06-30T14:49:25.176556",
             "status": "INACTIVE"
         },
         "www2.leadingedgecash.com": {
@@ -3741,8 +3741,8 @@
         "ylgingq.angelcities.com": {
             "included_at_epoch": 1590971865.111025,
             "included_at_iso": "2020-06-01T00:37:45.111025",
-            "last_retested_at_epoch": 1593437476.71173,
-            "last_retested_at_iso": "2020-06-29T13:31:16.711730",
+            "last_retested_at_epoch": 1593528433.265627,
+            "last_retested_at_iso": "2020-06-30T14:47:13.265627",
             "status": "INACTIVE"
         },
         "yourdedicatedhost.com": {
@@ -3783,8 +3783,8 @@
         "zooggames.com": {
             "included_at_epoch": 1588513074.0,
             "included_at_iso": "2020-05-03T13:37:54",
-            "last_retested_at_epoch": 1593437112.803381,
-            "last_retested_at_iso": "2020-06-29T13:25:12.803381",
+            "last_retested_at_epoch": 1593528565.023224,
+            "last_retested_at_iso": "2020-06-30T14:49:25.023224",
             "status": "INACTIVE"
         }
     }
