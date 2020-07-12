@@ -80,8 +80,8 @@
         "a.zeroredirect.com": {
             "included_at_epoch": 1588473965.0,
             "included_at_iso": "2020-05-03T02:46:05",
-            "last_retested_at_epoch": 1594454108.612798,
-            "last_retested_at_iso": "2020-07-11T07:55:08.612798",
+            "last_retested_at_epoch": 1594540870.273167,
+            "last_retested_at_iso": "2020-07-12T08:01:10.273167",
             "status": "INACTIVE"
         },
         "ad.slutload.com": {
@@ -241,8 +241,8 @@
         "arecio.work": {
             "included_at_epoch": 1588510120.0,
             "included_at_iso": "2020-05-03T12:48:40",
-            "last_retested_at_epoch": 1594454195.562455,
-            "last_retested_at_iso": "2020-07-11T07:56:35.562455",
+            "last_retested_at_epoch": 1594541181.799501,
+            "last_retested_at_iso": "2020-07-12T08:06:21.799501",
             "status": "INACTIVE"
         },
         "atofilms.com": {
@@ -255,8 +255,8 @@
         "ayada.zapto.org": {
             "included_at_epoch": 1588497244.0,
             "included_at_iso": "2020-05-03T09:14:04",
-            "last_retested_at_epoch": 1594400704.28992,
-            "last_retested_at_iso": "2020-07-10T17:05:04.289920",
+            "last_retested_at_epoch": 1594541310.175107,
+            "last_retested_at_iso": "2020-07-12T08:08:30.175107",
             "status": "INACTIVE"
         },
         "ayehcleaners.com": {
@@ -836,8 +836,8 @@
         "jzrvquay.angelcities.com": {
             "included_at_epoch": 1590996177.808071,
             "included_at_iso": "2020-06-01T07:22:57.808071",
-            "last_retested_at_epoch": 1594453903.319668,
-            "last_retested_at_iso": "2020-07-11T07:51:43.319668",
+            "last_retested_at_epoch": 1594540671.243658,
+            "last_retested_at_iso": "2020-07-12T07:57:51.243658",
             "status": "INACTIVE"
         },
         "k.zeroredirect.com": {
@@ -1102,8 +1102,8 @@
         "ns2.ntkrnlpa.info": {
             "included_at_epoch": 1588445095.0,
             "included_at_iso": "2020-05-02T18:44:55",
-            "last_retested_at_epoch": 1594442871.376706,
-            "last_retested_at_iso": "2020-07-11T04:47:51.376706",
+            "last_retested_at_epoch": 1594541227.109831,
+            "last_retested_at_iso": "2020-07-12T08:07:07.109831",
             "status": "INACTIVE"
         },
         "ns3.ishosting.net": {
@@ -1312,8 +1312,8 @@
         "stignita.zapto.org": {
             "included_at_epoch": 1588519267.0,
             "included_at_iso": "2020-05-03T15:21:07",
-            "last_retested_at_epoch": 1594442664.936834,
-            "last_retested_at_iso": "2020-07-11T04:44:24.936834",
+            "last_retested_at_epoch": 1594541156.783143,
+            "last_retested_at_iso": "2020-07-12T08:05:56.783143",
             "status": "INACTIVE"
         },
         "stressx.org": {
@@ -1431,8 +1431,8 @@
         "urchman11.zapto.org": {
             "included_at_epoch": 1588454765.0,
             "included_at_iso": "2020-05-02T21:26:05",
-            "last_retested_at_epoch": 1594442868.621123,
-            "last_retested_at_iso": "2020-07-11T04:47:48.621123",
+            "last_retested_at_epoch": 1594540868.58036,
+            "last_retested_at_iso": "2020-07-12T08:01:08.580360",
             "status": "INACTIVE"
         },
         "w.zeroredirect.com": {
@@ -1648,8 +1648,8 @@
         "www.arecio.work": {
             "included_at_epoch": 1588510119.0,
             "included_at_iso": "2020-05-03T12:48:39",
-            "last_retested_at_epoch": 1594454196.149371,
-            "last_retested_at_iso": "2020-07-11T07:56:36.149371",
+            "last_retested_at_epoch": 1594541181.439563,
+            "last_retested_at_iso": "2020-07-12T08:06:21.439563",
             "status": "INACTIVE"
         },
         "www.arkinsoftware.in": {
@@ -1697,8 +1697,8 @@
         "www.ayada.zapto.org": {
             "included_at_epoch": 1588497244.0,
             "included_at_iso": "2020-05-03T09:14:04",
-            "last_retested_at_epoch": 1594400704.197337,
-            "last_retested_at_iso": "2020-07-10T17:05:04.197337",
+            "last_retested_at_epoch": 1594541310.099257,
+            "last_retested_at_iso": "2020-07-12T08:08:30.099257",
             "status": "INACTIVE"
         },
         "www.ayehcleaners.com": {
@@ -1718,8 +1718,8 @@
         "www.balook.com": {
             "included_at_epoch": 1588454615.0,
             "included_at_iso": "2020-05-02T21:23:35",
-            "last_retested_at_epoch": 1594442746.41215,
-            "last_retested_at_iso": "2020-07-11T04:45:46.412150",
+            "last_retested_at_epoch": 1594540499.728541,
+            "last_retested_at_iso": "2020-07-12T07:54:59.728541",
             "status": "INACTIVE"
         },
         "www.bananarepubic.com": {
@@ -2957,8 +2957,8 @@
         "www.notrecommended.co.uk": {
             "included_at_epoch": 1588500352.0,
             "included_at_iso": "2020-05-03T10:05:52",
-            "last_retested_at_epoch": 1594424678.612287,
-            "last_retested_at_iso": "2020-07-10T23:44:38.612287",
+            "last_retested_at_epoch": 1594540735.152867,
+            "last_retested_at_iso": "2020-07-12T07:58:55.152867",
             "status": "INACTIVE"
         },
         "www.ntkrnlpa.info": {
@@ -3258,8 +3258,8 @@
         "www.stignita.zapto.org": {
             "included_at_epoch": 1588478785.0,
             "included_at_iso": "2020-05-03T04:06:25",
-            "last_retested_at_epoch": 1594442664.901783,
-            "last_retested_at_iso": "2020-07-11T04:44:24.901783",
+            "last_retested_at_epoch": 1594541156.780997,
+            "last_retested_at_iso": "2020-07-12T08:05:56.780997",
             "status": "INACTIVE"
         },
         "www.stressx.org": {
@@ -3447,8 +3447,8 @@
         "www.urchman11.zapto.org": {
             "included_at_epoch": 1588454765.0,
             "included_at_iso": "2020-05-02T21:26:05",
-            "last_retested_at_epoch": 1594442868.684065,
-            "last_retested_at_iso": "2020-07-11T04:47:48.684065",
+            "last_retested_at_epoch": 1594540868.549524,
+            "last_retested_at_iso": "2020-07-12T08:01:08.549524",
             "status": "INACTIVE"
         },
         "www.valuehost.co.uk": {
@@ -3783,8 +3783,8 @@
         "x.zeroredirect.com": {
             "included_at_epoch": 1588509920.0,
             "included_at_iso": "2020-05-03T12:45:20",
-            "last_retested_at_epoch": 1594443184.467539,
-            "last_retested_at_iso": "2020-07-11T04:53:04.467539",
+            "last_retested_at_epoch": 1594541115.115161,
+            "last_retested_at_iso": "2020-07-12T08:05:15.115161",
             "status": "INACTIVE"
         },
         "x2.xclicks.net": {
