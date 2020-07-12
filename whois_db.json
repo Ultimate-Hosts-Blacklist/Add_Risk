@@ -1740,9 +1740,9 @@
         "state": "future"
     },
     "google-docs.org": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
-        "state": "past"
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
     },
     "googlew.com": {
         "epoch": 1697760000.0,
@@ -4055,8 +4055,8 @@
         "state": "future"
     },
     "travelocidy.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1657584000.0,
+        "expiration_date": "12-jul-2022",
         "state": "future"
     },
     "travelocite.com": {
