@@ -17,8 +17,8 @@
         "4.collecorvino.org": {
             "included_at_epoch": 1591519192.364616,
             "included_at_iso": "2020-06-07T08:39:52.364616",
-            "last_retested_at_epoch": 1594590596.993104,
-            "last_retested_at_iso": "2020-07-12T21:49:56.993104",
+            "last_retested_at_epoch": 1594713038.462463,
+            "last_retested_at_iso": "2020-07-14T07:50:38.462463",
             "status": "INACTIVE"
         },
         "4.whereinitaly.com": {
@@ -549,8 +549,8 @@
         "doda.redirectme.net": {
             "included_at_epoch": 1588422641.0,
             "included_at_iso": "2020-05-02T12:30:41",
-            "last_retested_at_epoch": 1594608266.28684,
-            "last_retested_at_iso": "2020-07-13T02:44:26.286840",
+            "last_retested_at_epoch": 1594712646.320203,
+            "last_retested_at_iso": "2020-07-14T07:44:06.320203",
             "status": "INACTIVE"
         },
         "down.feiyang163.com": {
@@ -801,8 +801,8 @@
         "j.theadsnet.com": {
             "included_at_epoch": 1588524754.0,
             "included_at_iso": "2020-05-03T16:52:34",
-            "last_retested_at_epoch": 1594614430.717116,
-            "last_retested_at_iso": "2020-07-13T04:27:10.717116",
+            "last_retested_at_epoch": 1594712700.789309,
+            "last_retested_at_iso": "2020-07-14T07:45:00.789309",
             "status": "INACTIVE"
         },
         "j.zeroredirect.com": {
@@ -1291,8 +1291,8 @@
         "site.falconbucks.com": {
             "included_at_epoch": 1590001640.424918,
             "included_at_iso": "2020-05-20T19:07:20.424918",
-            "last_retested_at_epoch": 1594608000.269027,
-            "last_retested_at_iso": "2020-07-13T02:40:00.269027",
+            "last_retested_at_epoch": 1594713475.838231,
+            "last_retested_at_iso": "2020-07-14T07:57:55.838231",
             "status": "INACTIVE"
         },
         "smc.silvercash.com": {
@@ -2152,8 +2152,8 @@
         "www.doda.redirectme.net": {
             "included_at_epoch": 1588422641.0,
             "included_at_iso": "2020-05-02T12:30:41",
-            "last_retested_at_epoch": 1594608266.27171,
-            "last_retested_at_iso": "2020-07-13T02:44:26.271710",
+            "last_retested_at_epoch": 1594712646.298295,
+            "last_retested_at_iso": "2020-07-14T07:44:06.298295",
             "status": "INACTIVE"
         },
         "www.dogpial.com": {
@@ -2817,8 +2817,8 @@
         "www.mlinktracker.com": {
             "included_at_epoch": 1592188179.802058,
             "included_at_iso": "2020-06-15T02:29:39.802058",
-            "last_retested_at_epoch": 1594614458.905631,
-            "last_retested_at_iso": "2020-07-13T04:27:38.905631",
+            "last_retested_at_epoch": 1594713222.04424,
+            "last_retested_at_iso": "2020-07-14T07:53:42.044240",
             "status": "INACTIVE"
         },
         "www.mlpoint.pt": {
@@ -3860,8 +3860,8 @@
         "xyxudubax.angelcities.com": {
             "included_at_epoch": 1590960428.21742,
             "included_at_iso": "2020-05-31T21:27:08.217420",
-            "last_retested_at_epoch": 1594602032.041377,
-            "last_retested_at_iso": "2020-07-13T01:00:32.041377",
+            "last_retested_at_epoch": 1594712947.052131,
+            "last_retested_at_iso": "2020-07-14T07:49:07.052131",
             "status": "INACTIVE"
         },
         "y.zeroredirect.com": {
