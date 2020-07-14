@@ -55,8 +55,8 @@
         "state": "future"
     },
     "7metasearch.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "7search.com": {
@@ -4132,7 +4132,7 @@
     "trk4.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "trkingace.com": {
         "epoch": 1595116800.0,
