@@ -150,8 +150,8 @@
         "aff.naughtyconnect.com": {
             "included_at_epoch": 1591971451.129801,
             "included_at_iso": "2020-06-12T14:17:31.129801",
-            "last_retested_at_epoch": 1594717303.920739,
-            "last_retested_at_iso": "2020-07-14T09:01:43.920739",
+            "last_retested_at_epoch": 1594807464.947916,
+            "last_retested_at_iso": "2020-07-15T10:04:24.947916",
             "status": "INACTIVE"
         },
         "affiliate.trk4.com": {
@@ -605,8 +605,8 @@
         "egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1594717037.065345,
-            "last_retested_at_iso": "2020-07-14T08:57:17.065345",
+            "last_retested_at_epoch": 1594807518.544612,
+            "last_retested_at_iso": "2020-07-15T10:05:18.544612",
             "status": "INACTIVE"
         },
         "elisaart.it": {
@@ -654,8 +654,8 @@
         "ficcionaliza.angelcities.com": {
             "included_at_epoch": 1590959774.717349,
             "included_at_iso": "2020-05-31T21:16:14.717349",
-            "last_retested_at_epoch": 1594717545.863045,
-            "last_retested_at_iso": "2020-07-14T09:05:45.863045",
+            "last_retested_at_epoch": 1594807417.283237,
+            "last_retested_at_iso": "2020-07-15T10:03:37.283237",
             "status": "INACTIVE"
         },
         "finders.hopto.org": {
@@ -1396,8 +1396,8 @@
         "uoaofgqu.angelcities.com": {
             "included_at_epoch": 1590959973.05684,
             "included_at_iso": "2020-05-31T21:19:33.056840",
-            "last_retested_at_epoch": 1594687267.454292,
-            "last_retested_at_iso": "2020-07-14T00:41:07.454292",
+            "last_retested_at_epoch": 1594807109.832177,
+            "last_retested_at_iso": "2020-07-15T09:58:29.832177",
             "status": "INACTIVE"
         },
         "uojamcse.angelcities.com": {
@@ -1459,8 +1459,8 @@
         "www.101malls.com": {
             "included_at_epoch": 1587361265.0,
             "included_at_iso": "2020-04-20T05:41:05",
-            "last_retested_at_epoch": 1594696099.146167,
-            "last_retested_at_iso": "2020-07-14T03:08:19.146167",
+            "last_retested_at_epoch": 1594807564.077709,
+            "last_retested_at_iso": "2020-07-15T10:06:04.077709",
             "status": "INACTIVE"
         },
         "www.105vibe.com": {
@@ -1641,8 +1641,8 @@
         "www.antalya.ru": {
             "included_at_epoch": 1588509653.0,
             "included_at_iso": "2020-05-03T12:40:53",
-            "last_retested_at_epoch": 1594700124.836118,
-            "last_retested_at_iso": "2020-07-14T04:15:24.836118",
+            "last_retested_at_epoch": 1594807187.220867,
+            "last_retested_at_iso": "2020-07-15T09:59:47.220867",
             "status": "INACTIVE"
         },
         "www.arecio.work": {
@@ -2222,8 +2222,8 @@
         "www.egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1594717037.064429,
-            "last_retested_at_iso": "2020-07-14T08:57:17.064429",
+            "last_retested_at_epoch": 1594807518.543538,
+            "last_retested_at_iso": "2020-07-15T10:05:18.543538",
             "status": "INACTIVE"
         },
         "www.elisaart.it": {
@@ -2376,8 +2376,8 @@
         "www.full-edition.info": {
             "included_at_epoch": 1591811916.775747,
             "included_at_iso": "2020-06-10T17:58:36.775747",
-            "last_retested_at_epoch": 1594717135.902724,
-            "last_retested_at_iso": "2020-07-14T08:58:55.902724",
+            "last_retested_at_epoch": 1594807711.250306,
+            "last_retested_at_iso": "2020-07-15T10:08:31.250306",
             "status": "INACTIVE"
         },
         "www.garudaairlines.com": {
@@ -2427,6 +2427,13 @@
             "included_at_iso": "2020-05-02T20:07:31",
             "last_retested_at_epoch": 1594767458.217415,
             "last_retested_at_iso": "2020-07-14T22:57:38.217415",
+            "status": "INACTIVE"
+        },
+        "www.guaranty.com.cn": {
+            "included_at_epoch": 1594807206.191644,
+            "included_at_iso": "2020-07-15T10:00:06.191644",
+            "last_retested_at_epoch": 1594807206.191644,
+            "last_retested_at_iso": "2020-07-15T10:00:06.191644",
             "status": "INACTIVE"
         },
         "www.gulf-industrial.com": {
@@ -2586,8 +2593,8 @@
         "www.jcwhintey.com": {
             "included_at_epoch": 1590840381.952981,
             "included_at_iso": "2020-05-30T12:06:21.952981",
-            "last_retested_at_epoch": 1594683113.575879,
-            "last_retested_at_iso": "2020-07-13T23:31:53.575879",
+            "last_retested_at_epoch": 1594807520.269069,
+            "last_retested_at_iso": "2020-07-15T10:05:20.269069",
             "status": "INACTIVE"
         },
         "www.jcwhitey.com": {
@@ -2978,8 +2985,8 @@
         "www.ocpersian.com": {
             "included_at_epoch": 1588503272.0,
             "included_at_iso": "2020-05-03T10:54:32",
-            "last_retested_at_epoch": 1594717132.715745,
-            "last_retested_at_iso": "2020-07-14T08:58:52.715745",
+            "last_retested_at_epoch": 1594807164.905126,
+            "last_retested_at_iso": "2020-07-15T09:59:24.905126",
             "status": "INACTIVE"
         },
         "www.onadstracker.com": {
