@@ -976,8 +976,8 @@
         "mail.poker.cm": {
             "included_at_epoch": 1588513283.0,
             "included_at_iso": "2020-05-03T13:41:23",
-            "last_retested_at_epoch": 1594967586.325303,
-            "last_retested_at_iso": "2020-07-17T06:33:06.325303",
+            "last_retested_at_epoch": 1595073948.813727,
+            "last_retested_at_iso": "2020-07-18T12:05:48.813727",
             "status": "INACTIVE"
         },
         "mal-ware-domain-list-2.tinker.pureleads.sendori.com": {
@@ -1396,8 +1396,8 @@
         "uoaofgqu.angelcities.com": {
             "included_at_epoch": 1590959973.05684,
             "included_at_iso": "2020-05-31T21:19:33.056840",
-            "last_retested_at_epoch": 1594967359.860815,
-            "last_retested_at_iso": "2020-07-17T06:29:19.860815",
+            "last_retested_at_epoch": 1595073845.746217,
+            "last_retested_at_iso": "2020-07-18T12:04:05.746217",
             "status": "INACTIVE"
         },
         "uojamcse.angelcities.com": {
@@ -1431,8 +1431,8 @@
         "urchman11.zapto.org": {
             "included_at_epoch": 1588454765.0,
             "included_at_iso": "2020-05-02T21:26:05",
-            "last_retested_at_epoch": 1594979127.883219,
-            "last_retested_at_iso": "2020-07-17T09:45:27.883219",
+            "last_retested_at_epoch": 1595073779.262,
+            "last_retested_at_iso": "2020-07-18T12:02:59.262000",
             "status": "INACTIVE"
         },
         "w.zeroredirect.com": {
@@ -1956,8 +1956,8 @@
         "www.cleanallvirus.com": {
             "included_at_epoch": 1588515981.0,
             "included_at_iso": "2020-05-03T14:26:21",
-            "last_retested_at_epoch": 1594966766.532024,
-            "last_retested_at_iso": "2020-07-17T06:19:26.532024",
+            "last_retested_at_epoch": 1595074268.636118,
+            "last_retested_at_iso": "2020-07-18T12:11:08.636118",
             "status": "INACTIVE"
         },
         "www.cleanproxy.com": {
@@ -3496,8 +3496,8 @@
         "www.urchman11.zapto.org": {
             "included_at_epoch": 1588454765.0,
             "included_at_iso": "2020-05-02T21:26:05",
-            "last_retested_at_epoch": 1594979127.836603,
-            "last_retested_at_iso": "2020-07-17T09:45:27.836603",
+            "last_retested_at_epoch": 1595073779.181884,
+            "last_retested_at_iso": "2020-07-18T12:02:59.181884",
             "status": "INACTIVE"
         },
         "www.valuehost.co.uk": {
@@ -3538,8 +3538,8 @@
         "www.vyrus.redirectme.net": {
             "included_at_epoch": 1588516010.0,
             "included_at_iso": "2020-05-03T14:26:50",
-            "last_retested_at_epoch": 1594932238.417435,
-            "last_retested_at_iso": "2020-07-16T20:43:58.417435",
+            "last_retested_at_epoch": 1595074360.219621,
+            "last_retested_at_iso": "2020-07-18T12:12:40.219621",
             "status": "INACTIVE"
         },
         "www.web-feed.net": {
@@ -3615,8 +3615,8 @@
         "www.wwwcheaptickets.com": {
             "included_at_epoch": 1588459562.0,
             "included_at_iso": "2020-05-02T22:46:02",
-            "last_retested_at_epoch": 1594979119.043591,
-            "last_retested_at_iso": "2020-07-17T09:45:19.043591",
+            "last_retested_at_epoch": 1595074643.269321,
+            "last_retested_at_iso": "2020-07-18T12:17:23.269321",
             "status": "INACTIVE"
         },
         "www.wwwdiynet.com": {
@@ -3629,8 +3629,8 @@
         "www.wwwdollar.com": {
             "included_at_epoch": 1590840290.203742,
             "included_at_iso": "2020-05-30T12:04:50.203742",
-            "last_retested_at_epoch": 1594984340.010823,
-            "last_retested_at_iso": "2020-07-17T11:12:20.010823",
+            "last_retested_at_epoch": 1595073878.049847,
+            "last_retested_at_iso": "2020-07-18T12:04:38.049847",
             "status": "INACTIVE"
         },
         "www.wwwgamepro.com": {
@@ -3650,8 +3650,8 @@
         "www.wwwmancow.com": {
             "included_at_epoch": 1588506980.0,
             "included_at_iso": "2020-05-03T11:56:20",
-            "last_retested_at_epoch": 1594984729.86876,
-            "last_retested_at_iso": "2020-07-17T11:18:49.868760",
+            "last_retested_at_epoch": 1595073776.833487,
+            "last_retested_at_iso": "2020-07-18T12:02:56.833487",
             "status": "INACTIVE"
         },
         "www.wwwplaysite.com": {
@@ -3818,8 +3818,8 @@
         "wwwmancow.com": {
             "included_at_epoch": 1588454780.0,
             "included_at_iso": "2020-05-02T21:26:20",
-            "last_retested_at_epoch": 1594984729.846055,
-            "last_retested_at_iso": "2020-07-17T11:18:49.846055",
+            "last_retested_at_epoch": 1595073776.896895,
+            "last_retested_at_iso": "2020-07-18T12:02:56.896895",
             "status": "INACTIVE"
         },
         "wwwuproar.com": {
@@ -4002,6 +4002,13 @@
             "included_at_iso": "2020-05-03T13:37:54",
             "last_retested_at_epoch": 1594990589.867359,
             "last_retested_at_iso": "2020-07-17T12:56:29.867359",
+            "status": "INACTIVE"
+        },
+        "zr1.zeroredirect11.com": {
+            "included_at_epoch": 1595073853.527274,
+            "included_at_iso": "2020-07-18T12:04:13.527274",
+            "last_retested_at_epoch": 1595073853.527274,
+            "last_retested_at_iso": "2020-07-18T12:04:13.527274",
             "status": "INACTIVE"
         }
     }
