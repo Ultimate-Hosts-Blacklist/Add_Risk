@@ -94,8 +94,8 @@
         "ad3.hornymatches.com": {
             "included_at_epoch": 1588506430.0,
             "included_at_iso": "2020-05-03T11:47:10",
-            "last_retested_at_epoch": 1595039890.643979,
-            "last_retested_at_iso": "2020-07-18T02:38:10.643979",
+            "last_retested_at_epoch": 1595138629.59196,
+            "last_retested_at_iso": "2020-07-19T06:03:49.591960",
             "status": "INACTIVE"
         },
         "ads.clicksor.cn": {
@@ -122,8 +122,8 @@
         "adserve.cpmba.se": {
             "included_at_epoch": 1588440866.0,
             "included_at_iso": "2020-05-02T17:34:26",
-            "last_retested_at_epoch": 1595049733.161918,
-            "last_retested_at_iso": "2020-07-18T05:22:13.161918",
+            "last_retested_at_epoch": 1595138673.873264,
+            "last_retested_at_iso": "2020-07-19T06:04:33.873264",
             "status": "INACTIVE"
         },
         "adserver.online-tech.com": {
@@ -269,8 +269,8 @@
         "b.zeroredirect.com": {
             "included_at_epoch": 1588454892.0,
             "included_at_iso": "2020-05-02T21:28:12",
-            "last_retested_at_epoch": 1595035014.06684,
-            "last_retested_at_iso": "2020-07-18T01:16:54.066840",
+            "last_retested_at_epoch": 1595138521.275527,
+            "last_retested_at_iso": "2020-07-19T06:02:01.275527",
             "status": "INACTIVE"
         },
         "banner.tonygpoker.com": {
@@ -542,8 +542,8 @@
         "dlldlldll.sytes.net": {
             "included_at_epoch": 1588483158.0,
             "included_at_iso": "2020-05-03T05:19:18",
-            "last_retested_at_epoch": 1595030250.594797,
-            "last_retested_at_iso": "2020-07-17T23:57:30.594797",
+            "last_retested_at_epoch": 1595138224.603837,
+            "last_retested_at_iso": "2020-07-19T05:57:04.603837",
             "status": "INACTIVE"
         },
         "doda.redirectme.net": {
@@ -962,8 +962,8 @@
         "m57ku6sm.com": {
             "included_at_epoch": 1588440861.0,
             "included_at_iso": "2020-05-02T17:34:21",
-            "last_retested_at_epoch": 1595049337.932878,
-            "last_retested_at_iso": "2020-07-18T05:15:37.932878",
+            "last_retested_at_epoch": 1595138603.891818,
+            "last_retested_at_iso": "2020-07-19T06:03:23.891818",
             "status": "INACTIVE"
         },
         "maconbraves.com": {
@@ -1039,8 +1039,8 @@
         "mobile.bitterstrawberry.org": {
             "included_at_epoch": 1588482913.0,
             "included_at_iso": "2020-05-03T05:15:13",
-            "last_retested_at_epoch": 1594996322.488397,
-            "last_retested_at_iso": "2020-07-17T14:32:02.488397",
+            "last_retested_at_epoch": 1595138088.070788,
+            "last_retested_at_iso": "2020-07-19T05:54:48.070788",
             "status": "INACTIVE"
         },
         "mrace.hopto.org": {
@@ -1459,8 +1459,8 @@
         "www.101malls.com": {
             "included_at_epoch": 1587361265.0,
             "included_at_iso": "2020-04-20T05:41:05",
-            "last_retested_at_epoch": 1595030864.18376,
-            "last_retested_at_iso": "2020-07-18T00:07:44.183760",
+            "last_retested_at_epoch": 1595138404.172213,
+            "last_retested_at_iso": "2020-07-19T06:00:04.172213",
             "status": "INACTIVE"
         },
         "www.105vibe.com": {
@@ -1753,8 +1753,8 @@
         "www.beyondwhois.com": {
             "included_at_epoch": 1588493319.0,
             "included_at_iso": "2020-05-03T08:08:39",
-            "last_retested_at_epoch": 1595045124.181952,
-            "last_retested_at_iso": "2020-07-18T04:05:24.181952",
+            "last_retested_at_epoch": 1595137927.287245,
+            "last_retested_at_iso": "2020-07-19T05:52:07.287245",
             "status": "INACTIVE"
         },
         "www.bilbob.com": {
@@ -2138,15 +2138,15 @@
         "www.disable-uac.com": {
             "included_at_epoch": 1588519215.0,
             "included_at_iso": "2020-05-03T15:20:15",
-            "last_retested_at_epoch": 1595030963.431597,
-            "last_retested_at_iso": "2020-07-18T00:09:23.431597",
+            "last_retested_at_epoch": 1595138066.558115,
+            "last_retested_at_iso": "2020-07-19T05:54:26.558115",
             "status": "INACTIVE"
         },
         "www.dlldlldll.sytes.net": {
             "included_at_epoch": 1588483158.0,
             "included_at_iso": "2020-05-03T05:19:18",
-            "last_retested_at_epoch": 1595030250.593879,
-            "last_retested_at_iso": "2020-07-17T23:57:30.593879",
+            "last_retested_at_epoch": 1595138224.635654,
+            "last_retested_at_iso": "2020-07-19T05:57:04.635654",
             "status": "INACTIVE"
         },
         "www.doda.redirectme.net": {
@@ -2285,8 +2285,8 @@
         "www.expressomatogrosso.com.br": {
             "included_at_epoch": 1587583201.0,
             "included_at_iso": "2020-04-22T19:20:01",
-            "last_retested_at_epoch": 1588650584.979332,
-            "last_retested_at_iso": "2020-05-05T03:49:44.979332",
+            "last_retested_at_epoch": 1595138526.786057,
+            "last_retested_at_iso": "2020-07-19T06:02:06.786057",
             "status": "INACTIVE"
         },
         "www.ezthemes.com": {
@@ -2327,8 +2327,8 @@
         "www.femeedia.com": {
             "included_at_epoch": 1588449912.0,
             "included_at_iso": "2020-05-02T20:05:12",
-            "last_retested_at_epoch": 1595025483.658158,
-            "last_retested_at_iso": "2020-07-17T22:38:03.658158",
+            "last_retested_at_epoch": 1595137998.538926,
+            "last_retested_at_iso": "2020-07-19T05:53:18.538926",
             "status": "INACTIVE"
         },
         "www.finders.hopto.org": {
@@ -2425,8 +2425,8 @@
         "www.gnuetella.com": {
             "included_at_epoch": 1588464512.0,
             "included_at_iso": "2020-05-03T00:08:32",
-            "last_retested_at_epoch": 1595044722.258218,
-            "last_retested_at_iso": "2020-07-18T03:58:42.258218",
+            "last_retested_at_epoch": 1595138241.3621,
+            "last_retested_at_iso": "2020-07-19T05:57:21.362100",
             "status": "INACTIVE"
         },
         "www.goolges.com": {
@@ -2747,8 +2747,8 @@
         "www.m57ku6sm.com": {
             "included_at_epoch": 1588440861.0,
             "included_at_iso": "2020-05-02T17:34:21",
-            "last_retested_at_epoch": 1595049337.931966,
-            "last_retested_at_iso": "2020-07-18T05:15:37.931966",
+            "last_retested_at_epoch": 1595138603.892713,
+            "last_retested_at_iso": "2020-07-19T06:03:23.892713",
             "status": "INACTIVE"
         },
         "www.maconbraves.com": {
@@ -2887,8 +2887,8 @@
         "www.monetisetrk3.co.uk": {
             "included_at_epoch": 1588473859.0,
             "included_at_iso": "2020-05-03T02:44:19",
-            "last_retested_at_epoch": 1595017993.940983,
-            "last_retested_at_iso": "2020-07-17T20:33:13.940983",
+            "last_retested_at_epoch": 1595138265.181559,
+            "last_retested_at_iso": "2020-07-19T05:57:45.181559",
             "status": "INACTIVE"
         },
         "www.monetisetrk4.co.uk": {
@@ -3293,8 +3293,8 @@
         "www.softwareupdaterlp.com": {
             "included_at_epoch": 1588450163.0,
             "included_at_iso": "2020-05-02T20:09:23",
-            "last_retested_at_epoch": 1595049578.479187,
-            "last_retested_at_iso": "2020-07-18T05:19:38.479187",
+            "last_retested_at_epoch": 1595138136.241108,
+            "last_retested_at_iso": "2020-07-19T05:55:36.241108",
             "status": "INACTIVE"
         },
         "www.startnow.com": {
@@ -3552,8 +3552,8 @@
         "www.winaproduct.com": {
             "included_at_epoch": 1593566936.357382,
             "included_at_iso": "2020-07-01T01:28:56.357382",
-            "last_retested_at_epoch": 1595049479.423748,
-            "last_retested_at_iso": "2020-07-18T05:17:59.423748",
+            "last_retested_at_epoch": 1595138545.759286,
+            "last_retested_at_iso": "2020-07-19T06:02:25.759286",
             "status": "INACTIVE"
         },
         "www.wmserver.net": {
