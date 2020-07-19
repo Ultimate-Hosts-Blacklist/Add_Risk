@@ -17,8 +17,8 @@
         "4.collecorvino.org": {
             "included_at_epoch": 1591519192.364616,
             "included_at_iso": "2020-06-07T08:39:52.364616",
-            "last_retested_at_epoch": 1595087929.302254,
-            "last_retested_at_iso": "2020-07-18T15:58:49.302254",
+            "last_retested_at_epoch": 1595176302.599637,
+            "last_retested_at_iso": "2020-07-19T16:31:42.599637",
             "status": "INACTIVE"
         },
         "4.whereinitaly.com": {
@@ -752,8 +752,8 @@
         "hitwastedgarden.com": {
             "included_at_epoch": 1588436165.0,
             "included_at_iso": "2020-05-02T16:16:05",
-            "last_retested_at_epoch": 1595068111.617752,
-            "last_retested_at_iso": "2020-07-18T10:28:31.617752",
+            "last_retested_at_epoch": 1595175717.966134,
+            "last_retested_at_iso": "2020-07-19T16:21:57.966134",
             "status": "INACTIVE"
         },
         "hot2015rewards.com": {
@@ -941,8 +941,8 @@
         "luesojz.angelcities.com": {
             "included_at_epoch": 1590960243.466052,
             "included_at_iso": "2020-05-31T21:24:03.466052",
-            "last_retested_at_epoch": 1595082512.210024,
-            "last_retested_at_iso": "2020-07-18T14:28:32.210024",
+            "last_retested_at_epoch": 1595176342.16188,
+            "last_retested_at_iso": "2020-07-19T16:32:22.161880",
             "status": "INACTIVE"
         },
         "lycosgamesville.com": {
@@ -955,8 +955,8 @@
         "m.zeroredirect.com": {
             "included_at_epoch": 1588455055.0,
             "included_at_iso": "2020-05-02T21:30:55",
-            "last_retested_at_epoch": 1595063125.499833,
-            "last_retested_at_iso": "2020-07-18T09:05:25.499833",
+            "last_retested_at_epoch": 1595175924.42734,
+            "last_retested_at_iso": "2020-07-19T16:25:24.427340",
             "status": "INACTIVE"
         },
         "m57ku6sm.com": {
@@ -1046,8 +1046,8 @@
         "mrace.hopto.org": {
             "included_at_epoch": 1588464226.0,
             "included_at_iso": "2020-05-03T00:03:46",
-            "last_retested_at_epoch": 1595087356.040667,
-            "last_retested_at_iso": "2020-07-18T15:49:16.040667",
+            "last_retested_at_epoch": 1595176197.624728,
+            "last_retested_at_iso": "2020-07-19T16:29:57.624728",
             "status": "INACTIVE"
         },
         "my-pc-cleaner.org": {
@@ -1151,8 +1151,8 @@
         "oovqsvi.angelcities.com": {
             "included_at_epoch": 1590965312.287215,
             "included_at_iso": "2020-05-31T22:48:32.287215",
-            "last_retested_at_epoch": 1595083157.933855,
-            "last_retested_at_iso": "2020-07-18T14:39:17.933855",
+            "last_retested_at_epoch": 1595176229.166706,
+            "last_retested_at_iso": "2020-07-19T16:30:29.166706",
             "status": "INACTIVE"
         },
         "orango.redirectme.net": {
@@ -1438,8 +1438,8 @@
         "w.zeroredirect.com": {
             "included_at_epoch": 1588436318.0,
             "included_at_iso": "2020-05-02T16:18:38",
-            "last_retested_at_epoch": 1595067912.450073,
-            "last_retested_at_iso": "2020-07-18T10:25:12.450073",
+            "last_retested_at_epoch": 1595176544.171106,
+            "last_retested_at_iso": "2020-07-19T16:35:44.171106",
             "status": "INACTIVE"
         },
         "www.0iecfobt.com": {
@@ -1746,8 +1746,8 @@
         "www.bestadbid.com": {
             "included_at_epoch": 1588497247.0,
             "included_at_iso": "2020-05-03T09:14:07",
-            "last_retested_at_epoch": 1595088041.121895,
-            "last_retested_at_iso": "2020-07-18T16:00:41.121895",
+            "last_retested_at_epoch": 1595175998.316294,
+            "last_retested_at_iso": "2020-07-19T16:26:38.316294",
             "status": "INACTIVE"
         },
         "www.beyondwhois.com": {
@@ -1956,8 +1956,8 @@
         "www.cleanallvirus.com": {
             "included_at_epoch": 1588515981.0,
             "included_at_iso": "2020-05-03T14:26:21",
-            "last_retested_at_epoch": 1595074268.636118,
-            "last_retested_at_iso": "2020-07-18T12:11:08.636118",
+            "last_retested_at_epoch": 1595176236.887083,
+            "last_retested_at_iso": "2020-07-19T16:30:36.887083",
             "status": "INACTIVE"
         },
         "www.cleanproxy.com": {
@@ -2530,8 +2530,8 @@
         "www.hitwastedgarden.com": {
             "included_at_epoch": 1588436165.0,
             "included_at_iso": "2020-05-02T16:16:05",
-            "last_retested_at_epoch": 1595068111.371741,
-            "last_retested_at_iso": "2020-07-18T10:28:31.371741",
+            "last_retested_at_epoch": 1595175717.905863,
+            "last_retested_at_iso": "2020-07-19T16:21:57.905863",
             "status": "INACTIVE"
         },
         "www.hot-bot.com": {
@@ -2915,15 +2915,15 @@
         "www.monofeel.com": {
             "included_at_epoch": 1588445094.0,
             "included_at_iso": "2020-05-02T18:44:54",
-            "last_retested_at_epoch": 1595078978.603638,
-            "last_retested_at_iso": "2020-07-18T13:29:38.603638",
+            "last_retested_at_epoch": 1595176505.333268,
+            "last_retested_at_iso": "2020-07-19T16:35:05.333268",
             "status": "INACTIVE"
         },
         "www.mrace.hopto.org": {
             "included_at_epoch": 1588464226.0,
             "included_at_iso": "2020-05-03T00:03:46",
-            "last_retested_at_epoch": 1595087355.968153,
-            "last_retested_at_iso": "2020-07-18T15:49:15.968153",
+            "last_retested_at_epoch": 1595176197.551513,
+            "last_retested_at_iso": "2020-07-19T16:29:57.551513",
             "status": "INACTIVE"
         },
         "www.my-pc-cleaner.org": {
@@ -3636,8 +3636,8 @@
         "www.wwwgamepro.com": {
             "included_at_epoch": 1588486733.0,
             "included_at_iso": "2020-05-03T06:18:53",
-            "last_retested_at_epoch": 1595088168.40803,
-            "last_retested_at_iso": "2020-07-18T16:02:48.408030",
+            "last_retested_at_epoch": 1595176092.033879,
+            "last_retested_at_iso": "2020-07-19T16:28:12.033879",
             "status": "INACTIVE"
         },
         "www.wwwgameshark.com": {
@@ -3650,8 +3650,8 @@
         "www.wwwmancow.com": {
             "included_at_epoch": 1588506980.0,
             "included_at_iso": "2020-05-03T11:56:20",
-            "last_retested_at_epoch": 1595073776.833487,
-            "last_retested_at_iso": "2020-07-18T12:02:56.833487",
+            "last_retested_at_epoch": 1595176469.602669,
+            "last_retested_at_iso": "2020-07-19T16:34:29.602669",
             "status": "INACTIVE"
         },
         "www.wwwplaysite.com": {
@@ -3818,8 +3818,8 @@
         "wwwmancow.com": {
             "included_at_epoch": 1588454780.0,
             "included_at_iso": "2020-05-02T21:26:20",
-            "last_retested_at_epoch": 1595073776.896895,
-            "last_retested_at_iso": "2020-07-18T12:02:56.896895",
+            "last_retested_at_epoch": 1595176469.563234,
+            "last_retested_at_iso": "2020-07-19T16:34:29.563234",
             "status": "INACTIVE"
         },
         "wwwuproar.com": {
@@ -3860,8 +3860,8 @@
         "x5.xclicks.net": {
             "included_at_epoch": 1588510044.0,
             "included_at_iso": "2020-05-03T12:47:24",
-            "last_retested_at_epoch": 1595049589.849559,
-            "last_retested_at_iso": "2020-07-18T05:19:49.849559",
+            "last_retested_at_epoch": 1595176040.129431,
+            "last_retested_at_iso": "2020-07-19T16:27:20.129431",
             "status": "INACTIVE"
         },
         "x6.xclicks.net": {
@@ -3986,8 +3986,8 @@
         "zh1.zeroredirect11.com": {
             "included_at_epoch": 1595063169.626182,
             "included_at_iso": "2020-07-18T09:06:09.626182",
-            "last_retested_at_epoch": 1595063169.626182,
-            "last_retested_at_iso": "2020-07-18T09:06:09.626182",
+            "last_retested_at_epoch": 1595175664.236488,
+            "last_retested_at_iso": "2020-07-19T16:21:04.236488",
             "status": "INACTIVE"
         },
         "zm1.zeroredirect5.com": {
