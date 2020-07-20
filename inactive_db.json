@@ -80,8 +80,8 @@
         "a.zeroredirect.com": {
             "included_at_epoch": 1588473965.0,
             "included_at_iso": "2020-05-03T02:46:05",
-            "last_retested_at_epoch": 1595153322.26991,
-            "last_retested_at_iso": "2020-07-19T10:08:42.269910",
+            "last_retested_at_epoch": 1595240020.693265,
+            "last_retested_at_iso": "2020-07-20T10:13:40.693265",
             "status": "INACTIVE"
         },
         "ad.slutload.com": {
@@ -122,8 +122,8 @@
         "adserve.cpmba.se": {
             "included_at_epoch": 1588440866.0,
             "included_at_iso": "2020-05-02T17:34:26",
-            "last_retested_at_epoch": 1595138673.873264,
-            "last_retested_at_iso": "2020-07-19T06:04:33.873264",
+            "last_retested_at_epoch": 1595240343.158475,
+            "last_retested_at_iso": "2020-07-20T10:19:03.158475",
             "status": "INACTIVE"
         },
         "adserver.online-tech.com": {
@@ -332,8 +332,8 @@
         "bonzbuddy.com": {
             "included_at_epoch": 1588486853.0,
             "included_at_iso": "2020-05-03T06:20:53",
-            "last_retested_at_epoch": 1595148372.070576,
-            "last_retested_at_iso": "2020-07-19T08:46:12.070576",
+            "last_retested_at_epoch": 1595239871.723218,
+            "last_retested_at_iso": "2020-07-20T10:11:11.723218",
             "status": "INACTIVE"
         },
         "bonzibuddi.com": {
@@ -381,8 +381,8 @@
         "c.pioneeringad.com": {
             "included_at_epoch": 1592327087.733654,
             "included_at_iso": "2020-06-16T17:04:47.733654",
-            "last_retested_at_epoch": 1595148214.612859,
-            "last_retested_at_iso": "2020-07-19T08:43:34.612859",
+            "last_retested_at_epoch": 1595239738.493859,
+            "last_retested_at_iso": "2020-07-20T10:08:58.493859",
             "status": "INACTIVE"
         },
         "c.zeroredirect.com": {
@@ -703,8 +703,8 @@
         "h.zeroredirect.com": {
             "included_at_epoch": 1588459871.0,
             "included_at_iso": "2020-05-02T22:51:11",
-            "last_retested_at_epoch": 1595153306.303768,
-            "last_retested_at_iso": "2020-07-19T10:08:26.303768",
+            "last_retested_at_epoch": 1595240307.701894,
+            "last_retested_at_iso": "2020-07-20T10:18:27.701894",
             "status": "INACTIVE"
         },
         "haartezenglish.redirectme.net": {
@@ -780,8 +780,8 @@
         "infospace.tk": {
             "included_at_epoch": 1588486805.0,
             "included_at_iso": "2020-05-03T06:20:05",
-            "last_retested_at_epoch": 1595148387.605449,
-            "last_retested_at_iso": "2020-07-19T08:46:27.605449",
+            "last_retested_at_epoch": 1595239954.39781,
+            "last_retested_at_iso": "2020-07-20T10:12:34.397810",
             "status": "INACTIVE"
         },
         "itunesdownloadstore.com": {
@@ -794,15 +794,15 @@
         "j.pioneeringad.com": {
             "included_at_epoch": 1588083187.0,
             "included_at_iso": "2020-04-28T14:13:07",
-            "last_retested_at_epoch": 1595152977.714072,
-            "last_retested_at_iso": "2020-07-19T10:02:57.714072",
+            "last_retested_at_epoch": 1595239719.548638,
+            "last_retested_at_iso": "2020-07-20T10:08:39.548638",
             "status": "INACTIVE"
         },
         "j.theadsnet.com": {
             "included_at_epoch": 1588524754.0,
             "included_at_iso": "2020-05-03T16:52:34",
-            "last_retested_at_epoch": 1595148001.603799,
-            "last_retested_at_iso": "2020-07-19T08:40:01.603799",
+            "last_retested_at_epoch": 1595240082.825445,
+            "last_retested_at_iso": "2020-07-20T10:14:42.825445",
             "status": "INACTIVE"
         },
         "j.zeroredirect.com": {
@@ -948,8 +948,8 @@
         "lycosgamesville.com": {
             "included_at_epoch": 1588513045.0,
             "included_at_iso": "2020-05-03T13:37:25",
-            "last_retested_at_epoch": 1595147889.124379,
-            "last_retested_at_iso": "2020-07-19T08:38:09.124379",
+            "last_retested_at_epoch": 1595239664.394808,
+            "last_retested_at_iso": "2020-07-20T10:07:44.394808",
             "status": "INACTIVE"
         },
         "m.zeroredirect.com": {
@@ -1165,15 +1165,15 @@
         "owpuuzea.angelcities.com": {
             "included_at_epoch": 1590965754.713878,
             "included_at_iso": "2020-05-31T22:55:54.713878",
-            "last_retested_at_epoch": 1595148641.121189,
-            "last_retested_at_iso": "2020-07-19T08:50:41.121189",
+            "last_retested_at_epoch": 1595239858.509789,
+            "last_retested_at_iso": "2020-07-20T10:10:58.509789",
             "status": "INACTIVE"
         },
         "p.zeroredirect.com": {
             "included_at_epoch": 1588459617.0,
             "included_at_iso": "2020-05-02T22:46:57",
-            "last_retested_at_epoch": 1595078418.151912,
-            "last_retested_at_iso": "2020-07-18T13:20:18.151912",
+            "last_retested_at_epoch": 1595240025.01178,
+            "last_retested_at_iso": "2020-07-20T10:13:45.011780",
             "status": "INACTIVE"
         },
         "pc-detox.com": {
@@ -1802,8 +1802,8 @@
         "www.bonzbuddy.com": {
             "included_at_epoch": 1588486853.0,
             "included_at_iso": "2020-05-03T06:20:53",
-            "last_retested_at_epoch": 1595148372.069694,
-            "last_retested_at_iso": "2020-07-19T08:46:12.069694",
+            "last_retested_at_epoch": 1595239871.79069,
+            "last_retested_at_iso": "2020-07-20T10:11:11.790690",
             "status": "INACTIVE"
         },
         "www.bonzibuddi.com": {
@@ -2579,8 +2579,8 @@
         "www.infospace.tk": {
             "included_at_epoch": 1588486805.0,
             "included_at_iso": "2020-05-03T06:20:05",
-            "last_retested_at_epoch": 1595148387.610077,
-            "last_retested_at_iso": "2020-07-19T08:46:27.610077",
+            "last_retested_at_epoch": 1595239954.41171,
+            "last_retested_at_iso": "2020-07-20T10:12:34.411710",
             "status": "INACTIVE"
         },
         "www.installm.net": {
@@ -2747,8 +2747,8 @@
         "www.lycosgamesville.com": {
             "included_at_epoch": 1588513045.0,
             "included_at_iso": "2020-05-03T13:37:25",
-            "last_retested_at_epoch": 1595147889.109572,
-            "last_retested_at_iso": "2020-07-19T08:38:09.109572",
+            "last_retested_at_epoch": 1595239664.457978,
+            "last_retested_at_iso": "2020-07-20T10:07:44.457978",
             "status": "INACTIVE"
         },
         "www.m57ku6sm.com": {
@@ -3727,8 +3727,8 @@
         "www.xxxxxxx.hopto.org": {
             "included_at_epoch": 1588474197.0,
             "included_at_iso": "2020-05-03T02:49:57",
-            "last_retested_at_epoch": 1595132929.836554,
-            "last_retested_at_iso": "2020-07-19T04:28:49.836554",
+            "last_retested_at_epoch": 1595239940.480964,
+            "last_retested_at_iso": "2020-07-20T10:12:20.480964",
             "status": "INACTIVE"
         },
         "www.yourdedicatedhost.com": {
@@ -3909,8 +3909,8 @@
         "xxxxxxx.hopto.org": {
             "included_at_epoch": 1588474197.0,
             "included_at_iso": "2020-05-03T02:49:57",
-            "last_retested_at_epoch": 1595132929.837601,
-            "last_retested_at_iso": "2020-07-19T04:28:49.837601",
+            "last_retested_at_epoch": 1595239940.481854,
+            "last_retested_at_iso": "2020-07-20T10:12:20.481854",
             "status": "INACTIVE"
         },
         "xyxudubax.angelcities.com": {
@@ -3930,8 +3930,8 @@
         "yitkomfj.angelcities.com": {
             "included_at_epoch": 1591006775.911209,
             "included_at_iso": "2020-06-01T10:19:35.911209",
-            "last_retested_at_epoch": 1595123029.335763,
-            "last_retested_at_iso": "2020-07-19T01:43:49.335763",
+            "last_retested_at_epoch": 1595239922.30446,
+            "last_retested_at_iso": "2020-07-20T10:12:02.304460",
             "status": "INACTIVE"
         },
         "yk.handlerhackz.tk": {
