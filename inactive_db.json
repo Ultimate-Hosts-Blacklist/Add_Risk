@@ -122,8 +122,8 @@
         "adserve.cpmba.se": {
             "included_at_epoch": 1588440866.0,
             "included_at_iso": "2020-05-02T17:34:26",
-            "last_retested_at_epoch": 1595365907.245396,
-            "last_retested_at_iso": "2020-07-21T21:11:47.245396",
+            "last_retested_at_epoch": 1595456440.714715,
+            "last_retested_at_iso": "2020-07-22T22:20:40.714715",
             "status": "INACTIVE"
         },
         "adserver.online-tech.com": {
@@ -605,8 +605,8 @@
         "e.zeroredirect.com": {
             "included_at_epoch": 1588493613.0,
             "included_at_iso": "2020-05-03T08:13:33",
-            "last_retested_at_epoch": 1595360412.923446,
-            "last_retested_at_iso": "2020-07-21T19:40:12.923446",
+            "last_retested_at_epoch": 1595456631.378117,
+            "last_retested_at_iso": "2020-07-22T22:23:51.378117",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
@@ -668,8 +668,8 @@
         "finders.hopto.org": {
             "included_at_epoch": 1588497057.0,
             "included_at_iso": "2020-05-03T09:10:57",
-            "last_retested_at_epoch": 1595366523.753144,
-            "last_retested_at_iso": "2020-07-21T21:22:03.753144",
+            "last_retested_at_epoch": 1595457023.186785,
+            "last_retested_at_iso": "2020-07-22T22:30:23.186785",
             "status": "INACTIVE"
         },
         "fkooaee.angelcities.com": {
@@ -1053,8 +1053,8 @@
         "mobile.bitterstrawberry.org": {
             "included_at_epoch": 1588482913.0,
             "included_at_iso": "2020-05-03T05:15:13",
-            "last_retested_at_epoch": 1595366056.99836,
-            "last_retested_at_iso": "2020-07-21T21:14:16.998360",
+            "last_retested_at_epoch": 1595456832.436236,
+            "last_retested_at_iso": "2020-07-22T22:27:12.436236",
             "status": "INACTIVE"
         },
         "mrace.hopto.org": {
@@ -1466,8 +1466,8 @@
         "www.0iecfobt.com": {
             "included_at_epoch": 1588489890.0,
             "included_at_iso": "2020-05-03T07:11:30",
-            "last_retested_at_epoch": 1595366015.968585,
-            "last_retested_at_iso": "2020-07-21T21:13:35.968585",
+            "last_retested_at_epoch": 1595456608.12732,
+            "last_retested_at_iso": "2020-07-22T22:23:28.127320",
             "status": "INACTIVE"
         },
         "www.1001movies.com": {
@@ -1900,8 +1900,8 @@
         "www.ceskarepublika.net": {
             "included_at_epoch": 1588527489.0,
             "included_at_iso": "2020-05-03T17:38:09",
-            "last_retested_at_epoch": 1595342168.341494,
-            "last_retested_at_iso": "2020-07-21T14:36:08.341494",
+            "last_retested_at_epoch": 1595456689.429154,
+            "last_retested_at_iso": "2020-07-22T22:24:49.429154",
             "status": "INACTIVE"
         },
         "www.chaseonline.com": {
@@ -1914,8 +1914,8 @@
         "www.cheapstickets.com": {
             "included_at_epoch": 1588493670.0,
             "included_at_iso": "2020-05-03T08:14:30",
-            "last_retested_at_epoch": 1595324559.423805,
-            "last_retested_at_iso": "2020-07-21T09:42:39.423805",
+            "last_retested_at_epoch": 1595456661.943086,
+            "last_retested_at_iso": "2020-07-22T22:24:21.943086",
             "status": "INACTIVE"
         },
         "www.cheaptickests.com": {
@@ -1949,8 +1949,8 @@
         "www.cheapticktes.com": {
             "included_at_epoch": 1588490099.0,
             "included_at_iso": "2020-05-03T07:14:59",
-            "last_retested_at_epoch": 1595366110.655186,
-            "last_retested_at_iso": "2020-07-21T21:15:10.655186",
+            "last_retested_at_epoch": 1595456518.664675,
+            "last_retested_at_iso": "2020-07-22T22:21:58.664675",
             "status": "INACTIVE"
         },
         "www.chokertraffic.com": {
@@ -2362,8 +2362,8 @@
         "www.finders.hopto.org": {
             "included_at_epoch": 1588497057.0,
             "included_at_iso": "2020-05-03T09:10:57",
-            "last_retested_at_epoch": 1595366523.689968,
-            "last_retested_at_iso": "2020-07-21T21:22:03.689968",
+            "last_retested_at_epoch": 1595457023.117129,
+            "last_retested_at_iso": "2020-07-22T22:30:23.117129",
             "status": "INACTIVE"
         },
         "www.findit-quick.com": {
@@ -2488,8 +2488,8 @@
         "www.gxplugin.com": {
             "included_at_epoch": 1588478773.0,
             "included_at_iso": "2020-05-03T04:06:13",
-            "last_retested_at_epoch": 1595360380.336661,
-            "last_retested_at_iso": "2020-07-21T19:39:40.336661",
+            "last_retested_at_epoch": 1595457207.726808,
+            "last_retested_at_iso": "2020-07-22T22:33:27.726808",
             "status": "INACTIVE"
         },
         "www.h-adachi.org": {
@@ -2544,8 +2544,8 @@
         "www.herezera.com": {
             "included_at_epoch": 1588483031.0,
             "included_at_iso": "2020-05-03T05:17:11",
-            "last_retested_at_epoch": 1595360016.603168,
-            "last_retested_at_iso": "2020-07-21T19:33:36.603168",
+            "last_retested_at_epoch": 1595456987.254308,
+            "last_retested_at_iso": "2020-07-22T22:29:47.254308",
             "status": "INACTIVE"
         },
         "www.hira.hopto.org": {
@@ -2607,8 +2607,8 @@
         "www.installm.net": {
             "included_at_epoch": 1588527325.0,
             "included_at_iso": "2020-05-03T17:35:25",
-            "last_retested_at_epoch": 1595354931.393674,
-            "last_retested_at_iso": "2020-07-21T18:08:51.393674",
+            "last_retested_at_epoch": 1595457200.671221,
+            "last_retested_at_iso": "2020-07-22T22:33:20.671221",
             "status": "INACTIVE"
         },
         "www.itunesdownloadstore.com": {
@@ -3489,8 +3489,8 @@
         "www.tzw.com": {
             "included_at_epoch": 1588509787.0,
             "included_at_iso": "2020-05-03T12:43:07",
-            "last_retested_at_epoch": 1595366545.742507,
-            "last_retested_at_iso": "2020-07-21T21:22:25.742507",
+            "last_retested_at_epoch": 1595456726.716094,
+            "last_retested_at_iso": "2020-07-22T22:25:26.716094",
             "status": "INACTIVE"
         },
         "www.unblocksit.es": {
