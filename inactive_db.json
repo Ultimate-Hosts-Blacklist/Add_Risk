@@ -66,8 +66,8 @@
         "6.mamaswishes.com": {
             "included_at_epoch": 1588513102.0,
             "included_at_iso": "2020-05-03T13:38:22",
-            "last_retested_at_epoch": 1595558436.163576,
-            "last_retested_at_iso": "2020-07-24T02:40:36.163576",
+            "last_retested_at_epoch": 1595649846.257549,
+            "last_retested_at_iso": "2020-07-25T04:04:06.257549",
             "status": "INACTIVE"
         },
         "999ways.blogspot.co.uk": {
@@ -612,15 +612,15 @@
         "e.zeroredirect.com": {
             "included_at_epoch": 1588493613.0,
             "included_at_iso": "2020-05-03T08:13:33",
-            "last_retested_at_epoch": 1595563177.838625,
-            "last_retested_at_iso": "2020-07-24T03:59:37.838625",
+            "last_retested_at_epoch": 1595649674.758202,
+            "last_retested_at_iso": "2020-07-25T04:01:14.758202",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1595553800.264512,
-            "last_retested_at_iso": "2020-07-24T01:23:20.264512",
+            "last_retested_at_epoch": 1595649884.778078,
+            "last_retested_at_iso": "2020-07-25T04:04:44.778078",
             "status": "INACTIVE"
         },
         "elisaart.it": {
@@ -899,8 +899,8 @@
         "l.zeroredirect.com": {
             "included_at_epoch": 1588506748.0,
             "included_at_iso": "2020-05-03T11:52:28",
-            "last_retested_at_epoch": 1595553564.846253,
-            "last_retested_at_iso": "2020-07-24T01:19:24.846253",
+            "last_retested_at_epoch": 1595650382.669446,
+            "last_retested_at_iso": "2020-07-25T04:13:02.669446",
             "status": "INACTIVE"
         },
         "lateecapes.com": {
@@ -1305,8 +1305,8 @@
         "sevenstars7.com": {
             "included_at_epoch": 1588509937.0,
             "included_at_iso": "2020-05-03T12:45:37",
-            "last_retested_at_epoch": 1595558080.363436,
-            "last_retested_at_iso": "2020-07-24T02:34:40.363436",
+            "last_retested_at_epoch": 1595650330.75547,
+            "last_retested_at_iso": "2020-07-25T04:12:10.755470",
             "status": "INACTIVE"
         },
         "ships.zapto.org": {
@@ -1347,8 +1347,8 @@
         "stignita.zapto.org": {
             "included_at_epoch": 1588519267.0,
             "included_at_iso": "2020-05-03T15:21:07",
-            "last_retested_at_epoch": 1595558621.40567,
-            "last_retested_at_iso": "2020-07-24T02:43:41.405670",
+            "last_retested_at_epoch": 1595650492.770629,
+            "last_retested_at_iso": "2020-07-25T04:14:52.770629",
             "status": "INACTIVE"
         },
         "stressx.org": {
@@ -1949,15 +1949,15 @@
         "www.cheapticketsinc.com": {
             "included_at_epoch": 1588490165.0,
             "included_at_iso": "2020-05-03T07:16:05",
-            "last_retested_at_epoch": 1595562653.49946,
-            "last_retested_at_iso": "2020-07-24T03:50:53.499460",
+            "last_retested_at_epoch": 1595649785.460286,
+            "last_retested_at_iso": "2020-07-25T04:03:05.460286",
             "status": "INACTIVE"
         },
         "www.cheapticketts.com": {
             "included_at_epoch": 1588489889.0,
             "included_at_iso": "2020-05-03T07:11:29",
-            "last_retested_at_epoch": 1595558502.623955,
-            "last_retested_at_iso": "2020-07-24T02:41:42.623955",
+            "last_retested_at_epoch": 1595650154.705952,
+            "last_retested_at_iso": "2020-07-25T04:09:14.705952",
             "status": "INACTIVE"
         },
         "www.cheapticktes.com": {
@@ -2208,8 +2208,8 @@
         "www.dollarrentcar.com": {
             "included_at_epoch": 1590852582.18448,
             "included_at_iso": "2020-05-30T15:29:42.184480",
-            "last_retested_at_epoch": 1595563108.853239,
-            "last_retested_at_iso": "2020-07-24T03:58:28.853239",
+            "last_retested_at_epoch": 1595650239.913798,
+            "last_retested_at_iso": "2020-07-25T04:10:39.913798",
             "status": "INACTIVE"
         },
         "www.domainfwd.com": {
@@ -2278,8 +2278,8 @@
         "www.egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
-            "last_retested_at_epoch": 1595553800.247734,
-            "last_retested_at_iso": "2020-07-24T01:23:20.247734",
+            "last_retested_at_epoch": 1595649886.799974,
+            "last_retested_at_iso": "2020-07-25T04:04:46.799974",
             "status": "INACTIVE"
         },
         "www.elisaart.it": {
@@ -2747,8 +2747,8 @@
         "www.letzonke.com": {
             "included_at_epoch": 1588530230.0,
             "included_at_iso": "2020-05-03T18:23:50",
-            "last_retested_at_epoch": 1595557848.264847,
-            "last_retested_at_iso": "2020-07-24T02:30:48.264847",
+            "last_retested_at_epoch": 1595650399.733504,
+            "last_retested_at_iso": "2020-07-25T04:13:19.733504",
             "status": "INACTIVE"
         },
         "www.liders.biz": {
@@ -2859,8 +2859,8 @@
         "www.mesopotemia222.zapto.org": {
             "included_at_epoch": 1588519328.0,
             "included_at_iso": "2020-05-03T15:22:08",
-            "last_retested_at_epoch": 1595563286.77668,
-            "last_retested_at_iso": "2020-07-24T04:01:26.776680",
+            "last_retested_at_epoch": 1595650465.70477,
+            "last_retested_at_iso": "2020-07-25T04:14:25.704770",
             "status": "INACTIVE"
         },
         "www.microsofto.sytes.net": {
@@ -3146,8 +3146,8 @@
         "www.premiumpedia.com": {
             "included_at_epoch": 1588478566.0,
             "included_at_iso": "2020-05-03T04:02:46",
-            "last_retested_at_epoch": 1595562732.220245,
-            "last_retested_at_iso": "2020-07-24T03:52:12.220245",
+            "last_retested_at_epoch": 1595650002.144895,
+            "last_retested_at_iso": "2020-07-25T04:06:42.144895",
             "status": "INACTIVE"
         },
         "www.pumpkin.co.uk": {
@@ -3209,8 +3209,8 @@
         "www.registry-cleaner.net": {
             "included_at_epoch": 1588486807.0,
             "included_at_iso": "2020-05-03T06:20:07",
-            "last_retested_at_epoch": 1595562687.182198,
-            "last_retested_at_iso": "2020-07-24T03:51:27.182198",
+            "last_retested_at_epoch": 1595650100.035178,
+            "last_retested_at_iso": "2020-07-25T04:08:20.035178",
             "status": "INACTIVE"
         },
         "www.registry-cleaners-compared.com": {
@@ -3307,8 +3307,8 @@
         "www.sevenstars7.com": {
             "included_at_epoch": 1588509937.0,
             "included_at_iso": "2020-05-03T12:45:37",
-            "last_retested_at_epoch": 1595558080.430396,
-            "last_retested_at_iso": "2020-07-24T02:34:40.430396",
+            "last_retested_at_epoch": 1595650330.933146,
+            "last_retested_at_iso": "2020-07-25T04:12:10.933146",
             "status": "INACTIVE"
         },
         "www.shareaza.com": {
@@ -3363,8 +3363,8 @@
         "www.stignita.zapto.org": {
             "included_at_epoch": 1588478785.0,
             "included_at_iso": "2020-05-03T04:06:25",
-            "last_retested_at_epoch": 1595558621.355017,
-            "last_retested_at_iso": "2020-07-24T02:43:41.355017",
+            "last_retested_at_epoch": 1595650492.737113,
+            "last_retested_at_iso": "2020-07-25T04:14:52.737113",
             "status": "INACTIVE"
         },
         "www.stressx.org": {
