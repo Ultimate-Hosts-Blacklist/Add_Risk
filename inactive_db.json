@@ -80,8 +80,8 @@
         "a.zeroredirect.com": {
             "included_at_epoch": 1588473965.0,
             "included_at_iso": "2020-05-03T02:46:05",
-            "last_retested_at_epoch": 1595633921.775658,
-            "last_retested_at_iso": "2020-07-24T23:38:41.775658",
+            "last_retested_at_epoch": 1595735918.624787,
+            "last_retested_at_iso": "2020-07-26T03:58:38.624787",
             "status": "INACTIVE"
         },
         "ad.slutload.com": {
@@ -465,8 +465,8 @@
         "compactiongames.gameaholic.com": {
             "included_at_epoch": 1588440465.0,
             "included_at_iso": "2020-05-02T17:27:45",
-            "last_retested_at_epoch": 1595633492.152013,
-            "last_retested_at_iso": "2020-07-24T23:31:32.152013",
+            "last_retested_at_epoch": 1595736040.520645,
+            "last_retested_at_iso": "2020-07-26T04:00:40.520645",
             "status": "INACTIVE"
         },
         "continentialairline.com": {
@@ -1676,8 +1676,8 @@
         "www.antalya.ru": {
             "included_at_epoch": 1588509653.0,
             "included_at_iso": "2020-05-03T12:40:53",
-            "last_retested_at_epoch": 1595638802.258525,
-            "last_retested_at_iso": "2020-07-25T01:00:02.258525",
+            "last_retested_at_epoch": 1595735701.335105,
+            "last_retested_at_iso": "2020-07-26T03:55:01.335105",
             "status": "INACTIVE"
         },
         "www.arecio.work": {
@@ -1753,8 +1753,8 @@
         "www.balook.com": {
             "included_at_epoch": 1588454615.0,
             "included_at_iso": "2020-05-02T21:23:35",
-            "last_retested_at_epoch": 1595644257.472415,
-            "last_retested_at_iso": "2020-07-25T02:30:57.472415",
+            "last_retested_at_epoch": 1595736146.75979,
+            "last_retested_at_iso": "2020-07-26T04:02:26.759790",
             "status": "INACTIVE"
         },
         "www.bananarepubic.com": {
@@ -2061,8 +2061,8 @@
         "www.comairairlines.com": {
             "included_at_epoch": 1588422180.0,
             "included_at_iso": "2020-05-02T12:23:00",
-            "last_retested_at_epoch": 1595624484.497043,
-            "last_retested_at_iso": "2020-07-24T21:01:24.497043",
+            "last_retested_at_epoch": 1595735651.279802,
+            "last_retested_at_iso": "2020-07-26T03:54:11.279802",
             "status": "INACTIVE"
         },
         "www.conds.ru": {
@@ -2593,8 +2593,8 @@
         "www.ibmvideo.com": {
             "included_at_epoch": 1588454817.0,
             "included_at_iso": "2020-05-02T21:26:57",
-            "last_retested_at_epoch": 1595624460.005327,
-            "last_retested_at_iso": "2020-07-24T21:01:00.005327",
+            "last_retested_at_epoch": 1595736166.254995,
+            "last_retested_at_iso": "2020-07-26T04:02:46.254995",
             "status": "INACTIVE"
         },
         "www.icracks.net": {
@@ -3314,8 +3314,8 @@
         "www.shareaza.com": {
             "included_at_epoch": 1588509985.0,
             "included_at_iso": "2020-05-03T12:46:25",
-            "last_retested_at_epoch": 1595619779.97524,
-            "last_retested_at_iso": "2020-07-24T19:42:59.975240",
+            "last_retested_at_epoch": 1595735806.69702,
+            "last_retested_at_iso": "2020-07-26T03:56:46.697020",
             "status": "INACTIVE"
         },
         "www.ships.zapto.org": {
