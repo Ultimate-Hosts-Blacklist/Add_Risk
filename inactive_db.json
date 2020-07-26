@@ -710,8 +710,8 @@
         "gbanners.hornymatches.com": {
             "included_at_epoch": 1588493773.0,
             "included_at_iso": "2020-05-03T08:16:13",
-            "last_retested_at_epoch": 1595623980.826387,
-            "last_retested_at_iso": "2020-07-24T20:53:00.826387",
+            "last_retested_at_epoch": 1595725841.706144,
+            "last_retested_at_iso": "2020-07-26T01:10:41.706144",
             "status": "INACTIVE"
         },
         "h.zeroredirect.com": {
@@ -773,8 +773,8 @@
         "hot2015rewards.com": {
             "included_at_epoch": 1588496916.0,
             "included_at_iso": "2020-05-03T09:08:36",
-            "last_retested_at_epoch": 1595614966.266995,
-            "last_retested_at_iso": "2020-07-24T18:22:46.266995",
+            "last_retested_at_epoch": 1595725473.092245,
+            "last_retested_at_iso": "2020-07-26T01:04:33.092245",
             "status": "INACTIVE"
         },
         "i.trkjmp.com": {
@@ -1046,8 +1046,8 @@
         "minigameplanet.com": {
             "included_at_epoch": 1588500317.0,
             "included_at_iso": "2020-05-03T10:05:17",
-            "last_retested_at_epoch": 1595638794.080199,
-            "last_retested_at_iso": "2020-07-25T00:59:54.080199",
+            "last_retested_at_epoch": 1595725609.007697,
+            "last_retested_at_iso": "2020-07-26T01:06:49.007697",
             "status": "INACTIVE"
         },
         "mlpoint.pt": {
@@ -1067,8 +1067,8 @@
         "mobile.bitterstrawberry.org": {
             "included_at_epoch": 1588482913.0,
             "included_at_iso": "2020-05-03T05:15:13",
-            "last_retested_at_epoch": 1595638376.214548,
-            "last_retested_at_iso": "2020-07-25T00:52:56.214548",
+            "last_retested_at_epoch": 1595726210.582428,
+            "last_retested_at_iso": "2020-07-26T01:16:50.582428",
             "status": "INACTIVE"
         },
         "mrace.hopto.org": {
@@ -1165,8 +1165,8 @@
         "ojtobu.angelcities.com": {
             "included_at_epoch": 1590995759.031324,
             "included_at_iso": "2020-06-01T07:15:59.031324",
-            "last_retested_at_epoch": 1595638727.868196,
-            "last_retested_at_iso": "2020-07-25T00:58:47.868196",
+            "last_retested_at_epoch": 1595725954.780166,
+            "last_retested_at_iso": "2020-07-26T01:12:34.780166",
             "status": "INACTIVE"
         },
         "oneund.ru": {
@@ -1480,8 +1480,8 @@
         "www.0iecfobt.com": {
             "included_at_epoch": 1588489890.0,
             "included_at_iso": "2020-05-03T07:11:30",
-            "last_retested_at_epoch": 1595633950.858096,
-            "last_retested_at_iso": "2020-07-24T23:39:10.858096",
+            "last_retested_at_epoch": 1595725717.160505,
+            "last_retested_at_iso": "2020-07-26T01:08:37.160505",
             "status": "INACTIVE"
         },
         "www.1001movies.com": {
@@ -2369,8 +2369,8 @@
         "www.femeedia.com": {
             "included_at_epoch": 1588449912.0,
             "included_at_iso": "2020-05-02T20:05:12",
-            "last_retested_at_epoch": 1595634101.810637,
-            "last_retested_at_iso": "2020-07-24T23:41:41.810637",
+            "last_retested_at_epoch": 1595725833.783919,
+            "last_retested_at_iso": "2020-07-26T01:10:33.783919",
             "status": "INACTIVE"
         },
         "www.finders.hopto.org": {
@@ -2502,8 +2502,8 @@
         "www.gxplugin.com": {
             "included_at_epoch": 1588478773.0,
             "included_at_iso": "2020-05-03T04:06:13",
-            "last_retested_at_epoch": 1595638858.464366,
-            "last_retested_at_iso": "2020-07-25T01:00:58.464366",
+            "last_retested_at_epoch": 1595726078.865947,
+            "last_retested_at_iso": "2020-07-26T01:14:38.865947",
             "status": "INACTIVE"
         },
         "www.h-adachi.org": {
@@ -2586,8 +2586,8 @@
         "www.hot2015rewards.com": {
             "included_at_epoch": 1588496916.0,
             "included_at_iso": "2020-05-03T09:08:36",
-            "last_retested_at_epoch": 1595614966.370736,
-            "last_retested_at_iso": "2020-07-24T18:22:46.370736",
+            "last_retested_at_epoch": 1595725473.091822,
+            "last_retested_at_iso": "2020-07-26T01:04:33.091822",
             "status": "INACTIVE"
         },
         "www.ibmvideo.com": {
@@ -2880,8 +2880,8 @@
         "www.minigameplanet.com": {
             "included_at_epoch": 1588500317.0,
             "included_at_iso": "2020-05-03T10:05:17",
-            "last_retested_at_epoch": 1595638789.219681,
-            "last_retested_at_iso": "2020-07-25T00:59:49.219681",
+            "last_retested_at_epoch": 1595725609.172474,
+            "last_retested_at_iso": "2020-07-26T01:06:49.172474",
             "status": "INACTIVE"
         },
         "www.mlinktracker.com": {
@@ -3328,8 +3328,8 @@
         "www.sijmp.com": {
             "included_at_epoch": 1588503847.0,
             "included_at_iso": "2020-05-03T11:04:07",
-            "last_retested_at_epoch": 1595610260.649288,
-            "last_retested_at_iso": "2020-07-24T17:04:20.649288",
+            "last_retested_at_epoch": 1595725573.441222,
+            "last_retested_at_iso": "2020-07-26T01:06:13.441222",
             "status": "INACTIVE"
         },
         "www.smithwick.net": {
@@ -3762,8 +3762,8 @@
         "www.xvika.net": {
             "included_at_epoch": 1588493350.0,
             "included_at_iso": "2020-05-03T08:09:10",
-            "last_retested_at_epoch": 1595619568.926164,
-            "last_retested_at_iso": "2020-07-24T19:39:28.926164",
+            "last_retested_at_epoch": 1595725384.68546,
+            "last_retested_at_iso": "2020-07-26T01:03:04.685460",
             "status": "INACTIVE"
         },
         "www.xvika.org": {
@@ -3944,8 +3944,8 @@
         "xvika.net": {
             "included_at_epoch": 1588493350.0,
             "included_at_iso": "2020-05-03T08:09:10",
-            "last_retested_at_epoch": 1595619568.984774,
-            "last_retested_at_iso": "2020-07-24T19:39:28.984774",
+            "last_retested_at_epoch": 1595725384.825317,
+            "last_retested_at_iso": "2020-07-26T01:03:04.825317",
             "status": "INACTIVE"
         },
         "xvika.org": {
