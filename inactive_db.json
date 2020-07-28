@@ -486,8 +486,8 @@
         "compactiongames.gameaholic.com": {
             "included_at_epoch": 1588440465.0,
             "included_at_iso": "2020-05-02T17:27:45",
-            "last_retested_at_epoch": 1595835172.822894,
-            "last_retested_at_iso": "2020-07-27T07:32:52.822894",
+            "last_retested_at_epoch": 1595933809.155851,
+            "last_retested_at_iso": "2020-07-28T10:56:49.155851",
             "status": "INACTIVE"
         },
         "continentialairline.com": {
@@ -759,8 +759,8 @@
         "hackairtel.tk": {
             "included_at_epoch": 1588500551.0,
             "included_at_iso": "2020-05-03T10:09:11",
-            "last_retested_at_epoch": 1595840393.111722,
-            "last_retested_at_iso": "2020-07-27T08:59:53.111722",
+            "last_retested_at_epoch": 1595933729.518319,
+            "last_retested_at_iso": "2020-07-28T10:55:29.518319",
             "status": "INACTIVE"
         },
         "handlerhackz.tk": {
@@ -780,8 +780,8 @@
         "havijrat.zapto.org": {
             "included_at_epoch": 1588497281.0,
             "included_at_iso": "2020-05-03T09:14:41",
-            "last_retested_at_epoch": 1595845339.046438,
-            "last_retested_at_iso": "2020-07-27T10:22:19.046438",
+            "last_retested_at_epoch": 1595933599.454343,
+            "last_retested_at_iso": "2020-07-28T10:53:19.454343",
             "status": "INACTIVE"
         },
         "hira.hopto.org": {
@@ -1904,6 +1904,13 @@
             "last_retested_at_iso": "2020-07-01T08:12:07.679214",
             "status": "INACTIVE"
         },
+        "www.brainfox.com": {
+            "included_at_epoch": 1595933707.705724,
+            "included_at_iso": "2020-07-28T10:55:07.705724",
+            "last_retested_at_epoch": 1595933707.705724,
+            "last_retested_at_iso": "2020-07-28T10:55:07.705724",
+            "status": "INACTIVE"
+        },
         "www.brans.pl": {
             "included_at_epoch": 1588021598.0,
             "included_at_iso": "2020-04-27T21:06:38",
@@ -2012,8 +2019,8 @@
         "www.cheapticketts.com": {
             "included_at_epoch": 1588489889.0,
             "included_at_iso": "2020-05-03T07:11:29",
-            "last_retested_at_epoch": 1595840071.187854,
-            "last_retested_at_iso": "2020-07-27T08:54:31.187854",
+            "last_retested_at_epoch": 1595933200.678596,
+            "last_retested_at_iso": "2020-07-28T10:46:40.678596",
             "status": "INACTIVE"
         },
         "www.cheapticktes.com": {
@@ -2061,8 +2068,8 @@
         "www.cleanproxy.com": {
             "included_at_epoch": 1588486660.0,
             "included_at_iso": "2020-05-03T06:17:40",
-            "last_retested_at_epoch": 1595840444.602163,
-            "last_retested_at_iso": "2020-07-27T09:00:44.602163",
+            "last_retested_at_epoch": 1595933741.143416,
+            "last_retested_at_iso": "2020-07-28T10:55:41.143416",
             "status": "INACTIVE"
         },
         "www.clearshieldredirect.com": {
@@ -2117,8 +2124,8 @@
         "www.comairairlines.com": {
             "included_at_epoch": 1588422180.0,
             "included_at_iso": "2020-05-02T12:23:00",
-            "last_retested_at_epoch": 1595830259.807134,
-            "last_retested_at_iso": "2020-07-27T06:10:59.807134",
+            "last_retested_at_epoch": 1595933089.479398,
+            "last_retested_at_iso": "2020-07-28T10:44:49.479398",
             "status": "INACTIVE"
         },
         "www.conds.ru": {
@@ -2320,8 +2327,8 @@
         "www.eclean.or.kr": {
             "included_at_epoch": 1594926648.224005,
             "included_at_iso": "2020-07-16T19:10:48.224005",
-            "last_retested_at_epoch": 1595840228.529615,
-            "last_retested_at_iso": "2020-07-27T08:57:08.529615",
+            "last_retested_at_epoch": 1595933715.856425,
+            "last_retested_at_iso": "2020-07-28T10:55:15.856425",
             "status": "INACTIVE"
         },
         "www.edirectory.co.uk": {
@@ -2527,6 +2534,13 @@
             "last_retested_at_iso": "2020-07-27T11:50:02.524423",
             "status": "INACTIVE"
         },
+        "www.goolegames.com": {
+            "included_at_epoch": 1595933380.476285,
+            "included_at_iso": "2020-07-28T10:49:40.476285",
+            "last_retested_at_epoch": 1595933380.476285,
+            "last_retested_at_iso": "2020-07-28T10:49:40.476285",
+            "status": "INACTIVE"
+        },
         "www.goolges.com": {
             "included_at_epoch": 1583238185.0,
             "included_at_iso": "2020-03-03T12:23:05",
@@ -2579,8 +2593,8 @@
         "www.hackairtel.tk": {
             "included_at_epoch": 1588500551.0,
             "included_at_iso": "2020-05-03T10:09:11",
-            "last_retested_at_epoch": 1595840393.155703,
-            "last_retested_at_iso": "2020-07-27T08:59:53.155703",
+            "last_retested_at_epoch": 1595933730.072225,
+            "last_retested_at_iso": "2020-07-28T10:55:30.072225",
             "status": "INACTIVE"
         },
         "www.handlerhackz.tk": {
@@ -2600,8 +2614,8 @@
         "www.havijrat.zapto.org": {
             "included_at_epoch": 1588497281.0,
             "included_at_iso": "2020-05-03T09:14:41",
-            "last_retested_at_epoch": 1595845339.006516,
-            "last_retested_at_iso": "2020-07-27T10:22:19.006516",
+            "last_retested_at_epoch": 1595933599.368719,
+            "last_retested_at_iso": "2020-07-28T10:53:19.368719",
             "status": "INACTIVE"
         },
         "www.heaptickets.com": {
@@ -2915,8 +2929,8 @@
         "www.mesopotemia222.zapto.org": {
             "included_at_epoch": 1588519328.0,
             "included_at_iso": "2020-05-03T15:22:08",
-            "last_retested_at_epoch": 1595845244.058062,
-            "last_retested_at_iso": "2020-07-27T10:20:44.058062",
+            "last_retested_at_epoch": 1595933692.250432,
+            "last_retested_at_iso": "2020-07-28T10:54:52.250432",
             "status": "INACTIVE"
         },
         "www.microsofto.sytes.net": {
@@ -3104,8 +3118,8 @@
         "www.ocpersian.com": {
             "included_at_epoch": 1588503272.0,
             "included_at_iso": "2020-05-03T10:54:32",
-            "last_retested_at_epoch": 1595845025.11877,
-            "last_retested_at_iso": "2020-07-27T10:17:05.118770",
+            "last_retested_at_epoch": 1595933108.509252,
+            "last_retested_at_iso": "2020-07-28T10:45:08.509252",
             "status": "INACTIVE"
         },
         "www.onadstracker.com": {
@@ -3230,8 +3244,8 @@
         "www.qzip.cjb.net": {
             "included_at_epoch": 1588464176.0,
             "included_at_iso": "2020-05-03T00:02:56",
-            "last_retested_at_epoch": 1595825576.60422,
-            "last_retested_at_iso": "2020-07-27T04:52:56.604220",
+            "last_retested_at_epoch": 1595933814.788811,
+            "last_retested_at_iso": "2020-07-28T10:56:54.788811",
             "status": "INACTIVE"
         },
         "www.rahulthehacker.tk": {
@@ -3412,8 +3426,8 @@
         "www.startnow.com": {
             "included_at_epoch": 1588427063.0,
             "included_at_iso": "2020-05-02T13:44:23",
-            "last_retested_at_epoch": 1595835396.269292,
-            "last_retested_at_iso": "2020-07-27T07:36:36.269292",
+            "last_retested_at_epoch": 1595933122.432982,
+            "last_retested_at_iso": "2020-07-28T10:45:22.432982",
             "status": "INACTIVE"
         },
         "www.stignita.zapto.org": {
@@ -3853,8 +3867,8 @@
         "www.zoogdiseny.com": {
             "included_at_epoch": 1588418400.0,
             "included_at_iso": "2020-05-02T11:20:00",
-            "last_retested_at_epoch": 1595839866.740399,
-            "last_retested_at_iso": "2020-07-27T08:51:06.740399",
+            "last_retested_at_epoch": 1595933651.611509,
+            "last_retested_at_iso": "2020-07-28T10:54:11.611509",
             "status": "INACTIVE"
         },
         "www.zoogdisny.com": {
