@@ -842,7 +842,7 @@
     "cleanproxy.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cleansearch.net": {
         "epoch": 1608595200.0,
