@@ -3600,8 +3600,8 @@
         "state": "future"
     },
     "sendfwd.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "sendori.com": {
@@ -4402,7 +4402,7 @@
     "win-spy.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "winadiscount.com": {
         "epoch": 1646784000.0,
