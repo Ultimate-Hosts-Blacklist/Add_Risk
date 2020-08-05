@@ -31,8 +31,8 @@
         "4.whereinlazio.com": {
             "included_at_epoch": 1594370616.762504,
             "included_at_iso": "2020-07-10T08:43:36.762504",
-            "last_retested_at_epoch": 1596548923.942796,
-            "last_retested_at_iso": "2020-08-04T13:48:43.942796",
+            "last_retested_at_epoch": 1596638055.748508,
+            "last_retested_at_iso": "2020-08-05T14:34:15.748508",
             "status": "INACTIVE"
         },
         "4.whereinmilan.com": {
@@ -157,8 +157,8 @@
         "adweb1.hornymatches.com": {
             "included_at_epoch": 1588474142.0,
             "included_at_iso": "2020-05-03T02:49:02",
-            "last_retested_at_epoch": 1596518080.840388,
-            "last_retested_at_iso": "2020-08-04T05:14:40.840388",
+            "last_retested_at_epoch": 1596637739.986642,
+            "last_retested_at_iso": "2020-08-05T14:28:59.986642",
             "status": "INACTIVE"
         },
         "aff.naughtyconnect.com": {
@@ -773,8 +773,8 @@
         "hackairtel.tk": {
             "included_at_epoch": 1588500551.0,
             "included_at_iso": "2020-05-03T10:09:11",
-            "last_retested_at_epoch": 1596518106.609818,
-            "last_retested_at_iso": "2020-08-04T05:15:06.609818",
+            "last_retested_at_epoch": 1596637612.479533,
+            "last_retested_at_iso": "2020-08-05T14:26:52.479533",
             "status": "INACTIVE"
         },
         "handlerhackz.tk": {
@@ -955,8 +955,8 @@
         "l.zeroredirect.com": {
             "included_at_epoch": 1588506748.0,
             "included_at_iso": "2020-05-03T11:52:28",
-            "last_retested_at_epoch": 1596523371.438207,
-            "last_retested_at_iso": "2020-08-04T06:42:51.438207",
+            "last_retested_at_epoch": 1596638042.401624,
+            "last_retested_at_iso": "2020-08-05T14:34:02.401624",
             "status": "INACTIVE"
         },
         "lateecapes.com": {
@@ -1228,8 +1228,8 @@
         "oneund.ru": {
             "included_at_epoch": 1588964496.039772,
             "included_at_iso": "2020-05-08T19:01:36.039772",
-            "last_retested_at_epoch": 1596548722.216968,
-            "last_retested_at_iso": "2020-08-04T13:45:22.216968",
+            "last_retested_at_epoch": 1596638187.690132,
+            "last_retested_at_iso": "2020-08-05T14:36:27.690132",
             "status": "INACTIVE"
         },
         "oovqsvi.angelcities.com": {
@@ -2453,8 +2453,8 @@
         "www.femeedia.com": {
             "included_at_epoch": 1588449912.0,
             "included_at_iso": "2020-05-02T20:05:12",
-            "last_retested_at_epoch": 1596512839.049367,
-            "last_retested_at_iso": "2020-08-04T03:47:19.049367",
+            "last_retested_at_epoch": 1596637899.812295,
+            "last_retested_at_iso": "2020-08-05T14:31:39.812295",
             "status": "INACTIVE"
         },
         "www.finders.hopto.org": {
@@ -2614,8 +2614,8 @@
         "www.hackairtel.tk": {
             "included_at_epoch": 1588500551.0,
             "included_at_iso": "2020-05-03T10:09:11",
-            "last_retested_at_epoch": 1596518106.887142,
-            "last_retested_at_iso": "2020-08-04T05:15:06.887142",
+            "last_retested_at_epoch": 1596637612.457573,
+            "last_retested_at_iso": "2020-08-05T14:26:52.457573",
             "status": "INACTIVE"
         },
         "www.handlerhackz.tk": {
@@ -2838,8 +2838,8 @@
         "www.lennoxcollections.com": {
             "included_at_epoch": 1588440845.0,
             "included_at_iso": "2020-05-02T17:34:05",
-            "last_retested_at_epoch": 1596480040.764952,
-            "last_retested_at_iso": "2020-08-03T18:40:40.764952",
+            "last_retested_at_epoch": 1596638158.99639,
+            "last_retested_at_iso": "2020-08-05T14:35:58.996390",
             "status": "INACTIVE"
         },
         "www.letzonke.com": {
@@ -3167,8 +3167,8 @@
         "www.oneund.ru": {
             "included_at_epoch": 1588930620.608636,
             "included_at_iso": "2020-05-08T09:37:00.608636",
-            "last_retested_at_epoch": 1596548722.515827,
-            "last_retested_at_iso": "2020-08-04T13:45:22.515827",
+            "last_retested_at_epoch": 1596638187.894925,
+            "last_retested_at_iso": "2020-08-05T14:36:27.894925",
             "status": "INACTIVE"
         },
         "www.onlineadmin.net": {
@@ -3776,15 +3776,15 @@
         "www.wwwcareerpath.com": {
             "included_at_epoch": 1588454502.0,
             "included_at_iso": "2020-05-02T21:21:42",
-            "last_retested_at_epoch": 1596548604.144812,
-            "last_retested_at_iso": "2020-08-04T13:43:24.144812",
+            "last_retested_at_epoch": 1596637686.283343,
+            "last_retested_at_iso": "2020-08-05T14:28:06.283343",
             "status": "INACTIVE"
         },
         "www.wwwcheaptickets.com": {
             "included_at_epoch": 1588459562.0,
             "included_at_iso": "2020-05-02T22:46:02",
-            "last_retested_at_epoch": 1596549023.11024,
-            "last_retested_at_iso": "2020-08-04T13:50:23.110240",
+            "last_retested_at_epoch": 1596638287.387909,
+            "last_retested_at_iso": "2020-08-05T14:38:07.387909",
             "status": "INACTIVE"
         },
         "www.wwwdiynet.com": {
@@ -3958,8 +3958,8 @@
         "wwwcareerpath.com": {
             "included_at_epoch": 1588454502.0,
             "included_at_iso": "2020-05-02T21:21:42",
-            "last_retested_at_epoch": 1596548603.850812,
-            "last_retested_at_iso": "2020-08-04T13:43:23.850812",
+            "last_retested_at_epoch": 1596637686.134545,
+            "last_retested_at_iso": "2020-08-05T14:28:06.134545",
             "status": "INACTIVE"
         },
         "wwwdiynet.com": {
@@ -4147,8 +4147,8 @@
         "zf1.zeroredirect11.com": {
             "included_at_epoch": 1595054189.277608,
             "included_at_iso": "2020-07-18T06:36:29.277608",
-            "last_retested_at_epoch": 1596548981.338961,
-            "last_retested_at_iso": "2020-08-04T13:49:41.338961",
+            "last_retested_at_epoch": 1596638270.017553,
+            "last_retested_at_iso": "2020-08-05T14:37:50.017553",
             "status": "INACTIVE"
         },
         "zh1.zeroredirect11.com": {
