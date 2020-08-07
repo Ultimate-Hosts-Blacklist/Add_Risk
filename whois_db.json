@@ -1452,7 +1452,7 @@
     "federicksofhollywood.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "feiyang163.com": {
         "epoch": 1617580800.0,
@@ -2122,7 +2122,7 @@
     "jmp2click.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "joetoons.com": {
         "epoch": 1608163200.0,
