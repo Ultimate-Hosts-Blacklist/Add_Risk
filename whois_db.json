@@ -1050,8 +1050,8 @@
         "state": "future"
     },
     "ctrck.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "cudacorp.com": {
@@ -1112,7 +1112,7 @@
     "dentairemalin.com": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "desifever.com": {
         "epoch": 1611619200.0,
