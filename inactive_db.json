@@ -10,8 +10,8 @@
         "11163221-517901.c.adprotect.net": {
             "included_at_epoch": 1588524761.0,
             "included_at_iso": "2020-05-03T16:52:41",
-            "last_retested_at_epoch": 1597413430.814511,
-            "last_retested_at_iso": "2020-08-14T13:57:10.814511",
+            "last_retested_at_epoch": 1597540781.364303,
+            "last_retested_at_iso": "2020-08-16T01:19:41.364303",
             "status": "INACTIVE"
         },
         "4.collecorvino.org": {
@@ -101,8 +101,8 @@
         "adcmtd.mac-torrent-download.net": {
             "included_at_epoch": 1595808853.804367,
             "included_at_iso": "2020-07-27T00:14:13.804367",
-            "last_retested_at_epoch": 1597449558.48547,
-            "last_retested_at_iso": "2020-08-14T23:59:18.485470",
+            "last_retested_at_epoch": 1597540924.334799,
+            "last_retested_at_iso": "2020-08-16T01:22:04.334799",
             "status": "INACTIVE"
         },
         "ads.clicksor.cn": {
@@ -672,6 +672,13 @@
             "last_retested_at_iso": "2020-08-15T01:54:29.452461",
             "status": "INACTIVE"
         },
+        "eclean.or.kr": {
+            "included_at_epoch": 1597540421.50068,
+            "included_at_iso": "2020-08-16T01:13:41.500680",
+            "last_retested_at_epoch": 1597540421.50068,
+            "last_retested_at_iso": "2020-08-16T01:13:41.500680",
+            "status": "INACTIVE"
+        },
         "egoldenglove.com": {
             "included_at_epoch": 1588482869.0,
             "included_at_iso": "2020-05-03T05:14:29",
@@ -983,8 +990,8 @@
         "lateecapes.com": {
             "included_at_epoch": 1588449844.0,
             "included_at_iso": "2020-05-02T20:04:04",
-            "last_retested_at_epoch": 1597450036.075692,
-            "last_retested_at_iso": "2020-08-15T00:07:16.075692",
+            "last_retested_at_epoch": 1597540177.276732,
+            "last_retested_at_iso": "2020-08-16T01:09:37.276732",
             "status": "INACTIVE"
         },
         "lcbcad.co.uk": {
@@ -1088,8 +1095,8 @@
         "mal-ware-domain-list-2.tinker.pureleads.sendori.com": {
             "included_at_epoch": 1589591893.171789,
             "included_at_iso": "2020-05-16T01:18:13.171789",
-            "last_retested_at_epoch": 1597436990.922061,
-            "last_retested_at_iso": "2020-08-14T20:29:50.922061",
+            "last_retested_at_epoch": 1597540345.67606,
+            "last_retested_at_iso": "2020-08-16T01:12:25.676060",
             "status": "INACTIVE"
         },
         "markbruinink.nl": {
@@ -2390,8 +2397,8 @@
         "www.dollarrentcar.com": {
             "included_at_epoch": 1590852582.18448,
             "included_at_iso": "2020-05-30T15:29:42.184480",
-            "last_retested_at_epoch": 1597443913.272975,
-            "last_retested_at_iso": "2020-08-14T22:25:13.272975",
+            "last_retested_at_epoch": 1597540508.32149,
+            "last_retested_at_iso": "2020-08-16T01:15:08.321490",
             "status": "INACTIVE"
         },
         "www.domainfwd.com": {
@@ -2936,8 +2943,8 @@
         "www.lateecapes.com": {
             "included_at_epoch": 1588527217.0,
             "included_at_iso": "2020-05-03T17:33:37",
-            "last_retested_at_epoch": 1597450036.044619,
-            "last_retested_at_iso": "2020-08-15T00:07:16.044619",
+            "last_retested_at_epoch": 1597540177.640877,
+            "last_retested_at_iso": "2020-08-16T01:09:37.640877",
             "status": "INACTIVE"
         },
         "www.lcbcad.co.uk": {
