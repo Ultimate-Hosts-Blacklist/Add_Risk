@@ -290,8 +290,8 @@
         "b.zeroredirect.com": {
             "included_at_epoch": 1588454892.0,
             "included_at_iso": "2020-05-02T21:28:12",
-            "last_retested_at_epoch": 1597633852.960539,
-            "last_retested_at_iso": "2020-08-17T03:10:52.960539",
+            "last_retested_at_epoch": 1597724545.915125,
+            "last_retested_at_iso": "2020-08-18T04:22:25.915125",
             "status": "INACTIVE"
         },
         "banner.tonygpoker.com": {
@@ -472,8 +472,8 @@
         "click.dealshark.com": {
             "included_at_epoch": 1588469199.0,
             "included_at_iso": "2020-05-03T01:26:39",
-            "last_retested_at_epoch": 1597634314.256937,
-            "last_retested_at_iso": "2020-08-17T03:18:34.256937",
+            "last_retested_at_epoch": 1597724493.849001,
+            "last_retested_at_iso": "2020-08-18T04:21:33.849001",
             "status": "INACTIVE"
         },
         "click.zeroclickdirect.com": {
@@ -612,8 +612,8 @@
         "dlldlldll.sytes.net": {
             "included_at_epoch": 1588483158.0,
             "included_at_iso": "2020-05-03T05:19:18",
-            "last_retested_at_epoch": 1597634202.595561,
-            "last_retested_at_iso": "2020-08-17T03:16:42.595561",
+            "last_retested_at_epoch": 1597724775.514745,
+            "last_retested_at_iso": "2020-08-18T04:26:15.514745",
             "status": "INACTIVE"
         },
         "doda.redirectme.net": {
@@ -675,8 +675,8 @@
         "eclean.or.kr": {
             "included_at_epoch": 1597540421.50068,
             "included_at_iso": "2020-08-16T01:13:41.500680",
-            "last_retested_at_epoch": 1597628286.775009,
-            "last_retested_at_iso": "2020-08-17T01:38:06.775009",
+            "last_retested_at_epoch": 1597724653.944509,
+            "last_retested_at_iso": "2020-08-18T04:24:13.944509",
             "status": "INACTIVE"
         },
         "egoldenglove.com": {
@@ -1004,8 +1004,8 @@
         "lefos.net": {
             "included_at_epoch": 1588479053.0,
             "included_at_iso": "2020-05-03T04:10:53",
-            "last_retested_at_epoch": 1597622852.524283,
-            "last_retested_at_iso": "2020-08-17T00:07:32.524283",
+            "last_retested_at_epoch": 1597724478.296849,
+            "last_retested_at_iso": "2020-08-18T04:21:18.296849",
             "status": "INACTIVE"
         },
         "lennoxcollections.com": {
@@ -1039,8 +1039,8 @@
         "littlesturgisrally.com": {
             "included_at_epoch": 1588349376.0,
             "included_at_iso": "2020-05-01T16:09:36",
-            "last_retested_at_epoch": 1597633856.971771,
-            "last_retested_at_iso": "2020-08-17T03:10:56.971771",
+            "last_retested_at_epoch": 1597724613.744664,
+            "last_retested_at_iso": "2020-08-18T04:23:33.744664",
             "status": "INACTIVE"
         },
         "llaredlrgn.angelcities.com": {
@@ -2376,8 +2376,8 @@
         "www.dlldlldll.sytes.net": {
             "included_at_epoch": 1588483158.0,
             "included_at_iso": "2020-05-03T05:19:18",
-            "last_retested_at_epoch": 1597634202.594431,
-            "last_retested_at_iso": "2020-08-17T03:16:42.594431",
+            "last_retested_at_epoch": 1597724775.515743,
+            "last_retested_at_iso": "2020-08-18T04:26:15.515743",
             "status": "INACTIVE"
         },
         "www.doda.redirectme.net": {
@@ -2964,15 +2964,15 @@
         "www.lefos.net": {
             "included_at_epoch": 1588479053.0,
             "included_at_iso": "2020-05-03T04:10:53",
-            "last_retested_at_epoch": 1597622852.554738,
-            "last_retested_at_iso": "2020-08-17T00:07:32.554738",
+            "last_retested_at_epoch": 1597724478.297846,
+            "last_retested_at_iso": "2020-08-18T04:21:18.297846",
             "status": "INACTIVE"
         },
         "www.lennoxcollections.com": {
             "included_at_epoch": 1588440845.0,
             "included_at_iso": "2020-05-02T17:34:05",
-            "last_retested_at_epoch": 1597627648.207796,
-            "last_retested_at_iso": "2020-08-17T01:27:28.207796",
+            "last_retested_at_epoch": 1597724767.713812,
+            "last_retested_at_iso": "2020-08-18T04:26:07.713812",
             "status": "INACTIVE"
         },
         "www.letzonke.com": {
@@ -3013,8 +3013,8 @@
         "www.littlesturgisrally.com": {
             "included_at_epoch": 1588349376.0,
             "included_at_iso": "2020-05-01T16:09:36",
-            "last_retested_at_epoch": 1597633857.011386,
-            "last_retested_at_iso": "2020-08-17T03:10:57.011386",
+            "last_retested_at_epoch": 1597724613.743824,
+            "last_retested_at_iso": "2020-08-18T04:23:33.743824",
             "status": "INACTIVE"
         },
         "www.lycosgamesville.com": {
@@ -3104,8 +3104,8 @@
         "www.mesopotemia222.zapto.org": {
             "included_at_epoch": 1588519328.0,
             "included_at_iso": "2020-05-03T15:22:08",
-            "last_retested_at_epoch": 1597612277.06741,
-            "last_retested_at_iso": "2020-08-16T21:11:17.067410",
+            "last_retested_at_epoch": 1597724295.280939,
+            "last_retested_at_iso": "2020-08-18T04:18:15.280939",
             "status": "INACTIVE"
         },
         "www.mgjmp.com": {
@@ -4217,8 +4217,8 @@
         "x4.xclicks.net": {
             "included_at_epoch": 1588440492.0,
             "included_at_iso": "2020-05-02T17:28:12",
-            "last_retested_at_epoch": 1597633698.124979,
-            "last_retested_at_iso": "2020-08-17T03:08:18.124979",
+            "last_retested_at_epoch": 1597724827.223948,
+            "last_retested_at_iso": "2020-08-18T04:27:07.223948",
             "status": "INACTIVE"
         },
         "x5.xclicks.net": {
