@@ -75,8 +75,8 @@
         "state": "future"
     },
     "9malls.co.uk": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "abacusfinance.co.uk": {
@@ -145,9 +145,9 @@
         "state": "future"
     },
     "adlock.in": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
-        "state": "past"
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
+        "state": "future"
     },
     "adnetworkperformance.com": {
         "epoch": 1619481600.0,
@@ -252,7 +252,7 @@
     "american-prize-center.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "analyticdns.org": {
         "epoch": 1770422400.0,
@@ -1790,8 +1790,8 @@
         "state": "future"
     },
     "gratisweb.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "guaranty.com.cn": {
@@ -2437,7 +2437,7 @@
     "mapquuest.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "marinoderosas.com": {
         "epoch": 1605830400.0,
