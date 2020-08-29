@@ -2360,8 +2360,8 @@
         "state": "future"
     },
     "lufthansaairlines.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "state": "future"
     },
     "lufthanza.com": {
@@ -3772,7 +3772,7 @@
     "spywarenuker.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "spywarespy.com": {
         "epoch": 1598832000.0,
