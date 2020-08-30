@@ -45,8 +45,8 @@
         "4.whereinmilan.com": {
             "included_at_epoch": 1594364851.785949,
             "included_at_iso": "2020-07-10T07:07:31.785949",
-            "last_retested_at_epoch": 1598688178.978607,
-            "last_retested_at_iso": "2020-08-29T08:02:58.978607",
+            "last_retested_at_epoch": 1598778969.259422,
+            "last_retested_at_iso": "2020-08-30T09:16:09.259422",
             "status": "INACTIVE"
         },
         "4.whereinpuglia.com": {
@@ -542,8 +542,8 @@
         "compactiongames.gameaholic.com": {
             "included_at_epoch": 1588440465.0,
             "included_at_iso": "2020-05-02T17:27:45",
-            "last_retested_at_epoch": 1598671481.322346,
-            "last_retested_at_iso": "2020-08-29T03:24:41.322346",
+            "last_retested_at_epoch": 1598778269.491165,
+            "last_retested_at_iso": "2020-08-30T09:04:29.491165",
             "status": "INACTIVE"
         },
         "continentialairline.com": {
@@ -1144,8 +1144,8 @@
         "mail.poker.cm": {
             "included_at_epoch": 1588513283.0,
             "included_at_iso": "2020-05-03T13:41:23",
-            "last_retested_at_epoch": 1598671500.617827,
-            "last_retested_at_iso": "2020-08-29T03:25:00.617827",
+            "last_retested_at_epoch": 1598778600.30681,
+            "last_retested_at_iso": "2020-08-30T09:10:00.306810",
             "status": "INACTIVE"
         },
         "mal-ware-domain-list-2.tinker.pureleads.sendori.com": {
@@ -1179,8 +1179,8 @@
         "maybankard.com.my": {
             "included_at_epoch": 1588493325.0,
             "included_at_iso": "2020-05-03T08:08:45",
-            "last_retested_at_epoch": 1598688452.705706,
-            "last_retested_at_iso": "2020-08-29T08:07:32.705706",
+            "last_retested_at_epoch": 1598778587.841163,
+            "last_retested_at_iso": "2020-08-30T09:09:47.841163",
             "status": "INACTIVE"
         },
         "minigameplanet.com": {
@@ -1697,8 +1697,8 @@
         "www.39dvd-999.com": {
             "included_at_epoch": 1583424189.0,
             "included_at_iso": "2020-03-05T16:03:09",
-            "last_retested_at_epoch": 1594767665.236199,
-            "last_retested_at_iso": "2020-07-14T23:01:05.236199",
+            "last_retested_at_epoch": 1598778217.292779,
+            "last_retested_at_iso": "2020-08-30T09:03:37.292779",
             "status": "INACTIVE"
         },
         "www.7softwaredreams.com": {
@@ -2754,8 +2754,8 @@
         "www.gnuetella.com": {
             "included_at_epoch": 1588464512.0,
             "included_at_iso": "2020-05-03T00:08:32",
-            "last_retested_at_epoch": 1598687980.985932,
-            "last_retested_at_iso": "2020-08-29T07:59:40.985932",
+            "last_retested_at_epoch": 1598778388.149655,
+            "last_retested_at_iso": "2020-08-30T09:06:28.149655",
             "status": "INACTIVE"
         },
         "www.goolegames.com": {
@@ -2957,8 +2957,8 @@
         "www.jcwhiney.com": {
             "included_at_epoch": 1590846775.574339,
             "included_at_iso": "2020-05-30T13:52:55.574339",
-            "last_retested_at_epoch": 1598688732.50439,
-            "last_retested_at_iso": "2020-08-29T08:12:12.504390",
+            "last_retested_at_epoch": 1598778335.31879,
+            "last_retested_at_iso": "2020-08-30T09:05:35.318790",
             "status": "INACTIVE"
         },
         "www.jcwhintey.com": {
@@ -3181,15 +3181,15 @@
         "www.maybankard.com.my": {
             "included_at_epoch": 1588493320.0,
             "included_at_iso": "2020-05-03T08:08:40",
-            "last_retested_at_epoch": 1598688447.774482,
-            "last_retested_at_iso": "2020-08-29T08:07:27.774482",
+            "last_retested_at_epoch": 1598778582.82833,
+            "last_retested_at_iso": "2020-08-30T09:09:42.828330",
             "status": "INACTIVE"
         },
         "www.media-playerz.com": {
             "included_at_epoch": 1588464496.0,
             "included_at_iso": "2020-05-03T00:08:16",
-            "last_retested_at_epoch": 1598682917.703278,
-            "last_retested_at_iso": "2020-08-29T06:35:17.703278",
+            "last_retested_at_epoch": 1598778357.059231,
+            "last_retested_at_iso": "2020-08-30T09:05:57.059231",
             "status": "INACTIVE"
         },
         "www.mesopotemia222.zapto.org": {
@@ -3524,8 +3524,8 @@
         "www.qikdownloads.com": {
             "included_at_epoch": 1588449905.0,
             "included_at_iso": "2020-05-02T20:05:05",
-            "last_retested_at_epoch": 1598688454.378339,
-            "last_retested_at_iso": "2020-08-29T08:07:34.378339",
+            "last_retested_at_epoch": 1598778363.52433,
+            "last_retested_at_iso": "2020-08-30T09:06:03.524330",
             "status": "INACTIVE"
         },
         "www.quad-cleaner.com": {
@@ -4035,8 +4035,8 @@
         "www.vyrus.redirectme.net": {
             "included_at_epoch": 1588516010.0,
             "included_at_iso": "2020-05-03T14:26:50",
-            "last_retested_at_epoch": 1598654630.374878,
-            "last_retested_at_iso": "2020-08-28T22:43:50.374878",
+            "last_retested_at_epoch": 1598778115.326232,
+            "last_retested_at_iso": "2020-08-30T09:01:55.326232",
             "status": "INACTIVE"
         },
         "www.web-feed.net": {
