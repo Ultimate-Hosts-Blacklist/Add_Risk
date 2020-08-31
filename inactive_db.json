@@ -381,8 +381,8 @@
         "bonzbuddy.com": {
             "included_at_epoch": 1588486853.0,
             "included_at_iso": "2020-05-03T06:20:53",
-            "last_retested_at_epoch": 1598768272.157654,
-            "last_retested_at_iso": "2020-08-30T06:17:52.157654",
+            "last_retested_at_epoch": 1598874555.018304,
+            "last_retested_at_iso": "2020-08-31T11:49:15.018304",
             "status": "INACTIVE"
         },
         "bonzibuddi.com": {
@@ -850,8 +850,8 @@
         "hackairtel.tk": {
             "included_at_epoch": 1588500551.0,
             "included_at_iso": "2020-05-03T10:09:11",
-            "last_retested_at_epoch": 1598768572.327776,
-            "last_retested_at_iso": "2020-08-30T06:22:52.327776",
+            "last_retested_at_epoch": 1598873969.559079,
+            "last_retested_at_iso": "2020-08-31T11:39:29.559079",
             "status": "INACTIVE"
         },
         "handlerhackz.tk": {
@@ -1027,6 +1027,13 @@
             "included_at_iso": "2020-05-31T22:44:45.142169",
             "last_retested_at_epoch": 1598847567.163545,
             "last_retested_at_iso": "2020-08-31T04:19:27.163545",
+            "status": "INACTIVE"
+        },
+        "kwistal.nl": {
+            "included_at_epoch": 1598874119.807859,
+            "included_at_iso": "2020-08-31T11:41:59.807859",
+            "last_retested_at_epoch": 1598874119.807859,
+            "last_retested_at_iso": "2020-08-31T11:41:59.807859",
             "status": "INACTIVE"
         },
         "l.zeroredirect.com": {
@@ -1977,8 +1984,8 @@
         "www.babos.scrapping.cc": {
             "included_at_epoch": 1588464125.0,
             "included_at_iso": "2020-05-03T00:02:05",
-            "last_retested_at_epoch": 1598762992.728898,
-            "last_retested_at_iso": "2020-08-30T04:49:52.728898",
+            "last_retested_at_epoch": 1598874229.345066,
+            "last_retested_at_iso": "2020-08-31T11:43:49.345066",
             "status": "INACTIVE"
         },
         "www.balook.com": {
@@ -2082,8 +2089,8 @@
         "www.bonzbuddy.com": {
             "included_at_epoch": 1588486853.0,
             "included_at_iso": "2020-05-03T06:20:53",
-            "last_retested_at_epoch": 1598768272.144078,
-            "last_retested_at_iso": "2020-08-30T06:17:52.144078",
+            "last_retested_at_epoch": 1598874555.017237,
+            "last_retested_at_iso": "2020-08-31T11:49:15.017237",
             "status": "INACTIVE"
         },
         "www.bonzibuddi.com": {
@@ -2299,8 +2306,8 @@
         "www.cleanallvirus.com": {
             "included_at_epoch": 1588515981.0,
             "included_at_iso": "2020-05-03T14:26:21",
-            "last_retested_at_epoch": 1598773297.089045,
-            "last_retested_at_iso": "2020-08-30T07:41:37.089045",
+            "last_retested_at_epoch": 1598874727.43659,
+            "last_retested_at_iso": "2020-08-31T11:52:07.436590",
             "status": "INACTIVE"
         },
         "www.cleanproxy.com": {
@@ -2383,8 +2390,8 @@
         "www.contentcleaner.com": {
             "included_at_epoch": 1588497359.0,
             "included_at_iso": "2020-05-03T09:15:59",
-            "last_retested_at_epoch": 1598783829.511476,
-            "last_retested_at_iso": "2020-08-30T10:37:09.511476",
+            "last_retested_at_epoch": 1598874210.215474,
+            "last_retested_at_iso": "2020-08-31T11:43:30.215474",
             "status": "INACTIVE"
         },
         "www.continentialairline.com": {
@@ -2929,8 +2936,8 @@
         "www.hackairtel.tk": {
             "included_at_epoch": 1588500551.0,
             "included_at_iso": "2020-05-03T10:09:11",
-            "last_retested_at_epoch": 1598768572.308785,
-            "last_retested_at_iso": "2020-08-30T06:22:52.308785",
+            "last_retested_at_epoch": 1598873969.584386,
+            "last_retested_at_iso": "2020-08-31T11:39:29.584386",
             "status": "INACTIVE"
         },
         "www.handlerhackz.tk": {
@@ -3069,8 +3076,8 @@
         "www.jcwhiney.com": {
             "included_at_epoch": 1590846775.574339,
             "included_at_iso": "2020-05-30T13:52:55.574339",
-            "last_retested_at_epoch": 1598778335.31879,
-            "last_retested_at_iso": "2020-08-30T09:05:35.318790",
+            "last_retested_at_epoch": 1598874677.097921,
+            "last_retested_at_iso": "2020-08-31T11:51:17.097921",
             "status": "INACTIVE"
         },
         "www.jcwhintey.com": {
@@ -3155,6 +3162,13 @@
             "included_at_iso": "2020-05-03T12:44:13",
             "last_retested_at_epoch": 1598803915.463382,
             "last_retested_at_iso": "2020-08-30T16:11:55.463382",
+            "status": "INACTIVE"
+        },
+        "www.kwistal.nl": {
+            "included_at_epoch": 1598874119.285449,
+            "included_at_iso": "2020-08-31T11:41:59.285449",
+            "last_retested_at_epoch": 1598874119.285449,
+            "last_retested_at_iso": "2020-08-31T11:41:59.285449",
             "status": "INACTIVE"
         },
         "www.lateecapes.com": {
@@ -3328,8 +3342,8 @@
         "www.mesopotemia222.zapto.org": {
             "included_at_epoch": 1588519328.0,
             "included_at_iso": "2020-05-03T15:22:08",
-            "last_retested_at_epoch": 1598784073.576263,
-            "last_retested_at_iso": "2020-08-30T10:41:13.576263",
+            "last_retested_at_epoch": 1598874459.034868,
+            "last_retested_at_iso": "2020-08-31T11:47:39.034868",
             "status": "INACTIVE"
         },
         "www.mgjmp.com": {
