@@ -1,10 +1,10 @@
 {
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
-    "hash": "a6d996538b5b7e942a976db1f58e48e1013a2a11ce708e8ea307a31d",
+    "hash": "4cd85b06a2b3174a95a30f831b19af996534eacaad12b66a663e49f2",
     "line_number": 5484,
     "output_dir": "/home/runner/work/Add_Risk/Add_Risk/output/domains.list",
-    "previous_hash": "a6d996538b5b7e942a976db1f58e48e1013a2a11ce708e8ea307a31d",
+    "previous_hash": "4cd85b06a2b3174a95a30f831b19af996534eacaad12b66a663e49f2",
     "session_id": "2ecb6b9b51c40756dab17417",
     "source": "domains.list",
     "subject": "domains.list",
