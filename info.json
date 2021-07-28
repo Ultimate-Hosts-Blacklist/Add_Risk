@@ -1,9 +1,9 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
     "description": "Risk content sites based on http://www.hostsfile.org/hosts.html content.",
-    "end_datetime": "2021-07-28T02:34:20.594730",
-    "end_epoch": 1627439660.59473,
+    "end_datetime": "2021-07-28T09:40:57.599740",
+    "end_epoch": 1627465257.59974,
     "issue_link": "https://github.com/FadeMind/hosts.extras/issues/new/choose",
     "link": "https://github.com/FadeMind/hosts.extras/tree/master/add.Risk",
     "name": "Add_Risk",
