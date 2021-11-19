@@ -387,7 +387,6 @@
     ],
     "bh": [
         "com.bh",
-        "edu.bh",
         "gov.bh",
         "net.bh",
         "org.bh"
@@ -787,6 +786,7 @@
         "co.ci",
         "com.ci",
         "ed.ci",
+        "edu.bh",
         "edu.ci",
         "fin.ci",
         "go.ci",
@@ -1433,7 +1433,6 @@
         "za.com"
     ],
     "community": [
-        "cryptonomic.net",
         "myforum.community",
         "nog.community",
         "ravendb.community"
@@ -5653,6 +5652,7 @@
         "cloudjiffy.net",
         "cloudycluster.net",
         "community-pro.net",
+        "cryptonomic.net",
         "dattolocal.net",
         "ddns.net",
         "debian.net",
