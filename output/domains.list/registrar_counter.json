@@ -1,10 +1,12 @@
 {
     "counter": {
         "Domain Directors Pty Ltd trading as Instra": 1,
-        "total": 1
+        "GoDaddy.com, LLC": 1,
+        "total": 2
     },
     "percentage": {
-        "Domain Directors Pty Ltd trading as Instra": 100.0,
+        "Domain Directors Pty Ltd trading as Instra": 50.0,
+        "GoDaddy.com, LLC": 50.0,
         "total": 100.0
     }
 }
